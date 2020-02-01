@@ -95,6 +95,18 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Classic
 http://live.airteltvplus.com:80/hls/5go-Ny5G5lYiWKFyzt-v9Q/1580494301/zee_classic_hi/index.m3u8
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/1/index.m3u8
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/2/index.m3u8
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/3/index.m3u8
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/4/index.m3u8
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/5/index.m3u8
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/6/index.m3u8
 #EXTINF:-1,Discovery Kids Hindi
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,Sony Yay
