@@ -81,6 +81,10 @@ http://fr-c.movply.stream/hls/Star_Plus.m3u8
 http://216.144.250.174:80/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus UK
 http://216.144.250.174:80/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max
+http://216.144.250.174:80/Sony_MaX_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max
+http://216.144.250.174:80/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 http://fr-c.movply.stream/hls/Star_Gold.m3u8
 #EXTINF:-1,Star Gold
@@ -95,12 +99,18 @@ http://live.airteltvplus.com:80/hls/5go-Ny5G5lYiWKFyzt-v9Q/1580494301/zee_classi
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,Sony Yay
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:-1,Sony Max
-http://216.144.250.174:80/Sony_MaX_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Max
-http://216.144.250.174:80/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Mix
 http://216.144.250.174:80/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mastiii
+https://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
+#EXTINF:-1,Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+#EXTINF:-1,Sony Mix
+https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
+#EXTINF:-1,Wow Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+#EXTINF:-1,Zoom
+http://livecdnh1.tvanywhere.ae/hls/zoom/05.m3u8
 #EXTINF:-1,VH1
 http://live.airteltvplus.com:80/hls/UcjXdzx0QVF9ub_mtPREJg/1580494494/vh1_india_hi/index.m3u8
 https://github.com/exodiver/IPTV/blob/master/Castpack/Commonwealth/Hollywood.m3u8
