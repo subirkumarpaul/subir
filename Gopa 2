@@ -57,6 +57,8 @@ http://live.airteltvplus.com:80/hls/_t_P0sQQbbWu87RQaPKJbQ/1580494662/sangeet_ba
 http://live.airteltvplus.com:80/hls/GihLGXXMJKJ9Aj-e_I5Vwg/1580495141/ruposhi_bangla_hi/index.m3u8
 #EXTINF:-1,Dhoom Music
 http://live.airteltvplus.com:80/hls/J6aTA2clMpYjuqiMG9vEAw/1580495181/dhoom_low/index.m3u8
+#EXTINF:-1,Animal Planet HD
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1,Sony TV
 http://216.144.250.174:80/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
