@@ -27,6 +27,8 @@ http://live.airteltvplus.com:80/hls/R7OH8pq7eds1ryOG-Xflaw/1580495279/boishakhi_
 http://live.airteltvplus.com:80/hls/R0VqNHvKUNSBvaj4Rc_48A/1580495318/gaan_bangla_hi/index.m3u8
 #EXTINF:-1,ATN Music
 http://live.airteltvplus.com:80/hls/MUsKl-oMhvELX4Z2tX-9AA/1580495361/atn_music_hi/index.m3u8
+#EXTINF:-1,Star Jalsha
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 http://live.airteltvplus.com:80/hls/RyYqxPedMvFjCHHZvG9Uhw/1580494545/colors_bangla_hi/index.m3u8
 #EXTINF:-1,Sangeet Bangla
