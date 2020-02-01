@@ -7,6 +7,8 @@ http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 #EXTINF:-1,Channel 9
 http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
+#EXTINF:-1,Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
 #EXTINF:-1,Bongo Movies
 http://live.airteltvplus.com:80/hls/WrR3RpEFNgpZdFS3WVJ8JA/1580494710/bongo_movies_hi/index.m3u8
 #EXTINF:-1,ATN Bangla
