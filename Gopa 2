@@ -73,10 +73,14 @@ http://216.144.250.174:80/SOny_Sab_HD/tracks-v1a1/mono.m3u8
 https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV
 http://live.airteltvplus.com:80/hls/72kLMidISOzdvpi3g5JaKA/1580494402/zee_tv_hi/index.m3u8
+#EXTINF:-1,Star Plus
+http://fr-c.movply.stream/hls/Star_Plus.m3u8
 #EXTINF:-1,Star Plus India
 http://216.144.250.174:80/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus UK
 http://216.144.250.174:80/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold
+http://fr-c.movply.stream/hls/Star_Gold.m3u8
 #EXTINF:-1,Star Gold
 http://216.144.250.174:80/Star_Gold-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Classic
