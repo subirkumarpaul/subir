@@ -53,6 +53,8 @@ http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/playlist.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://live.airteltvplus.com:80/hls/_t_P0sQQbbWu87RQaPKJbQ/1580494662/sangeet_bangla_hi/index.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/sangeetbangla/playlist.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://live.airteltvplus.com:80/hls/GihLGXXMJKJ9Aj-e_I5Vwg/1580495141/ruposhi_bangla_hi/index.m3u8
 #EXTINF:-1,Dhoom Music
