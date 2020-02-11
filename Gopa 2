@@ -385,7 +385,7 @@ http://51.158.144.124:8090/CR/6/index.m3u8
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1,Skynet Sport 1
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1Skynet Sport 2
+#EXTINF:-1,Skynet Sport 2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1,Skynet Sport 3
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
@@ -635,9 +635,9 @@ http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-,Food Network
+#EXTINF:-1,Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
-,FOX
+#EXTINF:-1,FOX
 https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8/FoxChannel-avc1_2499968=11.m3u8-FoxChannel-mp4a_98800_eng=3.m3u8
 #EXTINF:-1,FOX Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
