@@ -547,7 +547,7 @@ http://sg.ocache.xyz/sports/supersp4.m3u8
 http://sg.ocache.xyz/sports/supersp6.m3u8
 #EXTINF:-1,Матч!
 http://stream3.kuvalda.tv/hls/match.m3u8
-#EXTINF:-1,ACC Network/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ES
+#EXTINF:-1,ACC Network
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1,ESPN U
 https://gma2.blab.email/espnu.m3u8
