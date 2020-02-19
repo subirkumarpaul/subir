@@ -46,8 +46,10 @@ https://triangle.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1,gaan_bangla
 https://triangle.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1,STAR JALSHA
+#EXTINF:-1,star_jalsha_hd
 https://triangle.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:-1,zee_bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,colors_bangla
 https://triangle.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
@@ -66,6 +68,10 @@ https://triangle.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1,star_world
 https://triangle.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1,nat_geo_wild
+https://triangle.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1,nat_geo_people
+https://triangle.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,bbc_lifestyle
 https://triangle.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,bbc_world
