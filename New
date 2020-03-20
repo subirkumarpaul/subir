@@ -52,6 +52,8 @@ http://103.205.133.42:1935/local/zee_tv_hd_720/playlist.m3u8
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.42:1935/local/sony_six_720/playlist.m3u8
+#EXTINF:-1,Sony ESPN
+http://103.205.133.42:1935/local/sony_espn_720/playlist.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.42:1935/local/ten_1_720/playlist.m3u8
 #EXTINF:-1,Sony Ten 2
