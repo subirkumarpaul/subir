@@ -52,6 +52,8 @@ http://103.205.133.42:1935/local/sony_entertainment_720/playlist.m3u8
 http://103.205.133.42:1935/local/zee_tv_hd_720/playlist.m3u8
 #EXTINF:-1,Colors
 http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1,Sony Sab
+http://103.205.133.42:1935/local/sony_sab_720/playlist.m3u8
 #EXTINF:-1,Sony Max
 http://103.205.133.42:1935/local/sony_max_720/playlist.m3u8
 #EXTINF:-1,Sony Six
@@ -64,6 +66,10 @@ http://103.205.133.42:1935/local/ten_1_720/playlist.m3u8
 http://103.205.133.42:1935/local/ten_2_720/playlist.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.205.133.42:1935/local/ten_3_720/playlist.m3u8
+#EXTINF:-1,Sony Mix
+http://103.205.133.42:1935/local/sony_mix_720/playlist.m3u8
+#EXTINF:-1,Sony Pix
+http://103.205.33.42:1935/local/sony_pix_720/playlist.m3u8
 #EXTINF:-1,Bein Movies 1
 http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
 #EXTINF:-1,Bein Movies 2
