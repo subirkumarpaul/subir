@@ -78,7 +78,9 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Kids Hindi
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-EXTINF:-1,TLC HD HD
+#EXTINF:-1,Sony Yay
+http://103.205.133.42:1935/local/sony_yay_720/playlist.m3u8
+#EXTINF:-1,TLC HD HD
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1,Discovery Investigation
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
