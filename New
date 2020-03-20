@@ -1,6 +1,3 @@
 #EXTINF:-1,Colors
 http://103.111.120.46/hls/Colors.m3u8
-#EXTINF:-1,Sony SIX HD
-http://103.111.120.46/hls/sony-six-hd.m3u8
-#EXTINF:-1,Sony Ten 2
-http://103.111.120.46/hls/sony-ten-2-hd.m3u8
+http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
