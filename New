@@ -50,6 +50,12 @@ http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
 http://103.205.133.42:1935/local/zee_tv_hd_720/playlist.m3u8
 #EXTINF:-1,Colors
 http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.205.133.42:1935/local/ten_1_720/playlist.m3u8
+#EXTINF:-1,Sony Ten 2
+http://103.205.133.42:1935/local/ten_2_720/playlist.m3u8
+#EXTINF:-1,Sony Ten 3
+http://103.205.133.42:1935/local/ten_3_720/playlist.m3u8
 #EXTINF:-1,Bein Movies 1
 http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
 #EXTINF:-1,Bein Movies 2
