@@ -12,6 +12,32 @@ http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
+#EXTINF:-1,Bongo Bangla
+http://43.231.22.238:8081/BONGOTV/bongo/chunks.m3u8
+#EXTINF:-1,Tollywood
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1,RPlus Gold
+http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
+#EXTINF:-1,Orange Bangla
+http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1,Enterr 10 Bangla
+http://103.68.116.50/live/feed1009/index.m3u8
+#EXTINF:-1,ENTV Bangla
+http://ideabytes.live-s.cdn.bitgravity.com/cdn-live/_definst_/ideabytes/live/Feed1_3000k/playlist.m3u8
+#EXTINF:-1,DD Bangla
+http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
+#EXTINF:-1,ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1,News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
+#EXTINF:-1,RPlus News
+http://streamidvo.multitvsolution.in/RPlus-e/playlist.m3u8
+#EXTINF:-1,Bangla Time
+http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
+#EXTINF:-1,News Time Bangla
+http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
+#EXTINF:-1,Khushboo TV
+http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
 #EXTINF:-1,Colors
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Bein Movies 1
