@@ -15,7 +15,7 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
-http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8#EXTINF:-1,Zee Bangla
+http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1,Bongo Bangla
 http://43.231.22.238:8081/BONGOTV/bongo/chunks.m3u8
 #EXTINF:-1,Zee Bangla
@@ -46,6 +46,8 @@ http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
 http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
 #EXTINF:-1,Khushboo TV
 http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
+#EXTINF:-1,Sony TV
+http://103.205.133.42:1935/local/sony_entertainment_720/playlist.m3u8
 #EXTINF:-1,Zee TV HD
 http://103.205.133.42:1935/local/zee_tv_hd_720/playlist.m3u8
 #EXTINF:-1,Colors
