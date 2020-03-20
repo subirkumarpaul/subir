@@ -10,6 +10,8 @@ http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
 http://95.170.215.120/hls/m3u8/BeinMovies4.m3u8
 #EXTINF:-1,Bein Movies 5
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1161312366.m3u8
+#EXTINF:-1,Discovery
+http://stream.tapmad.com:1935/pitvlive2/discovery_240p/chunklist_w182469549.m3u8
 #EXTINF:-1,Discover Science Eng
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Kids Eng
