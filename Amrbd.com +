@@ -167,10 +167,24 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1,CNN
+http://84.22.33.254/unicast.cnn/video.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Al Jazeera English
+https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+#EXTINF:-1,BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1,BBC World News
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
+#EXTINF:-1,NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1,Star Sports 1
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2
@@ -197,6 +211,8 @@ http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 http://103.205.133.42:1935/local/sony_espn_720/playlist.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.42:1935/local/sony_six_720/playlist.m3u8
+#EXTINF:-1,Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,PTV Sports
 http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
 #EXTINF:-1,Ten Sports PK
@@ -211,6 +227,26 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 ttps://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
 #EXTINF:-1,PPTV Thai
 http://183.182.100.184/live/pptvthai/chunklist.m3u8
+#EXTINF:-1,Super Sports 1
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Super Sports 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Super Sports 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Super Sports 4
+http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Super Sports 5
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Super Sports 6
+http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Super Sports 7
+http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,Olympic Channel 2
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.33.42:1935/local/sony_pix_720/playlist.m3u8
 #EXTINF:-1,Bein Movies 1
