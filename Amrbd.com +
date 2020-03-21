@@ -149,8 +149,10 @@ http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 http://103.205.133.42:1935/local/sony_sab_720/playlist.m3u8
 #EXTINF:-1,Star Gold
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
-#EXTINF:-1,Sat Max
+#EXTINF:-1,Sony Max
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+#EXTINF:-1,Sony Max
+http://103.205.133.42:1935/local/sony_max_720/playlist.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,Zee Cinema
@@ -165,8 +167,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1,Sony Max
-http://103.205.133.42:1935/local/sony_max_720/playlist.m3u8
 #EXTINF:-1,Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1
