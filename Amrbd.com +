@@ -134,13 +134,7 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1,Zee TV HD
 http://103.205.133.42:1935/local/zee_tv_hd_720/playlist.m3u8
 #EXTINF:-1,Zee TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8 
-#EXTINF:-1,Zee TV USA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8 
-#EXTINF:-1,Zee TV UK
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8 
-#EXTINF:-1,Zee TV Canada
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8 
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8  
 #EXTINF:-1,Zee TV APAC
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1,And TV
@@ -157,12 +151,6 @@ http://103.205.133.42:1935/local/sony_max_720/playlist.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,Zee Cinema
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8 
-#EXTINF:-1,Zee Cinema USA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8 
-#EXTINF:-1,Zee Cinema UK
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8 
-#EXTINF:-1,Zee Cinema MENA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u
 #EXTINF:-1,Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,And Picture
