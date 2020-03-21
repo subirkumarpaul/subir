@@ -72,6 +72,8 @@ http://103.205.133.42:1935/local/ten_1_720/playlist.m3u8
 http://103.205.133.42:1935/local/ten_2_720/playlist.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.205.133.42:1935/local/ten_3_720/playlist.m3u8
+#EXTINF:-1,Ptv Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1,Sony Mix
 http://103.205.133.42:1935/local/sony_mix_720/playlist.m3u8
 #EXTINF:-1,Sony Pix
