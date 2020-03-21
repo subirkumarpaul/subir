@@ -56,12 +56,30 @@ http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
 http://103.205.133.42:1935/local/sony_entertainment_720/playlist.m3u8
 #EXTINF:-1,Zee TV HD
 http://103.205.133.42:1935/local/zee_tv_hd_720/playlist.m3u8
+#EXTINF:-1,Zee TV
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8 
+#EXTINF:-1,Zee TV USA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8 
+#EXTINF:-1,Zee TV UK
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8 
+#EXTINF:-1,Zee TV Canada
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8 
+#EXTINF:-1,Zee TV APAC
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1,Colors
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Sony Sab
 http://103.205.133.42:1935/local/sony_sab_720/playlist.m3u8
 #EXTINF:-1,Sony Max
 http://103.205.133.42:1935/local/sony_max_720/playlist.m3u8
+#EXTINF:-1,Zee Cinema
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8 
+#EXTINF:-1,Zee Cinema USA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8 
+#EXTINF:-1,Zee Cinema UK
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8 
+#EXTINF:-1,Zee Cinema MENA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.42:1935/local/sony_six_720/playlist.m3u8
 #EXTINF:-1,Sony ESPN
