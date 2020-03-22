@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Desh TV
 http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
+#EXTINF:-1,Ananda TV
+http://103.205.133.42:1935/local/ananda_tv_720/index.m3u8
 #EXTINF:-1,Ekattor TV
 http://103.205.133.42:1935/local/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Akaash Aath (Opt-01)
