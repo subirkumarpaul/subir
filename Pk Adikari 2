@@ -202,7 +202,7 @@ http://103.205.133.42:1935/local/sony_six_720/playlist.m3u8
 #EXTINF:-1,Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,PTV Sports
-http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,Ten Sports PK
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Sky Sports Football
