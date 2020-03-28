@@ -17,6 +17,8 @@ http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
 #EXTINF:-1,RTV
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
+#EXTINF:-1,RTV
+https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/NiDOpK8qYWOtXOpNMG6axw/1585420637/rtv_low/index.m3u8
 #EXTINF:-1,ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
