@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,BTV
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1,BTV World
 http://103.214.202.218:8081/live/btvworld/chunks.m3u8
 #EXTINF:-1,Gazi TV
@@ -56,13 +58,15 @@ http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1,Bijoy TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 #EXTINF:-1,My Cinema
-https://tempinfobase.jagobd.com:444/cZVydmVyX7RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1,ATN Islamic TV
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 #EXTINF:-1,ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+#EXTINF:-1,RTV Music
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Star Jalsha
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1,Zee Bangla
@@ -107,8 +111,12 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.214.202.218:8081/live/select1/chunks.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://ddn.amrbd.com:8081/live/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://ddn.amrbd.com:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2
@@ -119,6 +127,10 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 #EXTINF:-1,PTV Sports
 http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
+#EXTINF:-1,Ptv Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1,Geo Super
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
 #EXTINF:-1,Ten Sports PK
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -162,7 +174,7 @@ http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
 #EXTINF:-1,MTV In
-http://103.214.202.218:8081/live/mtv-14/playlist.m3u8
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Zoom
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,Masti Music
