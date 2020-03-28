@@ -51,6 +51,8 @@ http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
 #EXTINF:-1,Channel I
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
+#EXTINF:-1,Channel I
+https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/FOIw4yYZCehbQnYrD5ohgw/1585422396/channel_i.m3u8
 #EXTINF:-1,MY TV
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
 #EXTINF:-1,Movie Bangla
