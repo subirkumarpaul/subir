@@ -175,6 +175,11 @@ http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
+
+#EXTINF:-1,All Jazeera
+https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/hjDWaiVsn1W1gQw3SBj8lA/1585421616/al_jazeera_low/index.m3u8
+#EXTINF:-1,DE
+https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/k3xSQuTCPg1OoLeWSyNmMg/1585421675/dw_low/index.m3u8
 #EXTINF:-1,MTV In
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Zoom
