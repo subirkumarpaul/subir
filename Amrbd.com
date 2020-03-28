@@ -81,6 +81,8 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
 #EXTINF:-1,Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+#EXTINF:-1,Sony TV
+http://ddn.amrbd.com:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Zee TV
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1,And TV
