@@ -51,6 +51,8 @@ http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1,ATN Bangla
 http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
+#EXTINF:-1,ATN Bangla
+http://103.144.200.7:8080/hls/atnbangla/index.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
 #EXTINF:-1,Bangla Vision
