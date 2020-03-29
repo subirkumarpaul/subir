@@ -115,6 +115,8 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1,B4U Kadak
+http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1
