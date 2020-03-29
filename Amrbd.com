@@ -201,6 +201,8 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,Zing
 http://103.144.200.7:8080/hls/zing/index.m3u8
+#EXTINF:-1,Sony Mix
+http://103.144.200.7:8080/hls/sonymix/index.m3u8
 #EXTINF:-1,Masti Music
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
 #EXTINF:-1,Dabang
