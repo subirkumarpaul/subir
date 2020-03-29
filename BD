@@ -15,9 +15,9 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://175.41.46.16:8081/hls/8.m3u8
 
 http://175.41.46.16:8081/hls/9.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="বাংলা",Maasranga tv
 http://175.41.46.16:8081/hls/10.m3u8
-
+#EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="বাংলা",Independent News
 http://175.41.46.16:8081/hls/11.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/News18Bangla.in.png" group-title="বাংলা",News 24
 http://175.41.46.16:8081/hls/12.m3u8
