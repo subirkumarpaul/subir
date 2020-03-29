@@ -45,6 +45,8 @@ http://103.214.202.218:8081/live/independent/chunks.m3u8
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+#EXTINF:-1,Channel 24
+http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1,ATN Bangla
