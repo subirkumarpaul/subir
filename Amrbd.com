@@ -205,7 +205,7 @@ http://103.144.200.7:8080/hls/zing/index.m3u8
 http://103.144.200.7:8080/hls/sonymix/index.m3u8
 #EXTINF:-1,Masti Music
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
-#EXTINF:-1,Dabang
-http://103.214.202.218:8081/live/dabang-48/playlist.m3u8
+#EXTINF:-1,MTV Beates
+http://103.144.200.7:8080/hls/mtvbts/index.m3u8
 #EXTINF:-1,9XO
 http://103.214.202.218:8081/live/9x0-36/playlist.m3u8
