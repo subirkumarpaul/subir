@@ -81,6 +81,8 @@ http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+#EXTINF:-1,Colors Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
