@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,OSN cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
+#EXTINF:-1,Osn star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
+#EXTINF:-1,Osn star movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
+#EXTINF:-1,Music now
+http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
+#EXTINF:-1,CINEMA 1 HD
+http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
+#EXTINF:-1,cinema 1 sd
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1,Music Now HD
+http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+#EXTINF:-1,Music Now sd
+http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1,Star World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1,Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,Dmc drama sd
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
+#EXTINF:-1,Dmc drama MQ
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:-1,arab cinema 1 hi
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1,nat_geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1,ProSieben-Maxx
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1,STAR MOVIES FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
+#EXTINF:-1,STAR WORLD FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+#EXTINF:-1,STAR WORLD PREMIER FHD
+http://livecdnh1.tvanywhere.ae:80/hls/music_now/04.m3u8
+#EXTINF:-1,ARABIC | NBN HD
+http://livecdnh1.tvanywhere.ae:80/hls/nbn/05.m3u8
+#EXTINF:-1,National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
