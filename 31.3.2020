@@ -51,3 +51,28 @@ http://livecdnh1.tvanywhere.ae:80/hls/music_now/04.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nbn/05.m3u8
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1,AL – SUPER SPORT 1 – AL – SUPER SPORT 1
+http://s03.bihnet.net:80/live?channelId=85&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 3 – AL – SUPER SPORT 3
+http://s03.bihnet.net:80/live?channelId=87&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 4 – AL – SUPER SPORT 4
+http://s03.bihnet.net:80/live?channelId=88&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,ARENA SPORT 3 SR – ARENA SPORT 3 SR
+http://s03.bihnet.net:80/live?channelId=44&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 HR – SPORT KLUB 3 HR
+http://s03.bihnet.net:80/live?channelId=148&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 2 – SPORT KLUB 2
+http://s03.bihnet.net:80/live?channelId=48&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 – SPORT KLUB 3
+http://s03.bihnet.net:80/live?channelId=49&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 1 – UK – SPORT 1
+http://s03.bihnet.net:80/live?channelId=96&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 2 – UK – SPORT 2
+http://s03.bihnet.net:80/live?channelId=97&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 4 – UK – SPORT 4
+http://s03.bihnet.net:80/live?channelId=99&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 5 – UK – SPORT 5
+http://s03.bihnet.net:80/live?channelId=100&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Sport News – DE – Sport News
+http://s03.bihnet.net:80/live?channelId=249&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Germany History – DE – Germany History
