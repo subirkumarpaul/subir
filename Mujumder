@@ -4,6 +4,12 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1,Sony Six
 http://109.169.56.170/hls/sonysix.m3u8
+#EXTINF:-1,Sony Ten 1
+http://109.169.56.170/hls/ten1.m3u8
+#EXTINF:-1,Sony Ten 2
+http://109.169.56.170/hls/ten2.m3u8
+#EXTINF:-1,Sony Ten 3
+http://109.169.56.170/hls/Ten3.m3u8
 #EXTINF:-1,Star sports 1
 http://195.181.169.120/StarSports_Hd4/playlist.m3u8
 #EXTINF:-1,Star sports 1 HD
