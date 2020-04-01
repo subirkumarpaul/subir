@@ -33,6 +33,8 @@ http://109.169.56.170/hls/satv.m3u8
 http://109.169.56.170/hls/bijoytv.m3u8
 #EXTINF:-1,Mohona TV
 http://109.169.56.170/hls/mohonatv.m3u8
+#EXTINF:-1,Bangla TV
+http://109.169.56.170/hls/banglatv.m3u8
 #EXTINF:-1,Independent TV
 http://109.169.56.170/hls/independent.m3u8
 #EXTINF:-1,Somoy TV
