@@ -9,6 +9,8 @@ http://109.169.56.170/hls/btv.m3u8
 http://109.169.56.170/hls/btvworld.m3u8
 #EXTINF:-1,GTV
 http://109.169.56.170/hls/gtv.m3u8
+#EXTINF:-1,Maasranga TV
+http://109.169.56.170/hls/maasranga.m3u8
 #EXTINF:-1,Deepto TV
 http://109.169.56.170/hls/deeptotv.m3u8
 #EXTINF:-1,Bangla Vision
