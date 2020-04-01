@@ -71,3 +71,28 @@ http://103.205.133.42:1935/local/sony_mix_720/index.m3u8
 http://103.205.133.42:1935/local/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1,Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
+#EXTINF:-1,And Tv
+http://103.205.133.42:1935/local/ntv_720/index.m3u8
+#EXTINF:-1,Hum Masala
+http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
+#EXTINF:-1,Australia Plus
+http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
+#EXTINF:-1,Zee Action 
+http://103.205.133.42:1935/local/zee_action_720/index.m3u8
+#EXTINF:-1,Z Etc 
+http://103.205.133.42:1935/locale/z_etc_bollywood_720/index.m3u8
+#EXTINF:-1,Sony YaY
+http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
+#EXTINF:-1,Sony Pix
+http://103.205.133.42:1935/local/sony_pix_720/index.m3u8
+#EXTINF:-1,Bflix
+http://103.205.133.42:1935/local/bflix_720/index.m3u8
+#EXTINF:-1,Sony Mix
+http://103.205.133.42:1935/local/sony_mix_720/index.m3u8
+#EXTINF:-1,9X0
+http://103.205.133.42:1935/local/9xo_720/index.m3u8
+#EXTINF:-1,Music India
+http://103.205.133.42:1935/local/music_india_720/index.m3u8
+#EXTINF:-1,Quran Tv
+http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
+
