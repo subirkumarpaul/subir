@@ -4,3 +4,27 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1,Star sports 1
 http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+#EXTINF:-1,Star Sports 1
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1,Sony Six
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1,1
+http://175.41.46.16:8081/hls/3.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1,DBC News
+http://175.41.46.16:8081/hls/5.m3u8
+#EXTINF:-1,Sony Ten 1
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1,Sony Ten 2
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1,Sony Ten 3
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1,News 24
+http://175.41.46.16:8081/hls/9.m3u8
+#EXTINF:-1,Massraga TV
+http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:-1,Ekusha TV
+http://175.41.46.16:8081/hls/11.m3u8
+#EXTINF:-1,DBC News HD
+http://175.41.46.16:8081/hls/12.m3u8
