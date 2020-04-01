@@ -43,6 +43,8 @@ http://109.169.56.170/hls/banglatv.m3u8
 http://109.169.56.170/hls/independent.m3u8
 #EXTINF:-1,Somoy TV
 http://109.169.56.170/hls/somoy.m3u8
+#EXTINF:-1,DBC News
+http://109.169.56.170/hls/dbcnews.m3u8
 #EXTINF:-1,ATN News
 http://109.169.56.170/hls/atnnews.m3u8
 #EXTINF:-1,News 24
