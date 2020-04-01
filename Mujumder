@@ -25,6 +25,10 @@ http://109.169.56.170/hls/rtv.m3u8
 http://109.169.56.170/hls/atnbangla.m3u8
 #EXTINF:-1,MY TV
 http://109.169.56.170/hls/mytv.m3u8
+#EXTINF:-1,SATV
+http://109.169.56.170/hls/satv.m3u8
+#EXTINF:-1,Bijoy TV
+http://109.169.56.170/hls/bijoytv.m3u8
 #EXTINF:-1,Mohona TV
 http://109.169.56.170/hls/mohonatv.m3u8
 #EXTINF:-1,Independent TV
