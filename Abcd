@@ -1,0 +1,23 @@
+#EXTM3U
+EXTINF:-1 group-title="IPL",$ Star Sports 1 4K Logo
+https://cdn.thesportsflix.com/app/starsports1hd.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://104.200.153.219:80/StarSports_Hd1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd3/playlist.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd2/playlist.m3u8
+#EXTINF:-1 group-title="IPL",$ Star Sports 1 HD
+http://195.181.169.120/StarSports_Hd1/playlist.m3u8
+#EXTINF:-1 group-title="IPL", IPL HS (Hindi) Low
+http://live12.akt.hotstar-cdn.net/hls/live/2003704/ipl2019/hin/15mindvrm0124april2019
