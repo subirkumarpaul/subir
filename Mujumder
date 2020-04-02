@@ -53,6 +53,8 @@ http://109.169.56.170/hls/news24.m3u8
 http://109.169.56.170/hls/channel24.m3u8
 #EXTINF:-1,Gaan Bangla
 http://109.169.56.170/hls/gaanbangla.m3u8
+#EXTINF:-1,Star Plus
+http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1,Sony Six
 http://109.169.56.170/hls/sonysix.m3u8
 #EXTINF:-1,Sony Ten 1
@@ -60,7 +62,7 @@ http://109.169.56.170/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2
 http://109.169.56.170/hls/ten2.m3u8
 #EXTINF:-1,Sony Ten 3
-http://109.169.56.170/hls/Ten3.m3u8
+http://109.169.56.170/hls/ten3.m3u8
 #EXTINF:-1,Star sports 1
 http://195.181.169.120/StarSports_Hd4/playlist.m3u8
 #EXTINF:-1,Star sports 1 HD
