@@ -21,3 +21,142 @@ http://195.181.169.120/StarSports_Hd2/playlist.m3u8
 http://195.181.169.120/StarSports_Hd1/playlist.m3u8
 #EXTINF:-1 group-title="IPL", IPL HS (Hindi) Low
 http://live12.akt.hotstar-cdn.net/hls/live/2003704/ipl2019/hin/15mindvrm0124april2019
+#EXTM3U
+#EXTINF:-1,NTV EU
+http://109.123.70.24/pub1/mp4:ntveurope/playlist.m3u8
+ 
+#EXTINF:-1,Channel I eu
+http://109.123.70.24/pub1/mp4:channelieu/playlist.m3u8
+ 
+#EXTINF:-1,Channei s
+http://109.123.70.24/pub1/mp4:channelsuk/playlist.m3u8
+ 
+#EXTINF:-1,Atn bangla uk
+http://109.123.70.24/pub1/mp4:atnbanglauk/playlist.m3u8
+ 
+#EXTINF:-1,Bangla tv uk
+http://109.123.70.24/pub1/mp4:banglatvuk/playlist.m3u8
+ 
+ 
+#EXTINF:0, India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+ 
+#EXTINF:-1,BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+ 
+#EXTINF:-1,NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+ 
+#EXTINF:-1,Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+ 
+
+ 
+
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", tvg-logo="EUROSPORT1.png",EUROSPORT 1 HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
+#EXTINF:-1,CHANNEL I
+http://108.61.156.252/hls/ichannel.m3u8
+#EXTINF:-1,StarJalsha.in,STAR JALSHA
+http://108.61.156.252/hls/starjalsa.m3u8
+#EXTINF:-1,ATN BANGLA
+http://108.61.156.252/hls/atnbangla.m3u8
+#EXTINF:-1,NTV
+http://108.61.156.252/hls/ntv.m3u8
+#EXTINF:-1,BANBLA VISION
+http://108.61.156.252/hls/banglavision.m3u8
+#EXTINF:-1,ETV
+http://108.61.156.252/hls/ekushey.m3u8
+#EXTINF:-1,CHANNEL S
+http://109.123.70.24/pub1/mp4:channelsuk/playlist.m3u8
+#EXTINF:-1,BANGLA TV
+http://109.123.70.24/pub1/mp4:banglatvuk/playlist.m3u8
+#EXTINF:-1,Atn bangla uk
+http://109.123.70.24/pub1/mp4:atnbanglauk/playlist.m3u8
+#EXTINF:-1,NTV
+http://109.123.70.24/pub1/mp4:ntveurope/playlist.m3u8
+#EXTINF:-1,Channel I
+http://109.123.70.24/pub1/mp4:channelieu/playlist.m3u8
+#EXTINF:-1,Channel 9
+http://108.61.156.252/hls/ninechannel.m3u8
+#EXTINF:-1,INDEPENDENT
+http://108.61.156.252/hls/independent.m3u8
+#EXTINF:-1,ATN NEWS
+http://108.61.156.252/hls/atnnews.m3u8
+#EXTINF:-1,ASIAN TV
+http://108.61.156.252/hls/asiantv.m3u8
+#EXTINF:-1,CHANNEL24
+http://108.61.156.252/hls/channel24.m3u8
+ 
+#EXTINF:-1,MOHONA TV
+http://108.61.156.252/hls/mohonatv.m3u8
+ 
+#EXTINF:-1,BOISHAKI
+http://108.61.156.252/hls/boisakhi.m3u8
+ 
+#EXTINF:-1,MASRANGA
+http://108.61.156.252/hls/maasaranga.m3u8
+ 
+#EXTINF:-1,DESH TV
+http://108.61.156.252/hls/deshtv.m3u8
+ 
+#EXTINF:-1,GAAN BANGLA
+http://108.61.156.252/hls/gaanbangla.m3u8
+ 
+#EXTINF:-1,MY TV
+http://108.61.156.252/hls/mytv.m3u8
+ 
+#EXTINF:-1,BTV
+http://108.61.156.252/hls/btv.m3u8
+ 
+#EXTINF:-1,BTV WORLD
+http://108.61.156.252/hls/btvworld.m3u8
+ 
+#EXTINF:-1,TBN 24
+http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
+ 
+#EXTINF:-1,TIME TV
+http://64.237.38.195:1935/live/timetv_usa/playlist.m3u8
+ 
+#EXTINF:-1,RTV MUSIC
+http://37.157.247.98:1935/live/rtvmusic/playlist.m3u8
+ 
+#EXTINF:-1,BANGLATV
+http://208.86.19.124:776/live/banglany2/playlist.m3u8
+ 
+#EXTINF:-1,CHANNEL 7
+http://108.61.156.252/hls/channel7.m3u8
+#EXTINF:-1,RADIANT
+http://209.222.15.75:1935/live/riptv_usa/playlist.m3u8
+#EXTINF:-1,RTV PLUS
+http://64.237.38.195:1935/live/rtvplus/playlist.m3u8
+#EXTINF:-1,MOVIE BANGLA
+http://108.61.156.252/hls/moviebangla.m3u8
+#EXTINF:-1,POP CORN BANGLA
+http://209.222.15.75:1935/extlive/myStream/playlist.m3u8
+#EXTINF:-1,MILLENIUM TV
+http://209.222.15.75:1935/live/mtv/playlist.m3u8
+#EXTINF:-1,NJ BANGLA
+http://64.237.38.195:1935/live/njbangla24/playlist.m3u8
+#EXTINF:-1,CTG TV
+http://108.61.156.251/hls/ctgtv.m3u8
+#EXTINF:-1,DM TV
+http://108.61.156.251/hls/dmtv.m3u8
+#EXTINF:-1,DIPTO BANGLA
+http://108.61.156.252/hls/deeptotv.m3u8
+
+#EXTINF:-1,SANGEET BANGLA
+http://64.237.38.195:1935/live/sangeet/playlist.m3u8
+#EXTINF:-1,DHOOM MUSIC
+http://108.61.156.252/hls/dhoommusic.m3u8
+#EXTINF:-1,COLORS BANGLA
+http://108.61.156.252/hls/etvbangla.m3u8
+#EXTINF:-1,TARA MUSIK
+http://108.61.156.252/hls/taramuzik.m3u8
+#EXTINF:-1,JALSHA MOVIES
+http://108.61.156.252/hls/jalsamovies.m3u8
