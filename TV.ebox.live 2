@@ -62,54 +62,54 @@ http://43.230.123.90:80/live/starsports-1.m3u8
 #EXTINF:0,star sports 1 hindi
 http://43.230.123.90:80/live/starsports-1-hind.m3u8
 #EXTINF:0,star sports hd 2
-http://tv.ebox.live/live/starsportshd-2.m3u8
+http://43.230.123.90:80/live/starsportshd-2.m3u8
 #EXTINF:0,star sports 3
-http://tv.ebox.live/live/starsports-3.m3u8
+http://43.230.123.90:80/live/starsports-3.m3u8
 #EXTINF:0,star sports select 1
-http://tv.ebox.live/live/starsportsselect-1.m3u8
+http://43.230.123.90:80/live/starsportsselect-1.m3u8
 #EXTINF:0,star sports select 2
-http://tv.ebox.live/live/starsportsselect-2.m3u8
-#EXTINF:0,zee bangla
-http://tv.ebox.live/live/zee-bangla.m3u8
+http://43.230.123.90:80/live/starsportsselect-2.m3u8
+#EXTINF:0,Zee Bangla
+http://43.230.123.90:80/live/zee-bangla.m3u8
 #EXTINF:0,star jslsha
-http://tv.ebox.live/live/star-jalsha.m3u8
+http://43.230.123.90:80/live/star-jalsha.m3u8
 #EXTINF:0,colour bangla
-http://tv.ebox.live/live/colors-bangla.m3u8
+http://43.230.123.90:80/live/colors-bangla.m3u8
 #EXTINF:0,zee bangla cinema
-http://tv.ebox.live/live/zee-cinema-bangla.m3u8
+http://43.230.123.90:80/live/zee-cinema-bangla.m3u8
 #EXTINF:0,star jalsha movies
-http://tv.ebox.live/live/star-jalsha-movies.m3u8
+http://43.230.123.90:80/live/star-jalsha-movies.m3u8
 #EXTINF:0,star plas
-http://tv.ebox.live/live/star-plus.m3u8
+http://43.230.123.90:80/live/star-plus.m3u8
 #EXTINF:0,zee tv
-http://tv.ebox.live/live/zee-tv.m3u8
+http://43.230.123.90:80/live/zee-tv.m3u8
 #EXTINF:0,colours
-http://tv.ebox.live/live/colors.m3u8
+http://43.230.123.90:80/live/colors.m3u8
 #EXTINF:0,sony
-http://tv.ebox.live/live/sonyhd.m3u8
+http://43.230.123.90:80/live/sonyhd.m3u8
 #EXTINF:0,star gold
-http://tv.ebox.live/live/star-gold.m3u8
+http://43.230.123.90:80/live/star-gold.m3u8
 #EXTINF:0,star gold select
-http://tv.ebox.live/live/star-gold-select.m3u8
+http://43.230.123.90:80/live/star-gold-select.m3u8
 #EXTINF:0,zee cinema
-http://tv.ebox.live/live/zee-cinema.m3u8
+http://43.230.123.90:80/live/zee-cinema.m3u8
 #EXTINF:0,sony max
-http://tv.ebox.live/live/sony-max.m3u8
+http://43.230.123.90:80/live/sony-max.m3u8
 #EXTINF:0,sony max 2
-http://tv.ebox.live/live/sony-max-2.m3u8
+http://43.230.123.90:80/live/sony-max-2.m3u8
 #EXTINF:0,star movies
-http://tv.ebox.live/live/star-movies.m3u8
+http://43.230.123.90:80/live/star-movies.m3u8
 #EXTINF:0,hbo
-http://tv.ebox.live/live/sony-pix.m3u8
+http://43.230.123.90:80/live/sony-pix.m3u8
 #EXTINF:0,sony pix
-http://tv.ebox.live/live/hbo.m3u8
+http://43.230.123.90:80/live/hbo.m3u8
 #EXTINF:0,colour infinity
-http://tv.ebox.live/live/color-Infinity.m3u8
+http://43.230.123.90:80/live/color-Infinity.m3u8
 #EXTINF:0,nick
-http://tv.ebox.live/live/nick.m3u8
+http://43.230.123.90:80/live/nick.m3u8
 #EXTINF:0,discovery
-http://tv.ebox.live/live/discovery.m3u8
+http://43.230.123.90:80/live/discovery.m3u8
 #EXTINF:0,animal planet
-http://tv.ebox.live/live/animale-planet.m3u8
+http://43.230.123.90:80/live/animale-planet.m3u8
 #EXTINF:0,nat geo
-http://tv.ebox.live/live/natg.m3u8
+http://43.230.123.90:80/live/natg.m3u8
