@@ -89,6 +89,10 @@ http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
 http://103.205.133.42:1935/local/dw_720/index.m3u8
 #EXTINF:-1,NHK World
 http://103.205.133.42:1935/local/nhk_world_720/index.m3u8
+#EXTINF:-1,TV5 Monde Asia
+http://103.205.133.42:1935/local/tv5_monde_720/index.m3u8
+#EXTINF:-1,Euro News
+http://103.205.133.42:1935/local/euro_news_720/index.m3u8
 #EXTINF:-1,And Tv
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
 #EXTINF:-1,Hum Masala
