@@ -87,6 +87,8 @@ http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
 #EXTINF:-1,DW
 http://103.205.133.42:1935/local/dw_720/index.m3u8
+#EXTINF:-1,NHK World
+http://103.205.133.42:1935/local/nhk_world_720/index.m3u8
 #EXTINF:-1,And Tv
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
 #EXTINF:-1,Hum Masala
