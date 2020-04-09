@@ -19,6 +19,8 @@ http://103.205.133.42:1935/local/akash_aath_720/index.m3u8
 http://103.205.133.42:1935/local/sony_aath_720/index.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.42:1935/local/zee_bangla_hd_720/index.m3u8
+#EXTINF:-1,DD Bangla
+http://103.205.133.42:1935/local/dd_bangla_720/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1,Sony Yay
