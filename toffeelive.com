@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Channel I
+http://103.205.133.42:1935/local/channel_i_720/index.m3u8
 #EXTINF:-1,Desh TV
 http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
 #EXTINF:-1,Ananda TV
