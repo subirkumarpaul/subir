@@ -3,6 +3,8 @@
 http://103.205.133.42:1935/local/channel_i_720/index.m3u8
 #EXTINF:-1,Channel 24
 http://103.205.133.42:1935/local/channel_24_720/index.m3u8
+#EXTINF:-1,DBC News
+http://103.205.133.42:1935/local/dbc_news_720/index.m3u8
 #EXTINF:-1,Desh TV
 http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
 #EXTINF:-1,Ananda TV
