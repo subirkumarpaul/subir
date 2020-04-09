@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Channel I
 http://103.205.133.42:1935/local/channel_i_720/index.m3u8
+#EXTINF:-1,Somoy News
+http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
 #EXTINF:-1,Channel 24
 http://103.205.133.42:1935/local/channel_24_720/index.m3u8
 #EXTINF:-1,DBC News
