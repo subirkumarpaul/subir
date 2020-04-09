@@ -83,6 +83,10 @@ http://103.205.133.42:1935/local/arirang_720/index.m3u8
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
 #EXTINF:-1,Al Jazeera
 http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
+#EXTINF:-1,PTV World
+http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
+#EXTINF:-1,DW
+http://103.205.133.42:1935/local/dw_720/index.m3u8
 #EXTINF:-1,And Tv
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
 #EXTINF:-1,Hum Masala
