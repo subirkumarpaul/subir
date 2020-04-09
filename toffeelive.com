@@ -99,6 +99,8 @@ http://103.205.133.42:1935/local/tv5_monde_720/index.m3u8
 http://103.205.133.42:1935/local/euro_news_720/index.m3u8
 #EXTINF:-1,CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
+#EXTINF:-1,Rai Italia
+http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
 #EXTINF:-1,And Tv
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
 #EXTINF:-1,Hum Masala
