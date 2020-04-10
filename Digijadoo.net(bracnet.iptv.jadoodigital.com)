@@ -4,11 +4,7 @@ https://bracnet.iptv.jadoodigital.com/live/btv_world/chunks.m3u8
 #EXTINF:-1,sa_tv
 https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
 #EXTINF:-1,gazi_tv
-https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,gazi_tv
 https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,gazi_tv
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,maasranga
 https://bracnet.iptv.jadoodigital.com/live/maasranga/chunks.m3u8
 #EXTINF:-1,channel_9
