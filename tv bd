@@ -1,0 +1,34 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9
+http://103.115.159.37:8080/channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Children TV",Nick (Bangla)
+http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Entertainment",Nagorik TV
+http://103.115.159.37:8080/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Entertainment",RTV
+http://103.115.159.37:8080/rtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Documentary",Fox Life (Bangla)
+http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla
+http://103.115.159.37:8080/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
+http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD
+http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies
+http://103.115.159.37:8080/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
+http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO Hits
+http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
+EXTINF:-1,AXN
+http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD
+http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee TV
+http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,History TV
+http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
