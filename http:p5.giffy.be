@@ -23,6 +23,52 @@ http://p5.giffy.be:8080/gabi12/gabi12/20734
 http://p5.giffy.be:8080/gabi12/gabi12/20735
 #EXTINF:-1,GEO Super
 http://p5.giffy.be:8080/gabi12/gabi12/20736
+#EXTINF:-1,Willow Cricket
+http://p5.giffy.be:8080/gabi12/gabi12/12689
+#EXTINF:-1,Super Sports 1
+http://p5.giffy.be:8080/gabi12/gabi12/68780
+#EXTINF:-1,Super Sports 2
+http://p5.giffy.be:8080/gabi12/gabi12/68781
+#EXTINF:-1,Super Sports 3
+http://p5.giffy.be:8080/gabi12/gabi12/68782
+#EXTINF:-1,Super Sports 4
+http://p5.giffy.be:8080/gabi12/gabi12/68783
+#EXTINF:-1,Super Sports 5
+http://p5.giffy.be:8080/gabi12/gabi12/68784
+#EXTINF:-1,Super Sports 6
+http://p5.giffy.be:8080/gabi12/gabi12/68785
+#EXTINF:-1,Super Sports 7
+http://p5.giffy.be:8080/gabi12/gabi12/68786
+#EXTINF:-1,Super Sports 8
+http://p5.giffy.be:8080/gabi12/gabi12/68787
+#EXTINF:-1,Super Sports 9
+http://p5.giffy.be:8080/gabi12/gabi12/68788
+#EXTINF:-1,Super Sports 10
+http://p5.giffy.be:8080/gabi12/gabi12/68789
+#EXTINF:-1,Super Sports 11
+http://p5.giffy.be:8080/gabi12/gabi12/68790
+#EXTINF:-1,Super Sports 12
+http://p5.giffy.be:8080/gabi12/gabi12/68791
+#EXTINF:-1,Sports TV 1
+http://p5.giffy.be:8080/gabi12/gabi12/57601
+#EXTINF:-1,Sports TV 2
+http://p5.giffy.be:8080/gabi12/gabi12/57602
+#EXTINF:-1,Sports TV 3
+http://p5.giffy.be:8080/gabi12/gabi12/57603
+#EXTINF:-1,Sports TV 4
+http://p5.giffy.be:8080/gabi12/gabi12/57604
+#EXTINF:-1,Sports TV 5
+http://p5.giffy.be:8080/gabi12/gabi12/57605
+#EXTINF:-1,TSN 1
+http://p5.giffy.be:8080/gabi12/gabi12/44537
+#EXTINF:-1,TSN 2
+http://p5.giffy.be:8080/gabi12/gabi12/44538
+#EXTINF:-1,TSN 3
+http://p5.giffy.be:8080/gabi12/gabi12/44539
+#EXTINF:-1,TSN 4
+http://p5.giffy.be:8080/gabi12/gabi12/44540
+#EXTINF:-1,TSN 5
+http://p5.giffy.be:8080/gabi12/gabi12/44541
 #EXTINF:-1,Colors Super
 http://p5.giffy.be:8080/Testing1/Testing1/21036
 #EXTINF:-1,And TV HD
@@ -47,6 +93,9 @@ http://p5.giffy.be:8080/Testing1/Testing1/21045
 http://p5.giffy.be:8080/Testing1/Testing1/21046
 #EXTINF:-1,Travel XP HD
 http://p5.giffy.be:8080/Testing1/Testing1/21047
+#EXTINF:-1,E24
+http://p5.giffy.be:8080/gabi12/gabi12/21154
+
 #EXTINF:-1,History TV 18
 http://p5.giffy.be:8080/Testing1/Testing1/21048
 #EXTINF:-1,Cinema
