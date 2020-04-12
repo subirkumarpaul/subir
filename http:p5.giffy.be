@@ -62,13 +62,13 @@ http://p5.giffy.be:8080/gabi12/gabi12/57605
 #EXTINF:-1,TSN 1
 http://p5.giffy.be:8080/gabi12/gabi12/44537
 #EXTINF:-1,TSN 2
-http://p5.giffy.be:8080/gabi12/gabi12/44538
+http://p5.giffy.be:8080/gabi12/gabi12/44544
 #EXTINF:-1,TSN 3
-http://p5.giffy.be:8080/gabi12/gabi12/44539
+http://p5.giffy.be:8080/gabi12/gabi12/47028
 #EXTINF:-1,TSN 4
-http://p5.giffy.be:8080/gabi12/gabi12/44540
+http://p5.giffy.be:8080/gabi12/gabi12/47029
 #EXTINF:-1,TSN 5
-http://p5.giffy.be:8080/gabi12/gabi12/44541
+http://p5.giffy.be:8080/gabi12/gabi12/44540
 #EXTINF:-1,Colors Super
 http://p5.giffy.be:8080/Testing1/Testing1/21036
 #EXTINF:-1,And TV HD
@@ -95,7 +95,6 @@ http://p5.giffy.be:8080/Testing1/Testing1/21046
 http://p5.giffy.be:8080/Testing1/Testing1/21047
 #EXTINF:-1,E24
 http://p5.giffy.be:8080/gabi12/gabi12/21154
-
 #EXTINF:-1,History TV 18
 http://p5.giffy.be:8080/Testing1/Testing1/21048
 #EXTINF:-1,Cinema
