@@ -25,6 +25,12 @@ http://p5.giffy.be:8080/gabi12/gabi12/20735
 http://p5.giffy.be:8080/gabi12/gabi12/20736
 #EXTINF:-1,Willow Cricket
 http://p5.giffy.be:8080/gabi12/gabi12/12689
+#EXTINF:-1,BT Sports 1
+http://p5.giffy.be:8080/gabi12/gabi12/64285
+#EXTINF:-1,BT Sports 2
+http://p5.giffy.be:8080/gabi12/gabi12/64286
+#EXTINF:-1,BT Sports 3
+http://p5.giffy.be:8080/gabi12/gabi12/64287
 #EXTINF:-1,Super Sports 1
 http://p5.giffy.be:8080/gabi12/gabi12/68780
 #EXTINF:-1,Super Sports 2
