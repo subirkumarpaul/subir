@@ -1,115 +1,115 @@
 #EXTM3U
 #EXTINF:0,jamuna tv
-http://43.230.123.21:80/live/ex-jamuna.m3u8
+http://43.230.123.21:8080/live/ex-jamuna.m3u8
 #EXTINF:0,gazi
-http://43.230.123.21:80/live/gazi-tv.m3u8
+http://43.230.123.21:8080/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
-http://43.230.123.21:80/live/banae3.m3u8
+http://43.230.123.21:8080/live/banae3.m3u8
 #EXTINF:0,atn bangla
-http://43.230.123.921:80/live/atnbd1.m3u8
+http://43.230.123.921:8080/live/atnbd1.m3u8
 #EXTINF:0,chanel i
-http://43.230.123.21:80/live/chi.m3u8
+http://43.230.123.21:8080/live/chi.m3u8
 #EXTINF:0,rtv
-http://43.230.123.21:80/live/rtv.m3u8
+http://43.230.123.21:8080/live/rtv.m3u8
 #EXTINF:0,baishakhi
-http://43.230.123.21:80/live/boishakhi.m3u8
+http://43.230.123.21:8080/live/boishakhi.m3u8
 #EXTINF:0,ekattor
 http://43.230.123.21:80/live/ekattor1.m3u8
 #EXTINF:0,news 24
-http://43.230.123.21:80/live/news24.m3u8
+http://43.230.123.21:8080/live/news24.m3u8
 #EXTINF:0,dbc
-http://43.230.123.21:80/live/dbc.m3u8
+http://43.230.123.21:8080/live/dbc.m3u8
 #EXTINF:0,atn news
-http://43.230.123.21:80/live/ex-atnae.m3u8
+http://43.230.123.21:8080/live/ex-atnae.m3u8
 #EXTINF:0,gaan bangla
-http://43.230.123.21:80/live/gan.m3u8
+http://43.230.123.21:8080/live/gan.m3u8
 #EXTINF:0,mas 1
-http://43.230.123.21:80/live/mass.m3u8
+http://43.230.123.21:8080/live/mass.m3u8
 #EXTINF:0,maasranga
-http://43.230.123.21:80/live/maasranga.m3u8
+http://43.230.123.21:8080/live/maasranga.m3u8
 #EXTINF:0,chanel 9
-http://43.230.123.21:80/live/channel9.m3u8
+http://43.230.123.21:8080/live/channel9.m3u8
 #EXTINF:0,sony six
-http://43.230.123.21:80/live/sonysix.m3u8
+http://43.230.123.21:8080/live/sonysix.m3u8
 #EXTINF:0,sony espn
-http://43.230.123.21:80/live/sonyespn.m3u8
+http://43.230.123.21:8080/live/sonyespn.m3u8
 #EXTINF:0,sony ten 1
-http://43.230.123.21:80/live/sonyten-1.m3u8
+http://43.230.123.21:8080/live/sonyten-1.m3u8
 #EXTINF:0,sony ten 2
-http://43.230.123.21:80/live/sonyten-2.m3u8
+http://43.230.123.21:8080/live/sonyten-2.m3u8
 #EXTINF:0,sony ten 3
-http://43.230.123.21:80/live/sonyten-3.m3u8
+http://43.230.123.21:8080/live/sonyten-3.m3u8
 #EXTINF:0,ten sports
-http://43.230.123.21:80/live/ten-sports.m3u8
+http://43.230.123.21:8080/live/ten-sports.m3u8
 #EXTINF:0,willow cricket
-http://43.230.123.90:80/live/willow-cric.m3u8
+http://43.230.123.21:8080/live/willow-cric.m3u8
 #EXTINF:0,ptv sports
-http://43.230.123.90:80/live/ptvsports.m3u8
+http://43.230.123.21:8080/live/ptvsports.m3u8
 #EXTINF:0,sky cricket
-http://43.230.123.90:80/live/Sky-Sports-cric.m3u8
+http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,sky mix
-http://43.230.123.90:80/live/Sky-Sports-Mix.m3u8
+http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 #EXTINF:0,bein sports 1
-http://43.230.123.90:80/bein-sports-1.m3u8
+http://43.230.123.21:8080/bein-sports-1.m3u8
 #EXTINF:0,bean sports 2
-http://43.230.123.90:80/live/bein-sports-2.m3u8
+http://43.230.123.21:8080/live/bein-sports-2.m3u8
 #EXTINF:0,bein sports 11
-http://43.230.123.90:80/live/bein-sports-eng-11.m3u8
+http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:0,bein sports fr 1
-http://43.230.123.90:80/live/bein-sports-fr-1.m3u8
+http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:0,star sports 1
-http://43.230.123.90:80/live/starsports-1.m3u8
+http://43.230.123.21:8080/live/starsports-1.m3u8
 #EXTINF:0,star sports 1 hindi
-http://43.230.123.90:80/live/starsports-1-hind.m3u8
+http://43.230.123.21:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,star sports hd 2
-http://43.230.123.90:80/live/starsportshd-2.m3u8
+http://43.230.123.21:8080/live/starsportshd-2.m3u8
 #EXTINF:0,star sports 3
-http://43.230.123.90:80/live/starsports-3.m3u8
+http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:0,star sports select 1
-http://43.230.123.90:80/live/starsportsselect-1.m3u8
+http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,star sports select 2
-http://43.230.123.90:80/live/starsportsselect-2.m3u8
+http://43.230.123.21:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Zee Bangla
-http://43.230.123.90:80/live/zee-bangla.m3u8
+http://43.230.123.21:8080/live/zee-bangla.m3u8
 #EXTINF:0,star jslsha
-http://43.230.123.90:80/live/star-jalsha.m3u8
+http://43.230.123.21:8080/live/star-jalsha.m3u8
 #EXTINF:0,colour bangla
-http://43.230.123.90:80/live/colors-bangla.m3u8
+http://43.230.123.21:8080/live/colors-bangla.m3u8
 #EXTINF:0,zee bangla cinema
-http://43.230.123.90:80/live/zee-cinema-bangla.m3u8
+http://43.230.123.21:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:0,star jalsha movies
-http://43.230.123.90:80/live/star-jalsha-movies.m3u8
+http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,star plas
-http://43.230.123.90:80/live/star-plus.m3u8
+http://43.230.123.21:8080/live/star-plus.m3u8
 #EXTINF:0,zee tv
-http://43.230.123.90:80/live/zee-tv.m3u8
+http://43.230.123.21:8080/live/zee-tv.m3u8
 #EXTINF:0,colours
-http://43.230.123.90:80/live/colors.m3u8
+http://43.230.123.21:8080/live/colors.m3u8
 #EXTINF:0,sony
-http://43.230.123.90:80/live/sonyhd.m3u8
+http://43.230.123.21:8080/live/sonyhd.m3u8
 #EXTINF:0,star gold
-http://43.230.123.90:80/live/star-gold.m3u8
+http://43.230.123.21:8080/live/star-gold.m3u8
 #EXTINF:0,star gold select
-http://43.230.123.90:80/live/star-gold-select.m3u8
+http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:0,zee cinema
-http://43.230.123.90:80/live/zee-cinema.m3u8
+http://43.230.123.21:8080/live/zee-cinema.m3u8
 #EXTINF:0,sony max
-http://43.230.123.90:80/live/sony-max.m3u8
+http://43.230.123.21:8080/live/sony-max.m3u8
 #EXTINF:0,sony max 2
-http://43.230.123.90:80/live/sony-max-2.m3u8
+http://43.230.123.21:8080/live/sony-max-2.m3u8
 #EXTINF:0,star movies
-http://43.230.123.90:80/live/star-movies.m3u8
+http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF:0,hbo
-http://43.230.123.90:80/live/sony-pix.m3u8
+http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:0,sony pix
-http://43.230.123.90:80/live/hbo.m3u8
+http://43.230.123.21:8080/live/hbo.m3u8
 #EXTINF:0,colour infinity
-http://43.230.123.90:80/live/color-Infinity.m3u8
+http://43.230.123.21:8080/live/color-Infinity.m3u8
 #EXTINF:0,nick
-http://43.230.123.90:80/live/nick.m3u8
+http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:0,discovery
-http://43.230.123.90:80/live/discovery.m3u8
+http://43.230.123.21:8080/live/discovery.m3u8
 #EXTINF:0,animal planet
-http://43.230.123.90:80/live/animale-planet.m3u8
+http://43.230.123.21:8080/live/animale-planet.m3u8
 #EXTINF:0,nat geo
-http://43.230.123.90:80/live/natg.m3u8
+http://43.230.123.21:8080/live/natg.m3u8
