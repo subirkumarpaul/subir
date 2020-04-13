@@ -126,7 +126,7 @@ http://p5.giffy.be:8080/Testing1/Testing1/21058
 #EXTINF:-1,UTV HD
 http://p5.giffy.be:8080/Testing1/Testing1/21059
 #EXTINF:-1,UTV Action
-http://p5.giffy.be:8080/gabi12/gabi12/21245
+http://p5.giffy.be:8080/live/gabi12/gabi12/21245.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 http://p5.giffy.be:8080/Testing1/Testing1/21060
 #EXTINF:-1,Nat Geo Channel HD
