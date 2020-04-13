@@ -6,7 +6,7 @@ http://43.230.123.21:8080/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
 http://43.230.123.21:8080/live/banae3.m3u8
 #EXTINF:0,atn bangla
-http://43.230.123.921:8080/live/atnbd1.m3u8
+http://43.230.123.21:8080/live/atnbd1.m3u8
 #EXTINF:0,chanel i
 http://43.230.123.21:8080/live/chi.m3u8
 #EXTINF:0,rtv
