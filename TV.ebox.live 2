@@ -1,46 +1,46 @@
 #EXTM3U
 #EXTINF:0,jamuna tv
-http://43.230.123.90:80/live/ex-jamuna.m3u8
+http://43.230.123.21:80/live/ex-jamuna.m3u8
 #EXTINF:0,gazi
-http://43.230.123.90:80/live/gazi-tv.m3u8
+http://43.230.123.21:80/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
-http://43.230.123.90:80/live/banae3.m3u8
+http://43.230.123.21:80/live/banae3.m3u8
 #EXTINF:0,atn bangla
-http://43.230.123.90:80/live/atnbd1.m3u8
+http://43.230.123.921:80/live/atnbd1.m3u8
 #EXTINF:0,chanel i
-http://43.230.123.90:80/live/chi.m3u8
+http://43.230.123.21:80/live/chi.m3u8
 #EXTINF:0,rtv
-http://43.230.123.90:80/live/rtv.m3u8
+http://43.230.123.21:80/live/rtv.m3u8
 #EXTINF:0,baishakhi
-http://43.230.123.90:80/live/boishakhi.m3u8
+http://43.230.123.21:80/live/boishakhi.m3u8
 #EXTINF:0,ekattor
-http://43.230.123.90:80/live/ekattor1.m3u8
+http://43.230.123.21:80/live/ekattor1.m3u8
 #EXTINF:0,news 24
-http://43.230.123.90:80/live/news24.m3u8
+http://43.230.123.21:80/live/news24.m3u8
 #EXTINF:0,dbc
-http://43.230.123.90:80/live/dbc.m3u8
+http://43.230.123.21:80/live/dbc.m3u8
 #EXTINF:0,atn news
-http://43.230.123.90:80/live/ex-atnae.m3u8
+http://43.230.123.21:80/live/ex-atnae.m3u8
 #EXTINF:0,gaan bangla
-http://43.230.123.90:80/live/gan.m3u8
+http://43.230.123.21:80/live/gan.m3u8
 #EXTINF:0,mas 1
-http://43.230.123.90:80/live/mass.m3u8
+http://43.230.123.21:80/live/mass.m3u8
 #EXTINF:0,maasranga
-http://43.230.123.90:80/live/maasranga.m3u8
+http://43.230.123.21:80/live/maasranga.m3u8
 #EXTINF:0,chanel 9
-http://43.230.123.90:80/live/channel9.m3u8
+http://43.230.123.21:80/live/channel9.m3u8
 #EXTINF:0,sony six
-http://43.230.123.90:80/live/sonysix.m3u8
+http://43.230.123.21:80/live/sonysix.m3u8
 #EXTINF:0,sony espn
-http://43.230.123.90:80/live/sonyespn.m3u8
+http://43.230.123.21:80/live/sonyespn.m3u8
 #EXTINF:0,sony ten 1
-http://43.230.123.90:80/live/sonyten-1.m3u8
+http://43.230.123.21:80/live/sonyten-1.m3u8
 #EXTINF:0,sony ten 2
-http://43.230.123.90:80/live/sonyten-2.m3u8
+http://43.230.123.21:80/live/sonyten-2.m3u8
 #EXTINF:0,sony ten 3
-http://43.230.123.90:80/live/sonyten-3.m3u8
+http://43.230.123.21:80/live/sonyten-3.m3u8
 #EXTINF:0,ten sports
-http://43.230.123.90:80/live/ten-sports.m3u8
+http://43.230.123.21:80/live/ten-sports.m3u8
 #EXTINF:0,willow cricket
 http://43.230.123.90:80/live/willow-cric.m3u8
 #EXTINF:0,ptv sports
