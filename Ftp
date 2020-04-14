@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1,GTV
+http://10.16.100.241/exthls/GAZITV.m3u8
+#EXTINF:-1,GTV
+http://10.16.100.201:8082/hindi/GAZITV.m3u8
+#EXTINF:-1,Maasranga TV
+http://10.16.100.241/exthls/MAASRANGA.m3u8
+#EXTINF:-1,Maasranga TV
+http://10.16.100.201:8082/hindi/MAASRANGATV.m3u8
+#EXTINF:-1,Channal 9 bd
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
+#EXTINF:-1,Bangla TV HD
+http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
+#EXTINF:-1,Deepto TV HD
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1,Channal I HD
+http://10.16.100.203:8082/bangla/channeli.m3u8
+#EXTINF:-1,ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1,NTV
+http://10.16.100.203:8082/bangla/ntv.m3u8
+#EXTINF:-1,RTV
+http://10.16.100.203:8082/bangla/rtv.m3u8
+#EXTINF:-1,Bangla Vision
+http://10.16.100.203:8082/bangla/banglavision.m3u8
+#EXTINF:-1,Ekushe TV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1,Boisakhi TV
+http://10.16.100.203:8082/bangla/boisakhi.m3u8
+#EXTINF:-1,My TV
+http://10.16.100.203:8082/bangla/mytv.m3u8
+#EXTINF:-1,Asian TV
+http://10.16.100.203:8082/bangla/asian.m3u8
+#EXTINF:-1,Mohona TV
+http://10.16.100.203:8082/bangla/mohonatv.m3u8
+#EXTINF:-1,Desh TV
+http://10.16.100.203:8082/bangla/desh.m3u8
+#EXTINF:-1,Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1,Nagorik
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1,ATN News
+http://10.16.100.203:8082/bangla/atnnewslondon.m3u8
+#EXTINF:-1,Somoy TV
+http://10.16.100.203:8082/bangla/somoy.m3u8
+#EXTINF:-1,independent
+http://10.16.100.203:8082/bangla/independent.m3u
+#EXTINF:-1,Ekator TV
+http://10.16.100.203:8082/bangla/ekatoortv.m3u8
+#EXTINF:-1,Jamuna TV
+http://10.16.100.203:8082/bangla/jamunatv.m3u8
+#EXTINF:-1,Channel 24
+http://10.16.100.203:8082/bangla/channel24.m3u8
+#EXTINF:-1,Star Jalsha
+http://10.16.100.203:8082/bangla/STARJALSHA.m3u8
+#EXTINF:-1,Sony Aath
+http://10.16.100.203:8082/bangla/sonyaath.m3u8
+#EXTINF:-1,Zee Bangla
+http://10.16.100.203:8082/bangla/zbangla.m3u8
+#EXTINF:-1,Colors Bangla
+http://10.16.100.203:8082/bangla/colorsbangla.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://10.16.100.207:8082/sports/ssselectoneHD.m3u8
+#EXTINF:-1,Star Sports 1
+http://10.16.100.201:8082/hindi/STARSPORTS1.m3u8
+#EXTINF:-1,Star Sports 2
+http://10.16.100.241/exthls/starsports2_TV.m3u8
+#EXTINF:-1,Sony Ten 1
+http://10.16.100.241/exthls/sonyten1.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://10.16.100.201:8082/hindi/SONYTEN2.m3u8
+#EXTINF:-1,Sony Six
+http://10.16.100.241/exthls/sony_six.m3u8
+#EXTINF:-1,Sony Espn HD
+http://10.16.100.207:8082/sports/sony_ESPN_hd.m3u8
+#EXTINF:-1,Sony TV
+http://10.16.100.207:8082/sports/sonyhd.m3u8
+#EXTINF:-1,Colors
+http://10.16.100.201:8082/hindi/colors.m3u8
+#EXTINF:-1,Zee TV
+http://10.16.100.201:8082/hindi/ZeeTV.m3u8
+#EXTINF:-1,Sony Sab
+http://10.16.100.201:8082/hindi/sonysab.m3u8
+#EXTINF:-1,Set Max HD
+http://10.16.100.238:8080/hls/setmaxhd_720.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://10.16.100.201:8082/hindi/ZeeCinemaHD.m3u8
+#EXTINF:-1,B4U Movies
+http://10.16.100.201:8082/hindi/B4UMOVIES.m3u8
+#EXTINF:-1,Sony BBC Earth
+http://10.16.100.241/exthls/sonybbcearth_hd.m3u8
+#EXTINF:-1,9XM
+http://10.16.100.207:8082/sports/9xm_music.m3u8
+#EXTINF:-1,Sony Mix
+http://10.16.100.201:8082/hindi/sonymix.m3u8
+#EXTINF:-1,B4U Music
+http://10.16.100.207:8082/sports/b4u_music_india.m3u8
+#EXTINF:-1,Music India
+http://10.16.100.207:8082/sports/musicindia.m3u8
+#EXTINF:-1,Zee ETC
+http://10.16.100.201:8082/hindi/ZeeETC.m3u8
+#EXTINF:-1,Wow Music
+http://10.16.100.201:8082/hindi/wowmusic.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1,Dhoom Music
+http://10.16.100.201:8082/hindi/dhoommusic_720p.m3u8
