@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery
+http://103.81.104.222/live/discovery-ch/index.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic
+http://103.81.104.222/live/national-geographic/index.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://103.81.104.222/live/startsports-select-1hd/index.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://103.81.104.222/live/startsports-select-2hd/index.m3u8
+#EXTINF:-1,Ten Sports
+http://103.81.104.222/live/ten-cricket/index.m3u8
+#EXTINF:-1,HBO (India)
+http://103.81.104.222/live/hbo/index.m3u8
+#EXTINF:-1,UTV Action
+http://103.81.104.222/live/utv-action/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://103.81.104.222/live/animal-planet-hd/index.m3u8
+#EXTINF:-1,History TV 18 HD
+http://103.81.104.222/live/history-tv/index.m3u8
+#EXTINF:-1,Travel XP
+http://103.81.104.222/live/travelxp/index.m3u8
