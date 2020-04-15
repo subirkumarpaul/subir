@@ -27,6 +27,8 @@ https://bracnet.iptv.jadoodigital.com/live/ekushey_tv/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1,desh_tv
 https://bracnet.iptv.jadoodigital.com/live/desh_tv/chunks.m3u8
+#EXTINF:-1,duronto_tv
+https://bracnet.iptv.jadoodigital.com/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,boishakhi_tv
 https://bracnet.iptv.jadoodigital.com/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1,bangla_vision
