@@ -71,10 +71,12 @@ http://43.230.123.21:8080/live/dbc.m3u8
 http://103.205.133.42:1935/local/dbc_news_720/index.m3u8
 #EXTINF:-1,Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
-#EXTINF:-1,Somoy TV
+#EXTINF:-1,Somoy News
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
+#EXTINF:-1,Somoy News
+http://cdn-somoy-bdxjag004.jagobd.com:1932/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 #EXTINF:-1,Jamuna TV
