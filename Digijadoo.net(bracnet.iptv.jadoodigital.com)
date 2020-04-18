@@ -81,13 +81,21 @@ https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,nat_geo_people
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1,Fox Life (India)
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1,bbc_lifestyle
 https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,history_tv_hd
 https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,bbc_world
 https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
-#EXTINF:-1,nickelodeon
+#EXTINF:-1,CNN International
+https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
+#EXTINF:-1,Al Jazeera
+https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
+#EXTINF:-1,Nickelodeon
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Children TV",Sonic Bangla
+https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
 #EXTINF:-1,Zoom
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks
