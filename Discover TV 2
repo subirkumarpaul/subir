@@ -132,7 +132,7 @@ http://103.205.133.42:1935/local/sony_aath_720/index.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1,Colors Bangla
-http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
+http://163.172.29.246:8081/globeworld2020/colorsbangla/playlist.m3u8
 #EXTINF:-1,Colour Bangla
 http://43.230.123.21:8080/live/colors-bangla.m3u8
 #EXTINF:-1,Akaash Aath
