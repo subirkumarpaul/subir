@@ -89,3 +89,5 @@ https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
 #EXTINF:-1,nickelodeon
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,Zoom
+https://bracnet.iptv.jadoodigital.com/live/zoom/chunks
