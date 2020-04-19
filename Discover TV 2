@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,BTV
+#EXTINF:-1group-title="Entertainment",BTV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1,BTV World
 http://103.214.202.218:8081/live/btvworld/chunks.m3u8
