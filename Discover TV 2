@@ -71,8 +71,11 @@ http://43.230.123.21:8080/live/chi.m3u8
 http://103.205.133.42:1935/local/channel_i_720/index.m3u8
 #EXTINF:-1,MY TV
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
+#EXTINF:-1,Jhankar TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
 
-#EXTINF:-1,ATN News
+
+#EXTINF:-1group-title="Bangladesi News",ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1,ATN News
 http://43.230.123.21:8080/live/ex-atnae.m3u8
@@ -111,7 +114,7 @@ http://103.205.133.42:1935/local/channel_24_720/index.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 
-#EXTINF:-1,Movie Bangla
+#EXTINF:-1group-title="Bangladesi Movies",Movie Bangla
 http://103.214.202.218:8081/live/moviebangla/chunks.m3u8
 #EXTINF:-1,My Cinema
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
@@ -119,7 +122,7 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1group-title="Religion Channel",ATN Islamic TV
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 
-#EXTINF:-1group-title="Bangla Music",ATN Music
+#EXTINF:-1group-title="Bangladesi Music",ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
@@ -127,8 +130,6 @@ http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
 http://43.230.123.21:8080/live/gan.m3u8
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:-1,Jhankar Music
-http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
 
 #EXTINF:-1group-title="Indian Bangla",Star Jalsha
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
@@ -165,7 +166,7 @@ http://103.205.133.42:1935/local/dd_bangla_720/index.m3u8
 http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Indian Bangla Movies",Jalsha Movies
 http://103.115.159.37:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
@@ -173,6 +174,7 @@ http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 http://43.230.123.21:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/index.m3u8
+
 #EXTINF:-1group-title="Indian Bangla Music",Sangeet Bangla
 http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
 
@@ -461,8 +463,6 @@ http://103.205.133.42:1935/local/nhk_world_720/index.m3u8
 http://103.205.133.42:1935/local/tv5_monde_720/index.m3u8
 #EXTINF:-1,Euro News
 http://103.205.133.42:1935/local/euro_news_720/index.m3u8
-#EXTINF:-1,CCTV 4
-http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 #EXTINF:-1,Rai Italia
 http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
 #EXTINF:-1,Australia Plus
@@ -470,12 +470,18 @@ http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
 #EXTINF:-1,Wion TV
 http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 
+#EXTINF:-1group-title="China Channel",CCTV 4
+http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
+
+
+
 #EXTINF:-1group-title="Kids Channel",NICK
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
+
 #EXTINF:-1group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 
