@@ -113,9 +113,9 @@ http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 #EXTINF:-1,My Cinema
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1,ATN Islamic TV
+#EXTINF:-1group-title="Religion Channel",ATN Islamic TV
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
-#EXTINF:-1,ATN Music
+#EXTINF:-1group-title="Bangla Music",ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
@@ -125,7 +125,7 @@ http://43.230.123.21:8080/live/gan.m3u8
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Jhankar Music
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1group-title="Indian Bangla",Star Jalsha
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1,Star Jslsha
 http://43.230.123.21:8080/live/star-jalsha.m3u8
@@ -171,7 +171,7 @@ http://103.205.133.42:1935/local/zee_bangla_cinema_720/index.m3u8
 http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1,Star Plus
+#EXTINF:-1group-title="Hinde",Star Plus
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
 #EXTINF:-1,Star Plus
 http://43.230.123.21:8080/live/star-plus.m3u8
@@ -201,7 +201,7 @@ http://43.230.123.21:8080/live/colors.m3u8
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.42:1935/local/live/ntv_720/index.m3u8
-#EXTINF:-1,Star Gold
+#EXTINF:-1group-title="Hinde Movies",Star Gold
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
 #EXTINF:-1,Star Gold
 http://43.230.123.21:8080/live/star-gold.m3u8
@@ -235,7 +235,7 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Bflix
 http://103.205.133.42:1935/local/bflix_720/index.m3u8
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1group-title="Sports",Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
@@ -329,7 +329,7 @@ http://43.230.123.21:8080/live/bein-sports-2.m3u8
 http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1,Bein Sports FR 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1group-title="Information Channel",Discovery
 http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
 #EXTINF:-1,Discovery
 http://43.230.123.21:8080/live/discovery.m3u8
@@ -361,7 +361,7 @@ http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Hum Masala
 http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
-#EXTINF:-1,Star Movies
+#EXTINF:-1group-title="English Movies",Star Movies
 http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies
 http://43.230.123.21:8080/live/star-movies.m3u8
@@ -401,7 +401,7 @@ http://43.230.123.21:8080/live/color-Infinity.m3u8
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
-#EXTINF:-1,MTV In
+#EXTINF:-1group-title="Music",MTV In
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Zoom
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
@@ -429,7 +429,7 @@ http://103.205.133.42:1935/local/ary_music_720/index.m3u8
 http://103.214.202.218:8081/live/9xo/playlist.m3u8
 #EXTINF:-1,9X0
 http://103.205.133.42:1935/local/9xo_7 no20/index.m3u8
-#EXTINF:-1,Arirang World
+#EXTINF:-1group-title="English News",Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1,CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
@@ -455,12 +455,12 @@ http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
 #EXTINF:-1,Wion TV
 http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1group-title="Kids Channel",NICK
 http://43.230.123.21:8080/live/nick.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Children TV",Nick (Bangla)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
-#EXTINF:-1,Quran Tv
+#EXTINF:-1group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 
