@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1group-title="Entertainment",BTV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
@@ -63,6 +64,8 @@ http://103.115.159.37:8080/rtv/tracks-v1a1/mono.m3u8
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 #EXTINF:-1,Baishakhi TV
 http://43.230.123.21:8080/live/boishakhi.m3u8
+#EXTINF:-1,Boishakhi TV
+https://bracnet.iptv.jadoodigital.com/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1,Bangla TV
 http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
 #EXTINF:-1,Desh TV
@@ -93,6 +96,8 @@ https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
 #EXTINF:-1,Bangla Viaion
 http://43.230.123.21:8080/live/banae3.m3u8
+#EXTINF:-1,Bangla Vision
+https://bracnet.iptv.jadoodigital.com/live/bangla_vision/chunks.m3u8
 #EXTINF:-1,Channel I
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
 #EXTINF:-1,Channel I
@@ -111,12 +116,16 @@ http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1,ATN News
 http://43.230.123.21:8080/live/ex-atnae.m3u8
+#EXTINF:-1,ATN News
+https://bracnet.iptv.jadoodigital.com/live/atn_news/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://43.230.123.21:80/live/ekattor1.m3u8
 #EXTINF:-1,Ekattor TV
 http://103.205.133.42:1935/local/ekattor_hd_720/index.m3u8
+#EXTINF:-1,Ekattor TV
+https://bracnet.iptv.jadoodigital.com/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1,News 24
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 #EXTINF:-1,News 24
@@ -127,22 +136,32 @@ http://103.214.202.218:8081/live/dbc/chunks.m3u8
 http://43.230.123.21:8080/live/dbc.m3u8
 #EXTINF:-1,DBC News
 http://103.205.133.42:1935/local/dbc_news_720/index.m3u8
+#EXTINF:-1,DBC News
+https://bracnet.iptv.jadoodigital.com/live/dbc_news/chunks.m3u8
 #EXTINF:-1,Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
+#EXTINF:-1,Independent TV
+https://bracnet.iptv.jadoodigital.com/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
 #EXTINF:-1,Somoy News
 http://cdn-somoy-bdxjag004.jagobd.com:1932/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Somoy News
+https://bracnet.iptv.jadoodigital.com/live/somoy_news/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://43.230.123.21:8080/live/ex-jamuna.m3u8
+#EXTINF:-1,Jamuna TV
+https://bracnet.iptv.jadoodigital.com/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1,Channel 24
 http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
 #EXTINF:-1,Channel 24
 http://103.205.133.42:1935/local/channel_24_720/index.m3u8
+#EXTINF:-1,Channel 24
+https://bracnet.iptv.jadoodigital.com/live/channel_24/chunks.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 
@@ -160,6 +179,8 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://43.230.123.21:8080/live/gan.m3u8
+#EXTINF:-1,Gaan Bangla
+https://bracnet.iptv.jadoodigital.comlive/gaan_bangla/chunks.m3u8
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
@@ -169,6 +190,8 @@ http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 http://43.230.123.21:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Jalsha HD
+https://bracnet.iptv.jadoodigital.com/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla
@@ -177,6 +200,8 @@ http://43.230.123.21:8080/live/zee-bangla.m3u8
 http://103.205.133.42:1935/local/zee_bangla_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Indian Bangla",Zee Bangla HD
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bangla
+https://bracnet.iptv.jadoodigital.com/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.42:1935/local/sony_aath_720/index.m3u8
 #EXTINF:-1,Sony Aath
@@ -189,6 +214,8 @@ http://163.172.29.246:8081/globeworld2020/colorsbangla/playlist.m3u8
 http://43.230.123.21:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",Colors Bangla
 http://103.115.159.37:8080/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colors Bangla
+https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
 #EXTINF:-1,Akaash Aath
 http://103.205.133.42:1935/local/akash_aath_720/index.m3u8
 #EXTINF:-1,DD Bangla
@@ -200,6 +227,8 @@ http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Indian Bangla Movies",Jalsha Movies
 http://103.115.159.37:8080/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jalsha Movies
+https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -559,68 +588,4 @@ http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 #EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTM3U
-
-
-
-
-
-
-#EXTINF:-1,asian_tv
-https://bracnet.iptv.jadoodigital.com/live/asian_tv/chunks.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1,boishakhi_tv
-https://bracnet.iptv.jadoodigital.com/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1,bangla_vision
-https://bracnet.iptv.jadoodigital.com/live/bangla_vision/chunks.m3u8
-#EXTINF:-1,somoy_news
-https://bracnet.iptv.jadoodigital.com/live/somoy_news/chunks.m3u8
-#EXTINF:-1,atn_news
-https://bracnet.iptv.jadoodigital.com/live/atn_news/chunks.m3u8
-#EXTINF:-1,ekattor_tv
-https://bracnet.iptv.jadoodigital.com/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,independent_tv
-https://bracnet.iptv.jadoodigital.com/live/independent_tv/chunks.m3u8
-#EXTINF:-1,jamuna_tv
-https://bracnet.iptv.jadoodigital.com/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,channel_24
-https://bracnet.iptv.jadoodigital.com/live/channel_24/chunks.m3u8
-#EXTINF:-1,dbc_news
-https://bracnet.iptv.jadoodigital.com/live/dbc_news/chunks.m3u8
-#EXTINF:-1,gaan_bangla
-https://bracnet.iptv.jadoodigital.comlive/gaan_bangla/chunks.m3u8
-#EXTINF:-1,star_jalsha_hd
-https://bracnet.iptv.jadoodigital.com/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,zee_bangla
-https://bracnet.iptv.jadoodigital.com/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,colors_bangla
-https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
-#EXTINF:-1,Jalsha Movies
-https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
 
