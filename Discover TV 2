@@ -35,16 +35,24 @@ http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
+#EXTINF:-1,Deepto TV HD
+https://bracnet.iptv.jadoodigital.com/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,Asian TV
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
+#EXTINF:-1,Asian TV
+https://bracnet.iptv.jadoodigital.com/live/asian_tv/chunks.m3u8
 #EXTINF:-1,Ananda TV
 http://103.205.133.42:1935/local/ananda_tv_720/index.m3u8
 #EXTINF:-1,NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
+#EXTINF:-1,NTV
+https://bracnet.iptv.jadoodigital.com/live/ntv/chunks.m3u8
 #EXTINF:-1,RTV
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
 #EXTINF:-1,RTV
 http://43.230.123.21:8080/live/rtv.m3u8
+#EXTINF:-1,RTV
+https://bracnet.iptv.jadoodigital.com/live/rtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Entertainment",RTV
 http://103.115.159.37:8080/rtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Boishakhi TV
@@ -71,6 +79,8 @@ http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
 http://43.230.123.21:8080/live/atnbd1.m3u8
 #EXTINF:-1,ATN Bangla
 http://103.144.200.7:8080/hls/atnbangla/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
 #EXTINF:-1,Bangla Viaion
@@ -81,6 +91,8 @@ http://103.214.202.218:8081/live/channeli/chunks.m3u8
 http://43.230.123.21:8080/live/chi.m3u8
 #EXTINF:-1,Channel I
 http://103.205.133.42:1935/local/channel_i_720/index.m3u8
+#EXTINF:-1,Channel I
+https://bracnet.iptv.jadoodigital.com/live/channel_i/chunks.m3u8
 #EXTINF:-1,MY TV
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
 #EXTINF:-1,Jhankar TV
@@ -513,18 +525,13 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 
 
-#EXTINF:-1,deepto_tv
-https://bracnet.iptv.jadoodigital.com/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,atn_bangla
-https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,channel_i
-https://bracnet.iptv.jadoodigital.com/live/channel_i/chunks.m3u8
-#EXTINF:-1,ntv
-https://bracnet.iptv.jadoodigital.com/live/ntv/chunks.m3u8
-#EXTINF:-1,rtv
-https://bracnet.iptv.jadoodigital.com/live/rtv/chunks.m3u8
+
 #EXTINF:-1,asian_tv
 https://bracnet.iptv.jadoodigital.com/live/asian_tv/chunks.m3u8
+
+
+
+
 #EXTINF:-1,ekushey_tv
 https://bracnet.iptv.jadoodigital.com/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1,nagorik_tv
