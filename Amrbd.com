@@ -167,6 +167,8 @@ http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
 #EXTINF:-1,History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
+#EXTINF:-1,BBC Earth
+http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
 #EXTINF:-1,Star Movies
 http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,And Prive
@@ -191,12 +193,6 @@ http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
-#EXTINF:-1,BBC World
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/tcW2_Emy8kiJfPPb52jR9Q/1585422059/bbc_world_low/index.m3u8
-#EXTINF:-1,All Jazeera
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/hjDWaiVsn1W1gQw3SBj8lA/1585421616/al_jazeera_low/index.m3u8
-#EXTINF:-1,DE
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/k3xSQuTCPg1OoLeWSyNmMg/1585421675/dw_low/index.m3u8
 #EXTINF:-1,MTV In
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Zoom
