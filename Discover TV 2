@@ -486,4 +486,5 @@ http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
 #EXTINF:-1group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
-
+#EXTINF:-1,Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
