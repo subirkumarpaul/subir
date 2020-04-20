@@ -217,6 +217,10 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
 #EXTINF:-1,Star Plus
 http://43.230.123.21:8080/live/star-plus.m3u8
+#EXTINF:-1,Star Plus
+https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
+#EXTINF:-1,Star Plus HD
+https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
@@ -235,19 +239,27 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 http://43.230.123.21:8080/live/zee-tv.m3u8
 #EXTINF:-1,Zee TV
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee TV
+https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1,Zee TV HD
 http://103.205.133.42:1935/local/zee_tv_hd_720/index.m3u8
 #EXTINF:-1,Colors
 http://43.230.123.21:8080/live/colors.m3u8
+#EXTINF:-1,Colors HD
+https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1,And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.42:1935/local/live/ntv_720/index.m3u8
+#EXTINF:-1,Star Bharat
+https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 
 #EXTINF:-1group-title="Hinde Movies",Star Gold
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
 #EXTINF:-1,Star Gold
 http://43.230.123.21:8080/live/star-gold.m3u8
+#EXTINF:-1,Star Gold
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,Star Gold Select
@@ -268,10 +280,14 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 http://43.230.123.21:8080/live/zee-cinema.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.42:1935/local/zee_cinema_720/index.m3u8
+#EXTINF:-1,Zee Cinema
+https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,Zee Action
 http://103.205.133.42:1935/local/zee_action_720/index.m3u8
+#EXTINF:-1,Zee Bollywood
+https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,B4U Kadak
@@ -396,14 +412,24 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://43.230.123.21:8080/live/natg.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,Nat Geo People
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
+#EXTINF:-1,Nat Geo People
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1,History TV
 http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1,History TV HD
+https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Information Channel",Fox Life (Bangla)
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox Life (India)
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1,Hum Masala
 http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
 
@@ -447,11 +473,15 @@ http://43.230.123.21:8080/live/color-Infinity.m3u8
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
+#EXTINF:-1,Star World
+https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 
 #EXTINF:-1group-title="Music",MTV In
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Zoom
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
+#EXTINF:-1,Zoom
+https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
 #EXTINF:-1,Zing
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1,Music India
@@ -477,12 +507,19 @@ http://103.214.202.218:8081/live/9xo/playlist.m3u8
 #EXTINF:-1,9X0
 http://103.205.133.42:1935/local/9xo_7 no20/index.m3u8
 
-#EXTINF:-1group-title="English News",Arirang World
+
+#EXTINF:-1 group-title="English News",BBC World
+https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
+#EXTINF:-1,CNN International
+https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
+#EXTINF:-1,Al Jazeera
+https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
+#EXTINF:-1,Al Jazeera
+http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
+#EXTINF:-1,Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1,CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
-#EXTINF:-1,Al Jazeera
-http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
 #EXTINF:-1,PTV World
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
 #EXTINF:-1,DW
@@ -511,6 +548,10 @@ http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nickelodeon
+https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
+https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
 #EXTINF:-1,Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
@@ -572,47 +613,14 @@ https://bracnet.iptv.jadoodigital.com/live/zee_bangla/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
 https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,star_plus
-https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
-#EXTINF:-1,star_plus_hd
-https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1,colors_hd
-https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
-#EXTINF:-1,zee_tv
-https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
-#EXTINF:-1,star_bharat
-https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1,star_gold
-https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1,Star Gold 2
-https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1,zee_cinema
-https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,Zee Bollywood
-https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
-#EXTINF:-1,star_world
-https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
-#EXTINF:-1,nat_geo_wild
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,nat_geo_people
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,Fox Life (India)
-https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1,bbc_lifestyle
-https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1,history_tv_hd
-https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1,bbc_world
-https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
-#EXTINF:-1,CNN International
-https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
-#EXTINF:-1,Al Jazeera
-https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
-#EXTINF:-1,Nickelodeon
-https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Children TV",Sonic Bangla
-https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
-#EXTINF:-1,Zoom
-https://bracnet.iptv.jadoodigital.com/live/zoom/chunks
+
+
+
+
+
+
+
+
+
 
 
