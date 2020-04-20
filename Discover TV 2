@@ -240,6 +240,8 @@ http://103.205.133.42:1935/local/zee_bangla_cinema_720/index.m3u8
 
 #EXTINF:-1group-title="Indian Bangla Music",Sangeet Bangla
 http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 
 #EXTINF:-1group-title="Indian Bangla News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
