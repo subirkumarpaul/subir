@@ -284,6 +284,8 @@ http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 http://103.205.133.42:1935/local/live/ntv_720/index.m3u8
 #EXTINF:-1,Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
+#EXTINF:-1,Colors Rishtey
+https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 
 #EXTINF:-1group-title="Hinde Movies",Star Gold
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
