@@ -585,6 +585,8 @@ http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
 https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
+#EXTINF:-1,Nick Jr
+https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1,Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
