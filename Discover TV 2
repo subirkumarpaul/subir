@@ -3,24 +3,32 @@
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1,BTV World
 http://103.214.202.218:8081/live/btvworld/chunks.m3u8
+#EXTINF:-1,BTV World
+https://bracnet.iptv.jadoodigital.com/live/btv_world/chunks.m3u8
 #EXTINF:-1,Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1,Gazi TV
 http://43.230.123.21:8080/live/gazi-tv.m3u8
 #EXTINF:-1,Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1,Gazi TV
+https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1,Maasranga TV*
 http://43.230.123.21:8080/live/mass.m3u8
 #EXTINF:-1,Maasranga TV
 http://43.230.123.21:8080/live/maasranga.m3u8
+#EXTINF:-1,Maasranga TV
+https://bracnet.iptv.jadoodigital.com/live/maasranga/chunks.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://43.230.123.21:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9 HD BD
 http://103.115.159.37:8080/channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 9
+https://bracnet.iptv.jadoodigital.com/live/channel_9/chunks.m3u8
 #EXTINF:-1,Ekushey TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1,Bijoy TV
@@ -49,6 +57,8 @@ http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
 http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
 #EXTINF:-1,SATV
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
+#EXTINF:-1,SATV
+https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Entertainment",Nagorik TV
@@ -498,16 +508,11 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 
 #EXTM3U
-#EXTINF:-1,btv_world
-https://bracnet.iptv.jadoodigital.com/live/btv_world/chunks.m3u8
-#EXTINF:-1,sa_tv
-https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
-#EXTINF:-1,gazi_tv
-https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,maasranga
-https://bracnet.iptv.jadoodigital.com/live/maasranga/chunks.m3u8
-#EXTINF:-1,channel_9
-https://bracnet.iptv.jadoodigital.com/live/channel_9/chunks.m3u8
+
+
+
+
+
 #EXTINF:-1,deepto_tv
 https://bracnet.iptv.jadoodigital.com/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,atn_bangla
