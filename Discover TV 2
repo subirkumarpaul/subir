@@ -250,7 +250,7 @@ https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
-#EXTINF:-1group-title="Hinde",Star Plus
+#EXTINF:-1group-title="Hinde",Star Plus HD
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
 #EXTINF:-1,Star Plus
 http://43.230.123.21:8080/live/star-plus.m3u8
@@ -297,17 +297,17 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1,Colors Rishtey
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 
-#EXTINF:-1group-title="Hinde Movies",Star Gold
+#EXTINF:-1group-title="Hinde Movies",Star Gold HD
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
 #EXTINF:-1,Star Gold
 http://43.230.123.21:8080/live/star-gold.m3u8
-#EXTINF:-1,Star Gold
+#EXTINF:-1,Star Gold HD
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
-#EXTINF:-1,Sony Max
+#EXTINF:-1,Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1,Sony Max
 http://43.230.123.21:8080/live/sony-max.m3u8
