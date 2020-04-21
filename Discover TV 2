@@ -42,11 +42,11 @@ http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
 #EXTINF:-1,Deepto TV HD
 https://bracnet.iptv.jadoodigital.com/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,Asian TV
+#EXTINF:-1tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg",Asian TV
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
-#EXTINF:-1,Asian TV
+#EXTINF:-1tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg",Asian TV
 https://bracnet.iptv.jadoodigital.com/live/asian_tv/chunks.m3u8
-#EXTINF:-1,Ananda TV
+#EXTINF:-1tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg",Ananda TV
 http://103.205.133.42:1935/local/ananda_tv_720/index.m3u8
 #EXTINF:-1,NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
@@ -66,7 +66,7 @@ http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 http://43.230.123.21:8080/live/boishakhi.m3u8
 #EXTINF:-1,Boishakhi TV
 https://bracnet.iptv.jadoodigital.com/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1,Bangla TV
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg",Bangla TV
 http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
 #EXTINF:-1,Desh TV
 http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
@@ -84,13 +84,13 @@ http://103.115.159.37:8080/nagorik/tracks-v1a1/mono.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1,Mohona TV
 http://103.214.202.218:8081/live/mohona/chunks.m3u8
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png",ATN Bangla
 http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png",ATN Bangla
 http://43.230.123.21:8080/live/atnbd1.m3u8
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png",ATN Bangla
 http://103.144.200.7:8080/hls/atnbangla/index.m3u8
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png",ATN Bangla
 https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
@@ -112,11 +112,11 @@ http://103.214.202.218:8081/live/mytv/chunks.m3u8
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
 
 
-#EXTINF:-1group-title="Bangladesi News",ATN News
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF"group-title="Bangladesi News",ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF",ATN News
 http://43.230.123.21:8080/live/ex-atnae.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF",ATN News
 https://bracnet.iptv.jadoodigital.com/live/atn_news/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
