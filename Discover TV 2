@@ -168,7 +168,7 @@ http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
 http://103.205.133.42:1935/local/channel_24_720/index.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/240px-Channel24logo.svg.png",Channel 24
 https://bracnet.iptv.jadoodigital.com/live/channel_24/chunks.m3u8
-#EXTINF:-1,TBN 24
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/images/logo.png",TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 
 #EXTINF:-1group-title="Bangladesi Movies",Movie Bangla
