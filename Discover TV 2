@@ -6,7 +6,7 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.214.202.218:8081/live/btvworld/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",BTV World
 https://bracnet.iptv.jadoodigital.com/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.banglanews24.com/media/imgAll/2019March/sm/sm20190409231219.jpg",BTV Chottogram
+#EXTINF:-1 tvg-logo="ht hitps://www.banglanews24.com/media/imgAll/2019March/sm/sm20190409231219.jpg",BTV Chottogram
 http://103.141.66.36/bpk-tv/10335/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Sangsad TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -592,11 +592,11 @@ http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
 #EXTINF:-1,Wion TV
 http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 
-#EXTINF:-1group-title="China Channel",CCTV 4
+#EXTINF:-1 group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
-
-
+#EXTINF:-1 group-title="Kids Channel",Cartoon Network
+http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
