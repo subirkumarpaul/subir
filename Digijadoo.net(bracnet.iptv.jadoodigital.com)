@@ -73,12 +73,16 @@ https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,zee_cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,Colors Cineplex
+#EXTINF:-1,Colors Rishtey
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 #EXTINF:-1,Zee Bollywood
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
+#EXTINF:-1,Manoranjan TV
+https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1,star_world
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1,Movies Now
+https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 #EXTINF:-1,nat_geo_wild
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,nat_geo_people
@@ -89,6 +93,8 @@ https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,history_tv_hd
 https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1,FYI
+https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,bbc_world
 https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
 #EXTINF:-1,CNN International
@@ -102,4 +108,6 @@ https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
 #EXTINF:-1,Nick Jr
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1,Zoom
-https://bracnet.iptv.jadoodigital.com/live/zoom/chunks
+https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
+#EXTINF:-1,VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
