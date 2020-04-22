@@ -26,6 +26,8 @@ http://43.231.22.238:8081/BONGOTV/bongo/chunks.m3u8
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.42:1935/local/sony_aath_720/playlist.m3u8
+#EXTINF:-1,Zee Bangla
+http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/playlist.m3u8
 #EXTINF:-1,Sangeet Bangla
@@ -54,6 +56,8 @@ http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
 http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
 #EXTINF:-1,Khushboo TV
 http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
+#EXTINF:-1,Star Plus
+http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.42:1935/local/sony_entertainment_720/playlist.m3u8
 #EXTINF:-1,Zee TV HD
@@ -75,7 +79,9 @@ http://103.205.133.42:1935/local/sony_sab_720/playlist.m3u8
 #EXTINF:-1,Sony Max
 http://103.205.133.42:1935/local/sony_max_720/playlist.m3u8
 #EXTINF:-1,Zee Cinema
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8 
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
+#EXTINF:-1,Zee Cinema
+http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1,Zee Cinema USA
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8 
 #EXTINF:-1,Zee Cinema UK
@@ -130,3 +136,4 @@ http://183.182.100.184/live/pptvthai/chunklist.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1,Sports Max
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+
