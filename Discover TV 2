@@ -475,7 +475,7 @@ https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg",Fox Life (India)
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1,FYI
+#EXTINF:-1,FYI 18 HD
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,Hum Masala
 http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
