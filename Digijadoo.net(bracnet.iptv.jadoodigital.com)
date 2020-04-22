@@ -55,6 +55,8 @@ https://bracnet.iptv.jadoodigital.com/live/star_jalsha_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,colors_bangla
 https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
+#EXTINF:-1,Colors Bangla HD
+https://bracnet.iptv.jadoodigital.com/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
 https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1,star_plus
