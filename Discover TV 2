@@ -337,6 +337,8 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Bflix
 http://103.205.133.42:1935/local/bflix_720/index.m3u8
+#EXTINF:-1,Manoranjan TV
+https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 
 #EXTINF:-1group-title="Sports",Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
@@ -473,6 +475,8 @@ https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg",Fox Life (India)
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
+#EXTINF:-1,FYI
+https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,Hum Masala
 http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
 
@@ -508,12 +512,16 @@ http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+#EXTINF:-1,Movies Now
+https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 #EXTINF:-1,Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1,Colour Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
 #EXTINF:-1,Lotus Macau
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
+#EXTINF:-1,Lotus Macau
+https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
 #EXTINF:-1,Star World
@@ -545,6 +553,8 @@ http://103.144.200.7:8080/hls/masti2/index.m3u8
 http://103.144.200.7:8080/hls/mtvbts/index.m3u8
 #EXTINF:-1,ARY Music
 http://103.205.133.42:1935/local/ary_music_720/index.m3u8
+#EXTINF:-1,VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1,9XO
 http://103.214.202.218:8081/live/9xo/playlist.m3u8
 #EXTINF:-1,9X0
