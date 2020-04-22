@@ -87,6 +87,8 @@ https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 #EXTINF:-1,Macau Lotus
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1,nat_geo_wild
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,nat_geo_people
