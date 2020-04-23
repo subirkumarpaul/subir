@@ -516,6 +516,8 @@ http://103.214.202.218:8081/live/hbohd/playlist.m3u8
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MBC Movies
 http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
+#EXTINF:-1,MBC Movies
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
 #EXTINF:-1,MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,Movies Now
