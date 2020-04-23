@@ -577,6 +577,8 @@ https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
 #EXTINF:-1,Al Jazeera
 http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
+#EXTINF:-1,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,NDTV Profit
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
 #EXTINF:-1,Arirang World
