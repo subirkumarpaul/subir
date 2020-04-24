@@ -2,11 +2,74 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",Gazi TV*
 http://103.213.238.70:8080/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Dhoom Music
-http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.213.238.70:8080/live/maasranga/chunks.m3u8
+#EXTINF:-1,Channel 9
+http://103.213.238.70:8080/live/channel_9/chunks.m3u8
+#EXTINF:-1,Deepto TV
+http://103.213.238.70:8080/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,ATN Bangla
 http://cdn.ihub.live:8080/live/atn_bangla/chunks.m3u8
+#EXTINF:-1,Channel I
+http://103.213.238.70:8080/live/channel_i/chunks.m3u8
+
+http://103.213.238.70:8080/live/ntv/chunks.m3u8
+
+http://103.213.238.70:8080/live/rtv/chunks.m3u8
+
+http://103.213.238.70:8080/live/desh_tv/chunks.m3u8
+#EXTINF:-1,Bangla Vision
+http://103.213.238.70:8080/live/bangla_vision/chunks.m3u8
+#EXTINF:-1,Boishakhi TV
+http://103.213.238.70:8080/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1,Asian TV
+http://103.213.238.70:8080/live/asian_tv/chunks.m3u8
+#EXTINF:-1,MY TV
+http://103.213.238.70:8080/live/my_tv/chunks.m3u8
+
+http://103.213.238.70:8080/live/nagorik_tv/chunks.m3u8
+
+http://103.213.238.70:8080/live/mohona_tv/chunks.m3u8
+
+http://103.213.238.70:8080/live/sa_tv/chunks.m3u8
+
+http://103.213.238.70:8080/live/gaan_bangla/chunks.m3u8
+
+
+
+
+#EXTINF:-1,ATN News
+http://103.213.238.70:8080/live/atn_news/chunks.m3u8
+#EXTINF:-1,Ekattor TV
+http://103.213.238.70:8080/live/ekattor_tv/chunks.m3u8
+#EXTINF:-1,DBC News
+http://103.213.238.70:8080/live/dbc_news/chunks.m3u8
+#EXTINF:-1,Somoy News
+http://103.213.238.70:8080/live/somoy_news/chunks.m3u8
+#EXTINF:-1,Channel 24
+http://103.213.238.70:8080/live/channel_24/chunks.m3u8
+#EXTINF:-1,Independent TV
+http://103.213.238.70:8080/live/independent_tv/chunks.m3u8
+#EXTINF:-1,Jamuna TV
+http://103.213.238.70:8080/live/jamuna_tv/chunks.m3u8
+
+
 #EXTINF:-1,Zee Bangla
 http://103.213.238.70:8080/live/zee_bangla/chunks.m3u8
+#EXTINF:-1,Colors Bangla
+http://103.213.238.70:8080/live/colors_bangla/chunks.m3u8
+#EXTINF:-1,Dhoom Music
+http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
+#EXTINF:-1,Zee Cinema
+http://103.213.238.70:8080/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,Zee TV
+http://103.213.238.70:8080/live/zee_tv/chunks.m3u8
+#EXTINF:-1,Movies Now
+http://103.213.238.70:8080/live/movies_now/chunks.m3u8
+#EXTINF:-1,Star Plus
+http://103.213.238.70:8080/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1,Star Plus
+http://103.213.238.70:8080/live/star_gold/chunks.m3u8
+
+
+
