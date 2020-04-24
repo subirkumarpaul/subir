@@ -290,6 +290,8 @@ http://103.205.133.42:1935/local/zee_tv_hd_720/index.m3u8
 http://43.230.123.21:8080/live/colors.m3u8
 #EXTINF:-1,Colors HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
+#EXTINF:-1,Colors
+http://104.243.41.74:25461/Ian90912/byrad2457/4599
 #EXTINF:-1,And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,And TV
@@ -406,6 +408,8 @@ http://43.230.123.21:8080/live/sonysix.m3u8
 http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 #EXTINF:-1,Sony SIX HD
 http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
+#EXTINF:-1,D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1,PTV Sports
 http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
 #EXTINF:-1,Ptv Sports
@@ -490,6 +494,8 @@ http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
 http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies
 http://43.230.123.21:8080/live/star-movies.m3u8
+#EXTINF:-1,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,AXN
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix
@@ -508,12 +514,16 @@ http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
 http://43.230.123.21:8080/live/hbo.m3u8
 #EXTINF:-1,HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
 #EXTINF:-1,HBO HD
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
 #EXTINF:-1,HBO Hits
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MBC Movies
 http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
+#EXTINF:-1,MBC Movies
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1,MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,Movies Now
@@ -524,6 +534,8 @@ https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1,Colour Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
+#EXTINF:-1,SKY Cinema Acrion
+http://104.243.41.74:25461/live/Ian90912/byrad2457/1382.m3u8
 #EXTINF:-1,Lotus Macau
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1,Lotus Macau
@@ -575,6 +587,10 @@ https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
 #EXTINF:-1,Al Jazeera
 http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
+#EXTINF:-1,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1,NDTV Profit
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
 #EXTINF:-1,Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1,CGTN
