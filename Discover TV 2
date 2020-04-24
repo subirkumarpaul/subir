@@ -514,6 +514,8 @@ http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
 http://43.230.123.21:8080/live/hbo.m3u8
 #EXTINF:-1,HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,HBO HD
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
 #EXTINF:-1,HBO Hits
