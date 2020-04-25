@@ -406,7 +406,7 @@ http://43.230.123.21:8080/live/starsportsselect-2.m3u8
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/29790059_416038015521648_5864169076589542857_n.jpg",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sony_Ten_1?file=Sony_Ten_1.jpg",Sony Ten 1
 http://43.230.123.21:8080/live/sonyten-1.m3u8
 #EXTINF:-1,Sony Ten 1 
 http://103.205.133.42:1935/local/ten_1_720/index.m3u8
