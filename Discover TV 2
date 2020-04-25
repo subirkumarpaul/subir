@@ -376,12 +376,16 @@ http://ddn.amrbd.com:8081/live/select1/chunks.m3u8
 http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
+#EXTINF:0,STAR SPOTRS SELECT 1 HD
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://ddn.amrbd.com:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://43.230.123.21:8080/live/starsportsselect-2.m3u8
+#EXTINF:0,STAR SPOTRS SELECT 2 HD
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1
@@ -463,6 +467,10 @@ http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",Animal Planet
 http://43.230.123.21:8080/live/animale-planet.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://103.205.133.42:1935/local/animal_planet_720/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://103.205.133.42:1935/local/animal_planet_hd_720/index.m3u8
 #EXTINF:-1,Sony BBC Earth
 http://103.205.133.42:1935/local/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1,Sony BBC Earth HD
@@ -483,6 +491,10 @@ http://103.214.202.218:8081/live/natgeop/playlist.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,BBC Lifestyle
 https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1,TLC
+http://103.205.133.42:1935/local/tlc_720/index.m3u8
+#EXTINF:0,TLC HD
+http://103.205.133.42:1935/local/tlc_hd_720/index.m3u8
 #EXTINF:-1,History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1,History TV
@@ -503,7 +515,9 @@ http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies
 http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,AXN
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix
