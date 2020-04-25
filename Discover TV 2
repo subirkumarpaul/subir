@@ -302,17 +302,17 @@ http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV HD
 http://103.205.133.42:1935/local/zee_tv_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo=",Colors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
 http://43.230.123.21:8080/live/colors.m3u8
-#EXTINF:-1 tvg-logo=",Colors HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Colors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
 http://104.243.41.74:25461/Ian90912/byrad2457/4599
 #EXTINF:-1 tvg-logo=",And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1 tvg-logo=",And TV
 http://103.205.133.42:1935/local/live/ntv_720/index.m3u8
-#EXTINF:-1 tvg-logo=",Star Bharat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo=",Colors Rishtey
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
@@ -325,7 +325,7 @@ http://43.230.123.21:8080/live/star-gold.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg",Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Star Gold Select
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Gold_Select?file=SGS.jpg",Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
@@ -347,7 +347,7 @@ http://43.230.123.21:8080/live/zee-cinema.m3u8
 http://103.205.133.42:1935/local/zee_cinema_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Colors Cineplex UK
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Colors_Cineplex?file=Colors_Cineplex.png",Colors Cineplex UK
 http://178.159.5.10:16
 #EXTINF:-1 tvg-logo=",Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
@@ -613,7 +613,7 @@ http://103.144.200.7:8080/hls/masti2/index.m3u8
 http://103.144.200.7:8080/hls/mtvbts/index.m3u8
 #EXTINF:-1,ARY Music
 http://103.205.133.42:1935/local/ary_music_720/index.m3u8
-#EXTINF:-1,VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png",VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1,9XO
 http://103.214.202.218:8081/live/9xo/playlist.m3u8
@@ -659,22 +659,22 @@ http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 #EXTINF:-1 group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
-#EXTINF:-1 group-title="Kids Channel",Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids Channel",Cartoon Network
 http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg",Nickelodeon
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
 https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg",Nick Jr
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
-#EXTINF:-1group-title="Religion Channel",Quran Tv
+#EXTINF:-1 group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 #EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
