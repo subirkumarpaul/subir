@@ -349,9 +349,9 @@ http://103.205.133.42:1935/local/zee_cinema_720/index.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Colors_Cineplex?file=Colors_Cineplex.png",Colors Cineplex UK
 http://178.159.5.10:16
-#EXTINF:-1 tvg-logo=",Zee Action
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Action?file=Zee_Action_new.png",Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Zee Action
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Action?file=Zee_Action_new.png",Zee Action
 http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 #EXTINF:-1 tvg-logo=",Zee Bollywood
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
