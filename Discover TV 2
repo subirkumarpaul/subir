@@ -325,7 +325,7 @@ http://43.230.123.21:8080/live/star-gold.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg",Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Gold_Select?file=SGS.jpg",Star Gold Select
+#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg",Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
