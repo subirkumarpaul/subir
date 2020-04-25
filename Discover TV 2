@@ -276,7 +276,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/setindia-live/images/logo-animated.gif",Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV
 http://ddn.amrbd.com:8081/live/sony-40/chunks.m3u8
