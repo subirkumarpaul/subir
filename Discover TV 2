@@ -276,19 +276,19 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV
 http://ddn.amrbd.com:8081/live/sony-40/chunks.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV
 http://43.230.123.21:8080/live/sonyhd.m3u8
-#EXTINF:-1,Sony TV (720p)
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV (720p)
 http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
-#EXTINF:-1,Sony TV (576p)
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV (576p)
 http://103.205.133.42:1935/local/sony_entertainment_576/index.m3u8
-#EXTINF:-1,Sony TV (320p)
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV (320p)
 http://103.205.133.42:1935/local/sony_entertainment_320/index.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File%3ASET_India.jpg",Sony TV
 http://103.111.120.46/hls/Zee_Bangla.m3u8
 #EXTINF:-1,Sony SAB
 http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
