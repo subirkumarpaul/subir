@@ -308,9 +308,9 @@ http://43.230.123.21:8080/live/colors.m3u8
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
 http://104.243.41.74:25461/Ian90912/byrad2457/4599
-#EXTINF:-1 tvg-logo=",And TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 tvg-logo=",And TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
 http://103.205.133.42:1935/local/live/ntv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
@@ -485,9 +485,9 @@ http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",Animal Planet
 http://43.230.123.21:8080/live/animale-planet.m3u8
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",ANIMAL PLANET
 http://103.205.133.42:1935/local/animal_planet_720/index.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",ANIMAL PLANET HD
 http://103.205.133.42:1935/local/animal_planet_hd_720/index.m3u8
 #EXTINF:-1,Sony BBC Earth
 http://103.205.133.42:1935/local/sony_bbc_earth_720/index.m3u8
@@ -674,8 +674,8 @@ https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
-#EXTINF:-1 group-title="Religion Channel",Quran Tv
+#EXTINF:-1 tvg-logo=" group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
-#EXTINF:-1,Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
