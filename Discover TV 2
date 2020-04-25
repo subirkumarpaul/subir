@@ -337,7 +337,7 @@ http://103.205.133.42:1935/local/sony_max_720/index.m3u8
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max HD UK
 http://178.159.5.10:18
-#EXTINF:-1 tvg-logo=",Sony Max 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",Sony Max 2
 http://43.230.123.21:8080/live/sony-max-2.m3u8
 #EXTINF:-1 tvg-logo=",Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
