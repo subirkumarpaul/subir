@@ -329,13 +329,13 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1,Sony Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://43.230.123.21:8080/live/sony-max.m3u8
-#EXTINF:-1,SONY MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://103.205.133.42:1935/local/sony_max_720/index.m3u8
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max HD
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
-#EXTINF:-1,Sony Max HD UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max HD UK
 http://178.159.5.10:18
 #EXTINF:-1,Sony Max 2
 http://43.230.123.21:8080/live/sony-max-2.m3u8
