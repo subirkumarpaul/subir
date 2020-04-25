@@ -175,6 +175,8 @@ http://fingerme.dg21bd.com/TBN24/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesi Movies",Movie Bangla
 http://103.214.202.218:8081/live/moviebangla/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesi Movies",Movie Bangla
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9YQzGcW/My-Cinema.jpg" ,My Cinema
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 
@@ -192,7 +194,7 @@ https://bracnet.iptv.jadoodigital.comlive/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png",RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jslsha
 http://43.230.123.21:8080/live/star-jalsha.m3u8
@@ -250,8 +252,12 @@ http://103.205.133.42:1935/local/zee_bangla_cinema_720/index.m3u8
 http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg",Sangeet Bangla
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg",Sangeet Bnagla
+http://103.141.66.36/bpk-tv/10129/default/manifest.mpd
 #EXTINF:-1,Dhoom Music
 http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
+#EXTINF:-1,Dhoom Music
+http://103.141.66.36/bpk-tv/10113/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
@@ -321,10 +327,12 @@ http://43.230.123.21:8080/live/star-gold-select.m3u8
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1,Sony Max
 http://43.230.123.21:8080/live/sony-max.m3u8
-#EXTINF:-1,SONY MAX HD
-http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
 #EXTINF:-1,SONY MAX
 http://103.205.133.42:1935/local/sony_max_720/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
+#EXTINF:-1,Sony Max HD UK
+http://178.159.5.10:18
 #EXTINF:-1,Sony Max 2
 http://43.230.123.21:8080/live/sony-max-2.m3u8
 #EXTINF:-1,Zee Cinema
@@ -345,6 +353,8 @@ http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1,And Picture HD
+http://103.205.133.19
 #EXTINF:-1,B4U Kadak
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Bflix
@@ -358,6 +368,8 @@ http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1
 http://43.230.123.21:8080/live/starsports-1.m3u8
+#EXTINF:-1,Star Sports 1
+http://103.115.159.37:8080/starsp1/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 http://43.230.123.21:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1,Star Sports 2
@@ -366,6 +378,8 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://43.230.123.21:8080/live/starsportshd-2.m3u8
+#EXTINF:-1,Star Sports 1
+http://103.115.159.37:8080/starsp2/index.m3u8
 #EXTINF:-1,Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:-1,Star Sports Select 1
@@ -556,6 +570,8 @@ https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1,Colour Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
+#EXTINF:-1,FOX HD
+http://103.115.159.37:8080/foxhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SKY Cinema Acrion
 http://104.243.41.74:25461/live/Ian90912/byrad2457/1382.m3u8
 #EXTINF:-1,Lotus Macau
