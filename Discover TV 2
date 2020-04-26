@@ -663,16 +663,16 @@ http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg",Nickelodeon
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoCGvNUHaqJAwGIESEgCUgnEq4BsSD36mAVnm2VKz4y_7lsNkX&usqp=CAU",Nickelodeon
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
 https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg",Nick Jr
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU",Nick Jr
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Religion Channel",Quran Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
