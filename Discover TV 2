@@ -558,31 +558,31 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=",MBC Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",MBC Movies
 http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
-#EXTINF:-1 tvg-logo=",MBC Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",MBC Movies
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 tvg-logo=",MNX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8I28wxo0C1lYCTEsXLtUz8iQ_flMH668fEw2oLcnLqngD6-Y5&usqp=CAU",MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Movies Now
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU",Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Movies Now
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU,Movies Now
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Romedy Now
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU",Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Colour Infinity
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvbrzLg6N9Ir71AbgfQwkrzM8rqbf3JoD_F6KI58b6B0Pt5nL8&usqp=CAU",Colour Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
-#EXTINF:-1 tvg-logo=",FOX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFjhwQmbdCANtan757wG0tidA83CC8ItiblRxE83qQE1NDEBui&usqp=CAU",FOX HD
 http://103.115.159.37:8080/foxhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",SKY Cinema Acrion
 http://104.243.41.74:25461/live/Ian90912/byrad2457/1382.m3u8
-#EXTINF:-1 tvg-logo=",Lotus Macau
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ7YHYl4fjEo-hNtmgO0ieEmyfNKIUA-LFrx4JUDPexARQwFs4&usqp=CAU",Lotus Macau
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
-#EXTINF:-1 tvg-logo=",Lotus Macau
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ7YHYl4fjEo-hNtmgO0ieEmyfNKIUA-LFrx4JUDPexARQwFs4&usqp=CAU",Lotus Macau
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Star World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
-#EXTINF:-1 tvg-logo=",Star World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" group-title="Music",MTV In
