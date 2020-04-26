@@ -396,13 +396,13 @@ http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",STAR SPOTRS SELECT 1 HD
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo=",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",Star Sports Select 2
 http://ddn.amrbd.com:8081/live/select2/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",Star Sports Select 2
 http://43.230.123.21:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 tvg-logo=",STAR SPOTRS SELECT 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",STAR SPOTRS SELECT 2 HD
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sports",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
