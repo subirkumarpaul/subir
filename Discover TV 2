@@ -374,7 +374,7 @@ http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 http://43.230.123.21:8080/live/starsports-1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1
 http://103.115.159.37:8080/starsp1/index.m3u8
-#EXTINF:-1https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU",Star Sports 1 Hindi
+#EXTINF:-1https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
 http://43.230.123.21:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
@@ -404,9 +404,9 @@ http://ddn.amrbd.com:8081/live/select2/chunks.m3u8
 http://43.230.123.21:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,STAR SPOTRS SELECT 2 HD
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sports",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sony_Ten_1?file=Sony_Ten_1.jpg",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sony_Ten_1?file=Sony_Ten_1.jpg" group-title="Sports",Sony Ten 1
 http://43.230.123.21:8080/live/sonyten-1.m3u8
 #EXTINF:-1,Sony Ten 1 
 http://103.205.133.42:1935/local/ten_1_720/index.m3u8
