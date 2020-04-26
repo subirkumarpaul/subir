@@ -651,13 +651,13 @@ http://103.205.133.42:1935/local/euro_news_720/index.m3u8
 http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRomlE12vkFgO30LSPr0u4jmUAmLmqBCA2wD-Q3vT-ACWCLDHpA&usqp=CAU",Australia Plus
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
-#EXTINF:-1 tvg-logo=",Wion TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3u2sN-yYOZkW1HvUxnaHCAuTdXJ09K6e-iQs_eAtQBBkFhgZj&usqp=CAU",Wion TV
 http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="China Channel",CCTV 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYBIil3Wbd40Ia0TglrAdXE4bEqnEV5BTSWlhoi-FXczSsJ65A&usqp=CAU" group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids Channel",Cartoon Network
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network
 http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://43.230.123.21:8080/live/nick.m3u8
