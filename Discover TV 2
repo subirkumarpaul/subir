@@ -378,11 +378,11 @@ http://103.115.159.37:8080/starsp1/index.m3u8
 http://43.230.123.21:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Star Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU",Star Sports 2
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU",Star Sports 2 HD
 http://43.230.123.21:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 tvg-logo=",Star Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU",Star Sports 2
 http://103.115.159.37:8080/starsp2/index.m3u8
 #EXTINF:-1 tvg-logo=",Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
