@@ -420,11 +420,11 @@ http://43.230.123.21:8080/live/sonyten-2.m3u8
 http://103.205.133.42:1935/local/ten_2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-768x615.png",Sony Ten 2 HD
 http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo=",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU",Sony Ten 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU",Sony Ten 3
 http://43.230.123.21:8080/live/sonyten-3.m3u8
-#EXTINF:-1 tvg-logo=",Sony Ten 3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU",Sony Ten 3 
 http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/800px-Sony_ESPN_logo.svg.png",Sony ESPN
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
@@ -438,21 +438,21 @@ http://43.230.123.21:8080/live/sonysix.m3u8
 http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png",Sony SIX HD
 http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo=",D Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU",D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
-#EXTINF:-1 tvg-logo=",PTV Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",PTV Sports
 http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
-#EXTINF:-1 tvg-logo=",Ptv Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 tvg-logo=",Ptv Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
-#EXTINF:-1 tvg-logo=",Ptv Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
 http://43.251.86.2:8080/hls/channel_2.m3u8
-#EXTINF:-1 tvg-logo=",Geo Super
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU",Geo Super
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo=",Ten Sports PK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
 http://163.172.85.133:8080/TenS/sports/index.m3u8
-#EXTINF:-1 tvg-logo=",Ten Sports PK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
 #EXTINF:-1 tvg-logo=",Sky Sports Cricket
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
@@ -460,9 +460,9 @@ http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 http://103.214.202.218:8081/live/bein1/chunks.m3u8
 #EXTINF:-11 tvg-logo=",Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
-#EXTINF:-1 tvg-logo=",Willow Cricket
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow Cricket
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo=",Willow cricket
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo=",Bein Sports 1
 http://43.230.123.21:8080/bein-sports-1.m3u8
