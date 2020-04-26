@@ -258,9 +258,9 @@ http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg",Sangeet Bnagla
 http://103.141.66.36/bpk-tv/10129/default/manifest.mpd
-#EXTINF:-1 tvg-logo=",Dhoom Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
 http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Dhoom Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
 http://103.141.66.36/bpk-tv/10113/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla News",News 18 Bangla
@@ -509,7 +509,7 @@ https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",TLC
 http://103.205.133.42:1935/local/tlc_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TLC_HD.svg",TLC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TLC_HD.svg.png",TLC HD
 http://103.205.133.42:1935/local/tlc_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
