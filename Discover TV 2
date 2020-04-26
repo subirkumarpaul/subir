@@ -546,17 +546,17 @@ http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 tvg-logo=",Zee Cafe
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 tvg-logo=",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
-#EXTINF:-1 tvg-logo=",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://43.230.123.21:8080/live/hbo.m3u8
-#EXTINF:-1 tvg-logo=",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
-#EXTINF:-1 tvg-logo=",HBO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO HD
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-logo=",HBO Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",MBC Movies
 http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
