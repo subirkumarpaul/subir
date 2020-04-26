@@ -497,33 +497,33 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://43.230.123.21:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-#EXTINF:-1 tvg-logo=",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo=",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Nat Geo People
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png",Nat Geo People
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
-#EXTINF:-1 tvg-logo=",Nat Geo People
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png",Nat Geo People
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-logo=",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU",BBC Lifestyle
 https://bracnet.iptv.jadoodigital.com/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1 tvg-logo=",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",TLC
 http://103.205.133.42:1935/local/tlc_720/index.m3u8
-#EXTINF:0 tvg-logo=",TLC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TLC_HD.svg",TLC HD
 http://103.205.133.42:1935/local/tlc_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo=",History TV 18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
-#EXTINF:-1 tvg-logo=",History TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
 http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=",History TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU",History TV 18 HD
 https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg",Fox Life (Bangla)
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg",Fox Life (India)
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-logo=",FYI TV 18 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/FYI_TV18_logo.png",FYI TV 18 HD
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo=",Hum Masala
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU",Hum Masala
 http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
 
 #EXTINF:-1 tvg-logo=" group-title="English Movies",Star Movies
