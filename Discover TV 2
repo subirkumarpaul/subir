@@ -373,6 +373,9 @@ http://103.205.133.42:1935/local/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png",Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoRDe2HgtVAiNbv2i90q6qvVWxuvMmlP-LsvwObzQzn_sgu63&usqp=CAU",Tele Film
+http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian Bangla Music",Sangeet Bangla
