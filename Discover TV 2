@@ -861,8 +861,18 @@ http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5g2NwvM8MDLTeyeQ-ZDkKDUcRViLNgLO0lioMygVR_ALTTL3F&usqp=CAU",CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU",PTV World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="Pakistani Channel",PTV World
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
+#EXTINF:-1,PTV Home
+http://103.141.66.36/bpk-tv/10253/default/manifest.mpd
+#EXTINF:-1,ARY News
+http://103.141.66.36/bpk-tv/10254/default/manifest.mpd
+#EXTINF:-1,PTV Worlds
+http://103.141.66.36/bpk-tv/10101/default/manifest.mpd
+#EXTINF:-1,Geo Tez
+http://103.141.66.36/bpk-tv/10262/default/manifest.mpd
+#EXTINF:-1,Geo News
+http://103.141.66.36/bpk-tv/10288/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
 http://103.205.133.42:1935/local/dw_720/index.m3u8
@@ -880,6 +890,8 @@ http://103.205.133.42:1935/local/euro_news_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU",Rai Italia
 http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU",Rai Italia
+http://103.141.66.36/bpk-tv/10209/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRomlE12vkFgO30LSPr0u4jmUAmLmqBCA2wD-Q3vT-ACWCLDHpA&usqp=CAU",Australia Plus
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
@@ -912,8 +924,12 @@ http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
+http://103.141.66.36/bpk-tv/10201/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
