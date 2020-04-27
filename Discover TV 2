@@ -863,15 +863,15 @@ http://103.205.133.42:1935/local/cgtn_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="Pakistani Channel",PTV World
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
-#EXTINF:-1,PTV Home
-http://103.141.66.36/bpk-tv/10253/default/manifest.mpd
-#EXTINF:-1,ARY News
-http://103.141.66.36/bpk-tv/10254/default/manifest.mpd
-#EXTINF:-1,PTV Worlds
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU",PTV World
 http://103.141.66.36/bpk-tv/10101/default/manifest.mpd
-#EXTINF:-1,Geo Tez
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU",PTV Home
+http://103.141.66.36/bpk-tv/10253/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGefYh9kAyfSXEYGWNz48U6QDJ9N8I7Tp0xYZTFGrXL6AAKYKd&usqp=CAU",ARY News
+http://103.141.66.36/bpk-tv/10254/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVCuQBKeGm_1PpTS-bR6ENY6OcPOkNe3VKSYThvSsTfWYbfte&usqp=CAU",Geo Tez
 http://103.141.66.36/bpk-tv/10262/default/manifest.mpd
-#EXTINF:-1,Geo News
+#EXTINF:-1 tvg-logo=",Geo News
 http://103.141.66.36/bpk-tv/10288/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
