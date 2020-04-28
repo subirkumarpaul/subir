@@ -1048,4 +1048,5 @@ http://103.141.66.36/bpk-tv/10088/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
-
+#EXTINF:-1, Sameroo
+http://103.141.66.36/bpk-tv/10313/default/manifest.mpd
