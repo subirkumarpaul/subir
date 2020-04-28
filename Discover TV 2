@@ -1070,6 +1070,10 @@ http://103.141.66.36/bpk-tv/10088/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
+#EXTINF:-1,Paros TV
+http://103.141.66.36/bpk-tv/10511/default/manifest.mpd
+
+
 #EXTINF:-1  group-title="Other Channel",Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd
 #EXTINF:-1,Moon
@@ -1092,8 +1096,6 @@ http://103.141.66.36/bpk-tv/10077/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10202/default/manifest.mpd
 #EXTINF:-1, India 24
 http://103.141.66.36/bpk-tv/10507/default/manifest.mpd
-#EXTINF:-1, News
-http://103.141.66.36/bpk-tv/10511/default/manifest.mpd
 #EXTINF:-1, No 1 News
 http://103.141.66.36/bpk-tv/10501/default/manifest.mpd
 #EXTINF:-1, News 7
