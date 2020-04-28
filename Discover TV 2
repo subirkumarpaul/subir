@@ -982,6 +982,8 @@ http://103.205.133.42:1935/local/nhk_world_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWTba30aa-9u_xPCpZXCT_tcXPzBRlyVyuV6ZHEghO1kSHVpcb&usqp=CAU",TV5 Monde Asia
 http://103.205.133.42:1935/local/tv5_monde_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWTba30aa-9u_xPCpZXCT_tcXPzBRlyVyuV6ZHEghO1kSHVpcb&usqp=CAU",TV5 Monde Asia
+http://103.141.66.36/bpk-tv/10056/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU",Euro News
 http://103.205.133.42:1935/local/euro_news_720/index.m3u8
@@ -1048,7 +1050,17 @@ http://103.141.66.36/bpk-tv/10088/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
-#EXTINF:-1, Sameroo  group-title="Other Channel"
+#EXTINF:-1,Sameroo  group-title="Other Channel"
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd
-#EXTINF:-1, Moon
+#EXTINF:-1,Moon
 http://103.141.66.36/bpk-tv/10164/default/manifest.mpd
+#EXTINF:-1,Dubai Sports
+http://103.141.66.36/bpk-tv/10316/default/manifest.mpd
+#EXTINF:-1,Kairali Movies
+http://103.141.66.36/bpk-tv/10286/default/manifest.mpd
+#EXTINF:-1,Filmachi
+http://103.141.66.36/bpk-tv/10290/default/manifest.mpd
+#EXTINF:-1,Metro
+http://103.141.66.36/bpk-tv/10291/default/manifest.mpd
+#EXTINF:-1,Russia
+http://103.141.66.36/bpk-tv/10264/default/manifest.mpd
