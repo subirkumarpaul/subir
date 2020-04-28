@@ -573,6 +573,11 @@ http://103.141.66.36/bpk-tv/10103/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQzwy7mbf4oohpyLiaxyFSyjqzKKmuxknccXHkokhKfUeOMc_&usqp=CAU",Monoranjan Movies
 http://103.141.66.36/bpk-tv/10127/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxiD1xiu7tblrjF6KTD_DYK4RuwH8SiVuGxMMEVD3VCywoY4BV&usqp=CAU",ABZY Movies
+http://103.141.66.36/bpk-tv/10076/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSga-PRlVDTTXnbVSPqblihtZT-3hbsEeY9Zsc3jexdXikVtREr&usqp=CAU",ABZY Dhakad
+http://103.141.66.36/bpk-tv/10191/default/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1
@@ -1103,13 +1108,12 @@ http://103.141.66.36/bpk-tv/10177/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10184/default/manifest.mpd
 #EXTINF:-1, Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/manifest.mpd
+#EXTINF:-1,1
 http://103.141.66.36/bpk-tv/10265/default/manifest.mpd
 #EXTINF:-1, MK TV
 http://103.141.66.36/bpk-tv/10107/default/manifest.mpd
 #EXTINF:-1, MK SIX
 http://103.141.66.36/bpk-tv/10082/default/manifest.mpd
-#EXTINF:-1, ABZy Movies
-http://103.141.66.36/bpk-tv/10076/default/manifest.mpd
 #EXTINF:-1, Ariang
 http://103.141.66.36/bpk-tv/10128/default/manifest.mpd
 #EXTINF:-1, Fakt Marathi
@@ -1118,8 +1122,6 @@ http://103.141.66.36/bpk-tv/10040/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10187/default/manifest.mpd
 #EXTINF:-1, Issak TV
 http://103.141.66.36/bpk-tv/10188/default/manifest.mpd
-#EXTINF:-1, ABZY
-http://103.141.66.36/bpk-tv/10191/default/manifest.mpd
 #EXTINF:-1, Expresas
 http://103.141.66.36/bpk-tv/10235/default/manifest.mpd
 #EXTINF:-1, Aruvi TV
