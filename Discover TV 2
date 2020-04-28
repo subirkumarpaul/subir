@@ -1127,6 +1127,8 @@ http://103.141.66.36/bpk-tv/10281/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10303/default/manifest.mpd
 #EXTINF:-1, Damal
 http://103.141.66.36/bpk-tv/10504/default/manifest.mpd
+#EXTINF:-1,Kolkata Bangla
+https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
 #EXTINF:-1, MK Tunes
 http://103.141.66.36/bpk-tv/10165/default/manifest.mpd
 #EXTINF:-1, Public Music
