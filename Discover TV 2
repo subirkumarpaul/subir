@@ -966,6 +966,8 @@ http://103.141.66.36/bpk-tv/10090/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10186/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU",ARY Zindagi
 http://103.141.66.36/bpk-tv/10091/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdeOzD8A2uemn0PCzD1nPpVXgLhnjr6VukSNIGVyaHnexpLfgZ&usqp=CAU",Expresas
+http://103.141.66.36/bpk-tv/10235/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
 https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
@@ -1122,8 +1124,6 @@ http://103.141.66.36/bpk-tv/10040/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10187/default/manifest.mpd
 #EXTINF:-1, Issak TV
 http://103.141.66.36/bpk-tv/10188/default/manifest.mpd
-#EXTINF:-1, Expresas
-http://103.141.66.36/bpk-tv/10235/default/manifest.mpd
 #EXTINF:-1, Aruvi TV
 http://103.141.66.36/bpk-tv/10261/default/manifest.mpd
 #EXTINF:-1, Kalanagar TV
