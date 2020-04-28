@@ -1008,6 +1008,9 @@ http://103.141.66.36/bpk-tv/10135/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FR 24
 http://103.141.66.36/bpk-tv/10232/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS98nglCKBLmxuFQgW3nyuokmLM4b-7p8y_TMIHWOkXlQFKrKSk&usqp=CAU",Care World
+http://103.141.66.36/bpk-tv/10176/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYBIil3Wbd40Ia0TglrAdXE4bEqnEV5BTSWlhoi-FXczSsJ65A&usqp=CAU" group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
