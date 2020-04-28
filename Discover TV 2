@@ -841,6 +841,16 @@ http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ7YHYl4fjEo-hNtmgO0ieEmyfNKIUA-LFrx4JUDPexARQwFs4&usqp=CAU",Lotus Macau
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=",Fox Movies
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 tvg-logo=",Fox Action Movies
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+#EXTINF:-1 tvg-logo=",Fox Crime
+https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
+
+#EXTINF:0,Warner TV
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World
@@ -1050,7 +1060,7 @@ http://103.141.66.36/bpk-tv/10088/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
-#EXTINF:-1,Sameroo  group-title="Other Channel"
+#EXTINF:-1  group-title="Other Channel",Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd
 #EXTINF:-1,Moon
 http://103.141.66.36/bpk-tv/10164/default/manifest.mpd
@@ -1064,3 +1074,64 @@ http://103.141.66.36/bpk-tv/10290/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10291/default/manifest.mpd
 #EXTINF:-1,Russia
 http://103.141.66.36/bpk-tv/10264/default/manifest.mpd
+#EXTINF:-1, Dubai TV
+http://103.141.66.36/bpk-tv/10039/default/manifest.mpd
+#EXTINF:-1, Libya
+http://103.141.66.36/bpk-tv/10077/default/manifest.mpd
+#EXTINF:-1, Kuwait TV
+http://103.141.66.36/bpk-tv/10202/default/manifest.mpd
+#EXTINF:-1, India 24
+http://103.141.66.36/bpk-tv/10507/default/manifest.mpd
+#EXTINF:-1, News
+http://103.141.66.36/bpk-tv/10511/default/manifest.mpd
+#EXTINF:-1, No 1 News
+http://103.141.66.36/bpk-tv/10501/default/manifest.mpd
+#EXTINF:-1, News 7
+http://103.141.66.36/bpk-tv/10502/default/manifest.mpd
+#EXTINF:-1, TV 9
+http://103.141.66.36/bpk-tv/10503/default/manifest.mpd
+#EXTINF:-1, Saudi TV
+http://103.141.66.36/bpk-tv/10212/default/manifest.mpd
+#EXTINF:-1, Abu dhabi TV
+http://103.141.66.36/bpk-tv/10214/default/manifest.mpd
+#EXTINF:-1, Sarjah TV
+http://103.141.66.36/bpk-tv/10177/default/manifest.mpd
+#EXTINF:-1, Republic TV
+http://103.141.66.36/bpk-tv/10184/default/manifest.mpd
+#EXTINF:-1, Al Jazarrea
+http://103.141.66.36/bpk-tv/10215/default/manifest.mpd
+http://103.141.66.36/bpk-tv/10265/default/manifest.mpd
+#EXTINF:-1, MK TV
+http://103.141.66.36/bpk-tv/10107/default/manifest.mpd
+#EXTINF:-1, MK SIX
+http://103.141.66.36/bpk-tv/10082/default/manifest.mpd
+#EXTINF:-1, ABZy Movies
+http://103.141.66.36/bpk-tv/10076/default/manifest.mpd
+#EXTINF:-1, Ariang
+http://103.141.66.36/bpk-tv/10128/default/manifest.mpd
+#EXTINF:-1, Fakt Marathi
+http://103.141.66.36/bpk-tv/10040/default/manifest.mpd
+#EXTINF:-1, Onkar TV
+http://103.141.66.36/bpk-tv/10187/default/manifest.mpd
+#EXTINF:-1, Issak TV
+http://103.141.66.36/bpk-tv/10188/default/manifest.mpd
+#EXTINF:-1, ABZY
+http://103.141.66.36/bpk-tv/10191/default/manifest.mpd
+#EXTINF:-1, Expresas
+http://103.141.66.36/bpk-tv/10235/default/manifest.mpd
+#EXTINF:-1, Aruvi TV
+http://103.141.66.36/bpk-tv/10261/default/manifest.mpd
+#EXTINF:-1, Kalanagar TV
+http://103.141.66.36/bpk-tv/10281/default/manifest.mpd
+#EXTINF:-1, Polymar
+http://103.141.66.36/bpk-tv/10303/default/manifest.mpd
+#EXTINF:-1, Damal
+http://103.141.66.36/bpk-tv/10504/default/manifest.mpd
+#EXTINF:-1, MK Tunes
+http://103.141.66.36/bpk-tv/10165/default/manifest.mpd
+#EXTINF:-1, Public Music
+http://103.141.66.36/bpk-tv/10134/default/manifest.mpd
+#EXTINF:-1, 9x Jakasa
+http://103.141.66.36/bpk-tv/10141/default/manifest.mpd
+#EXTINF:-1, Sangeet Marathi
+http://103.141.66.36/bpk-tv/10334/default/manifest.mpd
