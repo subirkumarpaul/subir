@@ -347,8 +347,7 @@ http://103.141.66.36/bpk-tv/10111/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJe7LqmU4A8hkPzuAH5QZfl26GFaIT_I--rlobPJUGwTXHazT-&usqp=CAU",R Plus Gold
 http://103.141.66.36/bpk-tv/10181/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8Ufo5e_v55UbJLEoPoPU79WOEdI7Mx6VrOI7aGJLCT-GQngEF&usqp=CAU",R plus
-http://103.141.66.36/bpk-tv/10078/default/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG",DD Bangla
 http://103.205.133.42:1935/local/dd_bangla_720/index.m3u8
@@ -408,6 +407,8 @@ http://103.205.133.19/hls/banglatime.m3u8?token=RPMq1s9xpJcmb4xc63jp_w.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrG1JJy-7SAQKHZSXzgKhu6UI-x_wtWfsrixkvu6jSwKzwge14&usqp=CAU",Kolkata TV
 https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8Ufo5e_v55UbJLEoPoPU79WOEdI7Mx6VrOI7aGJLCT-GQngEF&usqp=CAU",R Plus News
+http://103.141.66.36/bpk-tv/10078/default/manifest.mpd
 
 
 
