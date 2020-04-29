@@ -1088,6 +1088,8 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 #EXTINF:-1,Paros TV
 http://103.141.66.36/bpk-tv/10511/default/manifest.mpd
+#EXTINF:-1,P 2
+http://103.141.66.36/bpk-tv/10130/default/manifest.mpd
 
 
 #EXTINF:-1  group-title="Other Channel",Sameroo
