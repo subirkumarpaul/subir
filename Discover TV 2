@@ -1086,6 +1086,8 @@ http://103.141.66.36/bpk-tv/10201/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/manifest.mpd
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
+http://103.205.133.42:1935/local/sunnah_tv_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcxW3zZEEnU0PIQ2IemeLrKzq8tTGsIQ_rA9JzfzM72Z-whhjw&usqp=CAU",ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/manifest.mpd
