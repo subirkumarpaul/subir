@@ -439,6 +439,8 @@ http://103.205.133.42:1935/local/sony_entertainment_320/index.m3u8
 http://103.111.120.46/hls/Zee_Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV HD
 http://103.141.66.36/bpk-tv/10401/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
+http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB
 http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
@@ -496,6 +498,8 @@ http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
 http://43.230.123.21:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU",Star Gold HD
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg",Star Gold
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg",Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
@@ -513,8 +517,11 @@ http://103.205.133.42:1935/local/sony_max_720/index.m3u8
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
 http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD UK
 http://178.159.5.10:18
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",Sony Max 2
 http://43.230.123.21:8080/live/sony-max-2.m3u8
@@ -531,6 +538,8 @@ https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 http://103.141.66.36/bpk-tv/10180/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU",Zee Cinema HD
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
+http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU",Colors Cineplex UK
 http://178.159.5.10:16
@@ -636,6 +645,8 @@ http://103.205.133.42:1935/local/ten_1_720/index.m3u8
 http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU",Sony Ten 1 HD
 http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU",Sony Ten 1 HD
+http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-768x615.png",Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
@@ -647,6 +658,8 @@ http://103.205.133.42:1935/local/ten_2_720/index.m3u8
 http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-768x615.png",Sony Ten 2 HD
 http://103.141.66.36/bpk-tv/10479/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-768x615.png",Sony Ten 2 HD
+http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU",Sony Ten 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
@@ -654,6 +667,8 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://43.230.123.21:8080/live/sonyten-3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU",Sony Ten 3 
 http://103.205.133.42:1935/local/ten_3_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU",Sony Ten 3 
+http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/800px-Sony_ESPN_logo.svg.png",Sony ESPN
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
@@ -740,6 +755,7 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://43.230.123.21:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
+http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
