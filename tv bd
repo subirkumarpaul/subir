@@ -23,13 +23,34 @@ http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HBO Hits
+#EXTINF:-1,HBO Hits*
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 EXTINF:-1,AXN
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY TV *
+http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8 
 #EXTINF:-1,Star Plus HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY MAX *
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,ME: ZEE CINEMA *
+http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,IN: STAR GOLD HD *
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8 
 #EXTINF:-1,History TV
 http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: NAT GEO *
+http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,IN: SONY TEN 1 HD *
+http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,IN: SONY TEN 2 HD *
+http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,IN: SONY TEN 3 HD *
+http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8 
+
+
+
+
+ 
