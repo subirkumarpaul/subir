@@ -16,3 +16,28 @@ http://163.172.29.246:8081/globeworld2020/starjalshamovies/chunks.m3u8
 http://163.172.29.246:8081/globeworld2020/starjalsha/chunks.m3u8
 #EXTINF:-1,SONY Aath
 http://163.172.29.246:8081/globeworld2020/sony-aath/chunks.m3u8
+
+
+
+#EXTINF:-1,Maasranga TV
+http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
+#EXTINF:-1,Gazi TV
+http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
+#EXTINF:-1,ETV
+http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/chunks.m3u8
+#EXTINF:-1,NTV
+http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
+#EXTINF:-1,Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:-1,Desh TV
+http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
+#EXTINF:-1,Duronto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/duronto/chunks.m3u8
+#EXTINF:-1,Mohona TV
+http://telelivetv.webredirect.org:8081/globeworld2020/mohona/chunks.m3u8
+#EXTINF:-1,Nagorik TV
+http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
+#EXTINF:-1,Star Jalsha Movie
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/chunks.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
