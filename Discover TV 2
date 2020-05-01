@@ -305,6 +305,8 @@ http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jslsha
 http://103.111.120.46/hls/Star_Jalsha.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jslsha
+http://103.205.133.19/hls/starjalsa.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg",Zee Bangla
 http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
@@ -325,6 +327,8 @@ http://103.205.133.42:1935/local/sony_aath_720/index.m3u8
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png",Sony Aath
 http://103.141.66.36/bpk-tv/10302/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png",Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOlvu860-4YyuJnsrD7uGb-82xya5CcC2cwWHynuSYVFehJBHU&usqp=CAU",Colors Bangla HD
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
@@ -395,6 +399,8 @@ http://103.141.66.36/bpk-tv/10129/default/manifest.mpd
 http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
 http://103.141.66.36/bpk-tv/10113/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
+http://103.205.133.19/hls/dhoommusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSErstQEo7EJh1rWXYZHwLVc0s6B83ef-EmWHpfar3ozUg7MU6-&usqp=CAU",Bangla Takies
 http://103.141.66.36/bpk-tv/10081/default/manifest.mpd
@@ -479,6 +485,8 @@ http://103.205.133.42:1935/local/live/ntv_720/index.m3u8
 http://103.141.66.36/bpk-tv/10028/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU",And TV HD
 http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
+http://103.205.133.19/hls/andtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
