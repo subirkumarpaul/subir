@@ -737,6 +737,8 @@ http://43.230.123.21:8080/live/discovery.m3u8
 http://103.205.133.42:1935/local/discovery_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD
 http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU"Discovery Asia
+https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
