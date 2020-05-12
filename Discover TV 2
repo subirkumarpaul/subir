@@ -1129,6 +1129,8 @@ http://103.141.66.36/bpk-tv/10209/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU",Rai Italia
 https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",CNA News
+https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRomlE12vkFgO30LSPr0u4jmUAmLmqBCA2wD-Q3vT-ACWCLDHpA&usqp=CAU",Australia Plus
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
