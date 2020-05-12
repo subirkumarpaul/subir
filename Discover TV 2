@@ -1057,6 +1057,8 @@ http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdeOzD8A2uemn0PCzD1nPpVXgLhnjr6VukSNIGVyaHnexpLfgZ&usqp=CAU",Expresas
 http://103.141.66.36/bpk-tv/10235/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5woBXrxNaM3rFEeOAfxXoN2PmuZyho0N4GYyKaL4BPtVoJRIl&usqp=CAU",HUM TV HD
+https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
 https://edge01.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
