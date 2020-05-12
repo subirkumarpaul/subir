@@ -1033,9 +1033,9 @@ http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU",DD News
 http://103.141.66.36/bpk-tv/10332/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIzwqsSBSlvPOhsTG245e_VKrOmlYnJjopA_kMlohr1sHJ_gF&usqp=CAU",PTV National
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIzwqsSBSlvPOhsTG245e_VKrOmlYnJjopA_kMlohr1sHJ_gF&usqp=CAU" group-title="Pakistani Channel",PTV National
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="Pakistani Channel",PTV World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU",PTV World
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU",PTV World
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
