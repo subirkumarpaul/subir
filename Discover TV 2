@@ -385,6 +385,9 @@ http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoRDe2HgtVAiNbv2i90q6qvVWxuvMmlP-LsvwObzQzn_sgu63&usqp=CAU",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQn6b-aH6MhLdrr4T1GUN5bk4NIJuWAdJ6av-8ug_S4C80dTZwW&usqp=CAU",Tollywood TV
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU",Khusbo Bangla
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8
 
@@ -1163,6 +1166,9 @@ https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
