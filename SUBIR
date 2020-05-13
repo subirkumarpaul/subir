@@ -1227,73 +1227,73 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 
 
-#EXTINF:-1  group-title="Other Channel",Sameroo
+#EXTINF:-1 tvg-logo=""group-title="Other Channel",Sameroo
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
-#EXTINF:-1,Moon
+#EXTINF:-1 tvg-logo=",Moon
 http://103.141.66.36/bpk-tv/10164/default/index.m3u8
-#EXTINF:-1,Dubai Sports
+#EXTINF:-1 tvg-logo=",Dubai Sports
 http://103.141.66.36/bpk-tv/10316/default/index.m3u8
-#EXTINF:-1,Kairali Movies
+#EXTINF:-1 tvg-logo=",Kairali Movies
 http://103.141.66.36/bpk-tv/10286/default/index.m3u8
-#EXTINF:-1,Filmachi
+#EXTINF:-1 tvg-logo=",Filmachi
 http://103.141.66.36/bpk-tv/10290/default/index.m3u8
-#EXTINF:-1,Metro
+#EXTINF:-1 tvg-logo=",Metro
 http://103.141.66.36/bpk-tv/10291/default/index.m3u8
-#EXTINF:-1,Russia
+#EXTINF:-1 tvg-logo=",Russia
 http://103.141.66.36/bpk-tv/10264/default/index.m3u8
-#EXTINF:-1, Dubai TV
+#EXTINF:-1 tvg-logo=", Dubai TV
 http://103.141.66.36/bpk-tv/10039/default/index.m3u8
-#EXTINF:-1, Libya
+#EXTINF:-1 tvg-logo=", Libya
 http://103.141.66.36/bpk-tv/10077/default/index.m3u8
-#EXTINF:-1, Kuwait TV
+#EXTINF:-1 tvg-logo=", Kuwait TV
 http://103.141.66.36/bpk-tv/10202/default/index.m3u8
-#EXTINF:-1, India 24
+#EXTINF:-1 tvg-logo=", India 24
 http://103.141.66.36/bpk-tv/10507/default/index.m3u8
-#EXTINF:-1, No 1 News
+#EXTINF:-1 tvg-logo=", No 1 News
 http://103.141.66.36/bpk-tv/10501/default/index.m3u8
-#EXTINF:-1, News 7
+#EXTINF:-1 tvg-logo=", News 7
 http://103.141.66.36/bpk-tv/10502/default/index.m3u8
-#EXTINF:-1, TV 9
+#EXTINF:-1 tvg-logo=", TV 9
 http://103.141.66.36/bpk-tv/10503/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdXH-uTh4dUXkJ8aerppUFHWtl1LgRDJWyMmT9YlDkfktMPFiO&usqp=CAU",Saudi TV
 http://103.141.66.36/bpk-tv/10212/default/index.m3u8
-#EXTINF:-1, Abu dhabi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png",Abu dhabi TV
 http://103.141.66.36/bpk-tv/10214/default/index.m3u8
-#EXTINF:-1, Sarjah TV
+#EXTINF:-1 tvg-logo=", Sarjah TV
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
-#EXTINF:-1, Republic TV
+#EXTINF:-1 tvg-logo=", Republic TV
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ-TZn0pjz1i63WxlQogAmL4U0S3AlS8kZVaNUh9WWAi_t_VmO&usqp=CAU",Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/index.m3u8
-#EXTINF:-1,1
+#EXTINF:-1 tvg-logo=",1
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
-#EXTINF:-1, MK TV
+#EXTINF:-1 tvg-logo=", MK TV
 http://103.141.66.36/bpk-tv/10107/default/index.m3u8
-#EXTINF:-1, MK SIX
+#EXTINF:-1 tvg-logo=", MK SIX
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
-#EXTINF:-1, Ariang
+#EXTINF:-1 tvg-logo=", Ariang
 http://103.141.66.36/bpk-tv/10128/default/index.m3u8
-#EXTINF:-1, Fakt Marathi
+#EXTINF:-1 tvg-logo=", Fakt Marathi
 http://103.141.66.36/bpk-tv/10040/default/index.m3u8
-#EXTINF:-1, Onkar TV
+#EXTINF:-1 tvg-logo=", Onkar TV
 http://103.141.66.36/bpk-tv/10187/default/index.m3u8
-#EXTINF:-1, Issak TV
+#EXTINF:-1 tvg-logo=", Issak TV
 http://103.141.66.36/bpk-tv/10188/default/index.m3u8
-#EXTINF:-1, Aruvi TV
+#EXTINF:-1 tvg-logo=", Aruvi TV
 http://103.141.66.36/bpk-tv/10261/default/index.m3u8
-#EXTINF:-1, Kalanagar TV
+#EXTINF:-1 tvg-logo=", Kalanagar TV
 http://103.141.66.36/bpk-tv/10281/default/index.m3u8
-#EXTINF:-1, Polymar
+#EXTINF:-1 tvg-logo=", Polymar
 http://103.141.66.36/bpk-tv/10303/default/index.m3u8
-#EXTINF:-1, Damal
+#EXTINF:-1 tvg-logo=", Damal
 http://103.141.66.36/bpk-tv/10504/default/index.m3u8
-#EXTINF:-1, MK Tunes
+#EXTINF:-1 tvg-logo=", MK Tunes
 http://103.141.66.36/bpk-tv/10165/default/index.m3u8
-#EXTINF:-1, Public Music
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/Public_Music.png/revision/latest?cb=20190711114012",Public Music
 http://103.141.66.36/bpk-tv/10134/default/index.m3u8
-#EXTINF:-1, 9x Jakasa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC-r07-LCWKCFWJCsfqY4cww8twBlQMLqYCiRrcqFASJV0v08r&usqp=CAU",9x Jakasa
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
-#EXTINF:-1, Sangeet Marathi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 
 
