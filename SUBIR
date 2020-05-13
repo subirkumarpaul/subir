@@ -466,6 +466,8 @@ http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB
+http://103.205.133.19/hls/sonysab.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
@@ -549,8 +551,8 @@ http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD UK
-http://178.159.5.10:18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
+http://103.205.133.19/hls/sonymax.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",Sony Max 2
@@ -594,12 +596,16 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",And Picture HD
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",And Picture HD
+http://103.205.133.19/hls/andpicture.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzu-b5btRQeV5JJEecxY3SA-l-qCIpwic1RJphzXl8JyfLPojv&usqp=CAU",Zee Salam
 http://103.141.66.36/bpk-tv/10108/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU",B4U Movies
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU",B4U Movies
+http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4J7508X75Akli08TDyuE5zbzCW15YqTgKk75DIsU4PzVcQmbC&usqp=CAU",B4U Kadak
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4J7508X75Akli08TDyuE5zbzCW15YqTgKk75DIsU4PzVcQmbC&usqp=CAU",B4U Kadak
@@ -622,6 +628,8 @@ http://103.141.66.36/bpk-tv/10076/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSga-PRlVDTTXnbVSPqblihtZT-3hbsEeY9Zsc3jexdXikVtREr&usqp=CAU",ABZY Dhakad
 http://103.141.66.36/bpk-tv/10191/default/index.m3u8
 
+#EXTINF:-1 ,Wow Cinema
+http://103.205.133.19/hls/wowcinema.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1
@@ -878,6 +886,8 @@ http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
 http://103.205.133.42:1935/local/sony_pix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
+http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkeyowQMl1aWI86WXsyMG1EslHXv8JKL6jkYlEboEa0ShdRMEq&usqp=CAU",And Prive
@@ -976,6 +986,8 @@ https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU",Zing
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU",Zing
+http://103.205.133.19/hls/zing.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU",B4U Music
 https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
@@ -1052,6 +1064,8 @@ http://103.141.66.36/bpk-tv/10305/default/index.m3u8
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU",Zee News
 http://103.141.66.36/bpk-tv/10285/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU",Zee News
+http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU",ABP News
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTScGYHQ9n9nBa843cR5V0sHZYfOsV-Xk39TNlkwGgPjVZ3x26Q&usqp=CAU",Aaj Tak
