@@ -1194,9 +1194,6 @@ http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdXH-uTh4dUXkJ8aerppUFHWtl1LgRDJWyMmT9YlDkfktMPFiO&usqp=CAU",Saudi TV
-http://103.141.66.36/bpk-tv/10212/default/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
@@ -1258,7 +1255,7 @@ http://103.141.66.36/bpk-tv/10501/default/index.m3u8
 http://103.141.66.36/bpk-tv/10502/default/index.m3u8
 #EXTINF:-1, TV 9
 http://103.141.66.36/bpk-tv/10503/default/index.m3u8
-#EXTINF:-1, Saudi TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdXH-uTh4dUXkJ8aerppUFHWtl1LgRDJWyMmT9YlDkfktMPFiO&usqp=CAU",Saudi TV
 http://103.141.66.36/bpk-tv/10212/default/index.m3u8
 #EXTINF:-1, Abu dhabi TV
 http://103.141.66.36/bpk-tv/10214/default/index.m3u8
@@ -1266,7 +1263,7 @@ http://103.141.66.36/bpk-tv/10214/default/index.m3u8
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
 #EXTINF:-1, Republic TV
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
-#EXTINF:-1, Al Jazarrea
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ-TZn0pjz1i63WxlQogAmL4U0S3AlS8kZVaNUh9WWAi_t_VmO&usqp=CAU",Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/index.m3u8
 #EXTINF:-1,1
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
