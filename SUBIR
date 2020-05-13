@@ -1208,7 +1208,7 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 #EXTINF:-1,Paros TV
 http://103.141.66.36/bpk-tv/10511/default/index.m3u8
-#EXTINF:-1,P 2
+#EXTINF:-1 tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png",Aastha TV
 http://103.141.66.36/bpk-tv/10130/default/index.m3u8
 
 
