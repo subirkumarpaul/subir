@@ -987,6 +987,8 @@ http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 http://103.205.133.42:1935/local/9xm_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaviyT2Gquhb-yF1taGhdo7K8MZ5HBviFZGNFgSu-ELY-6YT1&usqp=CAU",9XM
 http://103.141.66.36/bpk-tv/10266/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaviyT2Gquhb-yF1taGhdo7K8MZ5HBviFZGNFgSu-ELY-6YT1&usqp=CAU",9XM
+http://103.205.133.19/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU",9X Jalwa
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 
