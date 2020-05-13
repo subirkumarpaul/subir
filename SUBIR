@@ -748,7 +748,7 @@ http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
 http://103.141.66.36/bpk-tv/10480/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU",D Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",PTV Sports
 http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
