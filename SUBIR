@@ -628,7 +628,7 @@ http://103.141.66.36/bpk-tv/10076/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSga-PRlVDTTXnbVSPqblihtZT-3hbsEeY9Zsc3jexdXikVtREr&usqp=CAU",ABZY Dhakad
 http://103.141.66.36/bpk-tv/10191/default/index.m3u8
 
-#EXTINF:-1 ,Wow Cinema
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3Aq3_P0CBcD4KKC9OHbrUrT3gKp-7J6TQ_UfRLAluaFU_N9Fc&usqp=CAU",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
 
 
@@ -1034,6 +1034,9 @@ http://103.141.66.36/bpk-tv/10178/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRG72T8hrxN_NlmxpksybD-r-uXXD5p4BbaX9jGfr-Q0Ys_irrL&usqp=CAU",E24 
 http://103.205.133.19/hls/e24.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ12NxjnWJ7NAdO9J7860Nx7sjm7eevkbwm6vNf1LFWsX9f1itd&usqp=CAU",UTV Bindass 
+http://45.120.188.65:8080/0.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2MdEa_41QR6g4y885uB2fnheIYYDWqOecEN7cIh62cU30bwTq&usqp=CAU",ARY Music
 http://103.205.133.42:1935/local/ary_music_720/index.m3u8
