@@ -1291,3 +1291,7 @@ http://103.141.66.36/bpk-tv/10134/default/index.m3u8
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
 #EXTINF:-1, Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
+
+
+#EXTINF:-1,& TV HD
+http://45.120.188.76:8080/0.ts
