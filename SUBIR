@@ -854,8 +854,8 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU" group-title="English Movies",Star Movies
 http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU",Star Movies
-http://43.230.123.21:8080/live/star-movies.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU",Star Movies HD
+http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
