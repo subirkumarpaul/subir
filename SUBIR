@@ -1254,6 +1254,9 @@ https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU",Nick Jr
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIWjw8Zq2JL7lbfjm9SmpLpumhEGnq2Nzr6Sg5UQI_YsQEzauW&usqp=CAU",SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
