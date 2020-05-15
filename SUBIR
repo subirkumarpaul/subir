@@ -1348,6 +1348,10 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 http://103.141.66.36/bpk-tv/10511/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png",Aastha TV
 http://103.141.66.36/bpk-tv/10130/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/Hare_Krishna_TV_new_roku.jpg",Hare Krshna
+http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
+#EXTINF:-1 tvg-logo="http://www.sadhna.com/images/sadhnanew.gif",Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png"group-title="MBC Group",MBC 1 HD
