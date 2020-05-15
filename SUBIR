@@ -411,6 +411,8 @@ http://103.141.66.36/bpk-tv/10111/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJe7LqmU4A8hkPzuAH5QZfl26GFaIT_I--rlobPJUGwTXHazT-&usqp=CAU",R Plus Gold
 http://103.141.66.36/bpk-tv/10181/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/6a0abd8bed5b67110ab5dc29671e37f5.png",R Plus Gold
+http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg",Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
@@ -485,6 +487,9 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8Ufo5e_v55UbJLEoPoPU79WOEdI7Mx6VrOI7aGJLCT-GQngEF&usqp=CAU",R Plus News
 http://103.141.66.36/bpk-tv/10078/default/index.m3u8
+#EXTINF:-1 tvg-logo="http://rplus.rahul.ac.in/images/logo.png",R Plus News
+https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+
 
 
 
