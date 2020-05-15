@@ -192,13 +192,13 @@ http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png",Cumilla 24 TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Entertainment",Alif TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png",Nan TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WKMjYY6/Nandan-TV.jpg",Nandan TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nandantv.stream/live-orgin/nandantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="Entertainment",Bangla Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg",Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
