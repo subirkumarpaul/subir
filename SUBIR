@@ -552,6 +552,8 @@ https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
 http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
+http://137.59.155.253:8088/hls/Colors.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
