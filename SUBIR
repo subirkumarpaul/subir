@@ -1073,7 +1073,7 @@ http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
-https://bracnet.iptv.jadoodigital.com/live/colors_infinity/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFjhwQmbdCANtan757wG0tidA83CC8ItiblRxE83qQE1NDEBui&usqp=CAU",FOX HD
@@ -1081,6 +1081,9 @@ http://103.115.159.37:8080/foxhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",COMEDY CENTRAL
 https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",COMEDY CENTRAL
+https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU",COMEDY CENTRAL HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 
@@ -1103,6 +1106,10 @@ https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World (India)
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png",Diva
+https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV
@@ -1218,8 +1225,14 @@ http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU",ABP News
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU",ABP News
+https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTScGYHQ9n9nBa843cR5V0sHZYfOsV-Xk39TNlkwGgPjVZ3x26Q&usqp=CAU",Aaj Tak
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd5200abe28d5e27.png",Times Now
+https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
+#EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image5a79c47826734986.png" group-title="Brac",APN
+https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU",DD News
 http://103.141.66.36/bpk-tv/10332/default/index.m3u8
 
@@ -1269,6 +1282,9 @@ http://103.141.66.36/bpk-tv/10051/default/index.m3u8
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
 http://103.141.66.36/bpk-tv/10128/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
+https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5g2NwvM8MDLTeyeQ-ZDkKDUcRViLNgLO0lioMygVR_ALTTL3F&usqp=CAU",CGTN
@@ -1328,6 +1344,9 @@ http://103.141.66.36/bpk-tv/10058/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU",YTN World
 http://103.141.66.36/bpk-tv/10135/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU",YTN World
+https://edge01.iptv.digijadoo.net/live/ytn/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FR 24
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
