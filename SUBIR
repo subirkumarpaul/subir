@@ -914,7 +914,7 @@ http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzcLS-e4KxO9eFY73lPpsnJwuq52Q2ZtS-VQxVlCEc-1NoG_J4&usqp=CAU",Bein Sports FR 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="KITV",Euro Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x8JJ8X.png",Euro Sports
 http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
 
 
