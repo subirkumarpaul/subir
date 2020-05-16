@@ -1275,7 +1275,7 @@ https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd5200abe28d5e27.png",Times Now
 https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
-#EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image5a79c47826734986.png" group-title="Brac",APN
+#EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image5a79c47826734986.png",APN
 https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU",DD News
 http://103.141.66.36/bpk-tv/10332/default/index.m3u8
