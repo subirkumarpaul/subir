@@ -1070,8 +1070,11 @@ https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU",Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvbrzLg6N9Ir71AbgfQwkrzM8rqbf3JoD_F6KI58b6B0Pt5nL8&usqp=CAU",Colour Infinity
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
+https://bracnet.iptv.jadoodigital.com/live/colors_infinity/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFjhwQmbdCANtan757wG0tidA83CC8ItiblRxE83qQE1NDEBui&usqp=CAU",FOX HD
 http://103.115.159.37:8080/foxhd/tracks-v1a1/mono.m3u8
