@@ -1261,6 +1261,8 @@ http://103.141.66.36/bpk-tv/10051/default/index.m3u8
 
 #EXTINF:-1,Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
+#EXTINF:-1,Arirang World
+http://103.141.66.36/bpk-tv/10128/default/index.m3u8
 
 #EXTINF:-1,CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
@@ -1395,87 +1397,85 @@ http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png"group-title="MBC Group",MBC 1 HD
+#EXTINF:-1 group-title="MBC Group",MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3wbFDKO1ercQeOYhpsKq69zdL0TPD0sh4Y-9OcxmzzQ6H8X11&usqp=CAU",MBC 2 HD
+#EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",MBC 3 HD
+#EXTINF:-1,MBC 3 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png",MBC 4 HD
+#EXTINF:-1,MBC 4 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/640px-MBC_Max_2010_logo.svg.png",MBC Max (HD)
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg",MBC Bollywood
+#EXTINF:-1,MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="Other Channel",Sameroo
+#EXTINF:-1 group-title="Other Channel",Sameroo
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Moon
+#EXTINF:-1,Moon
 http://103.141.66.36/bpk-tv/10164/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Dubai Sports
+#EXTINF:-1,Dubai Sports
 http://103.141.66.36/bpk-tv/10316/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Kairali Movies
+#EXTINF:-1,Kairali Movies
 http://103.141.66.36/bpk-tv/10286/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Filmachi
+#EXTINF:-1,Filmachi
 http://103.141.66.36/bpk-tv/10290/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Metro
+#EXTINF:-1,Metro
 http://103.141.66.36/bpk-tv/10291/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Russia
+#EXTINF:-1,Russia
 http://103.141.66.36/bpk-tv/10264/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Dubai TV
+#EXTINF:-1,Dubai TV
 http://103.141.66.36/bpk-tv/10039/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Libya
+#EXTINF:-1,Libya
 http://103.141.66.36/bpk-tv/10077/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Kuwait TV
+#EXTINF:-1,Kuwait TV
 http://103.141.66.36/bpk-tv/10202/default/index.m3u8
-#EXTINF:-1 tvg-logo=", India 24
+#EXTINF:-1,India 24
 http://103.141.66.36/bpk-tv/10507/default/index.m3u8
-#EXTINF:-1 tvg-logo=", No 1 News
+#EXTINF:-1,No 1 News
 http://103.141.66.36/bpk-tv/10501/default/index.m3u8
-#EXTINF:-1 tvg-logo=", News 7
+#EXTINF:-1,News 7
 http://103.141.66.36/bpk-tv/10502/default/index.m3u8
-#EXTINF:-1 tvg-logo=", TV 9
+#EXTINF:-1,TV 9
 http://103.141.66.36/bpk-tv/10503/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdXH-uTh4dUXkJ8aerppUFHWtl1LgRDJWyMmT9YlDkfktMPFiO&usqp=CAU",Saudi TV
+#EXTINF:-1,Saudi TV
 http://103.141.66.36/bpk-tv/10212/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png",Abu dhabi TV
+#EXTINF:-1,Abu dhabi TV
 http://103.141.66.36/bpk-tv/10214/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Sarjah TV
+#EXTINF:-1,Sarjah TV
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Republic TV
+#EXTINF:-1,Republic TV
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ-TZn0pjz1i63WxlQogAmL4U0S3AlS8kZVaNUh9WWAi_t_VmO&usqp=CAU",Al Jazarrea
+#EXTINF:-1,Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/index.m3u8
-#EXTINF:-1 tvg-logo=",1
+#EXTINF:-1,DD National
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
-#EXTINF:-1 tvg-logo=", MK TV
+#EXTINF:-1,MK TV
 http://103.141.66.36/bpk-tv/10107/default/index.m3u8
-#EXTINF:-1 tvg-logo=", MK SIX
+#EXTINF:-1,MK SIX
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Ariang
-http://103.141.66.36/bpk-tv/10128/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Fakt Marathi
+#EXTINF:-1,Fakt Marathi
 http://103.141.66.36/bpk-tv/10040/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Onkar TV
+#EXTINF:-1,Onkar TV
 http://103.141.66.36/bpk-tv/10187/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Issak TV
+#EXTINF:-1,Issak TV
 http://103.141.66.36/bpk-tv/10188/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Aruvi TV
+#EXTINF:-1,Aruvi TV
 http://103.141.66.36/bpk-tv/10261/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Kalanagar TV
+#EXTINF:-1,Kalanagar TV
 http://103.141.66.36/bpk-tv/10281/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Polymar
+#EXTINF:-1,Polymar
 http://103.141.66.36/bpk-tv/10303/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Damal
+#EXTINF:-1,Damal
 http://103.141.66.36/bpk-tv/10504/default/index.m3u8
-#EXTINF:-1 tvg-logo=", MK Tunes
+#EXTINF:-1,MK Tunes
 http://103.141.66.36/bpk-tv/10165/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/Public_Music.png/revision/latest?cb=20190711114012",Public Music
+#EXTINF:-1,Public Music
 http://103.141.66.36/bpk-tv/10134/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC-r07-LCWKCFWJCsfqY4cww8twBlQMLqYCiRrcqFASJV0v08r&usqp=CAU",9x Jakasa
+#EXTINF:-1,9x Jakasa
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU",Sangeet Marathi
+#EXTINF:-1,Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
