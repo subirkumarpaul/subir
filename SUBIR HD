@@ -1174,106 +1174,106 @@ http://103.205.133.19/hls/e24.m3u8
 #EXTINF:-1,UTV Bindass 
 http://45.120.188.65:8080/0.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU",Joo Music
+#EXTINF:-1,Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2MdEa_41QR6g4y885uB2fnheIYYDWqOecEN7cIh62cU30bwTq&usqp=CAU",ARY Music
+#EXTINF:-1,ARY Music
 http://103.205.133.42:1935/local/ary_music_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png",VH1 
+#EXTINF:-1,VH1 
 https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png",VH1
+#EXTINF:-1,VH1
 http://103.214.202.218:8081/live/mtv-14/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9XO
+#EXTINF:-1,9XO
 http://103.214.202.218:8081/live/9xo-36/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9XO
+#EXTINF:-1,9XO
 http://103.205.133.19/hls/9xo.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9X0
+#EXTINF:-1,9XO
 http://103.205.133.42:1935/local/9xo_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9XO
+#EXTINF:-1,9XO
 http://103.141.66.36/bpk-tv/10140/default/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4Rl8sk0o0RVSXCu0SxZ3auZmSaQMeVYvyZmjmiCFsRmyugSVt&usqp=CAU" group-title="Hinde News",NDTV 24/7
+#EXTINF:-1 group-title="Hinde News",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4Rl8sk0o0RVSXCu0SxZ3auZmSaQMeVYvyZmjmiCFsRmyugSVt&usqp=CAU",NDTV 24/7
+#EXTINF:-1,NDTV 24/7
 http://103.141.66.36/bpk-tv/10306/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq5DbXClB0M5cmHS_zorGFf8jh9BsROhdE2T1zHfSAbPLWZ-JI&usqp=CAU",NDTV News
+#EXTINF:-1,NDTV News
 http://103.141.66.36/bpk-tv/10305/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1Eg0YQZpTX4B2nnvb9M_rgLJCSTzka0V-q77rHr97K8SRGE_c&usqp=CAU",NDTV Profit
+#EXTINF:-1,NDTV Profit
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU",Zee News
+#EXTINF:-1,Zee News
 http://103.141.66.36/bpk-tv/10285/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU",Zee News
+#EXTINF:-1,Zee News
 http://103.205.133.19/hls/zeenews.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU",ABP News
+#EXTINF:-1,ABP News
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTScGYHQ9n9nBa843cR5V0sHZYfOsV-Xk39TNlkwGgPjVZ3x26Q&usqp=CAU",Aaj Tak
+#EXTINF:-1,Aaj Tak
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU",DD News
+#EXTINF:-1,DD News
 http://103.141.66.36/bpk-tv/10332/default/index.m3u8
 #EXTINF:-1,Zee Salam
 http://103.141.66.36/bpk-tv/10108/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIzwqsSBSlvPOhsTG245e_VKrOmlYnJjopA_kMlohr1sHJ_gF&usqp=CAU" group-title="Pakistani Channel",PTV National
+#EXTINF:-1 group-title="Pakistani Channel",PTV National
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU",PTV World
+#EXTINF:-1,PTV World
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU",PTV World
+#EXTINF:-1,PTV World
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU",PTV Home
+#EXTINF:-1,PTV Home
 http://103.141.66.36/bpk-tv/10253/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGefYh9kAyfSXEYGWNz48U6QDJ9N8I7Tp0xYZTFGrXL6AAKYKd&usqp=CAU",ARY News
+#EXTINF:-1,ARY News
 http://103.141.66.36/bpk-tv/10254/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVCuQBKeGm_1PpTS-bR6ENY6OcPOkNe3VKSYThvSsTfWYbfte&usqp=CAU",Geo Tez
+#EXTINF:-1,Geo Tez
 http://103.141.66.36/bpk-tv/10262/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzI4VDtWA49BxA8mZavzDRQ_IheV2rDmOPej3ujysRqgVqAb99&usqp=CAU",Geo News
+#EXTINF:-1,Geo News
 http://103.141.66.36/bpk-tv/10288/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScT8TnWGNi6Mds_cyKsKTwo-DbXQwp2R_pL7kqCePXsJfThaIJ&usqp=CAU",A plus
+#EXTINF:-1,A plus
 http://103.141.66.36/bpk-tv/10079/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU",ARY Digital
+#EXTINF:-1,ARY Digital
 http://103.141.66.36/bpk-tv/10090/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRk5kjJvO3nW_Ka30AjiV8L7PTs3vGY7S_CjiLO6nb12P8wowF&usqp=CAU",ARY Family
+#EXTINF:-1,ARY Family
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU",ARY Zindagi
+#EXTINF:-1,ARY Zindagi
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdeOzD8A2uemn0PCzD1nPpVXgLhnjr6VukSNIGVyaHnexpLfgZ&usqp=CAU",Expresas
+#EXTINF:-1,Expresas
 http://103.141.66.36/bpk-tv/10235/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5woBXrxNaM3rFEeOAfxXoN2PmuZyho0N4GYyKaL4BPtVoJRIl&usqp=CAU",HUM TV HD
+#EXTINF:-1,HUM TV HD
 https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
+#EXTINF:-1 group-title="English News",BBC World
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
+#EXTINF:-1,BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU",CNN International
+#EXTINF:-1,CNN International
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:-1,Al Jazeera
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:-1,Al Jazeera
 http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:-1,Al Jazeera
 http://103.141.66.36/bpk-tv/10051/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
+#EXTINF:-1,Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5g2NwvM8MDLTeyeQ-ZDkKDUcRViLNgLO0lioMygVR_ALTTL3F&usqp=CAU",CGTN
+#EXTINF:-1,CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5g2NwvM8MDLTeyeQ-ZDkKDUcRViLNgLO0lioMygVR_ALTTL3F&usqp=CAU",CTGN
-http://103.141.66.36/bpk-tv/10059/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
+#EXTINF:-1,DW
+http://103.141.66.36/bpk-tv/10059/default/index.m3u8
+#EXTINF:-1,DW
 https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
+#EXTINF:-1,DW
 http://103.205.133.42:1935/local/dw_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW TV Asia
+#EXTINF:-1,DW TV Asia
 http://103.205.133.42:1935/local/dw_tv_asia_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW Asia
+#EXTINF:-1,DW Asia
 http://103.141.66.36/bpk-tv/10057/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnGntoTDveL4C5SrJuUwrW94qkWvuH_EBd0WtGKbbDJ9v3oG75&usqp=CAU",NHK World
