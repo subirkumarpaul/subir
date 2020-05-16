@@ -1261,20 +1261,24 @@ http://103.141.66.36/bpk-tv/10051/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
+http://103.141.66.36/bpk-tv/10128/default/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5g2NwvM8MDLTeyeQ-ZDkKDUcRViLNgLO0lioMygVR_ALTTL3F&usqp=CAU",CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5g2NwvM8MDLTeyeQ-ZDkKDUcRViLNgLO0lioMygVR_ALTTL3F&usqp=CAU",CTGN
-http://103.141.66.36/bpk-tv/10059/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
+http://103.141.66.36/bpk-tv/10057/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
 http://103.205.133.42:1935/local/dw_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW TV Asia
 http://103.205.133.42:1935/local/dw_tv_asia_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW Asia
-http://103.141.66.36/bpk-tv/10057/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW TV Asia
+http://103.141.66.36/bpk-tv/10059/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW TV Asia
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnGntoTDveL4C5SrJuUwrW94qkWvuH_EBd0WtGKbbDJ9v3oG75&usqp=CAU",NHK World
 http://103.205.133.42:1935/local/nhk_world_720/index.m3u8
@@ -1339,9 +1343,9 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://43.230.123.21:8080/live/nick.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick (Bangla)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",Nick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
@@ -1454,8 +1458,6 @@ http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 http://103.141.66.36/bpk-tv/10107/default/index.m3u8
 #EXTINF:-1 tvg-logo=", MK SIX
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Ariang
-http://103.141.66.36/bpk-tv/10128/default/index.m3u8
 #EXTINF:-1 tvg-logo=", Fakt Marathi
 http://103.141.66.36/bpk-tv/10040/default/index.m3u8
 #EXTINF:-1 tvg-logo=", Onkar TV
