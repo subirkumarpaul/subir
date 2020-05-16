@@ -932,6 +932,8 @@ http://43.230.123.21:8080/live/discovery.m3u8
 http://103.205.133.42:1935/local/discovery_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD
 http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU",Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
@@ -949,6 +951,8 @@ http://103.205.133.42:1935/local/animal_planet_hd_720/index.m3u8
 http://103.205.133.42:1935/local/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU",Sony BBC Earth HD
 http://103.205.133.42:1935/local/sony_bbc_earth_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png",Sony BBC Earth
+http://iptv.kitv.live:1935/live/Shari/MTV-P/168.m3u8
 
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
@@ -964,6 +968,8 @@ http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
 https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
+http://iptv.kitv.live:1935/live/Shari/MTV-P/166.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png",Nat Geo People
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
@@ -972,6 +978,8 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU",BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU",BBC Lifestyle
+http://iptv.kitv.live:1935/live/Shari/MTV-P/155.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU",TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
@@ -985,7 +993,7 @@ https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
-http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/193.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU",History TV 18 HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png",History TV 2
@@ -1207,6 +1215,8 @@ http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
 http://103.144.200.7:8080/hls/masti2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxKUNkstXEe3YW0DgYravcWAXPKmWQLZFOTM2KfXSZjGMBDNc&usqp=CAU",Masti Music
 http://103.141.66.36/bpk-tv/10210/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxKUNkstXEe3YW0DgYravcWAXPKmWQLZFOTM2KfXSZjGMBDNc&usqp=CAU",Masti Music
+http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzfGgs_rEmtSGXF3ND83x9yqQ-ec-DY5dnYdxcrE-1GD4afm4m&usqp=CAU",MTV Beates
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
@@ -1390,6 +1400,8 @@ http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network
+http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
 http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
