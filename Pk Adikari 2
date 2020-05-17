@@ -1364,7 +1364,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7A1hyLwq2yA2hZExg_P5vJRjW3AqMPIXjhpXR6GRFGC80LNeQ&usqp=CAU"Duck TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7A1hyLwq2yA2hZExg_P5vJRjW3AqMPIXjhpXR6GRFGC80LNeQ&usqp=CAU",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 
 
