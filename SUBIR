@@ -4,6 +4,8 @@
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png",BTV National
 http://103.141.66.36/bpk-tv/10330/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png",BTV National
+http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",BTV World
 http://103.214.202.218:8081/live/btvworld/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",BTV World
@@ -60,6 +62,8 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10226/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
 http://103.205.133.19/hls/duronto.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
@@ -516,6 +520,8 @@ http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx0FDgqe-Q4KaRjcDklS6XNLczn87VaUJNdTmezhpzAvYi75tl&usqp=CAU",Zee 24 Ghonta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx0FDgqe-Q4KaRjcDklS6XNLczn87VaUJNdTmezhpzAvYi75tl&usqp=CAU",Zee 24 Ghonta
+http://iptv.kitv.live:1935/live/Shari/MTV-P/192.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5z0PcNEZPbEuJOzwkooOaH_y6VOQ98H_djBgnqmvSO0NQppcW&usqp=CAU",Bangla Time
 http://103.205.133.19/hls/banglatime.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU",APB Ananda
@@ -1187,11 +1193,15 @@ http://103.205.133.19/hls/zing.m3u8
 https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU",B4U Music
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU",B4U Music
+http://iptv.kitv.live:1935/live/Shari/MTV-P/185.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU",Music India
 http://103.205.133.42:1935/local/music_india_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU",Music India
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU",Music India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaviyT2Gquhb-yF1taGhdo7K8MZ5HBviFZGNFgSu-ELY-6YT1&usqp=CAU",9xM
 http://ddn.amrbd.com:8081/live/9xm/playlist.m3u8
@@ -1237,6 +1247,8 @@ http://103.141.66.36/bpk-tv/10178/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRG72T8hrxN_NlmxpksybD-r-uXXD5p4BbaX9jGfr-Q0Ys_irrL&usqp=CAU",E24 
 http://103.205.133.19/hls/e24.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRG72T8hrxN_NlmxpksybD-r-uXXD5p4BbaX9jGfr-Q0Ys_irrL&usqp=CAU",E24 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ12NxjnWJ7NAdO9J7860Nx7sjm7eevkbwm6vNf1LFWsX9f1itd&usqp=CAU",UTV Bindass 
 http://45.120.188.65:8080/0.ts
@@ -1253,7 +1265,7 @@ https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 http://103.214.202.218:8081/live/mtv-14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9XO
-http://103.214.202.218:8081/live/9xo-36/playlist.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/180.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9XO
 http://103.205.133.19/hls/9xo.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9X0
@@ -1317,6 +1329,8 @@ https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
+http://iptv.kitv.live:1935/live/Shari/MTV-P/164.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -1409,7 +1423,7 @@ http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYBIil3Wbd40Ia0TglrAdXE4bEqnEV5BTSWlhoi-FXczSsJ65A&usqp=CAU" group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
 http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
