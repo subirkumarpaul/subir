@@ -1325,6 +1325,10 @@ http://103.141.66.36/bpk-tv/10101/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU",PTV Home
 http://103.141.66.36/bpk-tv/10253/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU",PTV Home
+https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png",PTV Global
+https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png",PTV News
 https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVCuQBKeGm_1PpTS-bR6ENY6OcPOkNe3VKSYThvSsTfWYbfte&usqp=CAU",Geo Tez
