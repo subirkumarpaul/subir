@@ -1329,6 +1329,8 @@ http://103.141.66.36/bpk-tv/10254/default/index.m3u8
 http://103.141.66.36/bpk-tv/10262/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzI4VDtWA49BxA8mZavzDRQ_IheV2rDmOPej3ujysRqgVqAb99&usqp=CAU",Geo News
 http://103.141.66.36/bpk-tv/10288/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzI4VDtWA49BxA8mZavzDRQ_IheV2rDmOPej3ujysRqgVqAb99&usqp=CAU",Geo News
+http://103.205.133.14/hls/geonews.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScT8TnWGNi6Mds_cyKsKTwo-DbXQwp2R_pL7kqCePXsJfThaIJ&usqp=CAU",A plus
 http://103.141.66.36/bpk-tv/10079/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU",ARY Digital
