@@ -1339,6 +1339,8 @@ http://103.141.66.36/bpk-tv/10090/default/index.m3u8
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU",ARY Zindagi
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU",ARY Zindagi
+https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdeOzD8A2uemn0PCzD1nPpVXgLhnjr6VukSNIGVyaHnexpLfgZ&usqp=CAU",Expresas
 http://103.141.66.36/bpk-tv/10235/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5woBXrxNaM3rFEeOAfxXoN2PmuZyho0N4GYyKaL4BPtVoJRIl&usqp=CAU",HUM TV HD
