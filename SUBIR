@@ -26,7 +26,7 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",Gazi TV
 http://43.230.123.21:8080/live/gazi-tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",Gazi TV
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/110.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",Gazi TV*
@@ -37,7 +37,7 @@ http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV*
-http://43.230.123.21:8080/live/mass.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 http://43.230.123.21:8080/live/maasranga.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
@@ -50,7 +50,7 @@ http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
 http://43.230.123.21:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
-http://103.115.159.37:8080/channel9/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/111.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
 https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
@@ -70,6 +70,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/118.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png",Bijoy TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
@@ -140,7 +142,7 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png",Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png",Nagorik TV
-http://103.115.159.37:8080/nagorik/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png",Nagorik TV
@@ -297,6 +299,8 @@ https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",News 24
 http://43.230.123.21:8080/live/news24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",News 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png",DBC News
 http://103.214.202.218:8081/live/dbc/chunks.m3u8
