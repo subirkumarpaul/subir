@@ -461,6 +461,9 @@ http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://uttarbangla.com/Images/CompanyLogo.jpg",Uttar Bangla
 http://209.58.164.245/uttarbanglahls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image97e9a86cc3e3991d.png",Tara Bangla
+https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG",DD Bangla
 http://103.205.133.42:1935/local/dd_bangla_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG",DD Bangla
