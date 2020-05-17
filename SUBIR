@@ -917,8 +917,12 @@ http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU",Sky Sports Cricket
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU",Sky Sports Cricket
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU",Sky Sports Football
 http://103.214.202.218:8081/live/bein1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU",Sky Sports Football
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU",Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 
