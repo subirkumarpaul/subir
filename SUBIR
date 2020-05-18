@@ -397,6 +397,8 @@ https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 http://103.111.120.46/hls/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jslsha
 http://103.205.133.19/hls/starjalsa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jslsha
+http://khulnalive.anytv.live:8080/starjalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg",Zee Bangla
 http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
