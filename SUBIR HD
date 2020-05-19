@@ -786,8 +786,6 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 2
 http://43.230.123.21:8080/live/starsportshd-2.m3u8
-#EXTINF:-1,Star Sports 2 HD
-http://103.115.159.37:8080/starsp2/index.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2
@@ -799,8 +797,6 @@ http://43.230.123.21:8080/live/starsports-3.m3u8
 
 #EXTINF:-1,Star Sports Select 1
 http://103.214.202.218:8081/live/select1/chunks.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://ddn.amrbd.com:8081/live/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
 http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
@@ -888,8 +884,6 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1,PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1,PTV Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
 #EXTINF:-1,PTV Sports
