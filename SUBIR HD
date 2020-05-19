@@ -1244,8 +1244,6 @@ https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 http://103.214.202.218:8081/live/mtv-14/playlist.m3u8
 
 #EXTINF:-1,9XO
-http://103.214.202.218:8081/live/9xo-36/playlist.m3u8
-#EXTINF:-1,9XO
 http://103.205.133.19/hls/9xo.m3u8
 #EXTINF:-1,9XO
 http://103.205.133.42:1935/local/9xo_720/index.m3u8
@@ -1269,12 +1267,19 @@ http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1,ABP News
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
+#EXTINF:-1,ABP News
+https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 #EXTINF:-1,Aaj Tak
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 #EXTINF:-1,DD News
 http://103.141.66.36/bpk-tv/10332/default/index.m3u8
 #EXTINF:-1,Zee Salam
 http://103.141.66.36/bpk-tv/10108/default/index.m3u8
+#EXTINF:-1,Times Now
+https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
+#EXTINF:-1,APN
+https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Pakistani Channel",PTV National
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8
@@ -1282,10 +1287,16 @@ https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8
 http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
 #EXTINF:-1,PTV World
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
+#EXTINF:-1,PTV World
+https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
 #EXTINF:-1,PTV Home
 http://103.141.66.36/bpk-tv/10253/default/index.m3u8
-#EXTINF:-1,ARY News
-http://103.141.66.36/bpk-tv/10254/default/index.m3u8
+#EXTINF:-1,PTV Home
+https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+#EXTINF:-1,PTV Global
+https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+#EXTINF:-1,PTV News
+https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
 #EXTINF:-1,Geo Tez
 http://103.141.66.36/bpk-tv/10262/default/index.m3u8
 #EXTINF:-1,Geo News
@@ -1294,14 +1305,23 @@ http://103.141.66.36/bpk-tv/10288/default/index.m3u8
 http://103.141.66.36/bpk-tv/10079/default/index.m3u8
 #EXTINF:-1,ARY Digital
 http://103.141.66.36/bpk-tv/10090/default/index.m3u8
+#EXTINF:-1,ARY Digital
+https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:-1,ARY Family
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:-1,ARY Zindagi
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
+#EXTINF:-1,ARY Zindagi
+https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+#EXTINF:-1,ARY News
+http://103.141.66.36/bpk-tv/10254/default/index.m3u8
 #EXTINF:-1,Expresas
 http://103.141.66.36/bpk-tv/10235/default/index.m3u8
 #EXTINF:-1,HUM TV HD
 https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
+#EXTINF:-1,Hum Sitaray
+http://iptv.kitv.live:1935/live/Shari/MTV-P/143.m3u8
+
 
 #EXTINF:-1 group-title="English News",BBC World
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
@@ -1309,6 +1329,8 @@ https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,BBC World
 http://iptv.kitv.live:1935/live/Shari/MTV-P/180.m3u8
+#EXTINF:-1,BBC World
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
 
 #EXTINF:-1,CNN International
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
@@ -1400,6 +1422,9 @@ http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
 #EXTINF:-1,Disny XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
 
+#EXTINF:-1,POGO
+http://45.120.188.207:80/0.ts
+
 #EXTINF:-1,Baby TV
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 
@@ -1412,6 +1437,8 @@ http://43.230.123.21:8080/live/nick.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1,NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,NICK HD+
+https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1,Sonic
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 #EXTINF:-1,Nick Jr
