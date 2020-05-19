@@ -1150,9 +1150,9 @@ http://103.214.202.218:8081/live/startworld/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 
-#EXTINF:-1 group-title="Hinde Music",MTV
+#EXTINF:-1 group-title="Hinde Music",MTV (India)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/181.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV (US)
 http://khulnalive.anytv.live:8080/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Kadak Hits
