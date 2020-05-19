@@ -556,6 +556,9 @@ https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus
 http://iptv.kitv.live:1935/live/Shari/MTV-P/134.m3u8
+#EXTINF:-1,Star Plus
+http://khulnalive.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
@@ -769,7 +772,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/183.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://43.230.123.21:8080/live/starsports-1.m3u8
 #EXTINF:-1,Star Sports 1
-http://khulnalive.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 
 http://103.205.133.19/hls/starsports1.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
