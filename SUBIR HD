@@ -920,6 +920,9 @@ http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
 #EXTINF:-1,Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
 
+#EXTINF:0,PPTV HD36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
 #EXTINF:-1,Bein Sports 1
 http://43.230.123.21:8080/bein-sports-1.m3u8
 #EXTINF:-1,Bean Sports 2
