@@ -886,12 +886,6 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1,PTV Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
-#EXTINF:-1,PTV Sports
-http://43.251.86.2:8080/hls/channel_2.m3u8
-#EXTINF:-1,PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1,PTV Sports
-https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
 #EXTINF:-1,Geo Super HD
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Geo Super
@@ -914,6 +908,11 @@ http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 
 #EXTINF:-1,Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1,Ad Sports 3
+http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
+#EXTINF:-1,Ad Sports 4
+http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
 
 #EXTINF:-1,Willow Cricket
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
@@ -1016,8 +1015,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
 #EXTINF:-1,RT Documentary
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
 
-#EXTINF:-1,CGTV Documentary
-http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 
 #EXTINF:-1,Travel Channel
 http://iptv.kitv.live:1935/live/Shari/MTV-P/162.m3u8
@@ -1033,7 +1030,6 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Life (India)
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-
 #EXTINF:-1,FYI TV 18 HD
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,Food Food
@@ -1064,7 +1060,7 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 
 
 #EXTINF:-1,AXN
-http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/151.m3u8
 
 #EXTINF:-1,Sony Pix HD
 http://43.230.123.21:8080/live/sony-pix.m3u8
