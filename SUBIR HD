@@ -996,6 +996,8 @@ https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1,TLC
+http://103.205.133.14/hls/tlc.m3u8
+#EXTINF:-1,TLC
 http://103.205.133.42:1935/local/tlc_720/index.m3u8
 #EXTINF:-1,TLC HD
 http://103.205.133.42:1935/local/tlc_hd_720/index.m3u8
