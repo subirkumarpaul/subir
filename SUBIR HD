@@ -1455,9 +1455,9 @@ https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1,SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 
-#EXTINF:-1,Sony Yay
+#EXTINF:-1,Sony Yay (Bangla)
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
-#EXTINF:-1,Sony Yay
+#EXTINF:-1,Sony Yay (Hinde)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
 
 #EXTINF:-1,Discovery Kids
