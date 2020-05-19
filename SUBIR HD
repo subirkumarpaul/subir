@@ -1442,11 +1442,15 @@ http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 #EXTINF:-1,Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
+#EXTINF:-1,Quran TV
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_makkah/chunks.m3u8
 
 #EXTINF:-1,Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
 #EXTINF:-1,Sunna TV
 http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
+#EXTINF:-1,Sunna TV
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_madina/chunks.m3u8
 
 #EXTINF:-1,ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
