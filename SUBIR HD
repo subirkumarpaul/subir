@@ -563,7 +563,7 @@ http://khulnalive.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1,Sony TV
-http://ddn.amrbd.com:8081/live/sony-40/chunks.m3u8
+http://khulnalive.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
 http://43.230.123.21:8080/live/sonyhd.m3u8
 #EXTINF:-1,Sony TV
@@ -666,6 +666,8 @@ http://43.230.123.21:8080/live/sony-max.m3u8
 http://103.205.133.42:1935/local/sony_max_720/index.m3u8
 #EXTINF:-1,Sony Max HD
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
+#EXTINF:-1,Sony Max
+http://khulnalive.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max HD
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1,Sony Max
