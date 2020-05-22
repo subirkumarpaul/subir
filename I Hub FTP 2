@@ -43,16 +43,18 @@ http://tv-cdn.ihub.live:8083/SomoyTv/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Jamuna TV
 http://tv-cdn.ihub.live:8083/JamunaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gaan Bangla
+http://tv-cdn.ihub.live:8083/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://tv-cdn.ihub.live:8083/j-ZeeBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://tv-cdn.ihub.live:8083/j-StarJalshaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jalsha Movies
+http://tv-cdn.ihub.live:8083/j-JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Dhoom Music
+http://tv-cdn.ihub.live:8083/Dhoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max
+http://tv-cdn.ihub.live:8083/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
