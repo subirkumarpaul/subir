@@ -4,7 +4,7 @@ http://tv-cdn.ihub.live:8083/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Maasranga TV
 http://tv-cdn.ihub.live:8083/j-Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekushey TV
-http://tv-cdn.ihub.live:8083/EkusheyTv/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8083/j-EkusheyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN Bangla
 http://tv-cdn.ihub.live:8083/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asian TV
@@ -42,7 +42,7 @@ http://tv-cdn.ihub.live:8083/SomoyTv/index.m3u8
 #EXTINF:-1,Independent TV
 http://tv-cdn.ihub.live:8083/IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Jamuna TV
-http://tv-cdn.ihub.live:8083/JamunaTV/tracks-v1a1/mono.m3u8
+http://103.43.151.34:8083/JamunaTV/index.m3u8
 #EXTINF:-1,Gaan Bangla
 http://tv-cdn.ihub.live:8083/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla HD
