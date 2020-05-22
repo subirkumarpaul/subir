@@ -3,6 +3,8 @@
 http://tv-cdn.ihub.live:8083/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Maasranga TV
 http://tv-cdn.ihub.live:8083/j-Maasranga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 9
+http://tv-cdn.ihub.live:8083/channel_9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekushey TV
 http://tv-cdn.ihub.live:8083/j-EkusheyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN Bangla
