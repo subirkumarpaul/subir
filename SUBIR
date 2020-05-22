@@ -924,6 +924,10 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
 
+#EXTINF:0,PPTV HD36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",Ad Sports 3
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yio8nom.png",Ad Sports 4
