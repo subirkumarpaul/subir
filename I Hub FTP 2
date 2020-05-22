@@ -14,7 +14,7 @@ http://tv-cdn.ihub.live:8083/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Banglavision
 http://tv-cdn.ihub.live:8083/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel I
-http://tv-cdn.ihub.live:8083/Channeli/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8083/ChannelI/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nagorik TV
 http://tv-cdn.ihub.live:8083/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mohona TV
