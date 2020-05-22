@@ -17,22 +17,22 @@ http://tv-cdn.ihub.live:8083/BanglaVision/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/Channeli/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nagorik TV
 http://tv-cdn.ihub.live:8083/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mohona TV
+http://tv-cdn.ihub.live:8083/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MY TV
+http://tv-cdn.ihub.live:8083/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NTV
+http://tv-cdn.ihub.live:8083/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTV
+http://tv-cdn.ihub.live:8083/j-RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SATV
+http://tv-cdn.ihub.live:8083/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN News
+http://tv-cdn.ihub.live:8083/ATNNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,News 24
+http://tv-cdn.ihub.live:8083/News24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DBC News
+http://tv-cdn.ihub.live:8083/DBCNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
