@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1,Gazi TV
 http://tv-cdn.ihub.live:8083/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Maasranga TV
+http://tv-cdn.ihub.live:8083/j-Maasranga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekushey TV
+http://tv-cdn.ihub.live:8083/EkusheyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN Bangla
+http://tv-cdn.ihub.live:8083/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Asian TV
+http://tv-cdn.ihub.live:8083/AsianTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Boishakhi TV
+http://tv-cdn.ihub.live:8083/BoishakhiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Banglavision
+http://tv-cdn.ihub.live:8083/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel I
+http://tv-cdn.ihub.live:8083/Channeli/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nagorik TV
+http://tv-cdn.ihub.live:8083/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
