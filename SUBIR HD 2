@@ -1017,7 +1017,7 @@ http://103.118.79.114:1935/live/Shari/MTV-P/179.m3u8
 #EXTINF:-1,Masti Music
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
 #EXTINF:-1,Masti Music
-http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/184.m3u8
 #EXTINF:-1,Masti Music
 http://103.141.66.36/bpk-tv/10210/default/index.m3u8
 #EXTINF:-1,MTV Beates
@@ -1029,7 +1029,7 @@ http://103.141.66.36/bpk-tv/10178/default/index.m3u8
 #EXTINF:-1,E24 
 http://103.205.133.19/hls/e24.m3u8
 #EXTINF:-1,E24
-http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/189.m3u8
 #EXTINF:-1,UTV Bindass 
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1,Joo Music
@@ -1047,7 +1047,7 @@ http://103.205.133.42:1935/local/9xo_720/index.m3u8
 #EXTINF:-1,9XO
 http://103.141.66.36/bpk-tv/10140/default/index.m3u8
 #EXTINF:-1,9XO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/180.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/180.m3u8
 #EXTINF:-1 group-title="Hinde News",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,NDTV 24/7
@@ -1113,13 +1113,13 @@ http://103.141.66.36/bpk-tv/10235/default/index.m3u8
 #EXTINF:-1,HUM TV HD
 https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
 #EXTINF:-1,Hum Sitaray
-http://iptv.kitv.live:1935/live/Shari/MTV-P/143.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/143.m3u8
 #EXTINF:-1 group-title="English News",BBC World
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1,BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,BBC World
-http://iptv.kitv.live:1935/live/Shari/MTV-P/164.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/164.m3u8
 #EXTINF:-1,BBC World
 http://43.231.22.238:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
 #EXTINF:-1,CNN International
@@ -1185,11 +1185,11 @@ http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1 group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 #EXTINF:-1 group-title="Kids Channel",Cartoon Network HD+
-http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1,Cartoon Network
 http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
 #EXTINF:-1,Disny XD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/171.m3u8
 #EXTINF:-1,POGO
 http://45.120.188.207:80/0.ts
 #EXTINF:-1,Baby TV
@@ -1199,7 +1199,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,NICK
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1,NICK
-http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1,NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,NICK HD+
@@ -1213,7 +1213,7 @@ http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:-1,Sony Yay (Bangla)
 http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 #EXTINF:-1,Sony Yay (Hinde)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/172.m3u8
 #EXTINF:-1,Discovery Kids (English)
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Kids (Hindi)
@@ -1221,7 +1221,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,BBC CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1,BBC CBEEBIES
-http://iptv.kitv.live:1935/live/Shari/MTV-P/173.m3u8
+http://103.118.79.114:1935/live/Shari/MTV-P/173.m3u8
 #EXTINF:-1,Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 group-title="Religion Channel",Quran Tv
