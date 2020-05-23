@@ -741,25 +741,25 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
 #EXTINF:-1,D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,PTV Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1,PTV Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
 #EXTINF:-1,Geo Super HD
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Geo Super
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_geosuper/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_geosuper/chunks.m3u8
 #EXTINF:-1,Ten Sports PK
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:-1,Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1,Sky Sports Cricket
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 #EXTINF:-1,Sky Sports Football
 http://103.214.202.218:8081/live/bein1/chunks.m3u8
 #EXTINF:-1,Sky Sports Football
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 #EXTINF:-1,Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 #EXTINF:-1,Fight Sports
@@ -1121,7 +1121,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,BBC World
 http://iptv.kitv.live:1935/live/Shari/MTV-P/164.m3u8
 #EXTINF:-1,BBC World
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
 #EXTINF:-1,CNN International
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1,Al Jazeera
@@ -1229,13 +1229,13 @@ http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
 #EXTINF:-1,Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
 #EXTINF:-1,Quran TV
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_makkah/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_makkah/chunks.m3u8
 #EXTINF:-1,Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
 #EXTINF:-1,Sunna TV
 http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
 #EXTINF:-1,Sunna TV
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_madina/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_madina/chunks.m3u8
 #EXTINF:-1,ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
 #EXTINF:-1,Peace TV Bangla
