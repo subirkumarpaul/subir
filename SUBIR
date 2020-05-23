@@ -1487,7 +1487,7 @@ http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
-http://stream.tapmad.com:1935/pitvlive2/cartoon_360p/chunklist.m3u8
+http://202.163.117.6:9981/stream/channelid/630600262
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ju0SN74.png",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
