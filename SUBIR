@@ -802,6 +802,8 @@ http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1
 http://103.205.133.19/hls/starsports1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1
+http://202.163.117.6:9981/stream/channelid/44268758
 
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
@@ -1500,6 +1502,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtFP_IMNjRdhYJaZC6P-0GnpbgKDqD-HwTacmGeN4q5HhuIpUY&usqp=CAU", Hungama
+http://202.163.117.6:9981/stream/channelid/1357890196
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU",Pogo
 http://45.120.188.207:80/0.ts
 
@@ -1512,6 +1517,8 @@ http://43.230.123.21:8080/live/nick.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
+http://202.163.117.6:9981/stream/channelid/1926341614
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK HD
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
