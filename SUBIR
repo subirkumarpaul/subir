@@ -1163,10 +1163,14 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8I28wxo0C1lYCTEsXLtUz8iQ_flMH668fEw2oLcnLqngD6-Y5&usqp=CAU",MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8I28wxo0C1lYCTEsXLtUz8iQ_flMH668fEw2oLcnLqngD6-Y5&usqp=CAU",MNX
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU",Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU",Movies Now
 https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU",Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU",Romedy Now
