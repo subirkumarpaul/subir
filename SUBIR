@@ -572,8 +572,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
 http://43.230.123.21:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (720p)
 http://45.114.84.205/local/sony_entertainment_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (576p)
-http://103.205.133.42:1935/local/sony_entertainment_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (320p)
 http://103.205.133.42:1935/local/sony_entertainment_320/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
@@ -681,7 +681,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://103.205.133.42:1935/local/sony_max_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
-http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
@@ -1118,11 +1118,14 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/151.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
 http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
-http://103.205.133.42:1935/local/sony_pix_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix (Asia)
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix (India)
