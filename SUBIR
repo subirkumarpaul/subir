@@ -571,7 +571,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
 http://43.230.123.21:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (720p)
-http://45.114.84.205:1935/local/sony_entertainment_720/index.m3u8
+http://45.114.84.205/local/sony_entertainment_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (576p)
 http://103.205.133.42:1935/local/sony_entertainment_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (320p)
