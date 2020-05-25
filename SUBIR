@@ -256,22 +256,22 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6FyphR/Pan-Vision-TV.jpg" group-title="IPTV Entertainment",Pan Vision TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="IPTV Entertainment",itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLd6CwQ/TV-One.jpg" group-title="Religious Channel",TV One UK
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLd6CwQ/TV-One.jpg" group-title="Religion Channel",TV One UK
 http://182.48.69.162:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="Religious Channel",Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="Religion Channel",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Religious Channel",ATN Islamic TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Religion Channel",ATN Islamic TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="Religious Channel",AL Dawah TV
+#EXTINF:-1 tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="Religion Channel",AL Dawah TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-K2QMJuh7t9I/W7hN5DR_s7I/AAAAAAAACkk/HpN6-nET6-UxyKg_9JMH3NFpgjzJLZCCQCLcBGAs/s200/iqra-bangla-uk.png" group-title="Religious Channel",Iqra Bangla UK
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-K2QMJuh7t9I/W7hN5DR_s7I/AAAAAAAACkk/HpN6-nET6-UxyKg_9JMH3NFpgjzJLZCCQCLcBGAs/s200/iqra-bangla-uk.png" group-title="Religion Channel",Iqra Bangla UK
 http://182.48.69.162:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png" group-title="Religious Channel",Azan TV
+#EXTINF:-1 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png" group-title="Religion Channel",Azan TV
 http://182.48.69.162:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg" group-title="Religious Channel",ITV USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg" group-title="Religion Channel",ITV USA
 http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1 tvg-logo="https://www.deshebideshe.com/assets/news_images/89ca1a8315d2f5c17961de11fc5c8e1e.jpg" group-title="Bangladeshi Music",Jhankar TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
@@ -383,7 +383,7 @@ http://43.230.123.21:8080/live/gan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png",RTV Music
-http://182.48.69.162:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
 
 
