@@ -954,6 +954,8 @@ http://43.230.123.21:8080/live/ten-sports.m3u8
 #EXTINF:0,PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",Fox Sports 3
+http://103.135.208.14/live/ibox/bd/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",Ad Sports 3
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
