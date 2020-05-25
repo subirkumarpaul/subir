@@ -1610,7 +1610,7 @@ http://103.135.208.14/live/ibox/bd/85.m3u8
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
-http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
+http://103.135.208.14/live/ibox/bd/98.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay
