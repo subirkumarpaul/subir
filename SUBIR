@@ -1579,6 +1579,8 @@ http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
 http://202.163.117.6:9981/stream/channelid/630600262.srt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
+http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ju0SN74.png",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
