@@ -1214,7 +1214,7 @@ http://khulnalive.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO HD
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
-http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/145.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",MBC Max
@@ -1586,6 +1586,8 @@ http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/32.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
 http://202.163.117.6:9981/stream/channelid/630600262.srt
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
 http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
@@ -1605,6 +1607,8 @@ http://45.120.188.207:80/0.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR079zVzBf_KlTPTsJMpyWGKqHb7NzeT86494aZSBP4Bx6pUsI_&usqp=CAU",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (Bangla)
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/87.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://103.135.208.14/live/ibox/bd/57.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
