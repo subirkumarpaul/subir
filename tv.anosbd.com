@@ -19,10 +19,10 @@ http://anosbd.thunderbd.com:80/8/index.m3u8?token=8d67cba2fd38947593395e33425f53
 http://anosbd.thunderbd.com:80/7/index.m3u8?token=0794237fad93ff92a49681da98dfa171a71b3db7-eb2a69166f7b6044a7df7bc333692b78-1590674301-1590663501&remote=157.119.184.230
 #EXTINF:-1,Nagorik TV
 http://anosbd.thunderbd.com:80/59/index.m3u8?token=e8e17b0071c7fce43d607282924a0f54a3b5a1da-11569078ab153e088a1e8d8ff273bb9e-1590674375-1590663575&remote=157.119.184.230
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Bangla Vision
+http://anosbd.thunderbd.com:80/3/index.m3u8?token=af0298badcc0c10c57a813b60dc477638fbffc6e-e43c606226340f8040c947f90d1895ca-1590674499-1590663699&remote=157.119.184.230
+#EXTINF:-1,NTV
+http://anosbd.thunderbd.com:80/54/index.m3u8?token=25b2bc5319647949ffbcc05be7c76573e0d3ea6d-8e973deac85de011499b0bc519276b64-1590674773-1590663973&remote=157.119.184.230
 #EXTINF:-1,
 
 #EXTINF:-1,
