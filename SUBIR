@@ -1220,8 +1220,8 @@ http://103.244.140.20:8080/hbo/index.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO
 http://khulnalive.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO HD
-http://103.214.202.218:8081/live/hbohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO
+http://edge03.thunderbd.com:8081/42/index.m3u8?token=5bcccd5af4e1b010bd7b3bfafdbbba919805506a-cae8085526b67654b63d0a56f0a3979a-1590666516-1590655716&remote=103.106.243.13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/145.m3u8
 
