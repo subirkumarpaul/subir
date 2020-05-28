@@ -76,8 +76,8 @@ http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb7382
 http://edge03.thunderbd.com:8081/42/index.m3u8?token=b6e374c0147e68236a3b07503135f4d15b4f299c-aec1e2b3cd5afd1a3e6da0c7c7d656bf-1590689700-1590678900&remote=103.106.243.13
 #EXTINF:-1,And Flix HD
 http://edge03.thunderbd.com:8081/78/index.m3u8?token=afdf42f623bf323fb49687be7cadf9eb9d90274e-e7daf492da234c1c59896ab8583ca7a8-1590689923-1590679123&remote=103.106.243.13
-#EXTINF:-1,
-
+#EXTINF:-1,Sony Pix
+http://edge03.thunderbd.com:8081/41/index.m3u8?token=e13729809fa0b8c7d93889627c704e7b328dae00-e41f2870fd8ea9b237fbef5c6dea9f0c-1590690194-1590679394&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
