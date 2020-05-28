@@ -1,0 +1,34 @@
+
+#EXTM3U
+#EXTINF:-1,Gazi TV
+http://edge03.thunderbd.com:8081/1/index.m3u8?token=b48c25a48dd8f869fd768338a24de087491c29ab-df5fe28f180f4a34abb8d041d0a59e4a-1590676712-1590665912&remote=103.106.243.13
+#EXTINF:-1,Jamuna TV
+http://edge03.thunderbd.com:8081/13/index.m3u8?token=5eca4f21e0581480580fbaa2c85371661dec2ebf-9864f5322f1effd8445157832f64e1b1-1590676987-1590666187&remote=103.106.243.13
+#EXTINF:-1,Somoy TV
+http://edge03.thunderbd.com:8081/17/index.m3u8?token=27fe6d701d8074cb525d65f037b4259df059c65b-bf5b6025c701ca685188157e1a217979-1590677034-1590666234&remote=103.106.243.13
+#EXTINF:-1,Channel I
+http://edge03.thunderbd.com:8081/6/index.m3u8?token=cf37b8e4b38efccfd54b2eed311fcdac33025034-fff741afd3ffccdc5f4713285720ea3f-1590677097-1590666297&remote=103.106.243.13
+#EXTINF:-1,News 24
+http://edge03.thunderbd.com:8081/18/index.m3u8?token=dccde3e83c0d50056bb23c314e758a79968ff584-3c16c106dfa016490903c5f9d6f030d8-1590677164-1590666364&remote=103.106.243.13
+#EXTINF:-1,Maasranga TV
+http://edge03.thunderbd.com:8081/51/index.m3u8?token=83dd218caf68e50340086063d9c65bc28ecf5e69-f164c89f49f45960672e828afbc3a582-1590677221-1590666421&remote=103.106.243.13
+#EXTINF:-1,Eakusha TV
+http://edge03.thunderbd.com:8081/65/index.m3u8?token=c58da089ce67ca2e99cc2d7a66085ee6e7755aae-dd3c2d0c062b0bd0a8e35472f34bff12-1590677303-1590666503&remote=103.106.243.13
+#EXTINF:-1,Channel 24
+http://edge03.thunderbd.com:8081/1/index.m3u8?token=1f472ad25343378d196f14f9395a20a890c45983-1cc3f939877384315b6a02523f5cd2e3-1590677388-1590666588&remote=103.106.243.13
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
