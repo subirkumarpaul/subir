@@ -72,6 +72,24 @@ http://edge03.thunderbd.com:8081/32/index.m3u8?token=482c45609fc79b1d9cb30af13e8
 http://edge03.thunderbd.com:8081/29/index.m3u8?token=e168e83a85aaa1b9d466940b066230cd633eaf6a-d3c33f4716e78452e82edd202b872ba9-1590684441-1590673641&remote=103.106.243.13
 #EXTINF:-1,Jalsha Movies
 http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb73823b9649650e737-8795d3d767bee0418cc1d0a21c6417e1-1590684731-1590673931&remote=103.106.243.13
+#EXTINF:-1,Sony TV
+
+#EXTINF:-1,Star Plus
+
+#EXTINF:-1,Zee TV
+
+#EXTINF:-1,Colors
+
+#EXTINF:-1,Sony Sab
+
+#EXTINF:-1,And TV
+
+#EXTINF:-1,Sony Max
+
+#EXTINF:-1,Star Gold
+
+#EXTINF:-1,Zee Cinema
+
 #EXTINF:-1,HBO
 http://edge03.thunderbd.com:8081/42/index.m3u8?token=b6e374c0147e68236a3b07503135f4d15b4f299c-aec1e2b3cd5afd1a3e6da0c7c7d656bf-1590689700-1590678900&remote=103.106.243.13
 #EXTINF:-1,And Flix HD
@@ -80,8 +98,8 @@ http://edge03.thunderbd.com:8081/78/index.m3u8?token=afdf42f623bf323fb49687be7ca
 http://edge03.thunderbd.com:8081/41/index.m3u8?token=e13729809fa0b8c7d93889627c704e7b328dae00-e41f2870fd8ea9b237fbef5c6dea9f0c-1590690194-1590679394&remote=103.106.243.13
 #EXTINF:-1,MNX
 http://edge03.thunderbd.com:8081/39/index.m3u8?token=779c81959d65027359bd2c844ced12927b0d82c6-77af575bf88d4a45ac6e073ca436eb46-1590690386-1590679586&remote=103.106.243.13
-#EXTINF:-1,
-
+#EXTINF:-1,Movies Now
+http://edge03.thunderbd.com:8081/45/index.m3u8?token=b77f532f5dad3b05c06fbc5e3fe8afc4047629e2-086099e3b1cc50ab9ead16fdc8d0b92d-1590690780-1590679980&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
