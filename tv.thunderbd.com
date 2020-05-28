@@ -66,6 +66,8 @@ http://edge03.thunderbd.com:8081/33/index.m3u8?token=de88259f7e2a37e857970445e1d
 http://edge03.thunderbd.com:8081/34/index.m3u8?token=19bc731e8035b760c0b7b8a1fbd01cac12320388-892923c21366ba0253263cfca2632afa-1590684256-1590673456&remote=103.106.243.13
 #EXTINF:-1,Star Jalsha HD
 http://edge03.thunderbd.com:8081/30/index.m3u8?token=da1e05598b19d5595ab5a5e8ab411515c79b5fe6-78ffc605782f922263026c7194939302-1590684547-1590673747&remote=103.106.243.13
+#EXTINF:-1,Akash Aath
+http://edge03.thunderbd.com:8081/32/index.m3u8?token=482c45609fc79b1d9cb30af13e83726b6db5d2b3-4f8dc57ee86e2568ab1251d5f3cb0ec6-1590684844-1590674044&remote=103.106.243.13
 #EXTINF:-1,Zee Bangla Cinema
 http://edge03.thunderbd.com:8081/29/index.m3u8?token=e168e83a85aaa1b9d466940b066230cd633eaf6a-d3c33f4716e78452e82edd202b872ba9-1590684441-1590673641&remote=103.106.243.13
 #EXTINF:-1,Jalsha Movies
