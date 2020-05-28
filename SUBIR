@@ -1628,6 +1628,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
+http://edge03.thunderbd.com:8081/55/index.m3u8?token=87782c0c35d84284423581ec56bbee78adefe0a3-184d5b5d30d5d311e8056c7afe5663e4-1590664837-1590654037&remote=103.106.243.13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
 http://202.163.117.6:9981/stream/channelid/1926341614
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK HD
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
