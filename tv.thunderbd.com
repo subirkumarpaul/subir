@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1,BTV National
+http://edge03.thunderbd.com:8081/53/index.m3u8?token=41a11e7a13fe87134950b029e9cd0809e430d67b-59957c7d1795f8d16e70bf5adc294721-1590678236-1590667436&remote=103.106.243.13
 #EXTINF:-1,Gazi TV
 http://edge03.thunderbd.com:8081/1/index.m3u8?token=b48c25a48dd8f869fd768338a24de087491c29ab-df5fe28f180f4a34abb8d041d0a59e4a-1590676712-1590665912&remote=103.106.243.13
 #EXTINF:-1,Jamuna TV
@@ -15,13 +17,13 @@ http://edge03.thunderbd.com:8081/51/index.m3u8?token=83dd218caf68e50340086063d9c
 #EXTINF:-1,Eakusha TV
 http://edge03.thunderbd.com:8081/65/index.m3u8?token=c58da089ce67ca2e99cc2d7a66085ee6e7755aae-dd3c2d0c062b0bd0a8e35472f34bff12-1590677303-1590666503&remote=103.106.243.13
 #EXTINF:-1,Channel 24
-http://edge03.thunderbd.com:8081/1/index.m3u8?token=1f472ad25343378d196f14f9395a20a890c45983-1cc3f939877384315b6a02523f5cd2e3-1590677388-1590666588&remote=103.106.243.13
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+http://edge03.thunderbd.com:8081/5/index.m3u8?token=5719a77c195cf450eba3c9a7d48e9f72ac225319-9846f7fa54e80e1a60ad155c6b720a54-1590677654-1590666854&remote=103.106.243.13
+#EXTINF:-1,Independent TV
+http://edge03.thunderbd.com:8081/12/index.m3u8?token=73a428491d4edc64ef6cb19083782aa22b894c39-0c6720bc5d6d35aa2756b41ff308f184-1590678089-1590667289&remote=103.106.243.13
+#EXTINF:-1,RTV
+http://edge03.thunderbd.com:8081/14/index.m3u8?token=77b9be0f1faf0714da7b0f1efbbd3f65f4011b7e-7806509d4222c933065ffaa1654061ba-1590678351-1590667551&remote=103.106.243.13
+#EXTINF:-1,NTV
+http://edge03.thunderbd.com:8081/54/index.m3u8?token=201b15c8573d57eac46f93f04ecf0d5651cb4c17-9f15cf25feb4b9b9585ea4fa7ef154c0-1590678405-1590667605&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
