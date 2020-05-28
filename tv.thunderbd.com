@@ -72,10 +72,10 @@ http://edge03.thunderbd.com:8081/32/index.m3u8?token=482c45609fc79b1d9cb30af13e8
 http://edge03.thunderbd.com:8081/29/index.m3u8?token=e168e83a85aaa1b9d466940b066230cd633eaf6a-d3c33f4716e78452e82edd202b872ba9-1590684441-1590673641&remote=103.106.243.13
 #EXTINF:-1,Jalsha Movies
 http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb73823b9649650e737-8795d3d767bee0418cc1d0a21c6417e1-1590684731-1590673931&remote=103.106.243.13
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,HBO
+http://edge03.thunderbd.com:8081/42/index.m3u8?token=b6e374c0147e68236a3b07503135f4d15b4f299c-aec1e2b3cd5afd1a3e6da0c7c7d656bf-1590689700-1590678900&remote=103.106.243.13
+#EXTINF:-1,And Flix HD
+http://edge03.thunderbd.com:8081/78/index.m3u8?token=afdf42f623bf323fb49687be7cadf9eb9d90274e-e7daf492da234c1c59896ab8583ca7a8-1590689923-1590679123&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
