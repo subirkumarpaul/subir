@@ -59,11 +59,11 @@ http://edge03.thunderbd.com:8081/49/index.m3u8?token=a010bae0025c98ac1073a9c5159
 #EXTINF:-1,Desh TV
 http://edge03.thunderbd.com:8081/9/index.m3u8?token=e43bffff0fd6b4b4b7733e0379f894ef6d7ed354-edbc102b5ce3354fd80b7b615185d2a4-1590684127-1590673327&remote=103.106.243.13
 #EXTINF:-1,Colors Bangla
-http://edge03.thunderbd.com:8081/33/index.m3u8?token=de88259f7e2a37e857970445e1d0f541221fb1f8-bdb256304939ed18f13b122f50318359-1590683446-1590672646&remote=103.106.243.13
+http://edge03.thunderbd.com:8081/66/index.m3u8?token=5a178c20701e2f9370a906c4da293a2034b73d1d-ac0b4873f91ec49441da1f10ae3a7504-1590684241-1590673441&remote=103.106.243.13
 #EXTINF:-1,Sony Aath
 http://edge03.thunderbd.com:8081/33/index.m3u8?token=de88259f7e2a37e857970445e1d0f541221fb1f8-bdb256304939ed18f13b122f50318359-1590683446-1590672646&remote=103.106.243.13
-#EXTINF:-1,
-
+#EXTINF:-1,Zee Bangla HD
+http://edge03.thunderbd.com:8081/34/index.m3u8?token=19bc731e8035b760c0b7b8a1fbd01cac12320388-892923c21366ba0253263cfca2632afa-1590684256-1590673456&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
