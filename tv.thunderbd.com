@@ -57,7 +57,7 @@ http://edge03.thunderbd.com:8081/63/index.m3u8?token=ff4dc4ef9a356c5fff66b5b36db
 #EXTINF:-1,ATN Bangla
 http://edge03.thunderbd.com:8081/49/index.m3u8?token=a010bae0025c98ac1073a9c515953d61366fa4fa-bcaf3076f2e487c95db555d6f446c3d8-1590682526-1590671726&remote=103.106.243.13
 #EXTINF:-1,Desh TV
-http://edge03.thunderbd.com:8081/66/index.m3u8?token=d471a28fcbc4249faf92352506d638193434e986-bba01bab0d316121d188e55f7b71d7d9-1590683428-1590672628&remote=103.106.243.13
+http://edge03.thunderbd.com:8081/9/index.m3u8?token=e43bffff0fd6b4b4b7733e0379f894ef6d7ed354-edbc102b5ce3354fd80b7b615185d2a4-1590684127-1590673327&remote=103.106.243.13
 #EXTINF:-1,Colors Bangla
 http://edge03.thunderbd.com:8081/33/index.m3u8?token=de88259f7e2a37e857970445e1d0f541221fb1f8-bdb256304939ed18f13b122f50318359-1590683446-1590672646&remote=103.106.243.13
 #EXTINF:-1,Sony Aath
