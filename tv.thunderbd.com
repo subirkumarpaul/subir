@@ -78,8 +78,8 @@ http://edge03.thunderbd.com:8081/42/index.m3u8?token=b6e374c0147e68236a3b0750313
 http://edge03.thunderbd.com:8081/78/index.m3u8?token=afdf42f623bf323fb49687be7cadf9eb9d90274e-e7daf492da234c1c59896ab8583ca7a8-1590689923-1590679123&remote=103.106.243.13
 #EXTINF:-1,Sony Pix
 http://edge03.thunderbd.com:8081/41/index.m3u8?token=e13729809fa0b8c7d93889627c704e7b328dae00-e41f2870fd8ea9b237fbef5c6dea9f0c-1590690194-1590679394&remote=103.106.243.13
-#EXTINF:-1,
-
+#EXTINF:-1,MNX
+http://edge03.thunderbd.com:8081/39/index.m3u8?token=779c81959d65027359bd2c844ced12927b0d82c6-77af575bf88d4a45ac6e073ca436eb46-1590690386-1590679586&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
