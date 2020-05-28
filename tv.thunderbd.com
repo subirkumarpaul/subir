@@ -68,8 +68,8 @@ http://edge03.thunderbd.com:8081/34/index.m3u8?token=19bc731e8035b760c0b7b8a1fbd
 http://edge03.thunderbd.com:8081/30/index.m3u8?token=da1e05598b19d5595ab5a5e8ab411515c79b5fe6-78ffc605782f922263026c7194939302-1590684547-1590673747&remote=103.106.243.13
 #EXTINF:-1,Zee Bangla Cinema
 http://edge03.thunderbd.com:8081/29/index.m3u8?token=e168e83a85aaa1b9d466940b066230cd633eaf6a-d3c33f4716e78452e82edd202b872ba9-1590684441-1590673641&remote=103.106.243.13
-#EXTINF:-1,
-
+#EXTINF:-1,Jalsha Movies
+http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb73823b9649650e737-8795d3d767bee0418cc1d0a21c6417e1-1590684731-1590673931&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
