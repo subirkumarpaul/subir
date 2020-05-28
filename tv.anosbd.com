@@ -23,6 +23,16 @@ http://anosbd.thunderbd.com:80/59/index.m3u8?token=e8e17b0071c7fce43d607282924a0
 http://anosbd.thunderbd.com:80/3/index.m3u8?token=af0298badcc0c10c57a813b60dc477638fbffc6e-e43c606226340f8040c947f90d1895ca-1590674499-1590663699&remote=157.119.184.230
 #EXTINF:-1,NTV
 http://anosbd.thunderbd.com:80/54/index.m3u8?token=25b2bc5319647949ffbcc05be7c76573e0d3ea6d-8e973deac85de011499b0bc519276b64-1590674773-1590663973&remote=157.119.184.230
+#EXTINF:-1,ATN News
+http://anosbd.thunderbd.com:80/49/index.m3u8?token=424c35f26e387baf11f2e9d10489841daaa3d91e-00b2e8aa9efef7acc71fa0155a897294-1590675022-1590664222&remote=157.119.184.230
+#EXTINF:-1,Ekattor TV
+http://anosbd.thunderbd.com:80/11/index.m3u8?token=6dbc501fbe9296273120aafa672554831e22468c-90502f2764c2499818461a9104ffce67-1590675109-1590664309&remote=157.119.184.230
+#EXTINF:-1,SATV
+http://anosbd.thunderbd.com:80/15/index.m3u8?token=c4895def09e222aebfa8a4f7fc0cb0d08410fd46-bbba7fe51ca06587a78ef1025482de8b-1590675177-1590664377&remote=157.119.184.230
+#EXTINF:-1,Bangla TV
+http://anosbd.thunderbd.com:80/19/index.m3u8?token=cc0b829dc7448d9e1c3c8bc9d13f5120aa3cec06-bf805e4b13d0611079eb64f1fd1663b6-1590675235-1590664435&remote=157.119.184.230
+#EXTINF:-1,Jamuna TV
+http://anosbd.thunderbd.com:80/13/index.m3u8?token=5ec45b00feca1bb9bf3948df2cfb12171aa9275c-e1297c2d50572d434c75941d2fcfe713-1590675337-1590664537&remote=157.119.184.230
 #EXTINF:-1,
 
 #EXTINF:-1,
@@ -33,6 +43,55 @@ http://anosbd.thunderbd.com:80/54/index.m3u8?token=25b2bc5319647949ffbcc05be7c76
 
 #EXTINF:-1,
 
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
 
 
 
