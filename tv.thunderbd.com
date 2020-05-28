@@ -50,10 +50,10 @@ http://edge03.thunderbd.com:8081/59/index.m3u8?token=8029795c24250e5bbe0b70509fa
 http://edge03.thunderbd.com:8081/50/index.m3u8?token=61a533b3d6057831f67a1013deb79c9fe58021ae-0a82480eee83a90f20bf728933e5cfd4-1590679968-1590669168&remote=103.106.243.13
 #EXTINF:-1,Bangla TV
 http://edge03.thunderbd.com:8081/19/index.m3u8?token=3c26ec4ca42e0509796fcfe417e1545efaeaf1c4-478947aefdb8d2f74167c2c656ca3001-1590680082-1590669282&remote=103.106.243.13
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Amanda TV
+http://edge03.thunderbd.com:8081/16/index.m3u8?token=de19ab4606d980d9ceccfb9fc8746f40ddd16349-f39849046c3122550880a0a1205593fc-1590680208-1590669408&remote=103.106.243.13
+#EXTINF:-1,ATN Islamic TV
+http://edge03.thunderbd.com:8081/63/index.m3u8?token=ff4dc4ef9a356c5fff66b5b36db367dd2ce3d303-186381caeba15ab3f26f66a4026e85cc-1590680408-1590669608&remote=103.106.243.13
 #EXTINF:-1,
 
 
