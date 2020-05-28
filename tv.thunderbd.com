@@ -24,6 +24,24 @@ http://edge03.thunderbd.com:8081/12/index.m3u8?token=73a428491d4edc64ef6cb190837
 http://edge03.thunderbd.com:8081/14/index.m3u8?token=77b9be0f1faf0714da7b0f1efbbd3f65f4011b7e-7806509d4222c933065ffaa1654061ba-1590678351-1590667551&remote=103.106.243.13
 #EXTINF:-1,NTV
 http://edge03.thunderbd.com:8081/54/index.m3u8?token=201b15c8573d57eac46f93f04ecf0d5651cb4c17-9f15cf25feb4b9b9585ea4fa7ef154c0-1590678405-1590667605&remote=103.106.243.13
+#EXTINF:-1,Bangla Vision
+http://edge03.thunderbd.com:8081/3/index.m3u8?token=43f9cb86afae64f6f5283091f94142ffbf79a640-b14a3db589eeb199b942cc690fa62d9e-1590678538-1590667738&remote=103.106.243.13
+#EXTINF:-1,ATN Bangla
+http://edge03.thunderbd.com:8081/2/index.m3u8?token=917d6c68d524bfadc3be171c071a859ad0bd9b90-d5e0da429a408238837872ceb0470d8e-1590678959-1590668159&remote=103.106.243.13
+#EXTINF:-1,Channel 9
+http://edge03.thunderbd.com:8081/4/index.m3u8?token=673ef76936cff9ea16623b71da3560dd47ce30b5-bdd2e6e49590f4579cb320c2ab84a69e-1590679055-1590668255&remote=103.106.243.13
+#EXTINF:-1,DBC News
+http://edge03.thunderbd.com:8081/7/index.m3u8?token=70f392f6d5d0adf87b59dc079946c9366c8be0f4-a74826348658f2951864c3d46a292151-1590679118-1590668318&remote=103.106.243.13
+#EXTINF:-1,MY TV
+http://edge03.thunderbd.com:8081/56/index.m3u8?token=fa0f03d55006dbfeb411dbcdf55e3bf3640dd0f7-11361b9019c81d94fcee9e0550806284-1590679280-1590668480&remote=103.106.243.13
+#EXTINF:-1,Deepto TV
+http://edge03.thunderbd.com:8081/8/index.m3u8?token=2f2b5427b6b9b0b9943df515f2f766198d4bd17c-46240d8d5c06e834853edef83080a93c-1590679359-1590668559&remote=103.106.243.13
+#EXTINF:-1,SATV
+http://edge03.thunderbd.com:8081/15/index.m3u8?token=a880e92ae6ded4809da9372a2c13cc12cdf7b062-5361e5f4f0ad9627b209b87c1898d106-1590679371-1590668571&remote=103.106.243.13
+#EXTINF:-1, Ekattor TV
+http://edge03.thunderbd.com:8081/11/index.m3u8?token=b068cfb915b3b6b9b6648794a7d86cd57bcabfc8-587eae765104a1e5d98e17032fd74f78-1590679487-1590668687&remote=103.106.243.13
+#EXTINF:-1,Asian TV
+http://edge03.thunderbd.com:8081/62/index.m3u8?token=cf88c37845f859b7f9f97500eda1f26d62e410ea-855d1771497712909e93acdf7c96509e-1590679587-1590668787&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
@@ -33,4 +51,9 @@ http://edge03.thunderbd.com:8081/54/index.m3u8?token=201b15c8573d57eac46f93f04ec
 #EXTINF:-1,
 
 #EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 
