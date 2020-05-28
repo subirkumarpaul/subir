@@ -38,18 +38,18 @@ http://edge03.thunderbd.com:8081/56/index.m3u8?token=fa0f03d55006dbfeb411dbcdf55
 http://edge03.thunderbd.com:8081/8/index.m3u8?token=2f2b5427b6b9b0b9943df515f2f766198d4bd17c-46240d8d5c06e834853edef83080a93c-1590679359-1590668559&remote=103.106.243.13
 #EXTINF:-1,SATV
 http://edge03.thunderbd.com:8081/15/index.m3u8?token=a880e92ae6ded4809da9372a2c13cc12cdf7b062-5361e5f4f0ad9627b209b87c1898d106-1590679371-1590668571&remote=103.106.243.13
-#EXTINF:-1, Ekattor TV
+#EXTINF:-1,Ekattor TV
 http://edge03.thunderbd.com:8081/11/index.m3u8?token=b068cfb915b3b6b9b6648794a7d86cd57bcabfc8-587eae765104a1e5d98e17032fd74f78-1590679487-1590668687&remote=103.106.243.13
 #EXTINF:-1,Asian TV
 http://edge03.thunderbd.com:8081/62/index.m3u8?token=cf88c37845f859b7f9f97500eda1f26d62e410ea-855d1771497712909e93acdf7c96509e-1590679587-1590668787&remote=103.106.243.13
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Boishkhi TV
+http://edge03.thunderbd.com:8081/61/index.m3u8?token=7f79adb5ffbb39d5071dbfd52180d99968d992f5-228da7b33d067be79edb6cd78520f772-1590679758-1590668958&remote=103.106.243.13
+#EXTINF:-1,Nagorik TV
+http://edge03.thunderbd.com:8081/59/index.m3u8?token=8029795c24250e5bbe0b70509fa0648d23d10476-133eb0fb385a81e95d368781bf5ed99d-1590679896-1590669096&remote=103.106.243.13
+#EXTINF:-1,Mohona TV
+http://edge03.thunderbd.com:8081/50/index.m3u8?token=61a533b3d6057831f67a1013deb79c9fe58021ae-0a82480eee83a90f20bf728933e5cfd4-1590679968-1590669168&remote=103.106.243.13
+#EXTINF:-1,Bangla TV
+http://edge03.thunderbd.com:8081/19/index.m3u8?token=3c26ec4ca42e0509796fcfe417e1545efaeaf1c4-478947aefdb8d2f74167c2c656ca3001-1590680082-1590669282&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
