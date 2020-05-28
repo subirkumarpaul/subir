@@ -33,12 +33,12 @@ http://anosbd.thunderbd.com:80/15/index.m3u8?token=c4895def09e222aebfa8a4f7fc0cb
 http://anosbd.thunderbd.com:80/19/index.m3u8?token=cc0b829dc7448d9e1c3c8bc9d13f5120aa3cec06-bf805e4b13d0611079eb64f1fd1663b6-1590675235-1590664435&remote=157.119.184.230
 #EXTINF:-1,Jamuna TV
 http://anosbd.thunderbd.com:80/13/index.m3u8?token=5ec45b00feca1bb9bf3948df2cfb12171aa9275c-e1297c2d50572d434c75941d2fcfe713-1590675337-1590664537&remote=157.119.184.230
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Channel 24
+http://anosbd.thunderbd.com:80/5/index.m3u8?token=e5cd4259ffc0e82aca47b1a00215f37922985717-0876987302c5ded9ae005526f55fd239-1590675635-1590664835&remote=157.119.184.230
+#EXTINF:-1,News 24
+http://anosbd.thunderbd.com:80/18/index.m3u8?token=c7e580a7cb98476f56cc2f3747f1c185f5a0338a-8146962d1110a00f3599c401a20c9ad0-1590675721-1590664921&remote=157.119.184.230
+#EXTINF:-1,ATN Bangla
+http://anosbd.thunderbd.com:80/2/index.m3u8?token=19d5f7d07f8d073cd3d557e6d4288e66a9ab82ba-91ade7f5997d7971a3358294f7746b1f-1590675792-1590664992&remote=157.119.184.230
 #EXTINF:-1,
 
 #EXTINF:-1,
