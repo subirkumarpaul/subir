@@ -83,13 +83,15 @@ http://edge03.thunderbd.com:8081/68/index.m3u8?token=9893aa1cc3a6296eb0ca690f101
 #EXTINF:-1,Sony Sab
 http://edge03.thunderbd.com:8081/36/index.m3u8?token=26b7634a57b4166696c7b64295178d05e82fa90d-6f204a441282a3a5d6bbf6abdf168fec-1590731840-1590721040&remote=103.106.243.13
 #EXTINF:-1,And TV
-
+http://edge03.thunderbd.com:8081/74/index.m3u8?token=f47e94a05abcf92f111238d395b6241f4a7ab7d8-97b5d2c0f6db06a96d504a00c81964a2-1590732030-1590721230&remote=103.106.243.13
 #EXTINF:-1,Sony Max
-
+http://edge03.thunderbd.com:8081/77/index.m3u8?token=315d78ce23f821afa079c51070a3f1c208c18da5-38f95344c61be67e3536de725c748aac-1590731953-1590721153&remote=103.106.243.13
 #EXTINF:-1,Star Gold
 http://edge03.thunderbd.com:8081/75/index.m3u8?token=f750f7971c38ead7937bfeb7f01f7b2ba6086e8a-d1217921834a7002094da514e6c33ca1-1590731468-1590720668&remote=103.106.243.13
 #EXTINF:-1,Zee Cinema
-
+http://edge03.thunderbd.com:8081/76/index.m3u8?token=073199bd3cc1e06577a6b6bf908bb478a3ecac1e-74e973341c57c628713f13437ad78698-1590731995-1590721195&remote=103.106.243.13
+#EXTINF:-1,And Pictures
+http://edge03.thunderbd.com:8081/100/index.m3u8?token=678540fc0a5c695247b86220859d447edb9f3749-285ef46f74d723fbbd2106990618da55-1590732348-1590721548&remote=103.106.243.13
 #EXTINF:-1,HBO
 http://edge03.thunderbd.com:8081/42/index.m3u8?token=b6e374c0147e68236a3b07503135f4d15b4f299c-aec1e2b3cd5afd1a3e6da0c7c7d656bf-1590689700-1590678900&remote=103.106.243.13
 #EXTINF:-1,And Flix HD
@@ -102,7 +104,46 @@ http://edge03.thunderbd.com:8081/39/index.m3u8?token=779c81959d65027359bd2c844ce
 http://edge03.thunderbd.com:8081/45/index.m3u8?token=b77f532f5dad3b05c06fbc5e3fe8afc4047629e2-086099e3b1cc50ab9ead16fdc8d0b92d-1590690780-1590679980&remote=103.106.243.13
 #EXTINF:-1,Zee Cafe
 http://edge03.thunderbd.com:8081/69/index.m3u8?token=95c7ca70131d34a7700487ffff3867e9f7d6f834-daf8601907ee0e01fb3c2afa572e0c51-1590731363-1590720563&remote=103.106.243.13
+#EXTINF:-1,BBC World
+http://edge03.thunderbd.com:8081/44/index.m3u8?token=b8602ecfb45535c8e288564e6e38d0892b6a454e-8878902d272076ee3a772c39778c057a-1590732403-1590721603&remote=103.106.243.13
+#EXTINF:-1,Star Sports 1
+http://edge03.thunderbd.com:8081/25/index.m3u8?token=c1bd36ac650beb4e09d2790dda2c74b838fdf972-95257ce01d4ca1107642c8098aedf1fe-1590732546-1590721746&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 
