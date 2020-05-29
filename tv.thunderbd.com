@@ -58,6 +58,8 @@ http://edge03.thunderbd.com:8081/63/index.m3u8?token=ff4dc4ef9a356c5fff66b5b36db
 http://edge03.thunderbd.com:8081/49/index.m3u8?token=a010bae0025c98ac1073a9c515953d61366fa4fa-bcaf3076f2e487c95db555d6f446c3d8-1590682526-1590671726&remote=103.106.243.13
 #EXTINF:-1,Desh TV
 http://edge03.thunderbd.com:8081/9/index.m3u8?token=e43bffff0fd6b4b4b7733e0379f894ef6d7ed354-edbc102b5ce3354fd80b7b615185d2a4-1590684127-1590673327&remote=103.106.243.13
+#EXTINF:-1,Duranto TV
+http://edge03.thunderbd.com:8081/10/index.m3u8?token=4972d86d84d91ead8ecf6de47fdb8ea6a5b1bba4-f4c9903696d778999d48fda360bd1f6f-1590762012-1590751212&remote=103.106.243.13
 #EXTINF:-1,Gaan Bangla
 http://edge03.thunderbd.com:8081/58/index.m3u8?token=522a0ec8709d47539f029892a13af0899b18e8f3-1745ff578628ca1b91b83cca9bcfe644-1590739745-1590728945&remote=103.106.243.13
 #EXTINF:-1,Colors Bangla
@@ -77,7 +79,7 @@ http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb7382
 #EXTINF:-1,Sangeet Bangla
 http://edge03.thunderbd.com:8081/96/index.m3u8?token=f6bdd672801ba6936a62d8715004b3dc266e8c2a-4f9313880417a629e5b28f2b33f24ab5-1590740593-1590729793&remote=103.106.243.13
 #EXTINF:-1,Dhoom Music
-
+http://edge03.thunderbd.com:8081/57/index.m3u8?token=96d3365d741d8994a4905df4ecfe7d3281a9da09-1991b0a79ce701b80b6ad1d10e343550-1590761676-1590750876&remote=103.106.243.13
 #EXTINF:-1,Sony TV
 http://edge03.thunderbd.com:8081/38/index.m3u8?token=370078afda402073d360e292c501724d14d4380d-3d29bf509adb8509ef0389cfe6adc5b0-1590731729-1590720929&remote=103.106.243.13
 #EXTINF:-1,Star Plus
@@ -134,24 +136,17 @@ http://edge03.thunderbd.com:8081/73/index.m3u8?token=bdae8a9d8cff7d15583e0a326a2
 http://edge03.thunderbd.com:8081/60/index.m3u8?token=198352218843c33f8a3f0780b6316e2352fdf11e-88e3ab1ecaac144e97e5043308f05c34-1590740438-1590729638&remote=103.106.243.13
 #EXTINF:-1,9xm
 http://edge03.thunderbd.com:8081/98/index.m3u8?token=c21de417a678b61cc2b3b57d492941f224406a71-747d70498e1ce71839fa4524c53b3a2b-1590740502-1590729702&remote=103.106.243.13
+#EXTINF:-1,Zee ETC
+http://edge03.thunderbd.com:8081/46/index.m3u8?token=0301864575b44f4ae05f6d803713c4779cac06c0-71a0a85a9ff36689f70fbe8e00ff8ab7-1590761738-1590750938&remote=103.106.243.13
 #EXTINF:-1,9xo
 http://edge03.thunderbd.com:8081/98/index.m3u8?token=a5324e346cdf78fa20c0e201bb60b5b50d015d70-b1c960969e02f51f16531a028a2fbff2-1590740537-1590729737&remote=103.106.243.13
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1,Discovery 
+http://edge03.thunderbd.com:8081/43/index.m3u8?token=8971a86899e22f070113d433970b946bb01b3713-fa19abe261272cb5c533a0ff7f76aa2c-1590761847-1590751047&remote=103.106.243.13
+#EXTINF:-1,Nat Geo Channel
+http://edge03.thunderbd.com:8081/35/index.m3u8?token=d54f56eed439d7ac420286e926041a365e59c2db-298b080439f9195d2fc984cf061ca364-1590761936-1590751136&remote=103.106.243.13
+#EXTINF:-1,Nick
+http://edge03.thunderbd.com:8081/55/index.m3u8?token=5328a174895be3e663b98bca7792b25018d7a7c4-1a610cc2cb487be731f356c1d3b9aafa-1590762081-1590751281&remote=103.106.243.13
+#EXTINF:-1,Cartoon Network
+http://edge03.thunderbd.com:8081/79/index.m3u8?token=cd64959dc03bab6bd83d3d5050b0d7902c9c4769-1d044082dbb7141d27353a7e1c91f55c-1590762113-1590751313&remote=103.106.243.13
 
 
