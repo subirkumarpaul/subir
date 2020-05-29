@@ -73,21 +73,21 @@ http://edge03.thunderbd.com:8081/29/index.m3u8?token=e168e83a85aaa1b9d466940b066
 #EXTINF:-1,Jalsha Movies
 http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb73823b9649650e737-8795d3d767bee0418cc1d0a21c6417e1-1590684731-1590673931&remote=103.106.243.13
 #EXTINF:-1,Sony TV
-
+http://edge03.thunderbd.com:8081/38/index.m3u8?token=370078afda402073d360e292c501724d14d4380d-3d29bf509adb8509ef0389cfe6adc5b0-1590731729-1590720929&remote=103.106.243.13
 #EXTINF:-1,Star Plus
-
+http://edge03.thunderbd.com:8081/67/index.m3u8?token=763cd9fdf8cf6135e17ee0ef15cd24d329a41a47-555fb6b1de921d0ddc82aad4c6fba500-1590731651-1590720851&remote=103.106.243.13
 #EXTINF:-1,Zee TV
-
+http://edge03.thunderbd.com:8081/40/index.m3u8?token=4a3577a632dbdb7575260519f1a2f4d2f1426285-631d73b2632f0942cf8fca39b8cb2599-1590731783-1590720983&remote=103.106.243.13
 #EXTINF:-1,Colors
-
+http://edge03.thunderbd.com:8081/68/index.m3u8?token=9893aa1cc3a6296eb0ca690f101e7cbc6b9726e2-57b3db95684c72268d4a59f1d51c2415-1590731698-1590720898&remote=103.106.243.13
 #EXTINF:-1,Sony Sab
-
+http://edge03.thunderbd.com:8081/36/index.m3u8?token=26b7634a57b4166696c7b64295178d05e82fa90d-6f204a441282a3a5d6bbf6abdf168fec-1590731840-1590721040&remote=103.106.243.13
 #EXTINF:-1,And TV
 
 #EXTINF:-1,Sony Max
 
 #EXTINF:-1,Star Gold
-
+http://edge03.thunderbd.com:8081/75/index.m3u8?token=f750f7971c38ead7937bfeb7f01f7b2ba6086e8a-d1217921834a7002094da514e6c33ca1-1590731468-1590720668&remote=103.106.243.13
 #EXTINF:-1,Zee Cinema
 
 #EXTINF:-1,HBO
@@ -100,8 +100,8 @@ http://edge03.thunderbd.com:8081/41/index.m3u8?token=e13729809fa0b8c7d93889627c7
 http://edge03.thunderbd.com:8081/39/index.m3u8?token=779c81959d65027359bd2c844ced12927b0d82c6-77af575bf88d4a45ac6e073ca436eb46-1590690386-1590679586&remote=103.106.243.13
 #EXTINF:-1,Movies Now
 http://edge03.thunderbd.com:8081/45/index.m3u8?token=b77f532f5dad3b05c06fbc5e3fe8afc4047629e2-086099e3b1cc50ab9ead16fdc8d0b92d-1590690780-1590679980&remote=103.106.243.13
-#EXTINF:-1,
-
+#EXTINF:-1,Zee Cafe
+http://edge03.thunderbd.com:8081/69/index.m3u8?token=95c7ca70131d34a7700487ffff3867e9f7d6f834-daf8601907ee0e01fb3c2afa572e0c51-1590731363-1590720563&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
