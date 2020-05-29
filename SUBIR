@@ -878,8 +878,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",Star Sports Select 1 HD
 http://103.135.208.14/live/ibox/bd/82.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",Star Sports Select 1
-http://edge03.thunderbd.com:8081/27/index.m3u8?token=f71355b579367463d223011de357760c89c158f6-51a2fb5b052dc7b24abc396cec1c6d03-1590665759-1590654959&remote=103.106.243.13
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",Star Sports Select 1 HD
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",Star Sports Select 1 HD
 http://cdn.banglatv.xyz/beeiptv-stb/select1/chunks.m3u8
@@ -890,8 +888,6 @@ http://103.214.202.218:8081/live/select2/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",Star Sports Select 2 HD
 http://103.135.208.14/live/ibox/bd/83.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",Star Sports Select 2 HD
-http://edge03.thunderbd.com:8081/28/index.m3u8?token=36b6440028cf3820979d6a253d0d064f2ca712de-44bf718f1617501ed48979d4a6c5e82b-1590665893-1590655093&remote=103.106.243.13
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",STAR SPOTRS SELECT 2 HD
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",STAR SPOTRS SELECT 2 HD
@@ -970,10 +966,6 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
-http://anosbd.thunderbd.com:80/73/index.m3u8?token=717dcbbf84c6321b4ae222db501549ff91d302b4-08469026db7dbe7773c4770a5b641e3b-1590667182-1590656382&remote=157.119.184.230
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
-http://edge03.thunderbd.com:8081/73/index.m3u8?token=1ab3870f84238c9927ec7e68601e1f7a0ba24690-0fc28d473f6f9f051159ff16f7823d41-1590665066-1590654266&remote=103.106.243.13
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
 http://103.244.140.20:8080/ptvsp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQrG1TR2qdF3FpoJfnXoSxDJOTIpez5c7i7vYqH_1KyI6j679c&usqp=CAU",Ptv Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
@@ -1040,8 +1032,6 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/106.m3u8
 http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery (Hindi)
 http://103.135.208.14/live/ibox/bd/59.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery
-http://edge03.thunderbd.com:8081/43/index.m3u8?token=afb8b3d2575c3e6b70d557282521c27e09552b17-ccc1c8399f84dc6525cb29c60d4f91d5-1590664948-1590654148&remote=103.106.243.13
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD
 http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD (Bangla)
@@ -1186,7 +1176,7 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
-http://edge03.thunderbd.com:8081/41/index.m3u8?token=77d4d9f24bfcbb46b0a9920b5e1318605d10aa0d-39db0590f8844b5753c0f055fe679f14-1590666076-1590655276&remote=103.106.243.13
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix (Asia)
@@ -1207,8 +1197,6 @@ http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU",Zee Café
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU",Zee Café
-http://edge03.thunderbd.com:8081/69/index.m3u8?token=bf1dfe349a8cafd99903afe030ba2bcf6958e15a-35aff6448737714a2f24d3b8408b5e84-1590666736-1590655936&remote=103.106.243.13
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
@@ -1222,8 +1210,6 @@ http://103.244.140.20:8080/hbo/index.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO
 http://khulnalive.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlzEFj0FMGryg5_BSxHXbuFlYt5X5DMxlQ57Ofx9ZUmayW6lc8&usqp=CAU",HBO
-http://edge03.thunderbd.com:8081/42/index.m3u8?token=5bcccd5af4e1b010bd7b3bfafdbbba919805506a-cae8085526b67654b63d0a56f0a3979a-1590666516-1590655716&remote=103.106.243.13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/145.m3u8
 
@@ -1361,7 +1347,7 @@ http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 http://103.205.133.42:1935/local/9xm_jalwa_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg",Sony Mix
-https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg",Sony MIX 
 http://103.205.133.42:1935/local/sony_mix_720/index.m3u8
 
@@ -1598,8 +1584,6 @@ http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+
-http://edge03.thunderbd.com:8081/79/index.m3u8?token=7c1a80d6fca5ae8069cf5a62b92526a942f42005-6fef836817d5861e19ee73e4b4c45123-1590663112-1590652312&remote=103.106.243.13
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/32.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network
