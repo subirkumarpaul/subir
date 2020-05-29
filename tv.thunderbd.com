@@ -74,6 +74,10 @@ http://edge03.thunderbd.com:8081/32/index.m3u8?token=482c45609fc79b1d9cb30af13e8
 http://edge03.thunderbd.com:8081/29/index.m3u8?token=e168e83a85aaa1b9d466940b066230cd633eaf6a-d3c33f4716e78452e82edd202b872ba9-1590684441-1590673641&remote=103.106.243.13
 #EXTINF:-1,Jalsha Movies
 http://edge03.thunderbd.com:8081/31/index.m3u8?token=20106860abe1f3cb62c3deb73823b9649650e737-8795d3d767bee0418cc1d0a21c6417e1-1590684731-1590673931&remote=103.106.243.13
+#EXTINF:-1,Sangeet Bangla
+http://edge03.thunderbd.com:8081/96/index.m3u8?token=f6bdd672801ba6936a62d8715004b3dc266e8c2a-4f9313880417a629e5b28f2b33f24ab5-1590740593-1590729793&remote=103.106.243.13
+#EXTINF:-1,Dhoom Music
+
 #EXTINF:-1,Sony TV
 http://edge03.thunderbd.com:8081/38/index.m3u8?token=370078afda402073d360e292c501724d14d4380d-3d29bf509adb8509ef0389cfe6adc5b0-1590731729-1590720929&remote=103.106.243.13
 #EXTINF:-1,Star Plus
@@ -126,12 +130,12 @@ http://edge03.thunderbd.com:8081/22/index.m3u8?token=73db8326af2041b26bd26f032df
 http://edge03.thunderbd.com:8081/23/index.m3u8?token=ef57917a12145ce34ebae5d663b2c1cb1f205567-6790570568dfa61136a6501b0aa5af91-1590733698-1590722898&remote=103.106.243.13
 #EXTINF:-1,PTV Sports
 http://edge03.thunderbd.com:8081/73/index.m3u8?token=bdae8a9d8cff7d15583e0a326a21ff2da763380b-ce1cf6bccc310c6cd5390d15337f12b0-1590733747-1590722947&remote=103.106.243.13
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Zoom
+http://edge03.thunderbd.com:8081/60/index.m3u8?token=198352218843c33f8a3f0780b6316e2352fdf11e-88e3ab1ecaac144e97e5043308f05c34-1590740438-1590729638&remote=103.106.243.13
+#EXTINF:-1,9xm
+http://edge03.thunderbd.com:8081/98/index.m3u8?token=c21de417a678b61cc2b3b57d492941f224406a71-747d70498e1ce71839fa4524c53b3a2b-1590740502-1590729702&remote=103.106.243.13
+#EXTINF:-1,9xo
+http://edge03.thunderbd.com:8081/98/index.m3u8?token=a5324e346cdf78fa20c0e201bb60b5b50d015d70-b1c960969e02f51f16531a028a2fbff2-1590740537-1590729737&remote=103.106.243.13
 #EXTINF:-1,
 
 #EXTINF:-1,
