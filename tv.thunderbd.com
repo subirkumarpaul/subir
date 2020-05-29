@@ -108,15 +108,15 @@ http://edge03.thunderbd.com:8081/69/index.m3u8?token=95c7ca70131d34a7700487ffff3
 http://edge03.thunderbd.com:8081/44/index.m3u8?token=b8602ecfb45535c8e288564e6e38d0892b6a454e-8878902d272076ee3a772c39778c057a-1590732403-1590721603&remote=103.106.243.13
 #EXTINF:-1,Star Sports 1
 http://edge03.thunderbd.com:8081/25/index.m3u8?token=c1bd36ac650beb4e09d2790dda2c74b838fdf972-95257ce01d4ca1107642c8098aedf1fe-1590732546-1590721746&remote=103.106.243.13
-#EXTINF:-1,
+#EXTINF:-1,Star Sports Select 1
+http://edge03.thunderbd.com:8081/27/index.m3u8?token=3cc7adec0f5f511146adfe67630c3db3acd38314-2ea5b79c40cf632e211d9ff21eca40ba-1590732752-1590721952&remote=103.106.243.13
+#EXTINF:-1,Star Sports Select 2
+http://edge03.thunderbd.com:8081/28/index.m3u8?token=9b11d1376a98862cd42cbc1da9e833917a02e173-74b67d6e69dc197a606a81bef79361ca-1590732801-1590722001&remote=103.106.243.13
+#EXTINF:-1,Sony Ten 1
 
-#EXTINF:-1,
+#EXTINF:-1,Sony Ten 2
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1,Sony Ten 3
 
 #EXTINF:-1,
 
