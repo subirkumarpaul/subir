@@ -13,6 +13,8 @@ https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,gazi_tv
 https://bol.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1,gazi_tv
+https://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1,channel_9
