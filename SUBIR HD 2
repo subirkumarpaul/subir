@@ -501,7 +501,7 @@ http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1,Sony TV
 http://khulnalive.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
-http://43.230.123.21:8080/live/sonyhd.m3u8
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1,Sony TV
 http://103.135.208.14/live/ibox/bd/43.m3u8
 #EXTINF:-1,Sony TV
@@ -646,6 +646,8 @@ http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 #EXTINF:-1,Zee Action
 http://103.205.133.19/hls/zeeaction.m3u8
+#EXTINF:-1,Zee Action
+http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://103.141.66.36/bpk-tv/10104/default/index.m3u8
 #EXTINF:-1,Zee Bollywood
@@ -662,6 +664,8 @@ http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 http://103.135.208.14/live/ibox/bd/94.m3u8
 #EXTINF:-1,And Xplor HD
 http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+#EXTINF:-1,Zee Anmol
+http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 #EXTINF:-1,B4U Movies
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
 #EXTINF:-1,B4U Movies
@@ -694,6 +698,16 @@ http://103.141.66.36/bpk-tv/10076/default/index.m3u8
 http://103.141.66.36/bpk-tv/10191/default/index.m3u8
 #EXTINF:-1,Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
+#EXTINF:-1,SHEMAROO CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Shemaroo Hindi TV
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,BOLLYWOOD CLASSIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="Sports",Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 HD
@@ -978,12 +992,18 @@ http://103.205.133.42:1935/local/sony_pix_720/index.m3u8
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1,Sony PiX
 http://103.118.79.114:1935/live/Shari/MTV-P/148.m3u8
+#EXTINF:-1,Sony PiX
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1,And Prive
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1,And Prive HD
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,And Flix
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,And Flix
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
+#EXTINF:-1,And Flix HD
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cafe
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1,Zee Cafe
@@ -1036,6 +1056,8 @@ https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1,Lotus Macau
 http://103.135.208.14/live/ibox/bd/69.m3u8
+#EXTINF:-1,HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1,Fox Action Movies
