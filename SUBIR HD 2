@@ -15,68 +15,68 @@ http://103.141.66.36/bpk-tv/10031/default/index.m3u8
 #EXTINF:-1,BTV Chottogram
 http://103.141.66.36/bpk-tv/10335/default/index.m3u8
 #EXTINF:-1,Sangsad TV
-http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1,Sangsad TV
 https://edge01.iptv.digijadoo.net:443/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1,Sangsad TV
 http://103.141.66.36/bpk-tv/10036/default/index.m3u8
 #EXTINF:-1 group-title="Bangladesi Entertainment",Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Gazi TV
 http://43.230.123.21:8080/live/gazi-tv.m3u8
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Gazi TV
 http://103.118.79.114:1935/live/Shari/MTV-P/110.m3u8
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Gazi TV
 http://103.213.238.70:8080/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 group-title="Bangladesi Entertainment",Gazi TV
 http://103.141.66.36/bpk-tv/10328/default/index.m3u8
-#EXTINF:-1,Maasranga TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Maasranga TV
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
-#EXTINF:-1,Maasranga TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Maasranga TV
 http://103.118.79.114:1935/live/Shari/MTV-P/104.m3u8
-#EXTINF:-1,Maasranga TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Maasranga TV
 http://43.230.123.21:8080/live/maasranga.m3u8
-#EXTINF:-1,Maasranga TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Maasranga TV
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1,Maasranga TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Maasranga TV
 http://103.141.66.36/bpk-tv/10154/default/index.m3u8
-#EXTINF:-1,Channel 9 HD BD
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Channel 9 HD BD
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
-#EXTINF:-1,Channel 9 HD BD
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Channel 9 HD BD
 http://43.230.123.21:8080/live/channel9.m3u8
-#EXTINF:-1,Channel 9 HD BD
+#EXTINF:-1 group-title="Bangladesi Entertainment",Channel 9 HD BD
 http://103.118.79.114:1935/live/Shari/MTV-P/111.m3u8
-#EXTINF:-1,Channel 9 HD BD
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Channel 9 HD BD
 https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1,Channel 9 HD BD
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Channel 9 HD BD
 http://103.141.66.36/bpk-tv/10080/default/index.m3u8
-#EXTINF:-1,Duronto TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1,Duronto TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Duronto TV
 http://103.141.66.36/bpk-tv/10226/default/index.m3u8
-#EXTINF:-1,Duronto TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Duronto TV
 http://103.118.79.114:1935/live/Shari/MTV-P/169.m3u8
-#EXTINF:-1,Ekushey TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Ekushey TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
-#EXTINF:-1,Ekushey TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Ekushey TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1,Ekushey TV
+#EXTINF:-1 group-title="Bangladesi Entertainment",Ekushey TV
 http://103.118.79.114:1935/live/Shari/MTV-P/118.m3u8
-#EXTINF:-1,Bijoy TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Bijoy TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
-#EXTINF:-1,Bijoy TV
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Bijoy TV
 http://103.141.66.36/bpk-tv/10227/default/index.m3u8
-#EXTINF:-1,Deepto TV HD
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Deepto TV HD
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
-#EXTINF:-1,Deepto TV HD
+#EXTINF:-1 group-title="Bangladesi Entertainment",Deepto TV HD
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,Deepto TV HD
+#EXTINF:-1 group-title="Bangladesi Entertainment" group-title="Bangladesi Entertainment",Deepto TV HD
 http://103.141.66.36/bpk-tv/10455/default/index.m3u8
-#EXTINF:-1,Deepto TV HD
+#EXTINF:-1 group-title="Bangladesi Entertainment",Deepto TV HD
 http://103.118.79.114:1935/live/Shari/MTV-P/118.m3u8
-#EXTINF:-1,Asian TV
+#EXTINF:-1 group-title="Bangladesi Entertainment",Asian TV
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
 #EXTINF:-1,Asian TV
 https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
