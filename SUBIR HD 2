@@ -559,6 +559,8 @@ http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,And TV
+http://103.135.208.14/live/ibox/bd/47.m3u8
+#EXTINF:-1,And TV
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,Star Bharat
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
@@ -634,6 +636,8 @@ http://178.159.5.10:16
 http://202.163.117.6:9981/stream/channelid/135894982
 #EXTINF:-1,UTV Movies
 http://202.163.117.6:9981/stream/channelid/1095695221
+#EXTINF:-1,UTV Movies
+http://103.135.208.14/live/ibox/bd/7.m3u8
 #EXTINF:-1,Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,Zee Action
@@ -654,6 +658,8 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1,And Picture HD
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+#EXTINF:-1,And Picture
+http://103.135.208.14/live/ibox/bd/94.m3u8
 #EXTINF:-1,And Xplor HD
 http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 #EXTINF:-1,B4U Movies
@@ -676,6 +682,8 @@ http://103.118.79.114:1935/live/Shari/MTV-P/144.m3u8
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1,Manoranjan TV
 http://103.118.79.114:1935/live/Shari/MTV-P/321.m3u8
+#EXTINF:-1,Manoranjan TV
+http://103.135.208.14/live/ibox/bd/12.m3u8
 #EXTINF:-1,Monoranjan Grand
 http://103.141.66.36/bpk-tv/10103/default/index.m3u8
 #EXTINF:-1,Monoranjan Movies
@@ -944,6 +952,8 @@ http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF:-1,Hum Masala
 http://103.118.79.114:1935/live/Shari/MTV-P/142.m3u8
+#EXTINF:-1,Hum Masala
+http://103.135.208.14/live/ibox/bd/49.m3u8
 #EXTINF:-1,Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="English Movies",Star Movies (UAE)
@@ -996,12 +1006,24 @@ http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1,MNX
+http://103.135.208.14/live/ibox/bd/70.m3u8
+#EXTINF:-1,MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
 #EXTINF:-1,Movies Now
 https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1,Movies Now
+http://103.135.208.14/live/ibox/bd/71.m3u8
+#EXTINF:-1,Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
+#EXTINF:-1,Romedy Now
+http://103.135.208.14/live/ibox/bd/72.m3u8
+#EXTINF:-1,Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,Colour Infinity
 http://43.230.123.21:8080/live/color-Infinity.m3u8
 #EXTINF:-1,Colour Infinity
@@ -1013,7 +1035,7 @@ https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1,Lotus Macau
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1,Lotus Macau
-https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+http://103.135.208.14/live/ibox/bd/69.m3u8
 #EXTINF:-1,Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1,Fox Action Movies
@@ -1043,7 +1065,7 @@ http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1,Zoom
-http://livecdnh1.tvanywhere.ae/hls/zoom/05.m3u8
+http://103.135.208.14/live/ibox/bd/14.m3u8
 #EXTINF:-1,Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1,Zing
@@ -1060,18 +1082,24 @@ https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.118.79.114:1935/live/Shari/MTV-P/185.m3u8
+#EXTINF:-1,B4U Music
+http://103.135.208.14/live/ibox/bd/108.m3u8
 #EXTINF:-1,Music India
 http://103.205.133.42:1935/local/music_india_720/index.m3u8
 #EXTINF:-1,Music India
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 #EXTINF:-1,Music India
 http://103.118.79.114:1935/live/Shari/MTV-P/190.m3u8
+#EXTINF:-1,Music India
+http://103.135.208.14/live/ibox/bd/103.m3u8
 #EXTINF:-1,9xM
 http://103.205.133.42:1935/local/9xm_720/index.m3u8
 #EXTINF:-1,9xM
 http://103.141.66.36/bpk-tv/10266/default/index.m3u8
 #EXTINF:-1,9xM
 http://103.205.133.19/hls/9xm.m3u8
+#EXTINF:-1,9xM
+http://103.135.208.14/live/ibox/bd/90.m3u8
 #EXTINF:-1,9X Jalwa
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 #EXTINF:-1,9X Jalwa
@@ -1112,6 +1140,8 @@ http://103.205.133.42:1935/local/ary_music_720/index.m3u8
 https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 #EXTINF:-1,VH1
 http://103.214.202.218:8081/live/mtv-14/playlist.m3u8
+#EXTINF:-1,VH1
+http://103.135.208.14/live/ibox/bd/76.m3u8
 #EXTINF:-1,9XO
 http://103.205.133.19/hls/9xo.m3u8
 #EXTINF:-1,9XO
@@ -1172,6 +1202,8 @@ http://103.141.66.36/bpk-tv/10079/default/index.m3u8
 http://103.141.66.36/bpk-tv/10090/default/index.m3u8
 #EXTINF:-1,ARY Digital
 https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+#EXTINF:-1,ARY Digital
+http://103.135.208.14/live/ibox/bd/56.m3u8
 #EXTINF:-1,ARY Family
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:-1,ARY Zindagi
@@ -1194,14 +1226,20 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/164.m3u8
 #EXTINF:-1,BBC World
 http://43.231.22.238:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
+#EXTINF:-1,BBC World
+http://103.135.208.14/live/ibox/bd/68.m3u8
 #EXTINF:-1,CNN International
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
+#EXTINF:-1,CNN International
+http://103.135.208.14/live/ibox/bd/106.m3u8
 #EXTINF:-1,Al Jazeera
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 #EXTINF:-1,Al Jazeera
 http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
 #EXTINF:-1,Al Jazeera
 http://103.141.66.36/bpk-tv/10051/default/index.m3u8
+#EXTINF:-1,Al Jazeera
+http://103.135.208.14/live/ibox/bd/95.m3u8
 #EXTINF:-1,Arirang World
 http://103.205.133.42:1935/local/arirang_720/index.m3u8
 #EXTINF:-1,Arirang World
@@ -1212,6 +1250,8 @@ http://103.205.133.42:1935/local/cgtn_720/index.m3u8
 http://103.141.66.36/bpk-tv/10057/default/index.m3u8
 #EXTINF:-1,DW
 http://103.205.133.42:1935/local/dw_720/index.m3u8
+#EXTINF:-1,DW
+http://103.135.208.14/live/ibox/bd/105.m3u8
 #EXTINF:-1,DW TV Asia
 http://103.205.133.42:1935/local/dw_tv_asia_720/index.m3u8
 #EXTINF:-1,DW TV Asia
@@ -1222,6 +1262,8 @@ https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
 http://103.205.133.42:1935/local/nhk_world_720/index.m3u8
 #EXTINF:-1,NHK World
 https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+#EXTINF:-1,NHK World
+http://103.135.208.14/live/ibox/bd/75.m3u8
 #EXTINF:-1,TV5 Monde Asia
 http://103.205.133.42:1935/local/tv5_monde_720/index.m3u8
 #EXTINF:-1,TV5 Monde Asia
@@ -1234,6 +1276,8 @@ https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 http://103.205.133.42:1935/local/euro_news_720/index.m3u8
 #EXTINF:-1,Euro News
 http://103.141.66.36/bpk-tv/10211/default/index.m3u8
+#EXTINF:-1,Euro News
+http://103.135.208.14/live/ibox/bd/104.m3u8
 #EXTINF:-1,Rai Italia
 http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
 #EXTINF:-1,Rai Italia
@@ -1250,8 +1294,12 @@ http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 http://103.141.66.36/bpk-tv/10058/default/index.m3u8
 #EXTINF:-1,YTN World
 http://103.141.66.36/bpk-tv/10135/default/index.m3u8
+#EXTINF:-1,YTN World
+http://103.135.208.14/live/ibox/bd/74.m3u8
 #EXTINF:-1,FR 24
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
+#EXTINF:-1,Times Now
+http://103.135.208.14/live/ibox/bd/52.m3u8
 #EXTINF:-1,Care World
 http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1 group-title="China Channel",CCTV 4
@@ -1271,7 +1319,7 @@ http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,NICK
-http://43.230.123.21:8080/live/nick.m3u8
+http://103.135.208.14/live/ibox/bd/57.m3u8
 #EXTINF:-1,NICK
 http://103.118.79.114:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1,NICK
@@ -1280,8 +1328,12 @@ https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1,Sonic
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
+#EXTINF:-1,Sonic
+http://103.135.208.14/live/ibox/bd/58.m3u8
 #EXTINF:-1,Nick Jr
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1,Nick Jr
+http://103.135.208.14/live/ibox/bd/85.m3u8
 #EXTINF:-1,SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:-1,Sony Yay (Bangla)
