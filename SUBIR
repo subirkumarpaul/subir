@@ -1334,8 +1334,8 @@ http://khulnalive.anytv.live:8080/mtv/tracks-v1a1/mono.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/181.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV Europe
 http://103.244.140.20:8080/mtv/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV Europe
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
