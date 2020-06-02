@@ -539,6 +539,8 @@ http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
 http://103.141.66.36/bpk-tv/10113/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
+http://10.16.100.207:8082/sports/dhoom_music.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZdwZkxZUTwGldPHsljQrlmbKJMmGGHOzI8jVDHCu_UgS-c0dm&usqp=CAU",Fatafati Music
 https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
@@ -1410,6 +1412,8 @@ http://45.120.188.65:8080/0.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU",Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+#EXTINF:-1 tvg-logo=""Wow Music
+http://10.16.100.207:8082/sports/wow_music-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2MdEa_41QR6g4y885uB2fnheIYYDWqOecEN7cIh62cU30bwTq&usqp=CAU",ARY Music
 http://103.205.133.42:1935/local/ary_music_720/index.m3u8
