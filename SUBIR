@@ -786,6 +786,8 @@ http://103.141.66.36/bpk-tv/10104/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU",Zee Bollywood
 http://103.135.208.14/live/ibox/bd/48.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU",Zee Bollywood
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/161.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oiLxLi2.png",Zee Alwan
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/06.m3u8
