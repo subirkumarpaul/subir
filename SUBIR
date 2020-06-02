@@ -1057,11 +1057,16 @@ http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/167.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_discovery/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU",Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-#EXTINF:0 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png",Discovery Science Hindi 
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png",Discovery Science Hindi 
 https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBMckYo02SqcERkHOOFLIk9BS2bwhA-If6yJmFzH3rhCt0PeBC&usqp=CAU",Discovery ID
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
+
 
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true",Animal Planet
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
@@ -1417,7 +1422,7 @@ http://45.120.188.65:8080/0.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU",Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
-#EXTINF:-1 tvg-logo=""Wow Music
+#EXTINF:-1 tvg-logo="",Wow Music
 http://10.16.100.207:8082/sports/wow_music-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2MdEa_41QR6g4y885uB2fnheIYYDWqOecEN7cIh62cU30bwTq&usqp=CAU",ARY Music
