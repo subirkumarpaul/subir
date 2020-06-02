@@ -595,7 +595,7 @@ http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
 http://103.118.79.114:1935/live/Shari/MTV-P/133.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
-http://43.230.123.21:8080/live/sonyhd.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/41.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (720p)
 http://103.135.208.14/live/ibox/bd/43.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
@@ -768,7 +768,7 @@ http://202.163.117.6:9981/stream/channelid/1095695221
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
-http://103.205.133.42:1935/local/zee_action_720/index.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/38.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
@@ -1334,8 +1334,10 @@ http://khulnalive.anytv.live:8080/mtv/tracks-v1a1/mono.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/181.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV Europe
 http://103.244.140.20:8080/mtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV Europe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/35.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSHHI2ISlsNihB4xjlionGHWAHcrWdpI3Nkwv3TgvzFjJA7eT7JN13cTN&s=10"MTV Hits
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/36.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
