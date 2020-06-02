@@ -720,6 +720,8 @@ http://43.230.123.21:8080/live/star-gold-select.m3u8
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
 http://103.135.208.14/live/ibox/bd/107.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
+http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
