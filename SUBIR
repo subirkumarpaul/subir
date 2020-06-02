@@ -1366,6 +1366,8 @@ http://103.205.133.19/hls/9xm.m3u8
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU",9X Jalwa
 http://103.205.133.42:1935/local/9xm_jalwa_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU",9X Jalwa
+http://10.16.100.207:8082/sports/9XJALWA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg",Sony Mix
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
@@ -1400,6 +1402,8 @@ http://103.141.66.36/bpk-tv/10178/default/index.m3u8
 http://103.205.133.19/hls/e24.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRG72T8hrxN_NlmxpksybD-r-uXXD5p4BbaX9jGfr-Q0Ys_irrL&usqp=CAU",E24 
 http://103.118.79.114:1935/live/Shari/MTV-P/189.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRG72T8hrxN_NlmxpksybD-r-uXXD5p4BbaX9jGfr-Q0Ys_irrL&usqp=CAU",E24 
+http://10.16.100.207:8082/sports/eTwentyfour.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ12NxjnWJ7NAdO9J7860Nx7sjm7eevkbwm6vNf1LFWsX9f1itd&usqp=CAU",UTV Bindass 
 http://45.120.188.65:8080/0.ts
