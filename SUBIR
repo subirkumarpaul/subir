@@ -1360,7 +1360,7 @@ http://103.118.79.114:1935/live/Shari/MTV-P/181.m3u8
 http://103.244.140.20:8080/mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/35.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSHHI2ISlsNihB4xjlionGHWAHcrWdpI3Nkwv3TgvzFjJA7eT7JN13cTN&s=10"MTV Hits
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSHHI2ISlsNihB4xjlionGHWAHcrWdpI3Nkwv3TgvzFjJA7eT7JN13cTN&s=10",MTV Hits
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/36.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU",Kadak Hits
