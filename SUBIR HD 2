@@ -1048,8 +1048,8 @@ http://103.135.208.14/live/ibox/bd/49.m3u8
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="English Movies",Star Movies (UAE)
 http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1,Star Movies (UAE)
-http://43.230.123.21:8080/live/star-movies.m3u8
+#EXTINF:-1,Star Movies
+http://tv-cdn.ihub.live:8083/j-StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies HD (India)
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1,Star Movies (UAE)
