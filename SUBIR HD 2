@@ -1436,7 +1436,11 @@ http://103.205.133.42:1935/local/cctv_4_720/index.m3u8
 #EXTINF:-1 group-title="Kids Channel",Cartoon Network HD+
 http://103.118.79.114:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1,Cartoon Network
-http://202.163.117.6:9981/stream/channelid/630600262
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/32.m3u8
+#EXTINF:-1,Cartoon Network (India)
+http://202.163.117.6:9981/stream/channelid/630600262.srt
+#EXTINF:-1,Cartoon Network (Pakistan)
+http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disny XD
 http://103.118.79.114:1935/live/Shari/MTV-P/171.m3u8
 #EXTINF:-1,POGO
@@ -1447,6 +1451,10 @@ http://202.163.117.6:9981/stream/channelid/1357890196
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1,NICK
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/87.m3u8
+#EXTINF:-1,NICK
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/87.m3u8
 #EXTINF:-1,NICK
 http://103.135.208.14/live/ibox/bd/57.m3u8
 #EXTINF:-1,NICK
@@ -1459,6 +1467,8 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 #EXTINF:-1,Sonic
 http://103.135.208.14/live/ibox/bd/58.m3u8
+#EXTINF:-1,Sonic
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/107.m3u8
 #EXTINF:-1,Nick Jr
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1,Nick Jr
@@ -1509,20 +1519,6 @@ http://103.141.66.36/bpk-tv/10130/default/index.m3u8
 http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
 #EXTINF:-1,Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1 group-title="MBC Group",MBC 1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1,MBC 3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1,MBC 4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1 group-title="Other Channel",Sameroo
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
 #EXTINF:-1,Moon
