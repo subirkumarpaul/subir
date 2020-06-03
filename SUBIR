@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1,Turbo Eng
-http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
+http://streamidvo.multitvsolution.in//live//TurboEng-a//p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi National TV",BTV National
 http://103.205.133.14/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png",BTV National
