@@ -1459,6 +1459,8 @@ http://103.144.200.7:8080/hls/masti2/index.m3u8
 http://103.141.66.36/bpk-tv/10210/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxKUNkstXEe3YW0DgYravcWAXPKmWQLZFOTM2KfXSZjGMBDNc&usqp=CAU",Masti Music
 http://103.118.79.114:1935/live/Shari/MTV-P/184.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxKUNkstXEe3YW0DgYravcWAXPKmWQLZFOTM2KfXSZjGMBDNc&usqp=CAU",Masti Music
+http://streamer.multitvsolution.in/live/Mastiii-f/p4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzfGgs_rEmtSGXF3ND83x9yqQ-ec-DY5dnYdxcrE-1GD4afm4m&usqp=CAU",MTV Beates
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
