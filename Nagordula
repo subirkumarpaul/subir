@@ -5,6 +5,8 @@ http://103.111.120.46/hls/gazi-tv.m3u8
 http://103.111.120.46/hls/channel9-tv.m3u8
 #EXTINF:-1,Star_Jalsha
 http://103.111.120.46/hls/Star_Jalsha.m3u8
+#EXTINF:-1,Star_Jalsha
+http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Zee_Bangla
 http://103.111.120.46/hls/Zee_Bangla.m3u8
 #EXTINF:-1,Colors
