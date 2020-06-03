@@ -623,7 +623,7 @@ http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1,Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1,Sony Max
-http://43.230.123.21:8080/live/sony-max.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/28.m3u8
 #EXTINF:-1,Sony Max
 http://103.135.208.14/live/ibox/bd/44.m3u8
 #EXTINF:-1,Sony Max HD
@@ -660,6 +660,8 @@ http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.118.79.114:1935/live/Shari/MTV-P/137.m3u8
+#EXTINF:-1,Zee Cinema
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/151.m3u8
 #EXTINF:-1,Zee Cinema USA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1,Colors Cineplex UK
@@ -679,6 +681,8 @@ http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 #EXTINF:-1,Zee Action
 http://103.205.133.19/hls/zeeaction.m3u8
 #EXTINF:-1,Zee Action
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/38.m3u8
+#EXTINF:-1,Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://103.141.66.36/bpk-tv/10104/default/index.m3u8
@@ -686,8 +690,14 @@ http://103.141.66.36/bpk-tv/10104/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1,Zee Bollywood
 http://103.135.208.14/live/ibox/bd/48.m3u8
+#EXTINF:-1,Zee Bollywood
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/161.m3u8
+#EXTINF:-1,Zee Alwan
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/06.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1,And Picture
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/141.m3u8
 #EXTINF:-1,And Picture HD
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1,And Picture HD
@@ -720,6 +730,8 @@ https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/321.m3u8
 #EXTINF:-1,Manoranjan TV
 http://103.135.208.14/live/ibox/bd/12.m3u8
+#EXTINF:-1,Manoranjan TV
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/9.m3u8
 #EXTINF:-1,Monoranjan Grand
 http://103.141.66.36/bpk-tv/10103/default/index.m3u8
 #EXTINF:-1,Monoranjan Movies
@@ -754,6 +766,10 @@ http://103.135.208.14/live/ibox/bd/53.m3u8
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 
 http://103.205.133.14/hls/starsports1.m3u8
+#EXTINF:-1,Star Sports 1 
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/100.m3u8
+#EXTINF:-1,Star Sports 1 (Backup)
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/153.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/77.m3u8
 #EXTINF:-1,Star Sports 1
@@ -765,8 +781,10 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.135.208.14/live/ibox/bd/54.m3u8
 #EXTINF:-1,Star Sports 2
-http://43.230.123.21:8080/live/starsportshd-2.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/101.m3u8
 #EXTINF:-1,Star Sports 2
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/154.m3u8
+#EXTINF:-1,Star Sports 2 (Backup)
 http://103.135.208.14/live/ibox/bd/78.m3u8
 #EXTINF:-1,Star Sports 2
 http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
@@ -780,6 +798,8 @@ http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/100.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2 HD
@@ -910,6 +930,8 @@ http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1,Titas Sports
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+#EXTINF:-1,Fox Sports News
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/106.m3u8
 #EXTINF:-1 group-title="Information Channel",Discovery (Hindi)
 http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
 #EXTINF:-1,Discovery (Hindi)
