@@ -969,7 +969,7 @@ http://103.135.208.14/live/ibox/bd/61.m3u8
 #EXTINF:-1,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1,National Geographic
-http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/81.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -1004,6 +1004,8 @@ http://103.118.79.114:1935/live/Shari/MTV-P/193.m3u8
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,History TV 18
 http://103.135.208.14/live/ibox/bd/91.m3u8
+#EXTINF:-1,History TV 18
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/147.m3u8
 #EXTINF:-1,History TV 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
 #EXTINF:-1,RT Documentary
@@ -1020,6 +1022,8 @@ http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,Fox Life (India)
 http://103.135.208.14/live/ibox/bd/65.m3u8
+#EXTINF:-1,Fox Life (India)
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/83.m3u8
 #EXTINF:-1,FYI TV 18 HD
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,FYI TV 18 HD
@@ -1054,8 +1058,16 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 http://khulnalive.anytv.live:8080/starmov/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+#EXTINF:-1,Star Movies Select HD
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/10.m3u8
 #EXTINF:-1,AXN
 http://103.118.79.114:1935/live/Shari/MTV-P/151.m3u8
+#EXTINF:-1,AXN
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/142.m3u8
+#EXTINF:-1,AXN
+http://pioneer.anytv.live:8080/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AXN
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 #EXTINF:-1,Sony Pix HD
 http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:-1,Sony Pix
