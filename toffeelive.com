@@ -71,6 +71,14 @@ http://103.205.133.42:1935/live/sony_bbc_earth_hd_720/index.m3u8
 http://103.205.133.42:1935/live/discovery_720/index.m3u8
 #EXTINF:-1,Discovery HD
 http://103.205.133.42:1935/live/discovery_hd_720/index.m3u8
+#EXTINF:-1,Animal Planet
+http://103.205.133.42:1935/live/animal_planet_720/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8
+#EXTINF:-1,TLC
+http://103.205.133.42:1935/live/tlc_720/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.205.133.42:1935/live/tlc_hd_720/index.m3u8
 #EXTINF:-1,ARY Music
 http://103.205.133.42:1935/live/ary_music_720/index.m3u8
 #EXTINF:-1,9xM
