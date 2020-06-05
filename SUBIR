@@ -606,6 +606,8 @@ http://103.118.79.114:1935/live/Shari/MTV-P/133.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/41.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV (720p)
+http://103.205.133.42:1935/live/sony_entertainment_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
 http://103.135.208.14/live/ibox/bd/43.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
@@ -627,7 +629,7 @@ http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB
 http://103.205.133.19/hls/sonysab.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/79.m3u8
+http://103.205.133.42:1935/live/sony_sab_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
 
@@ -728,7 +730,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://103.135.208.14/live/ibox/bd/44.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/28.m3u8
+http://103.205.133.42:1935/live/set_max_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
+http://103.205.133.42:1935/live/set_max_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
@@ -1231,6 +1235,8 @@ http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU",Hum Masala
 http://103.118.79.114:1935/live/Shari/MTV-P/142.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU",Hum Masala
+http://103.205.133.42:1935/live/hum_masala_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU",Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
