@@ -732,7 +732,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/161.m3u8
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1,Star Sports 1 HD (Backup)
 http://103.118.79.114:1935/live/Shari/MTV-P/183.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/53.m3u8
@@ -740,14 +740,8 @@ http://103.135.208.14/live/ibox/bd/53.m3u8
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 
 http://103.205.133.14/hls/starsports1.m3u8
-#EXTINF:-1,Star Sports 1 
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/100.m3u8
-#EXTINF:-1,Star Sports 1 (Backup)
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/153.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/77.m3u8
-#EXTINF:-1,Star Sports 1
-http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 http://43.230.123.21:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1,Star Sports 2
@@ -755,13 +749,7 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.135.208.14/live/ibox/bd/54.m3u8
 #EXTINF:-1,Star Sports 2
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/101.m3u8
-#EXTINF:-1,Star Sports 2
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/154.m3u8
-#EXTINF:-1,Star Sports 2 (Backup)
 http://103.135.208.14/live/ibox/bd/78.m3u8
-#EXTINF:-1,Star Sports 2
-http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:-1,Star Sports Select 1
@@ -792,8 +780,10 @@ http://43.230.123.21:8080/live/sonyten-1.m3u8
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.135.208.14/live/ibox/bd/79.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.205.133.42:1935/live/sony_ten1_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD
-http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
+http://103.205.133.42:1935/live/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD
 http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
 #EXTINF:-1,Sony Ten 1 HD
@@ -805,9 +795,9 @@ http://43.230.123.21:8080/live/sonyten-2.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1,Sony Ten 2
-http://103.205.133.42:1935/local/ten_2_720/index.m3u8
+http://103.205.133.42:1935/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
-http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
+http://103.205.133.42:1935/live/sony_ten2_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://103.141.66.36/bpk-tv/10479/default/manifest.mpd
 #EXTINF:-1,Sony Ten 2 HD
@@ -819,7 +809,7 @@ http://103.135.208.14/live/ibox/bd/55.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1,Sony Ten 3
-http://103.205.133.42:1935/local/ten_3_720/index.m3u8
+http://103.205.133.42:1935/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.118.79.114:1935/live/Shari/MTV-P/160.m3u8
 #EXTINF:-1,Sony ESPN
@@ -827,16 +817,18 @@ http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 #EXTINF:-1,Sony ESPN
 http://43.230.123.21:8080/live/sonyespn.m3u8
 #EXTINF:-1,Sony ESPN
-http://103.205.133.42:1935/local/sony_espn_720/index.m3u8
+http://103.205.133.42:1935/live/sony_espn_720/index.m3u8
 #EXTINF:-1,Sony Six
 http://43.230.123.21:8080/live/sonysix.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,Sony Six
 http://103.135.208.14/live/ibox/bd/96.m3u8
-#EXTINF:-1,Sony SIX HD
-http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
-#EXTINF:-1,Sony SIX HD
+#EXTINF:-1,Sony Six
+http://103.205.133.42:1935/live/sony_six_720/index.m3u8
+#EXTINF:-1,Sony Six HD
+http://103.205.133.42:1935/live/sony_six_hd_720/index.m3u8
+#EXTINF:-1,Sony Six HD
 http://103.141.66.36/bpk-tv/10480/default/index.m3u8
 #EXTINF:-1,Sony Six
 http://103.118.79.114:1935/live/Shari/MTV-P/158.m3u8
@@ -844,6 +836,8 @@ http://103.118.79.114:1935/live/Shari/MTV-P/158.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/157.m3u8
 #EXTINF:-1,D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,D Sports
+http://103.118.79.114:1935/live/Shari/MTV-P/162.m3u8
 #EXTINF:-1,PTV Sports
 http://43.231.22.238:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1,PTV Sports
@@ -984,8 +978,6 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/147.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
 #EXTINF:-1,RT Documentary
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
-#EXTINF:-1,Travel Channel
-http://103.118.79.114:1935/live/Shari/MTV-P/162.m3u8
 #EXTINF:-1,VoA TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/chunks.m3u8
 #EXTINF:-1,US TV
