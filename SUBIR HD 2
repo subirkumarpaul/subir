@@ -886,7 +886,7 @@ https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
 #EXTINF:-1,Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
-#EXTINF:0,PPTV HD36
+#EXTINF:-1,PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
 http://43.230.123.21:8080/bein-sports-1.m3u8
@@ -898,8 +898,6 @@ http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1,Titas Sports
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1,Fox Sports News
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/106.m3u8
 #EXTINF:-1 group-title="Information Channel",Discovery (Hindi)
 http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
 #EXTINF:-1,Discovery (Hindi)
@@ -907,13 +905,13 @@ http://103.135.208.14/live/ibox/bd/59.m3u8
 #EXTINF:-1,Discovery
 http://43.230.123.21:8080/live/discovery.m3u8
 #EXTINF:-1,Discovery
-http://103.205.133.42:1935/local/discovery_720/index.m3u8
+http://103.205.133.42:1935/live/discovery_720/index.m3u8
 #EXTINF:-1,Discovery HD
-http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
+http://103.205.133.42:1935/live/discovery_hd_720/index.m3u8
 #EXTINF:-1,Discovery HD (Bangla)
 http://103.118.79.114:1935/live/Shari/MTV-P/167.m3u8
 #EXTINF:-1,Discovery
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_discovery/chunks.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_discovery/chunks.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -922,12 +920,14 @@ http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 http://43.230.123.21:8080/live/animale-planet.m3u8
 #EXTINF:-1,Animal Planet
 http://103.135.208.14/live/ibox/bd/93.m3u8
+#EXTINF:-1,Animal Planet
+http://103.205.133.42:1935/live/animal_planet_720/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://103.205.133.42:1935/local/animal_planet_hd_720/index.m3u8
+http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8
 #EXTINF:-1,Sony BBC Earth
-http://103.205.133.42:1935/local/sony_bbc_earth_720/index.m3u8
+http://103.205.133.42:1935/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1,Sony BBC Earth HD
-http://103.205.133.42:1935/local/sony_bbc_earth_hd_720/index.m3u8
+http://103.205.133.42:1935/live/sony_bbc_earth_hd_720/index.m3u8
 #EXTINF:-1,BBC Earth
 http://103.118.79.114:1935/live/Shari/MTV-P/168.m3u8
 #EXTINF:-1,National Geographic
@@ -936,8 +936,6 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/61.m3u8
 #EXTINF:-1,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1,National Geographic
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/81.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -954,12 +952,16 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/92.m3u8
 #EXTINF:-1,BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1,BBC Lifestyle
+http://103.118.79.114:1935/live/Shari/MTV-P/155.m3u8
 #EXTINF:-1,TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1,TLC
 http://103.205.133.14/hls/tlc.m3u8
 #EXTINF:-1,TLC
-http://103.205.133.42:1935/local/tlc_720/index.m3u8
+http://103.205.133.42:1935/live/tlc_720/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.205.133.42:1935/live/tlc_hd_720/index.m3u8
 #EXTINF:-1,TLC HD
 http://103.135.208.14/live/ibox/bd/62.m3u8
 #EXTINF:-1,TLC HD
@@ -973,9 +975,11 @@ https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,History TV 18
 http://103.135.208.14/live/ibox/bd/91.m3u8
 #EXTINF:-1,History TV 18
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/147.m3u8
+https://cdnbpp1.useetv.com/joss/15/history/chunklist_w2034260863_b1344100_sleng_460814.m3u8
 #EXTINF:-1,History TV 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
+https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
+#EXTINF:-1,Travel Channel
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1,RT Documentary
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
 #EXTINF:-1,VoA TV
