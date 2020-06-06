@@ -1068,8 +1068,6 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://103.118.79.114:1935/live/Shari/MTV-P/147.m3u8
 #EXTINF:-1,MBC Max
 http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
-#EXTINF:-1,MBC Max
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,MNX
@@ -1083,6 +1081,8 @@ https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1,Movies Now
 http://103.135.208.14/live/ibox/bd/71.m3u8
 #EXTINF:-1,Movies Now
+http://103.213.238.70:8080/live/movies_now/chunks.m3u8
+#EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
@@ -1094,19 +1094,14 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 http://43.230.123.21:8080/live/color-Infinity.m3u8
 #EXTINF:-1,Colour Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
-#EXTINF:-1,FOX
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/163.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1,Lotus Macau
-http://103.205.133.42:1935/local/lotus_720/index.m3u8
+http://103.205.133.42:1935/live/lotus_720/index.m3u8
 #EXTINF:-1,Lotus Macau
 http://103.135.208.14/live/ibox/bd/69.m3u8
-#EXTINF:-1,Lotus Macau
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFjhwQmbdCANtan757wG0tidA83CC8ItiblRxE83qQE1NDEBui&usqp=CAU",FOX
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/163.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Fox Movies
@@ -1125,8 +1120,6 @@ http://103.214.202.218:8081/live/startworld/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1,Star World (India)
 http://103.135.208.14/live/ibox/bd/66.m3u8
-#EXTINF:-1,Star World (India)
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/152.m3u8
 #EXTINF:-1 group-title="Hinde Music",MTV (India)
 http://103.118.79.114:1935/live/Shari/MTV-P/181.m3u8
 #EXTINF:-1,MTV (US)
