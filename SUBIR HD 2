@@ -992,8 +992,6 @@ http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,Fox Life (India)
 http://103.135.208.14/live/ibox/bd/65.m3u8
-#EXTINF:-1,Fox Life (India)
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/83.m3u8
 #EXTINF:-1,FYI TV 18 HD
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,FYI TV 18 HD
@@ -1005,7 +1003,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:-1,Food Network
 https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
 #EXTINF:-1,Hum Masala
-http://103.205.133.42:1935/local/hum_masala_720/index.m3u8
+http://103.205.133.42:1935/live/hum_masala_720/index.m3u8
 #EXTINF:-1,Hum Masala
 http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 #EXTINF:-1,Hum Masala
