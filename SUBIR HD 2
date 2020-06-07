@@ -1314,213 +1314,213 @@ http://103.205.133.42:1935/local/arirang_720/index.m3u8
 http://103.141.66.36/bpk-tv/10128/default/index.m3u8
 #EXTINF:-1 group-title="English News",CGTN
 http://103.205.133.42:1935/local/cgtn_720/index.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="English News",DW
 http://103.141.66.36/bpk-tv/10057/default/index.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="English News",DW
 http://103.205.133.42:1935/live/dw_720/index.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="English News",DW
 http://103.135.208.14/live/ibox/bd/105.m3u8
-#EXTINF:-1,DW TV Asia
+#EXTINF:-1 group-title="English News",DW TV Asia
 http://103.205.133.42:1935/live/dw_tv_asia_720/index.m3u8
-#EXTINF:-1,DW TV Asia
+#EXTINF:-1 group-title="English News",DW TV Asia
 http://103.141.66.36/bpk-tv/10059/default/index.m3u8
-#EXTINF:-1,DW TV Asia
+#EXTINF:-1 group-title="English News",DW TV Asia
 https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1,NHK World
+#EXTINF:-1 group-title="English News",NHK World
 http://103.205.133.42:1935/live/nhk_world_720/index.m3u8
-#EXTINF:-1,NHK World
+#EXTINF:-1 group-title="English News",NHK World
 https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-#EXTINF:-1,NHK World
+#EXTINF:-1 group-title="English News",NHK World
 http://103.135.208.14/live/ibox/bd/75.m3u8
-#EXTINF:-1,TV5 Monde Asia
+#EXTINF:-1 group-title="English News",TV5 Monde Asia
 http://103.205.133.42:1935/live/tv5_monde_720/index.m3u8
-#EXTINF:-1,TV5 Monde Asia
+#EXTINF:-1 group-title="English News",TV5 Monde Asia
 http://103.141.66.36/bpk-tv/10056/default/index.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1 group-title="English News",CNBC
 https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-#EXTINF:-1,Euro News
+#EXTINF:-1 group-title="English News",Euro News
 https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-#EXTINF:-1,Euro News
+#EXTINF:-1 group-title="English News",Euro News
 http://103.205.133.42:1935/live/euro_news_720/index.m3u8
-#EXTINF:-1,Euro News
+#EXTINF:-1 group-title="English News",Euro News
 http://103.141.66.36/bpk-tv/10211/default/index.m3u8
-#EXTINF:-1,Euro News
+#EXTINF:-1 group-title="English News",Euro News
 http://103.135.208.14/live/ibox/bd/104.m3u8
-#EXTINF:-1,Rai Italia
+#EXTINF:-1 group-title="English News",Rai Italia
 http://103.205.133.42:1935/live/rai_italia_720/index.m3u8
-#EXTINF:-1,Rai Italia
+#EXTINF:-1 group-title="English News",Rai Italia
 http://103.141.66.36/bpk-tv/10209/default/index.m3u8
 #EXTINF:-1,Rai Italia
 https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
-#EXTINF:-1,CNA News
+#EXTINF:-1 group-title="English News",CNA News
 https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:-1,Australia Plus
+#EXTINF:-1 group-title="English News",Australia Plus
 http://103.205.133.42:1935/live/australia_plus_720/index.m3u8
-#EXTINF:-1,Wion TV
+#EXTINF:-1 group-title="English News",Wion TV
 http://103.205.133.42:1935/live/wion_tv_720/index.m3u8
-#EXTINF:-1,RT
+#EXTINF:-1 group-title="English News",RT
 http://103.141.66.36/bpk-tv/10058/default/index.m3u8
-#EXTINF:-1,YTN World
+#EXTINF:-1 group-title="English News",YTN World
 http://103.141.66.36/bpk-tv/10135/default/index.m3u8
-#EXTINF:-1,YTN World
+#EXTINF:-1 group-title="English News",YTN World
 http://103.135.208.14/live/ibox/bd/74.m3u8
-#EXTINF:-1,FR 24
+#EXTINF:-1 group-title="English News",FR 24
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
-#EXTINF:-1,Times Now
+#EXTINF:-1 group-title="English News",Times Now
 http://103.135.208.14/live/ibox/bd/52.m3u8
-#EXTINF:-1,Care World
+#EXTINF:-1 group-title="English News",Care World
 http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1 group-title="China Channel",CCTV 4
 http://103.205.133.42:1935/live/cctv_4_720/index.m3u8
 #EXTINF:-1 group-title="Kids Channel",Cartoon Network HD+
 http://103.118.79.114:1935/live/Shari/MTV-P/170.m3u8
-#EXTINF:-1,Cartoon Network (India)
+#EXTINF:-1 group-title="Kids Channel",Cartoon Network (India)
 http://202.163.117.6:9981/stream/channelid/630600262.srt
-#EXTINF:-1,Cartoon Network HD (India)
+#EXTINF:-1 group-title="Kids Channel",Cartoon Network HD (India)
 https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
-#EXTINF:-1,Cartoon Network (Pakistan)
+#EXTINF:-1 group-title="Kids Channel",Cartoon Network (Pakistan)
 http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Disny XD
+#EXTINF:-1 group-title="Kids Channel",Disny XD
 http://103.118.79.114:1935/live/Shari/MTV-P/171.m3u8
-#EXTINF:-1,POGO
+#EXTINF:-1 group-title="Kids Channel",POGO
 http://45.120.188.207:80/0.ts
-#EXTINF:-1,Hungama
+#EXTINF:-1 group-title="Kids Channel",Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
-#EXTINF:-1,Baby TV
+#EXTINF:-1 group-title="Kids Channel",Baby TV
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
-#EXTINF:-1,Baby First
+#EXTINF:-1 group-title="Kids Channel",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1 group-title="Kids Channel",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1 group-title="Kids Channel",NICK
 http://103.135.208.14/live/ibox/bd/57.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1 group-title="Kids Channel",NICK
 http://103.118.79.114:1935/live/Shari/MTV-P/174.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1 group-title="Kids Channel",NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1,NICK HD+
+#EXTINF:-1 group-title="Kids Channel",NICK HD+
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1,Sonic
+#EXTINF:-1 group-title="Kids Channel",Sonic
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
-#EXTINF:-1,Sonic
+#EXTINF:-1 group-title="Kids Channel",Sonic
 http://103.135.208.14/live/ibox/bd/58.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="Kids Channel",Nick Jr
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="Kids Channel",Nick Jr
 http://103.135.208.14/live/ibox/bd/85.m3u8
-#EXTINF:-1,SPACETOON
+#EXTINF:-1 group-title="Kids Channel",SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1,Sony Yay (Bangla)
+#EXTINF:-1 group-title="Kids Channel",Sony Yay (Bangla)
 http://103.205.133.42:1935/live/sony_yay_720/index.m3u8
-#EXTINF:-1,Sony Yay (Bangla)
+#EXTINF:-1 group-title="Kids Channel",Sony Yay (Bangla)
 http://103.135.208.14/live/ibox/bd/98.m3u8
-#EXTINF:-1,Sony Yay (Hinde)
+#EXTINF:-1 group-title="Kids Channel",Sony Yay (Hinde)
 http://103.118.79.114:1935/live/Shari/MTV-P/172.m3u8
-#EXTINF:-1,Sony Yay (Hindi)
+#EXTINF:-1 group-title="Kids Channel",Sony Yay (Hindi)
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
-#EXTINF:-1,Discovery Kids (English)
+#EXTINF:-1 group-title="Kids Channel",Discovery Kids (English)
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
-#EXTINF:-1,Discovery Kids (Hindi)
+#EXTINF:-1 group-title="Kids Channel",Discovery Kids (Hindi)
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1,BBC CBEEBIES
+#EXTINF:-1 group-title="Kids Channel",BBC CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1,BBC CBEEBIES
+#EXTINF:-1 group-title="Kids Channel",BBC CBEEBIES
 http://103.118.79.114:1935/live/Shari/MTV-P/173.m3u8
-#EXTINF:-1, Shemaroo Kids
+#EXTINF:-1 group-title="Kids Channel",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1 group-title="Religion Channel",Quran Tv
 http://103.205.133.42:1935/live/quran_tv_720/index.m3u8
-#EXTINF:-1,Quran TV
+#EXTINF:-1 group-title="Religion Channel",Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
-#EXTINF:-1,Quran TV
+#EXTINF:-1 group-title="Religion Channel",Quran TV
 http://43.231.22.238:8081/hdcrictv/ctg_makkah/chunks.m3u8
-#EXTINF:-1,Sunna TV
+#EXTINF:-1 group-title="Religion Channel",Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
-#EXTINF:-1,Sunna TV
+#EXTINF:-1 group-title="Religion Channel",Sunna TV
 http://103.205.133.42:1935/live/sunnah_tv_720/index.m3u8
-#EXTINF:-1,Sunna TV
+#EXTINF:-1 group-title="Religion Channel",Sunna TV
 http://43.231.22.238:8081/hdcrictv/ctg_madina/chunks.m3u8
-#EXTINF:-1,ARY QTV
+#EXTINF:-1 group-title="Religion Channel",ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
-#EXTINF:-1,Peace TV Bangla
+#EXTINF:-1 group-title="Religion Channel",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1,Peace TV Bangla
+#EXTINF:-1 group-title="Religion Channel",Peace TV Bangla
 http://103.135.208.14/live/ibox/bd/34.m3u8
-#EXTINF:-1,Peace TV English
+#EXTINF:-1 group-title="Religion Channel",Peace TV English
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1,Peace TV Urdu
+#EXTINF:-1 group-title="Religion Channel",Peace TV Urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1,Paros TV
+#EXTINF:-1 group-title="Religion Channel",Paros TV
 http://103.141.66.36/bpk-tv/10511/default/index.m3u8
-#EXTINF:-1,Aastha TV
+#EXTINF:-1 group-title="Religion Channel",Aastha TV
 http://103.141.66.36/bpk-tv/10130/default/index.m3u8
-#EXTINF:-1,Hare Krshna
+#EXTINF:-1 group-title="Religion Channel",Hare Krshna
 http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
-#EXTINF:-1,Sadhna
+#EXTINF:-1 group-title="Religion Channel",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 group-title="Other Channel",Sameroo
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
-#EXTINF:-1,Moon
+#EXTINF:-1 group-title="Other Channel",Moon
 http://103.141.66.36/bpk-tv/10164/default/index.m3u8
-#EXTINF:-1,Dubai Sports
+#EXTINF:-1 group-title="Other Channel",Dubai Sports
 http://103.141.66.36/bpk-tv/10316/default/index.m3u8
-#EXTINF:-1,Kairali Movies
+#EXTINF:-1 group-title="Other Channel",Kairali Movies
 http://103.141.66.36/bpk-tv/10286/default/index.m3u8
-#EXTINF:-1,Filmachi
+#EXTINF:-1 group-title="Other Channel",Filmachi
 http://103.141.66.36/bpk-tv/10290/default/index.m3u8
-#EXTINF:-1,Metro
+#EXTINF:-1 group-title="Other Channel",Metro
 http://103.141.66.36/bpk-tv/10291/default/index.m3u8
-#EXTINF:-1,Russia
+#EXTINF:-1 group-title="Other Channel",Russia
 http://103.141.66.36/bpk-tv/10264/default/index.m3u8
-#EXTINF:-1,Dubai TV
+#EXTINF:-1 group-title="Other Channel",Dubai TV
 http://103.141.66.36/bpk-tv/10039/default/index.m3u8
-#EXTINF:-1,Libya
+#EXTINF:-1 group-title="Other Channel",Libya
 http://103.141.66.36/bpk-tv/10077/default/index.m3u8
-#EXTINF:-1,Kuwait TV
+#EXTINF:-1 group-title="Other Channel",Kuwait TV
 http://103.141.66.36/bpk-tv/10202/default/index.m3u8
-#EXTINF:-1,India 24
+#EXTINF:-1 group-title="Other Channel",India 24
 http://103.141.66.36/bpk-tv/10507/default/index.m3u8
-#EXTINF:-1,No 1 News
+#EXTINF:-1 group-title="Other Channel",No 1 News
 http://103.141.66.36/bpk-tv/10501/default/index.m3u8
-#EXTINF:-1,News 7
+#EXTINF:-1 group-title="Other Channel",News 7
 http://103.141.66.36/bpk-tv/10502/default/index.m3u8
-#EXTINF:-1,TV 9
+#EXTINF:-1 group-title="Other Channel",TV 9
 http://103.141.66.36/bpk-tv/10503/default/index.m3u8
-#EXTINF:-1,Saudi TV
+#EXTINF:-1 group-title="Other Channel",Saudi TV
 http://103.141.66.36/bpk-tv/10212/default/index.m3u8
-#EXTINF:-1,Abu dhabi TV
+#EXTINF:-1 group-title="Other Channel",Abu dhabi TV
 http://103.141.66.36/bpk-tv/10214/default/index.m3u8
-#EXTINF:-1,Sarjah TV
+#EXTINF:-1 group-title="Other Channel",Sarjah TV
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
-#EXTINF:-1,Republic TV
+#EXTINF:-1 group-title="Other Channel",Republic TV
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
-#EXTINF:-1,Al Jazarrea
+#EXTINF:-1 group-title="Other Channel",Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/index.m3u8
-#EXTINF:-1,DD National
+#EXTINF:-1 group-title="Other Channel",DD National
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
-#EXTINF:-1,MK TV
+#EXTINF:-1 group-title="Other Channel",MK TV
 http://103.141.66.36/bpk-tv/10107/default/index.m3u8
-#EXTINF:-1,MK SIX
+#EXTINF:-1 group-title="Other Channel",MK SIX
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
-#EXTINF:-1,Fakt Marathi
+#EXTINF:-1 group-title="Other Channel",Fakt Marathi
 http://103.141.66.36/bpk-tv/10040/default/index.m3u8
-#EXTINF:-1,Onkar TV
+#EXTINF:-1 group-title="Other Channel",Onkar TV
 http://103.141.66.36/bpk-tv/10187/default/index.m3u8
-#EXTINF:-1,Issak TV
+#EXTINF:-1 group-title="Other Channel",Issak TV
 http://103.141.66.36/bpk-tv/10188/default/index.m3u8
-#EXTINF:-1,Aruvi TV
+#EXTINF:-1 group-title="Other Channel",Aruvi TV
 http://103.141.66.36/bpk-tv/10261/default/index.m3u8
-#EXTINF:-1,Kalanagar TV
+#EXTINF:-1 group-title="Other Channel",Kalanagar TV
 http://103.141.66.36/bpk-tv/10281/default/index.m3u8
-#EXTINF:-1,Polymar
+#EXTINF:-1 group-title="Other Channel",Polymar
 http://103.141.66.36/bpk-tv/10303/default/index.m3u8
-#EXTINF:-1,Damal
+#EXTINF:-1 group-title="Other Channel",Damal
 http://103.141.66.36/bpk-tv/10504/default/index.m3u8
-#EXTINF:-1,MK Tunes
+#EXTINF:-1 group-title="Other Channel",MK Tunes
 http://103.141.66.36/bpk-tv/10165/default/index.m3u8
-#EXTINF:-1,Public Music
+#EXTINF:-1 group-title="Other Channel",Public Music
 http://103.141.66.36/bpk-tv/10134/default/index.m3u8
-#EXTINF:-1,9x Jakasa
+#EXTINF:-1 group-title="Other Channel",9x Jakasa
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
-#EXTINF:-1,Sangeet Marathi
+#EXTINF:-1 group-title="Other Channel",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
