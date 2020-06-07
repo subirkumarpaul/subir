@@ -264,7 +264,7 @@ http://103.144.200.7:8080/hls/atnnews/index.m3u8
 http://103.141.66.36/bpk-tv/10010/default/index.m3u8
 #EXTINF:-1 group-title="Bangladesi News",ATN News
 http://103.135.208.14/live/ibox/bd/102.m3u8
-#EXTINF:-1 group-title="Bangladesi News"Ekattor TV
+#EXTINF:-1 group-title="Bangladesi News",Ekattor TV
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesi News",Ekattor TV
 http://43.230.123.21:80/live/ekattor1.m3u8
