@@ -360,629 +360,629 @@ http://103.135.208.14/live/ibox/bd/10.m3u8
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
-#EXTINF:-1,Star Jslsha HD
+#EXTINF:-1 group-title="Indian Bangla",Star Jslsha HD
 http://103.135.208.14/live/ibox/bd/3.m3u8
-#EXTINF:-1,Star Jalsha HD
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 http://103.118.79.114:1935/live/Shari/MTV-P/125.m3u8
-#EXTINF:-1,Star Jalsha HD
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha 
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha 
 http://103.111.120.46/hls/Star_Jalsha.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha
 http://103.205.133.14/hls/starjalsa.m3u8
-#EXTINF:-1,Star Jalsha HD
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 http://ccn.anytv.live:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
 http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla
 http://103.135.208.14/live/ibox/bd/37.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla
 http://103.205.133.19/hls/zeebangla.m3u8
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
 http://103.205.133.42:1935/live/zee_bangla_hd_720/index.m3u8
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
 http://103.118.79.114:1935/live/Shari/MTV-P/124.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla
 http://103.141.66.36/bpk-tv/10185/default/index.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla
 http://ccn.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Indian Bangla",Sony Aath
 http://103.205.133.42:1935/local/sony_aath_720/index.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Indian Bangla",Sony Aath
 http://103.118.79.114:1935/live/Shari/MTV-P/123.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Indian Bangla",Sony Aath
 http://103.141.66.36/bpk-tv/10302/default/index.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Indian Bangla",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Indian Bangla",Sony Aath
 http://103.135.208.14/live/ibox/bd/36.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Indian Bangla",Sony Aath
 http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors Bangla HD
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla HD
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla
 http://163.172.29.246:8081/globeworld2020/colorsbangla/playlist.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla
 http://103.135.208.14/live/ibox/bd/35.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla
 https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1,Colors Bangla HD
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1,Akaash Aath
+#EXTINF:-1 group-title="Indian Bangla",Akaash Aath
 http://103.205.133.42:1935/live/akash_aath_720/index.m3u8
-#EXTINF:-1,Akaash Aath
+#EXTINF:-1 group-title="Indian Bangla",Akaash Aath
 http://103.141.66.36/bpk-tv/10112/default/index.m3u8
-#EXTINF:-1,Akaash Aath
+#EXTINF:-1 group-title="Indian Bangla",Akaash Aath
 http://103.118.79.114:1935/live/Shari/MTV-P/130.m3u8
-#EXTINF:-1,Ruposhi Bangla
+#EXTINF:-1 group-title="Indian Bangla",Ruposhi Bangla
 http://103.141.66.36/bpk-tv/10111/default/index.m3u8
-#EXTINF:-1,Ruposhi Bangla
+#EXTINF:-1 group-title="Indian Bangla",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
-#EXTINF:-1,R Plus Gold
+#EXTINF:-1 group-title="Indian Bangla",R Plus Gold
 http://103.141.66.36/bpk-tv/10181/default/index.m3u8
-#EXTINF:-1,R Plus Gold
+#EXTINF:-1 group-title="Indian Bangla",R Plus Gold
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
-#EXTINF:-1,Orange Bangla
+#EXTINF:-1 group-title="Indian Bangla",Orange Bangla
 http://streamidvo.multitvsolution.in/live/OrangeTV-b/p4.m3u8
-#EXTINF:-1,Uttar Bangla
+#EXTINF:-1 group-title="Indian Bangla",Uttar Bangla
 http://209.58.164.245/uttarbanglahls/live.m3u8
-#EXTINF:-1,Tara Bangla
+#EXTINF:-1 group-title="Indian Bangla",Tara Bangla
 https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-#EXTINF:-1,DD Bangla
+#EXTINF:-1 group-title="Indian Bangla",DD Bangla
 http://103.205.133.42:1935/live/dd_bangla_720/index.m3u8
-#EXTINF:-1,DD Bangla
+#EXTINF:-1 group-title="Indian Bangla",DD Bangla
 http://103.141.66.36/bpk-tv/10336/default/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla Movies",Jalsha Movies
 http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
-#EXTINF:-1,Jalsha Movies
+#EXTINF:-1 group-title="Indian Bangla Movies",Jalsha Movies
 http://103.135.208.14/live/ibox/bd/39.m3u8
-#EXTINF:-1,Jalsha Movies
+#EXTINF:-1 group-title="Indian Bangla Movies",Jalsha Movies
 http://ccn.anytv.live:8080/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Jalsha Movies
+#EXTINF:-1 group-title="Indian Bangla Movies",Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,Jalsha Movies HD
+#EXTINF:-1 group-title="Indian Bangla Movies",Jalsha Movies HD
 http://175.41.46.16:8081/hls/4.m3u8
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://43.230.123.21:8080/live/zee-cinema-bangla.m3u8
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://103.205.133.42:1935/live/zee_bangla_cinema_720/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/158.m3u8
-#EXTINF:-1,Tele Film
+#EXTINF:-1 group-title="Indian Bangla Movies",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
-#EXTINF:-1,Tollywood TV
+#EXTINF:-1 group-title="Indian Bangla Movies",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla Music",Sangeet Bangla
 http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="Indian Bangla Music",Sangeet Bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="Indian Bangla Music",Sangeet Bangla
 http://103.135.208.14/live/ibox/bd/13.m3u8
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="Indian Bangla Music",Sangeet Bangla
 http://103.141.66.36/bpk-tv/10129/default/index.m3u8
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="Indian Bangla Music",Sangeet Bangla
 http://103.118.79.114:1935/live/Shari/MTV-P/176.m3u8
-#EXTINF:-1,Dhoom Music
+#EXTINF:-1 group-title="Indian Bangla Music",Dhoom Music
 http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
-#EXTINF:-1,Dhoom Music
+#EXTINF:-1 group-title="Indian Bangla Music",Dhoom Music
 http://103.141.66.36/bpk-tv/10113/default/index.m3u8
-#EXTINF:-1,Dhoom Music
+#EXTINF:-1 group-title="Indian Bangla Music",Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
-#EXTINF:-1,Fatafati Music
+#EXTINF:-1 group-title="Indian Bangla Music",Fatafati Music
 https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
-#EXTINF:-1,Bangla Takies
+#EXTINF:-1 group-title="Indian Bangla Music",Bangla Takies
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1,Zee 24 Ghonta
+#EXTINF:-1 group-title="Indian Bangla News",Zee 24 Ghonta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee 24 Ghonta
+#EXTINF:-1 group-title="Indian Bangla News",Zee 24 Ghonta
 http://103.118.79.114:1935/live/Shari/MTV-P/192.m3u8
-#EXTINF:-1,Bangla Time
+#EXTINF:-1 group-title="Indian Bangla News",Bangla Time
 http://103.205.133.19/hls/banglatime.m3u8
-#EXTINF:-1,APB Ananda
+#EXTINF:-1 group-title="Indian Bangla News",APB Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1,Kolkata TV
+#EXTINF:-1 group-title="Indian Bangla News",Kolkata TV
 https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
-#EXTINF:-1,Kolkata TV
+#EXTINF:-1 group-title="Indian Bangla News",Kolkata TV
 http://103.118.79.114:1935/live/Shari/MTV-P/320.m3u8
-#EXTINF:-1,R Plus News
+#EXTINF:-1 group-title="Indian Bangla News",R Plus News
 http://103.141.66.36/bpk-tv/10078/default/index.m3u8
-#EXTINF:-1,R Plus News
+#EXTINF:-1 group-title="Indian Bangla News",R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-#EXTINF:-1 group-title="Hinde",Star Plus HD
+#EXTINF:-1 group-title="Hinde Channel",Star Plus HD
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="Hinde Channel" group-title="Hinde Channel" group-title="Hinde Channel",Star Plus
 http://103.135.208.14/live/ibox/bd/41.m3u8
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="Hinde Channel" group-title="Hinde Channel",Star Plus
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1,Star Plus HD
+#EXTINF:-1 group-title="Hinde Channel",Star Plus HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="Hinde Channel",Star Plus
 http://103.118.79.114:1935/live/Shari/MTV-P/134.m3u8
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="Hinde Channel",Star Plus
 http://ccn.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 http://103.135.208.14/live/ibox/bd/43.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 http://103.205.133.42:1935/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 http://103.118.79.114:1935/live/Shari/MTV-P/133.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 http://103.111.120.46/hls/Zee_Bangla.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1 group-title="Hinde Channel",Sony TV
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony TV HD
+#EXTINF:-1 group-title="Hinde Channel",Sony TV HD
 http://103.141.66.36/bpk-tv/10401/default/index.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1 group-title="Hinde Channel",Sony SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1 group-title="Hinde Channel",Sony SAB
 http://103.135.208.14/live/ibox/bd/45.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1 group-title="Hinde Channel",Sony SAB
 http://103.205.133.42:1935/live/sony_sab_720/index.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1 group-title="Hinde Channel",Sony SAB
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1 group-title="Hinde Channel",Sony SAB
 http://103.205.133.19/hls/sonysab.m3u8
-#EXTINF:-1,Sony Pal
+#EXTINF:-1 group-title="Hinde Channel",Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15/master_664.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 http://43.230.123.21:8080/live/zee-tv.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 http://103.205.133.19/hls/zeetv.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 http://103.118.79.114:1935/live/Shari/MTV-P/135.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,Zee TV HD
+#EXTINF:-1 group-title="Hinde Channel",Zee TV HD
 http://103.205.133.42:1935/live/zee_tv_hd_720/index.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 http://103.141.66.36/bpk-tv/10062/default/index.m3u8
-#EXTINF:-1,Zee TV HD
+#EXTINF:-1 group-title="Hinde Channel",Zee TV HD
 http://103.141.66.36/bpk-tv/10403/default/index.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1 group-title="Hinde Channel",Zee TV
 http://103.135.208.14/live/ibox/bd/51.m3u8
-#EXTINF:-1,Colors (Asia)
+#EXTINF:-1 group-title="Hinde Channel",Colors (Asia)
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:-1,Colors HD
+#EXTINF:-1 group-title="Hinde Channel",Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors
+#EXTINF:-1 group-title="Hinde Channel",Colors
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Colors
 http://103.118.79.114:1935/live/Shari/MTV-P/139.m3u8
-#EXTINF:-1,Colors
+#EXTINF:-1 group-title="Hinde Channel",Colors
 http://103.135.208.14/live/ibox/bd/42.m3u8
-#EXTINF:-1,And TV
+#EXTINF:-1 group-title="Hinde Channel",And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1,And TV
+#EXTINF:-1 group-title="Hinde Channel",And TV
 http://103.205.133.42:1935/live/live/ntv_720/index.m3u8
-#EXTINF:-1,And TV
+#EXTINF:-1 group-title="Hinde Channel",And TV
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
-#EXTINF:-1,And TV HD
+#EXTINF:-1 group-title="Hinde Channel",And TV HD
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-#EXTINF:-1,And TV
+#EXTINF:-1 group-title="Hinde Channel",And TV
 http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1,And TV
+#EXTINF:-1 group-title="Hinde Channel",And TV
 http://103.135.208.14/live/ibox/bd/47.m3u8
-#EXTINF:-1,And TV
+#EXTINF:-1 group-title="Hinde Channel",And TV
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1,Star Bharat
+#EXTINF:-1 group-title="Hinde Channel",Star Bharat
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1,Star Bharat
+#EXTINF:-1 group-title="Hinde Channel",Star Bharat
 http://103.205.133.19/hls/starbharat.m3u8
-#EXTINF:-1,Star Bharat
+#EXTINF:-1 group-title="Hinde Channel",Star Bharat
 http://103.135.208.14/live/ibox/bd/50.m3u8
-#EXTINF:-1,Colors Rishtey
+#EXTINF:-1 group-title="Hinde Channel",Colors Rishtey
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
-#EXTINF:-1,Big Magic
+#EXTINF:-1 group-title="Hinde Channel",Big Magic
 http://103.141.66.36/bpk-tv/10280/default/index.m3u8
-#EXTINF:-1,DD National
+#EXTINF:-1 group-title="Hinde Channel",DD National
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 #EXTINF:-1 group-title="Hinde Movies",Star Gold HD
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
-#EXTINF:-1,Star Gold
+#EXTINF:-1 group-title="Hinde Movies" group-title="Hinde Movies" group-title="Hinde Movies",Star Gold
 http://103.135.208.14/live/ibox/bd/40.m3u8
-#EXTINF:-1,Star Gold
+#EXTINF:-1 group-title="Hinde Movies" group-title="Hinde Movies",Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,Star Gold HD*
+#EXTINF:-1 group-title="Hinde Movies",Star Gold HD*
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1,Star Gold
+#EXTINF:-1 group-title="Hinde Movies",Star Gold
 http://103.118.79.114:1935/live/Shari/MTV-P/141.m3u8
-#EXTINF:-1,Star Gold 2
+#EXTINF:-1 group-title="Hinde Movies",Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1,Star Gold 2
+#EXTINF:-1 group-title="Hinde Movies",Star Gold 2
 http://103.135.208.14/live/ibox/bd/99.m3u8
 #EXTINF:-1,Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1 group-title="Hinde Movies",Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1,Sony Max
+#EXTINF:-1 group-title="Hinde Movies",Sony Max
 http://103.135.208.14/live/ibox/bd/44.m3u8
-#EXTINF:-1,Sony Max
+#EXTINF:-1 group-title="Hinde Movies",Sony Max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1 group-title="Hinde Movies",Sony Max HD
 http://103.135.208.14/live/ibox/bd/107.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1 group-title="Hinde Movies",Sony Max HD
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
-#EXTINF:-1,Sony Max
+#EXTINF:-1 group-title="Hinde Movies",Sony Max
 http://103.118.79.114:1935/live/Shari/MTV-P/140.m3u8
-#EXTINF:-1,Sony Max
+#EXTINF:-1 group-title="Hinde Movies",Sony Max
 http://103.205.133.19/hls/sonymax.m3u8
-#EXTINF:-1,SONY SET MAX HD
+#EXTINF:-1 group-title="Hinde Movies",SONY SET MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
-#EXTINF:-1,Sony Max 2
+#EXTINF:-1 group-title="Hinde Movies",Sony Max 2
 http://43.230.123.21:8080/live/sony-max-2.m3u8
-#EXTINF:-1,Sony Max 2
+#EXTINF:-1 group-title="Hinde Movies",Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1,Sony WAH
+#EXTINF:-1 group-title="Hinde Movies",Sony WAH
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 http://43.230.123.21:8080/live/zee-cinema.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 http://103.205.133.19/hls/zeecinema.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 http://103.205.133.42:1935/live/zee_cinema_720/index.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
-#EXTINF:-1,Zee Cinema HD
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema HD
 http://103.141.66.36/bpk-tv/10430/default/index.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema
 http://103.118.79.114:1935/live/Shari/MTV-P/137.m3u8
-#EXTINF:-1,Zee Cinema USA
+#EXTINF:-1 group-title="Hinde Movies",Zee Cinema USA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Colors Cineplex UK
+#EXTINF:-1 group-title="Hinde Movies",Colors Cineplex UK
 http://178.159.5.10:16
-#EXTINF:-1,UTV Action
+#EXTINF:-1 group-title="Hinde Movies",UTV Action
 http://202.163.117.6:9981/stream/channelid/135894982
-#EXTINF:-1,UTV Movies
+#EXTINF:-1 group-title="Hinde Movies",UTV Movies
 http://202.163.117.6:9981/stream/channelid/1095695221
-#EXTINF:-1,UTV Movies
+#EXTINF:-1 group-title="Hinde Movies",UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Hinde Movies",Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Hinde Movies",Zee Action
 http://103.205.133.42:1935/live/zee_action_720/index.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Hinde Movies",Zee Action
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Hinde Movies",Zee Action
 http://103.205.133.19/hls/zeeaction.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Hinde Movies",Zee Action
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/38.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="Hinde Movies",Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="Hinde Movies",Zee Bollywood
 http://103.141.66.36/bpk-tv/10104/default/index.m3u8
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="Hinde Movies",Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="Hinde Movies",Zee Bollywood
 http://103.135.208.14/live/ibox/bd/48.m3u8
-#EXTINF:-1,And Picture
+#EXTINF:-1 group-title="Hinde Movies",And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1,And Picture HD
+#EXTINF:-1 group-title="Hinde Movies",And Picture HD
 http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF:-1,And Picture HD
+#EXTINF:-1 group-title="Hinde Movies",And Picture HD
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
-#EXTINF:-1,And Picture
+#EXTINF:-1 group-title="Hinde Movies",And Picture
 http://103.135.208.14/live/ibox/bd/94.m3u8
-#EXTINF:-1,And Xplor HD
+#EXTINF:-1 group-title="Hinde Movies",And Xplor HD
 http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
-#EXTINF:-1,Zee Anmol
+#EXTINF:-1 group-title="Hinde Movies",Zee Anmol
 http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
-#EXTINF:-1,B4U Movies
+#EXTINF:-1 group-title="Hinde Movies",B4U Movies
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
-#EXTINF:-1,B4U Movies
+#EXTINF:-1 group-title="Hinde Movies",B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:-1,B4U Kadak
+#EXTINF:-1 group-title="Hinde Movies",B4U Kadak
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
-#EXTINF:-1,B4U Kadak
+#EXTINF:-1 group-title="Hinde Movies",B4U Kadak
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
-#EXTINF:-1,Enter 10
+#EXTINF:-1 group-title="Hinde Movies",Enter 10
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
-#EXTINF:-1,Bflix
+#EXTINF:-1 group-title="Hinde Movies",Bflix
 http://103.205.133.42:1935/live/bflix_720/index.m3u8
-#EXTINF:-1,Bflix
+#EXTINF:-1 group-title="Hinde Movies",Bflix
 http://103.118.79.114:1935/live/Shari/MTV-P/144.m3u8
-#EXTINF:-1,Manoranjan TV
+#EXTINF:-1 group-title="Hinde Movies",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
-#EXTINF:-1,Manoranjan TV
+#EXTINF:-1 group-title="Hinde Movies",Manoranjan TV
 http://103.118.79.114:1935/live/Shari/MTV-P/321.m3u8
-#EXTINF:-1,Manoranjan TV
+#EXTINF:-1 group-title="Hinde Movies",Manoranjan TV
 http://103.135.208.14/live/ibox/bd/12.m3u8
-#EXTINF:-1,Monoranjan Grand
+#EXTINF:-1 group-title="Hinde Movies",Monoranjan Grand
 http://103.141.66.36/bpk-tv/10103/default/index.m3u8
-#EXTINF:-1,Monoranjan Movies
+#EXTINF:-1 group-title="Hinde Movies",Monoranjan Movies
 http://103.141.66.36/bpk-tv/10127/default/index.m3u8
-#EXTINF:-1,ABZY Movies
+#EXTINF:-1 group-title="Hinde Movies",ABZY Movies
 http://103.141.66.36/bpk-tv/10076/default/index.m3u8
-#EXTINF:-1,ABZY Dhakad
+#EXTINF:-1 group-title="Hinde Movies",ABZY Dhakad
 http://103.141.66.36/bpk-tv/10191/default/index.m3u8
-#EXTINF:-1,Wow Cinema
+#EXTINF:-1 group-title="Hinde Movies",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
-#EXTINF:-1,Dabang TV
+#EXTINF:-1 group-title="Hinde Movies",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1,SHEMAROO CLASSIC
+#EXTINF:-1 group-title="Hinde Movies",SHEMAROO CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1,Bollywood Premier
+#EXTINF:-1 group-title="Hinde Movies",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1,Shemaroo Hindi TV
+#EXTINF:-1 group-title="Hinde Movies",Shemaroo Hindi TV
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1,BOLLYWOOD HD
+#EXTINF:-1 group-title="Hinde Movies",BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,BOLLYWOOD CLASSIC
+#EXTINF:-1 group-title="Hinde Movies",BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="Sports",Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/161.m3u8
-#EXTINF:-1,Star Sports 1 HD (Backup)
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD (Backup)
 http://103.118.79.114:1935/live/Shari/MTV-P/183.m3u8
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/53.m3u8
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1 group-title="Sports",Star Sports 1
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 1 
+#EXTINF:-1 group-title="Sports",Star Sports 1 
 http://103.205.133.14/hls/starsports1.m3u8
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/77.m3u8
-#EXTINF:-1,Star Sports 1 Hindi
+#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi
 http://43.230.123.21:8080/live/starsports-1-hind.m3u8
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 group-title="Sports",Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 group-title="Sports",Star Sports 2
 http://103.135.208.14/live/ibox/bd/54.m3u8
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 group-title="Sports",Star Sports 2
 http://103.135.208.14/live/ibox/bd/78.m3u8
-#EXTINF:-1,Star Sports 3
+#EXTINF:-1 group-title="Sports",Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
 http://103.214.202.218:8081/live/select1/chunks.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
 http://43.230.123.21:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/194.m3u8
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/100.m3u8
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1 group-title="Sports",Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/163.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://43.230.123.21:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://103.135.208.14/live/ibox/bd/83.m3u8
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1 group-title="Sports",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1 group-title="Sports",Sony Ten 1
 http://43.230.123.21:8080/live/sonyten-1.m3u8
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1 group-title="Sports",Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1 group-title="Sports",Sony Ten 1
 http://103.135.208.14/live/ibox/bd/79.m3u8
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1 group-title="Sports",Sony Ten 1
 http://103.205.133.42:1935/live/sony_ten1_720/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD
 http://103.205.133.42:1935/live/sony_ten1_hd_720/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD
 http://103.141.66.36/bpk-tv/10476/default/manifest.mpd
-#EXTINF:-1,Sony Ten 1 HD
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/156.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1 group-title="Sports",Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1 group-title="Sports",Sony Ten 2
 http://43.230.123.21:8080/live/sonyten-2.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1 group-title="Sports",Sony Ten 2
 http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1 group-title="Sports",Sony Ten 2
 http://103.205.133.42:1935/live/ten_2_720/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
 http://103.205.133.42:1935/live/sony_ten2_hd_720/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
 http://103.141.66.36/bpk-tv/10479/default/manifest.mpd
-#EXTINF:-1,Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/159.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1 group-title="Sports",Sony Ten 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1 group-title="Sports",Sony Ten 3
 http://103.135.208.14/live/ibox/bd/55.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1 group-title="Sports",Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1 group-title="Sports",Sony Ten 3
 http://103.205.133.42:1935/live/ten_3_720/index.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1 group-title="Sports",Sony Ten 3
 http://103.118.79.114:1935/live/Shari/MTV-P/160.m3u8
-#EXTINF:-1,Sony ESPN
+#EXTINF:-1 group-title="Sports",Sony ESPN
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
-#EXTINF:-1,Sony ESPN
+#EXTINF:-1 group-title="Sports",Sony ESPN
 http://43.230.123.21:8080/live/sonyespn.m3u8
-#EXTINF:-1,Sony ESPN
+#EXTINF:-1 group-title="Sports",Sony ESPN
 http://103.205.133.42:1935/live/sony_espn_720/index.m3u8
-#EXTINF:-1,Sony Six
+#EXTINF:-1 group-title="Sports",Sony Six
 http://43.230.123.21:8080/live/sonysix.m3u8
-#EXTINF:-1,Sony Six
+#EXTINF:-1 group-title="Sports",Sony Six
 http://103.205.133.19/hls/sonysix.m3u8
-#EXTINF:-1,Sony Six
+#EXTINF:-1 group-title="Sports",Sony Six
 http://103.135.208.14/live/ibox/bd/96.m3u8
-#EXTINF:-1,Sony Six
+#EXTINF:-1 group-title="Sports",Sony Six
 http://103.205.133.42:1935/live/sony_six_720/index.m3u8
-#EXTINF:-1,Sony Six HD
+#EXTINF:-1 group-title="Sports",Sony Six HD
 http://103.205.133.42:1935/live/sony_six_hd_720/index.m3u8
-#EXTINF:-1,Sony Six HD
+#EXTINF:-1 group-title="Sports",Sony Six HD
 http://103.141.66.36/bpk-tv/10480/default/index.m3u8
-#EXTINF:-1,Sony Six
+#EXTINF:-1 group-title="Sports",Sony Six
 http://103.118.79.114:1935/live/Shari/MTV-P/158.m3u8
-#EXTINF:-1,Euro Sports
+#EXTINF:-1 group-title="Sports",Euro Sports
 http://103.118.79.114:1935/live/Shari/MTV-P/157.m3u8
-#EXTINF:-1,D Sports
+#EXTINF:-1 group-title="Sports",D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1,D Sports
+#EXTINF:-1 group-title="Sports",D Sports
 http://103.118.79.114:1935/live/Shari/MTV-P/162.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Sports",PTV Sports
 http://43.231.22.238:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Sports",PTV Sports
 http://103.135.208.14/live/ibox/bd/84.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Sports",PTV Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
-#EXTINF:-1,Geo Super HD
+#EXTINF:-1 group-title="Sports",Geo Super HD
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Geo Super
+#EXTINF:-1 group-title="Sports",Geo Super
 http://43.231.22.238:8081/hdcrictv/ctg_geosuper/chunks.m3u8
-#EXTINF:-1,Ten Sports PK
+#EXTINF:-1 group-title="Sports",Ten Sports PK
 http://43.231.22.238:8081/hdcrictv/ctg_tensports/chunks.m3u8
-#EXTINF:-1,Ten Sports PK
+#EXTINF:-1 group-title="Sports",Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://43.231.22.238:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:-1,Sky Sports Football
+#EXTINF:-1 group-title="Sports",Sky Sports Football
 http://103.214.202.218:8081/live/bein1/chunks.m3u8
-#EXTINF:-1,Sky Sports Football
+#EXTINF:-1 group-title="Sports",Sky Sports Football
 http://43.231.22.238:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
-#EXTINF:-1,Sky Sports Mix
+#EXTINF:-1 group-title="Sports",Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
-#EXTINF:-1,Fight Sports
+#EXTINF:-1 group-title="Sports",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1,Ad Sports 3
+#EXTINF:-1 group-title="Sports",Ad Sports 3
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
-#EXTINF:-1,Ad Sports 4
+#EXTINF:-1 group-title="Sports",Ad Sports 4
 http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
-#EXTINF:-1,Euro Sports 1
+#EXTINF:-1 group-title="Sports",Euro Sports 1
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1,Euro Sports 2
+#EXTINF:-1 group-title="Sports",Euro Sports 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,Fox Sports
+#EXTINF:-1 group-title="Sports",Fox Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="Sports",Fox Sports 3
 http://103.135.208.14/live/ibox/bd/9.m3u8
-#EXTINF:-1,BT Sports 1
+#EXTINF:-1 group-title="Sports",BT Sports 1
 https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1,BT Sports 2
+#EXTINF:-1 group-title="Sports",BT Sports 2
 https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1,BT Sports 3
+#EXTINF:-1 group-title="Sports",BT Sports 3
 https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
-#EXTINF:-1,Willow Cricket
+#EXTINF:-1 group-title="Sports",Willow Cricket
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
-#EXTINF:-1,Willow cricket
+#EXTINF:-1 group-title="Sports",Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
-#EXTINF:-1,PPTV HD36
+#EXTINF:-1 group-title="Sports",PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1,Bein Sports 1
+#EXTINF:-1 group-title="Sports",Bein Sports 1
 http://43.230.123.21:8080/bein-sports-1.m3u8
-#EXTINF:-1,Bean Sports 2
+#EXTINF:-1 group-title="Sports",Bean Sports 2
 http://43.230.123.21:8080/live/bein-sports-2.m3u8
-#EXTINF:-1,Bein Sports 11
+#EXTINF:-1 group-title="Sports",Bein Sports 11
 http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:-1,Bein Sports FR 1
+#EXTINF:-1 group-title="Sports",Bein Sports FR 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
-#EXTINF:-1,Titas Sports
+#EXTINF:-1 group-title="Sports",Titas Sports
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 group-title="Information Channel",Discovery (Hindi)
 http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
-#EXTINF:-1,Discovery (Hindi)
+#EXTINF:-1 group-title="Information Channel",Discovery (Hindi)
 http://103.135.208.14/live/ibox/bd/59.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1 group-title="Information Channel",Discovery
 http://43.230.123.21:8080/live/discovery.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1 group-title="Information Channel",Discovery
 http://103.205.133.42:1935/live/discovery_720/index.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="Information Channel",Discovery HD
 http://103.205.133.42:1935/live/discovery_hd_720/index.m3u8
-#EXTINF:-1,Discovery HD (Bangla)
+#EXTINF:-1 group-title="Information Channel",Discovery HD (Bangla)
 http://103.118.79.114:1935/live/Shari/MTV-P/167.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1 group-title="Information Channel",Discovery
 http://43.231.22.238:8081/hdcrictv/ctg_discovery/chunks.m3u8
-#EXTINF:-1,Discovery Asia
+#EXTINF:-1 group-title="Information Channel" group-title="Information Channel",Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="Information Channel",Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="Information Channel",Animal Planet
 http://43.230.123.21:8080/live/animale-planet.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="Information Channel",Animal Planet
 http://103.135.208.14/live/ibox/bd/93.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="Information Channel",Animal Planet
 http://103.205.133.42:1935/live/animal_planet_720/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="Information Channel",Animal Planet HD
 http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8
-#EXTINF:-1,Sony BBC Earth
+#EXTINF:-1 group-title="Information Channel",Sony BBC Earth
 http://103.205.133.42:1935/live/sony_bbc_earth_720/index.m3u8
-#EXTINF:-1,Sony BBC Earth HD
+#EXTINF:-1 group-title="Information Channel",Sony BBC Earth HD
 http://103.205.133.42:1935/live/sony_bbc_earth_hd_720/index.m3u8
-#EXTINF:-1,BBC Earth
+#EXTINF:-1 group-title="Information Channel",BBC Earth
 http://103.118.79.114:1935/live/Shari/MTV-P/168.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Information Channel",National Geographic
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Information Channel",National Geographic
 http://103.135.208.14/live/ibox/bd/61.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Information Channel",National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 group-title="Information Channel",Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 group-title="Information Channel",Nat Geo Wild
 https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 group-title="Information Channel",Nat Geo Wild
 http://103.135.208.14/live/ibox/bd/60.m3u8
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 group-title="Information Channel",Nat Geo Wild
 http://103.118.79.114:1935/live/Shari/MTV-P/166.m3u8
-#EXTINF:-1,Nat Geo People
+#EXTINF:-1 group-title="Information Channel",Nat Geo People
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
-#EXTINF:-1,Nat Geo People
+#EXTINF:-1 group-title="Information Channel",Nat Geo People
 https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,Nat Geo People
+#EXTINF:-1 group-title="Information Channel",Nat Geo People
 http://103.135.208.14/live/ibox/bd/92.m3u8
-#EXTINF:-1,BBC Lifestyle
+#EXTINF:-1 group-title="Information Channel",BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1,BBC Lifestyle
+#EXTINF:-1 group-title="Information Channel",BBC Lifestyle
 http://103.118.79.114:1935/live/Shari/MTV-P/155.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Information Channel",TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="Information Channel",TLC
 http://103.205.133.14/hls/tlc.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="Information Channel",TLC
 http://103.205.133.42:1935/live/tlc_720/index.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Information Channel",TLC HD
 http://103.205.133.42:1935/live/tlc_hd_720/index.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Information Channel",TLC HD
 http://103.135.208.14/live/ibox/bd/62.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Information Channel",TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1,History TV 18
+#EXTINF:-1 group-title="Information Channel",History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
-#EXTINF:-1,History TV 18
+#EXTINF:-1 group-title="Information Channel",History TV 18
 http://103.118.79.114:1935/live/Shari/MTV-P/193.m3u8
-#EXTINF:-1,History TV 18 HD
+#EXTINF:-1 group-title="Information Channel",History TV 18 HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1,History TV 18
+#EXTINF:-1 group-title="Information Channel",History TV 18
 http://103.135.208.14/live/ibox/bd/91.m3u8
-#EXTINF:-1,History TV 18
+#EXTINF:-1 group-title="Information Channel",History TV 18
 https://cdnbpp1.useetv.com/joss/15/history/chunklist_w2034260863_b1344100_sleng_460814.m3u8
-#EXTINF:-1,History TV 2
+#EXTINF:-1 group-title="Information Channel",History TV 2
 https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
-#EXTINF:-1,Travel Channel
+#EXTINF:-1 group-title="Information Channel",Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1,RT Documentary
+#EXTINF:-1 group-title="Information Channel",RT Documentary
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
-#EXTINF:-1,VoA TV
+#EXTINF:-1 group-title="Information Channel",VoA TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/chunks.m3u8
-#EXTINF:-1,US TV
+#EXTINF:-1 group-title="Information Channel",US TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/uatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cooking Channel",Fox Life (Bangla)
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
