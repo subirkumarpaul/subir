@@ -202,161 +202,161 @@ http://103.141.66.36/bpk-tv/10333/default/index.m3u8
 http://103.135.208.14/live/ibox/bd/28.m3u8
 #EXTINF:-1 group-title="IPTV Entertainment",Rang TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:-1,Jhankar TV
+#EXTINF:-1 group-title="IPTV Entertainment",Jhankar TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
-#EXTINF:-1,Cumilla 24 TV
+#EXTINF:-1 group-title="IPTV Entertainment",Cumilla 24 TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1,Alif TV
+#EXTINF:-1 group-title="IPTV Entertainment",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1,Nan TV
+#EXTINF:-1 group-title="IPTV Entertainment",Nan TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1,Nandan TV
+#EXTINF:-1 group-title="IPTV Entertainment",Nandan TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nandantv.stream/live-orgin/nandantv.stream/chunks.m3u8
-#EXTINF:-1,Bangla Channel
+#EXTINF:-1 group-title="IPTV Entertainment",Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,Channel T1
+#EXTINF:-1 group-title="IPTV Entertainment",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1,Channel TT
+#EXTINF:-1 group-title="IPTV Entertainment",Channel TT
 https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8
-#EXTINF:-1,Probashi Bangla
+#EXTINF:-1 group-title="IPTV Entertainment",Probashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
-#EXTINF:-1,Family TV
+#EXTINF:-1 group-title="IPTV Entertainment",Family TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/familytv.stream/chunks.m3u8
-#EXTINF:-1,Varendra TV
+#EXTINF:-1 group-title="IPTV Entertainment",Varendra TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:-1,NRB TV
+#EXTINF:-1 group-title="IPTV Entertainment",NRB TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1,NRB Connect
+#EXTINF:-1 group-title="IPTV Entertainment",NRB Connect
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
-#EXTINF:-1,Deshe Bideshe
+#EXTINF:-1 group-title="IPTV Entertainment",Deshe Bideshe
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1,Roal TV
+#EXTINF:-1 group-title="IPTV Entertainment",Roal TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1,MB TV
+#EXTINF:-1 group-title="IPTV Entertainment",MB TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mbtv.stream/chunks.m3u8
-#EXTINF:-1,Magic Bangla TV
+#EXTINF:-1 group-title="IPTV Entertainment",Magic Bangla TV
 http://128.199.212.160/magicbanglatv/1080/index.m3u8
-#EXTINF:-1,Millennium TV
+#EXTINF:-1 group-title="IPTV Entertainment",Millennium TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
-#EXTINF:-1,Nakshi TV
+#EXTINF:-1 group-title="IPTV Entertainment",Nakshi TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoahttp://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:-1,KTV Bangla
+#EXTINF:-1 group-title="IPTV Entertainment",KTV Bangla
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ktvbangla.stream/chunks.m3u8
-#EXTINF:-1,Joy Jatra TV
+#EXTINF:-1 group-title="IPTV Entertainment",Joy Jatra TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1,Jonmobhumi TV
+#EXTINF:-1 group-title="IPTV Entertainment",Jonmobhumi TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1,71 Bangla TV
+#EXTINF:-1 group-title="IPTV Entertainment",71 Bangla TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
-#EXTINF:-1,Pan Vision TV
+#EXTINF:-1 group-title="IPTV Entertainment",Pan Vision TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF:-1,itv
+#EXTINF:-1 group-title="IPTV Entertainment",itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesi News",ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1 group-title="Bangladesi News",ATN News
 http://43.230.123.21:8080/live/ex-atnae.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1 group-title="Bangladesi News",ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1 group-title="Bangladesi News",ATN News
 http://103.144.200.7:8080/hls/atnnews/index.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1 group-title="Bangladesi News",ATN News
 http://103.141.66.36/bpk-tv/10010/default/index.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1 group-title="Bangladesi News",ATN News
 http://103.135.208.14/live/ibox/bd/102.m3u8
-#EXTINF:-1,Ekattor TV
+#EXTINF:-1 group-title="Bangladesi News"Ekattor TV
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
-#EXTINF:-1,Ekattor TV
+#EXTINF:-1 group-title="Bangladesi News",Ekattor TV
 http://43.230.123.21:80/live/ekattor1.m3u8
-#EXTINF:-1,Ekattor TV
+#EXTINF:-1 group-title="Bangladesi News",Ekattor TV
 http://103.135.208.14/live/ibox/bd/88.m3u8
-#EXTINF:-1,Ekattor TV
+#EXTINF:-1 group-title="Bangladesi News",Ekattor TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,Ekattor TV
+#EXTINF:-1 group-title="Bangladesi News",Ekattor TV
 http://103.118.79.114:1935/live/Shari/MTV-P/105.m3u8
-#EXTINF:-1,News 24
+#EXTINF:-1 group-title="Bangladesi News",News 24
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
-#EXTINF:-1,News 24
+#EXTINF:-1 group-title="Bangladesi News",News 24
 http://103.135.208.14/live/ibox/bd/18.m3u8
-#EXTINF:-1,DBC News
+#EXTINF:-1 group-title="Bangladesi News",DBC News
 http://103.214.202.218:8081/live/dbc/chunks.m3u8
-#EXTINF:-1,DBC News
+#EXTINF:-1 group-title="Bangladesi News",DBC News
 http://43.230.123.21:8080/live/dbc.m3u8
-#EXTINF:-1,DBC News
+#EXTINF:-1 group-title="Bangladesi News",DBC News
 http://103.135.208.14/live/ibox/bd/27.m3u8
-#EXTINF:-1,DBC News
+#EXTINF:-1 group-title="Bangladesi News",DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1,DBC News
+#EXTINF:-1 group-title="Bangladesi News",DBC News
 http://103.141.66.36/bpk-tv/10256/default/index.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1 group-title="Bangladesi News",Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1 group-title="Bangladesi News",Independent TV
 https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1 group-title="Bangladesi News",Independent TV
 http://103.141.66.36/bpk-tv/10005/default/index.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1 group-title="Bangladesi News",Independent TV
 http://103.118.79.114:1935/live/Shari/MTV-P/115.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1 group-title="Bangladesi News" group-title="Bangladesi News",Independent TV
 http://103.135.208.14/live/ibox/bd/86.m3u8
-#EXTINF:-1,Somoy News
+#EXTINF:-1 group-title="Bangladesi News",Somoy News
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
-#EXTINF:-1,Somoy News
+#EXTINF:-1 group-title="Bangladesi News",Somoy News
 http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
-#EXTINF:-1,Somoy News
+#EXTINF:-1 group-title="Bangladesi News",Somoy News
 http://103.118.79.114:1935/live/Shari/MTV-P/117.m3u8
-#EXTINF:-1,Somoy News
+#EXTINF:-1 group-title="Bangladesi News",Somoy News
 https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1,Somoy News
+#EXTINF:-1 group-title="Bangladesi News",Somoy News
 http://103.141.66.36/bpk-tv/10030/default/index.m3u8
-#EXTINF:-1,Somoy News
+#EXTINF:-1 group-title="Bangladesi News",Somoy News
 http://103.135.208.14/live/ibox/bd/15.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 group-title="Bangladesi News",Jamuna TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 group-title="Bangladesi News",Jamuna TV
 http://103.135.208.14/live/ibox/bd/16.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 group-title="Bangladesi News",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 group-title="Bangladesi News",Jamuna TV
 http://103.144.200.7:8080/hls/jamunatv/index.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 group-title="Bangladesi News",Jamuna TV
 http://103.141.66.36/bpk-tv/10037/default/index.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 group-title="Bangladesi News",Jamuna TV
 http://103.118.79.114:1935/live/Shari/MTV-P/116.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 group-title="Bangladesi News",Channel 24
 http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 group-title="Bangladesi News",Channel 24
 http://103.135.208.14/live/ibox/bd/21.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 group-title="Bangladesi News",Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 group-title="Bangladesi News",Channel 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 group-title="Bangladesi News",Channel 24
 http://103.118.79.114:1935/live/Shari/MTV-P/119.m3u8
-#EXTINF:-1,TBN 24
+#EXTINF:-1 group-title="Bangladesi News",TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1 group-title="Bangladesi Movies",Movie Bangla
 http://103.214.202.218:8081/live/moviebangla/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesi Movies",Movie Bangla
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1,My Cinema
+#EXTINF:-1 group-title="Bangladesi Movies",My Cinema
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1,MB TV
+#EXTINF:-1 group-title="Bangladesi Movies",MB TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mbtv.stream/chunks.m3u8
-#EXTINF:-1,Khusbo Bangla
+#EXTINF:-1 group-title="Bangladesi Movies",Khusbo Bangla
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8
 #EXTINF:-1 group-title="Religion Channel",ATN Islamic TV
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesi Music",ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
-#EXTINF:-1,Gaan Bangla
+#EXTINF:-1 group-title="Bangladesi Music",Gaan Bangla
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
-#EXTINF:-1,Gaan Bangla
+#EXTINF:-1 group-title="Bangladesi Music",Gaan Bangla
 http://103.118.79.114:1935/live/Shari/MTV-P/121.m3u8
-#EXTINF:-1,Gaan Bangla
+#EXTINF:-1 group-title="Bangladesi Music",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1,Gaan Bangla
+#EXTINF:-1 group-title="Bangladesi Music",Gaan Bangla
 http://103.135.208.14/live/ibox/bd/10.m3u8
-#EXTINF:-1,RTV Music
+#EXTINF:-1 group-title="Bangladesi Music",RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
