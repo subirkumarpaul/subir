@@ -1267,9 +1267,9 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU",Star Movies HD (India)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU" group-title="English Movies",Star Movies HD (India)
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU",Star Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwA9LYevE9Fbav8oZ3QDqm0hBCnDSCKJO1pYFMaQcV_0c0RvZ&usqp=CAU",Star Movies HD (India)
 http://tv-cdn.ihub.live:8083/j-StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
