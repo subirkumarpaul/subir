@@ -653,8 +653,10 @@ http://103.141.66.36/bpk-tv/10403/default/index.m3u8
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV (Asia)
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV (UK)
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png",Zee TV HD (USA)
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 
 
 
