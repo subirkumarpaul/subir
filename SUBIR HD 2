@@ -132,55 +132,55 @@ http://103.135.208.14/live/ibox/bd/33.m3u8
 https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
 http://103.141.66.36/bpk-tv/10038/default/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",SATV
+#EXTINF:-1,SATV
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",SATV
+#EXTINF:-1,SATV
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",SATV
+#EXTINF:-1,SATV
 http://103.135.208.14/live/ibox/bd/87.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Nagorik TV
+#EXTINF:-1,Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Nagorik TV
+#EXTINF:-1,Nagorik TV
 http://103.118.79.114:1935/live/Shari/MTV-P/107.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Nagorik TV
+#EXTINF:-1,Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Nagorik TV
+#EXTINF:-1,Nagorik TV
 http://103.141.66.36/bpk-tv/10451/default/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Nagorik TV
+#EXTINF:-1,Nagorik TV
 http://103.135.208.14/live/ibox/bd/100.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Mohona TV
+#EXTINF:-1,Mohona TV
 http://103.214.202.218:8081/live/mohona/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Mohona TV
+#EXTINF:-1,Mohona TV
 http://103.141.66.36/bpk-tv/10011/default/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Mohona TV
+#EXTINF:-1,Mohona TV
 http://103.135.208.14/live/ibox/bd/89.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://43.230.123.21:8080/live/atnbd1.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://103.144.200.7:8080/hls/atnbangla/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://103.118.79.114:1935/live/Shari/MTV-P/106.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://103.141.66.36/bpk-tv/10009/default/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",ATN Bangla
+#EXTINF:-1,ATN Bangla
 http://103.135.208.14/live/ibox/bd/11.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 http://43.230.123.21:8080/live/banae3.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 http://103.141.66.36/bpk-tv/10027/default/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 http://103.118.79.114:1935/live/Shari/MTV-P/112.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Bangla Vision
+#EXTINF:-1,Bangla Vision
 http://103.135.208.14/live/ibox/bd/25.m3u8
 #EXTINF:-1 group-title="Bangladesi Entertainment",Channel I HD
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
