@@ -301,7 +301,7 @@ http://103.135.208.14/live/ibox/bd/86.m3u8
 #EXTINF:-1,Somoy News
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #EXTINF:-1,Somoy News
-http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
+http://103.205.133.42:1935/live/somoy_tv_720/index.m3u8
 #EXTINF:-1,Somoy News
 http://103.118.79.114:1935/live/Shari/MTV-P/117.m3u8
 #EXTINF:-1,Somoy News
@@ -389,7 +389,7 @@ http://103.141.66.36/bpk-tv/10185/default/index.m3u8
 #EXTINF:-1,Zee Bangla
 http://ccn.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Aath
-http://103.205.133.42:1935/local/sony_aath_720/index.m3u8
+http://103.205.133.42:1935/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Sony Aath
 http://103.118.79.114:1935/live/Shari/MTV-P/123.m3u8
 #EXTINF:-1,Sony Aath
@@ -1174,7 +1174,7 @@ http://103.135.208.14/live/ibox/bd/90.m3u8
 #EXTINF:-1,9X Jalwa
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 #EXTINF:-1,9X Jalwa
-http://103.205.133.42:1935/lover /9xm_jalwa_720/index.m3u8
+http://103.205.133.42:1935/live/9xm_jalwa_720/index.m3u8
 #EXTINF:-1,Sony Mix
 http://103.144.200.7:8080/hls/sonymix/index.m3u8
 #EXTINF:-1,Sony Mix
@@ -1310,11 +1310,11 @@ http://103.141.66.36/bpk-tv/10051/default/index.m3u8
 #EXTINF:-1,Al Jazeera
 http://103.135.208.14/live/ibox/bd/95.m3u8
 #EXTINF:-1,Arirang World
-http://103.205.133.42:1935/local/arirang_720/index.m3u8
+http://103.205.133.42:1935/live/arirang_720/index.m3u8
 #EXTINF:-1,Arirang World
 http://103.141.66.36/bpk-tv/10128/default/index.m3u8
 #EXTINF:-1,CGTN
-http://103.205.133.42:1935/local/cgtn_720/index.m3u8
+http://103.205.133.42:1935/live/cgtn_720/index.m3u8
 #EXTINF:-1,DW
 http://103.141.66.36/bpk-tv/10057/default/index.m3u8
 #EXTINF:-1,DW
