@@ -712,7 +712,7 @@ http://103.144.200.7:8080/hls/b4uka/index.m3u8
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
 #EXTINF:-1,Bflix
 http://103.205.133.42:1935/live/bflix_720/index.m3u8
-#EXTINF:-1",Bflix
+#EXTINF:-1,Bflix
 http://103.118.79.114:1935/live/Shari/MTV-P/144.m3u8
 #EXTINF:-1,Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
@@ -854,7 +854,7 @@ http://103.118.79.114:1935/live/Shari/MTV-P/157.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,D Sports
 http://103.118.79.114:1935/live/Shari/MTV-P/162.m3u8
-#EXTINF:-1",PTV Sports
+#EXTINF:-1,PTV Sports
 http://43.231.22.238:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1,PTV Sports
 http://103.135.208.14/live/ibox/bd/84.m3u8
@@ -874,7 +874,7 @@ http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 http://43.231.22.238:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 #EXTINF:-1,Sky Sports Football
 http://103.214.202.218:8081/live/bein1/chunks.m3u8
-#EXTINF:-1",Sky Sports Football
+#EXTINF:-1,Sky Sports Football
 http://43.231.22.238:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 #EXTINF:-1,Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
