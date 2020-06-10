@@ -1923,15 +1923,29 @@ http://103.141.66.36/bpk-tv/10141/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 
-#EXTINF:-1,Mungda Songs
+
+#EXTINF:-1 group-title="Hinde Love Songs",Kuch_Kuch_Hota_Hai_Lyric_-_Title_Track___Shah_Rukh_Khan___Kajol__Rani_Mukherjee(1080p)
+https://streamable.com/k19tpu
+#EXTINF:-1 group-title="Hinde Love Songs",Chehra_Kya_Dekhte_Ho___Kumar_Sanu,_Asha_Bhosle___Salaami_1994_Songs___Ayub_Khan(1080p).mp4.vm
+https://streamable.com/qzo1td
+#EXTINF:-1 group-title="Hinde Love Songs",Hum_Lakh_Chupaye_Pyar_Magar___4K_Video_Song___Jaan_Tere_Naam_-_Kumar_Sanu,_Asha_Bhosle(1080p)
+https://streamable.com/227ud5
+
+#EXTINF:-1 group-title="Hinde Songs",Mungda Songs
 https://streamable.com/1naxex
+#EXTINF:-1 group-title="Hinde Songs",Bom Diggy Diggy - Sonu Ke Titu Ki Sweety(1080p)
+https://streamable.com/nc9322
+#EXTINF:-1 group-title="Hinde Songs",DILBAR_Lyrical___Satyameva_Jayate__John_Abraham,_Nora_Fatehi,Tanishk_B,_Neha_Kakkar,Dhvani,_Ikka(1080p)
+https://streamable.com/q494i9
+#EXTINF:-1 group-title="Hinde Songs",Main Tera Boyfriend
+https://streamable.com/z2hzfp
+#EXTINF:-1 group-title="Hinde Songs",Cocacolla-lula Cupi
+https://streamable.com/ewzc0g
+#EXTINF:-1 group-title="Hinde Songs",Kalank_-_First_Class___Varun_Dhawan_,_Alia_Bhatt,_Kiara___Arijit_Singh___Pritam___Amitabh__Abhishek(1080p)
+https://streamable.com/6co8v6
+#EXTINF:-1 group-title="Hinde Songs",Chamma_Chamma_Full_Video_-_Fraud_Saiyaan___Elli_AvrRam,_Arshad___Neha_Kakkar,_Tanishk,_Ikka,Romy(1080p)
+https://streamable.com/7s0s2h
 
-
-
-
-
-#EXTM3U url-tvg="",
-#EXTM3U
 
 #EXTINF:-1 group-title="JUST-IN HIN", Sacred Games S2 E1
 http://dl.jiocloud.link//Sacred.Games.S02E01.Matsya.Hindi.720p.WEB-DL.x264.ESub-KatmovieHD.To.mkv	
