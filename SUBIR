@@ -1076,7 +1076,7 @@ http://103.135.208.14/live/ibox/bd/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",Ad Sports 3
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yio8nom.png",Ad Sports 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtw3HkTzzZLJeRCw5GrYzeXGcM0CHeJu8hW_cBn-JXs_2Abz5A&usqp=CAU",Ad Sports 4
 http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
 
 
