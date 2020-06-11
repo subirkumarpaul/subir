@@ -1380,7 +1380,7 @@ http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/72.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png", MN+ HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQx-DAfo-4ESpeyZLWCGJ-Ac8K1KWmwuiDA3byKy_MqDfsBi4AA&usqp=CAU", MN+ HD
 http://103.118.79.114:1935/live/Shari/MTV-P/147.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
