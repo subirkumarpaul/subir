@@ -1360,11 +1360,11 @@ http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",MBC Max
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8I28wxo0C1lYCTEsXLtUz8iQ_flMH668fEw2oLcnLqngD6-Y5&usqp=CAU",MNX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_UwZ1cFhDDTYA5q1c3PmQ1-oNQ8cCrnOtmn4vYp1sw6TksQ43&usqp=CAU",MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8I28wxo0C1lYCTEsXLtUz8iQ_flMH668fEw2oLcnLqngD6-Y5&usqp=CAU",MNX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_UwZ1cFhDDTYA5q1c3PmQ1-oNQ8cCrnOtmn4vYp1sw6TksQ43&usqp=CAU",MNX
 http://103.135.208.14/live/ibox/bd/70.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8I28wxo0C1lYCTEsXLtUz8iQ_flMH668fEw2oLcnLqngD6-Y5&usqp=CAU",MNX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_UwZ1cFhDDTYA5q1c3PmQ1-oNQ8cCrnOtmn4vYp1sw6TksQ43&usqp=CAU",MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU",Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
