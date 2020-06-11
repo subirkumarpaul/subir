@@ -551,13 +551,13 @@ http://103.141.66.36/bpk-tv/10129/default/index.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/176.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU",Dhoom Music
 http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU",Dhoom Music
 http://103.141.66.36/bpk-tv/10113/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU",Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJBvPFvln9jOZGU0kga56KEuDoi2bnMHYzqhqEYQszTYikd3Rh&usqp=CAU",Dhoom Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU",Dhoom Music
 http://10.16.100.207:8082/sports/dhoom_music.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZdwZkxZUTwGldPHsljQrlmbKJMmGGHOzI8jVDHCu_UgS-c0dm&usqp=CAU",Fatafati Music
