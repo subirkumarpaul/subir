@@ -1521,6 +1521,9 @@ http://10.16.100.207:8082/sports/wow_music-720.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2MdEa_41QR6g4y885uB2fnheIYYDWqOecEN7cIh62cU30bwTq&usqp=CAU",ARY Music
 http://103.205.133.42:1935/live/ary_music_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg",8X Music
+http://playlive.goonj.pk/8xmweb_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png",VH1 
 https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png",VH1
