@@ -1869,19 +1869,19 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png"group-title="MBC Group",MBC 1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3wbFDKO1ercQeOYhpsKq69zdL0TPD0sh4Y-9OcxmzzQ6H8X11&usqp=CAU",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+https://shls-mbc2-prod.shahid.net/mbc2-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",MBC 3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png",MBC 4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+https://shls-mbc4-prod.shahid.net/mbc4-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/640px-MBC_Max_2010_logo.svg.png",MBC Max (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg",MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_3.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Other Channel",Sameroo
