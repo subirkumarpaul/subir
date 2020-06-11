@@ -563,7 +563,7 @@ http://10.16.100.207:8082/sports/dhoom_music.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZdwZkxZUTwGldPHsljQrlmbKJMmGGHOzI8jVDHCu_UgS-c0dm&usqp=CAU",Fatafati Music
 https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSErstQEo7EJh1rWXYZHwLVc0s6B83ef-EmWHpfar3ozUg7MU6-&usqp=CAU",Bangla Takies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYAK27s6yApNIA9H25yC_eMELECZy20QZh7EeHzvoL_hJeSDyw&usqp=CAU",Bangla Takies
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla News",News 18 Bangla
