@@ -1772,7 +1772,7 @@ http://202.163.117.6:9981/stream/channelid/1357890196
 http://45.120.188.207:80/0.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR079zVzBf_KlTPTsJMpyWGKqHb7NzeT86494aZSBP4Bx6pUsI_&usqp=CAU",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWeaypDCBeQSWUMgaQay7hor4Hnyhr87mFibTC2aebxKSC7LDY&usqp=CAU",WOW Kids
 https://drive.google.com/uc?id=1z59vHQOSa5th5XbgAHHxVxLFurX_Bl-_
