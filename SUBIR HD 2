@@ -451,7 +451,8 @@ http://43.230.123.21:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.205.133.42:1935/live/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://103.141.66.36/bpk-tv/10263/default/index.m3u8#EXTINF:-1,Zee Bangla Cinema
+http://103.141.66.36/bpk-tv/10263/default/index.m3u8
+#EXTINF:-1,Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1,Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
@@ -662,9 +663,9 @@ http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 #EXTINF:-1,Colors Cineplex UK
 http://178.159.5.10:16
 #EXTINF:-1,UTV Action
-http://202.163.117.6:9981/stream/channelid/135894982
+http://202.163.117.6:9981/stream/channelid/135894982,srt
 #EXTINF:-1,UTV Movies
-http://202.163.117.6:9981/stream/channelid/1095695221
+http://202.163.117.6:9981/stream/channelid/1095695221.srt
 #EXTINF:-1,UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
 #EXTINF:-1,Zee Action
@@ -1388,7 +1389,7 @@ http://103.118.79.114:1935/live/Shari/MTV-P/171.m3u8
 #EXTINF:-1,POGO
 http://45.120.188.207:80/0.ts
 #EXTINF:-1,Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196
+http://202.163.117.6:9981/stream/channelid/1357890196.srt
 #EXTINF:-1,Baby TV
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,Baby First
