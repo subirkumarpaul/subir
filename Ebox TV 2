@@ -28,6 +28,6 @@ http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
 #EXTINF:-1,And Flix HD
 http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,TLC HD
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1,
