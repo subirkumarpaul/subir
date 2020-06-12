@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,ATN Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
