@@ -22,8 +22,8 @@ http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_natgeo_hd/playlist.m3u8
 #EXTINF:-1,Animal Planet HD
 http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,Sony Pix HD
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
