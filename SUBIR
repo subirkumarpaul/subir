@@ -1076,9 +1076,9 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",Fox Sports 3
 http://103.135.208.14/live/ibox/bd/9.m3u8
 
-#EXTINF:-1 tvg-logo="",AD Sports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU",AD Sports 1
 http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",AD Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU",AD Sports 2
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",AD Sports 3
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
