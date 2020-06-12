@@ -2,14 +2,14 @@
 #EXTM3U
 #EXTINF:-1,ATN Bangla
 http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
-#EXTINF:-1,AD Sports
+#EXTINF:-1,AD Sports 1
+http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
+#EXTINF:-1,
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 #EXTINF:-1,
-
+http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 #EXTINF:-1,
-
-#EXTINF:-1,
-
+http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
