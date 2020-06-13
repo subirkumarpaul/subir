@@ -1892,7 +1892,8 @@ http://103.141.66.36/bpk-tv/10130/default/index.m3u8
 http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
 #EXTINF:-1 tvg-logo="http://www.sadhna.com/images/sadhnanew.gif",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1 tvg-logo=""Masha TV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU",Madha TV
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
 
 
