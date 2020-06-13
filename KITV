@@ -15,3 +15,7 @@ http://103.118.79.114:1935/live/Shari/MTV-P/107.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/119.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU",Star Jalsha HD
 http://103.118.79.114:1935/live/Shari/MTV-P/125.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla",Zee Bangla HD
+http://103.118.79.114:1935/live/Shari/MTV-P/124.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla",Sony Aath
+http://103.118.79.114:1935/live/Shari/MTV-P/123.m3u8
