@@ -1458,6 +1458,28 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/152.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png",Diva
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES ACTION 2 HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/176?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES ACTION HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/175?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES FAMILY HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/174?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES PREMIERE 2 HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/173?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES PREMIERE HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/172?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES TURK HD
+http://live.falconiptv.com:80/jasmin25/jasmin25/123368?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES TURK HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/170?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES COMEDY HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/180?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES DRAMA HD
+http://live.falconiptv.com:80/jasmin25/jasmin25/123369?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES SCI-FI HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/178?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES VICE HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/177?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV
