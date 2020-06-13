@@ -1115,8 +1115,12 @@ http://43.230.123.21:8080/live/willow-cric.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU",Bein Sports 1
 http://43.230.123.21:8080/bein-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU",Bein Sports 1
+https://cdnbal1.useetv.com/joss/15/bein1/chunklist_w1584959090_b684100_sleng_176183.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU",Bean Sports 2
 http://43.230.123.21:8080/live/bein-sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU",Bean Sports 2
+https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1712168554_b494100_sleng_176188.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRktox4IoUgLNVPWvQ8COmEKgQzpIzs5RBDit9cVBKxQGJn4syC&usqp=CAU",Bein Sports 11
 http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzcLS-e4KxO9eFY73lPpsnJwuq52Q2ZtS-VQxVlCEc-1NoG_J4&usqp=CAU",Bein Sports FR 1
