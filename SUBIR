@@ -1158,6 +1158,8 @@ http://103.205.133.42:1935/live/discovery_720/index.m3u8
 http://103.205.133.42:1935/live/discovery_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD (Bangla)
 http://103.118.79.114:1935/live/Shari/MTV-P/167.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD (English)
+http://ccn.anytv.live:8080/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery
 http://43.231.22.238:8081/hdcrictv/ctg_discovery/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU",Discovery Asia
