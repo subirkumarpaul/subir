@@ -1370,6 +1370,8 @@ http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU",Zee Café
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU",Zee Café
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
@@ -1633,6 +1635,8 @@ https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.
 http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU",Zee News
 http://103.205.133.19/hls/zeenews.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU",Zee News
+https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU",ABP News
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU",ABP News
