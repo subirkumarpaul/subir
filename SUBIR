@@ -1972,19 +1972,19 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Iraq SD
 https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC MASR" tvg-name="MBC Masr HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr HD
+#EXTINF:-1 tvg-id="MBC MASR" tvg-name="MBC Masr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Masr HD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Masr SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr SD
+#EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Masr SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Masr SD
 https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr 2 HD
+#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 HD" tvg-logo="https://i.pinimg.com/originals/01/3c/21/013c218c3ce9b3cfc883bdcdb121e5e6.png" tvg-shift="0" group-title="MBC", MBC Masr 2 HD
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr 2 SD
+#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 SD" tvg-logo="https://i.pinimg.com/originals/01/3c/21/013c218c3ce9b3cfc883bdcdb121e5e6.png" tvg-shift="0" group-title="MBC", MBC Masr 2 SD
 https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="" tvg-shift="0" group-title="MBC", Wanasah HD
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="MBC", Wanasah HD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wanasah SD" tvg-logo="" tvg-shift="0" group-title="MBC", Wanasah SD
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="MBC", Wanasah SD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBCFM Riyadh" tvg-logo="" tvg-shift="0" group-title="MBC", MBCFM Riyadh
+#EXTINF:-1 tvg-id="" tvg-name="MBCFM Riyadh" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" tvg-shift="0" group-title="MBC", MBCFM Riyadh
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Other Channel",Sameroo
