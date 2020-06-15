@@ -1932,21 +1932,21 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
 
 
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 1 HD
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 1 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 1 SD
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 1 SD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 2 HD
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM_xmA1eY8Q-M1S53JkQLfrXZMA3RutLvtAr3rAJes4YKiu-ch&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 2 SD
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM_xmA1eY8Q-M1S53JkQLfrXZMA3RutLvtAr3rAJes4YKiu-ch&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 2 SD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 3 HD
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 3 HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 3 SD
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 3 SD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 4 HD
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeKWaFFrNBn_t_yaNAhbjwMyVf2kWRU255iFgBThYwmyc18tI6&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 4 HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 4 SD
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeKWaFFrNBn_t_yaNAhbjwMyVf2kWRU255iFgBThYwmyc18tI6&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 4 SD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
 #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
