@@ -47,10 +47,6 @@ http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
 http://khulnalive.anytv.live:8080/channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
-http://103.118.79.114:1935/live/Shari/MTV-P/111.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
 http://103.141.66.36/bpk-tv/10080/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Duronto TV
@@ -59,20 +55,11 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10226/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
 http://103.205.133.19/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
-http://103.118.79.114:1935/live/Shari/MTV-P/169.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
-http://103.135.208.14/live/ibox/bd/64.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
-http://khulnalive.anytv.live:8080/durunto/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
-http://103.118.79.114:1935/live/Shari/MTV-P/118.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU",Bijoy TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
@@ -85,8 +72,6 @@ http://103.214.202.218:8081/live/deepto/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg",Deepto TV HD
 http://103.141.66.36/bpk-tv/10455/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg",Deepto TV HD
-http://103.135.208.14/live/ibox/bd/29.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg",Asian TV
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
