@@ -604,8 +604,6 @@ http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU",Sony Max HD
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
-http://103.135.208.14/live/ibox/bd/44.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 
 
@@ -613,30 +611,21 @@ http://otv.ftpbd.net/streams/109/index.m3u8
 http://43.230.123.21:8080/live/sony-max-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",Sony Max 2
-http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU",Sony WAH
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU",Sony WAH
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU",Zee Cinema HD
+http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-http://khulnalive.anytv.live:8080/zeecinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-http://103.205.133.19/hls/zeecinema.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-http://103.205.133.42:1935/live/zee_cinema_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU",Zee Cinema HD
-http://103.141.66.36/bpk-tv/10430/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-http://103.118.79.114:1935/live/Shari/MTV-P/136.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema USA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema MEAN
