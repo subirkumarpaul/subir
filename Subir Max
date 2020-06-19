@@ -1176,28 +1176,6 @@ http://103.135.208.14/live/ibox/bd/66.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png",Diva
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES ACTION 2 HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/176?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES ACTION HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/175?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES FAMILY HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/174?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES PREMIERE 2 HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/173?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES PREMIERE HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/172?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES TURK HD
-http://live.falconiptv.com:80/jasmin25/jasmin25/123368?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN MOVIES TURK HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/170?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES COMEDY HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/180?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES DRAMA HD
-http://live.falconiptv.com:80/jasmin25/jasmin25/123369?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES SCI-FI HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/178?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="BEIN MOVIES",beIN SERIES VICE HD
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/177?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV
@@ -1206,10 +1184,6 @@ http://khulnalive.anytv.live:8080/mtv/tracks-v1a1/mono.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/181.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV Europe
 http://103.244.140.20:8080/mtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nKEj8nf.png",MTV
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/35.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSHHI2ISlsNihB4xjlionGHWAHcrWdpI3Nkwv3TgvzFjJA7eT7JN13cTN&s=10",MTV Hits
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/36.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
@@ -1222,8 +1196,6 @@ http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU",Zoom
 http://103.135.208.14/live/ibox/bd/14.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU",Zoom
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/22.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU",Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
@@ -1247,8 +1219,6 @@ http://103.135.208.14/live/ibox/bd/108.m3u8
 http://103.135.208.14/live/ibox/bd/103.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU",Music India
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU",Music India
-http://103.118.79.114:1935/live/Shari/MTV-P/190.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU",9xM
 http://ddn.amrbd.com:8081/live/9xm/playlist.m3u8
