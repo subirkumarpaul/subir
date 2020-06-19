@@ -1674,3 +1674,9 @@ http://103.141.66.36/bpk-tv/10141/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="",Jumanji The Net Level
+http://starshare.cc:41000/movie/tuhin9/tuhin9/2881.mkv
+
+
