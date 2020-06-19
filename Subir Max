@@ -1184,7 +1184,14 @@ http://103.135.208.14/live/ibox/bd/66.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png",Diva
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 
-
+#EXTINF:-1,Netflix Action +
+http://starshare.cc:41000/live/tuhin9/tuhin9/5253.m3u8
+#EXTINF:-1,Netflix Action 1
+http://starshare.cc:41000/live/tuhin9/tuhin9/5254.m3u8
+#EXTINF:-1,Netflix Action 1 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/5255.m3u8
+#EXTINF:-1,Netflix Action 2 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/5256.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV
 http://khulnalive.anytv.live:8080/mtv/tracks-v1a1/mono.m3u8
