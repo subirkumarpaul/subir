@@ -861,6 +861,8 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_geosuper/chunks.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 
 #EXTINF:-1 tvg-logo="",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
