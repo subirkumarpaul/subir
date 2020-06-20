@@ -1749,7 +1749,7 @@ http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj-64fiwjsSYXIVBHrzpm6FMMUkm_Ua3ZJJPHeJ3q075xSy1LX&usqp=CAU",Jumanji The Next Level
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj-64fiwjsSYXIVBHrzpm6FMMUkm_Ua3ZJJPHeJ3q075xSy1LX&usqp=CAU"group-title="Movies",Jumanji The Next Level
 http://starshare.cc:41000/movie/tuhin9/tuhin9/2881.mkv
 
 
