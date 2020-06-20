@@ -791,6 +791,8 @@ http://103.135.208.14/live/ibox/bd/54.m3u8
 http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU",Star Sports 3
 http://103.135.208.14/live/ibox/bd/8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU",Star Sports 3
+http://starshare.cc:41000/live/tuhin9/tuhin9/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",Star Sports Select 1 HD
 http://103.135.208.14/live/ibox/bd/82.m3u8
@@ -908,6 +910,8 @@ http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 http://starshare.cc:41000/live/tuhin9/tuhin9/215.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="",Willow Xtra
+http://starshare.cc:41000/live/tuhin9/tuhin9/5040.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU",Bein Sports 1
 http://43.230.123.21:8080/bein-sports-1.m3u8
@@ -922,17 +926,49 @@ http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzcLS-e4KxO9eFY73lPpsnJwuq52Q2ZtS-VQxVlCEc-1NoG_J4&usqp=CAU",Bein Sports FR 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 1 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 2 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 3 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 4 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 5 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 6 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 7 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/774.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 8 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 9 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 10 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 11 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports 12 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports Blitz
+http://starshare.cc:41000/live/tuhin9/tuhin9/780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports Maximo
+http://starshare.cc:41000/live/tuhin9/tuhin9/781.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Super Sports",Super Sports Tellytrack
+http://starshare.cc:41000/live/tuhin9/tuhin9/782.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 2
 https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 3
 https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 4
 https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 5
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 
 
@@ -1071,10 +1107,14 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc9D1BT8j9oFXiQQQQ8SemZMOTM38-l0UPH3oAjVbyX8ySoK5Z&usqp=CAU",Star Movies HD (India)
 http://103.135.208.14/live/ibox/bd/101.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc9D1BT8j9oFXiQQQQ8SemZMOTM38-l0UPH3oAjVbyX8ySoK5Z&usqp=CAU",Star Movies HD (India)
+http://starshare.cc:41000/live/tuhin9/tuhin9/979.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies HD [UAE]
 http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/218.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN HD
@@ -1155,7 +1195,7 @@ https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
 http://103.135.208.14/live/ibox/bd/111.m3u8
 
-#EXTINF:0,Colors Super
+#EXTINF:-1 tvg-logo=",Colors Super
 http://starshare.cc:41000/tuhin9/tuhin9/163
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU",COMEDY CENTRAL HD
@@ -1191,6 +1231,19 @@ http://103.214.202.218:8081/live/startworld/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World (India)
 http://103.135.208.14/live/ibox/bd/66.m3u8
+
+#EXTINF:-1 tvg-logo="",MN Premiere HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/4800.m3u8
+#EXTINF:-1 tvg-logo="",MN Action HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/784.m3u8
+#EXTINF:-1 tvg-logo="",Netflix Action 1
+http://starshare.cc:41000/live/tuhin9/tuhin9/5253.m3u8
+#EXTINF:-1 tvg-logo="',Netflix Action 2
+http://starshare.cc:41000/live/tuhin9/tuhin9/5254.m3u8
+#EXTINF:-1 tvg-logo="",Netflix Action 1 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/5255.m3u8
+#EXTINF:-1 tvg-logo="",Netflix Action 2 HD
+http://starshare.cc:41000/live/tuhin9/tuhin9/5256.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png",Diva
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
@@ -1519,6 +1572,8 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids (Hinde)
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids (Hinde)
+http://starshare.cc:41000/live/tuhin9/tuhin9/208.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
