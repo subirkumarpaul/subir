@@ -135,26 +135,23 @@ http://103.214.202.218:8081/live/banglavision/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.141.66.36/bpk-tv/10027/default/index.m3u8
-
 #EXTINF:-1,Channel I HD
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
 #EXTINF:-1,Channel I HD
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,Channel I HD
 http://103.141.66.36/bpk-tv/10026/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png",MY TV
+#EXTINF:-1,MY TV
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png",My TV
+#EXTINF:-1,MY TV
 http://103.141.66.36/bpk-tv/10333/default/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yVhj8XM/Rang-TV.jpg" group-title="IPTV Entertainment",Rang TV
-http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="IPTV Entertainment",Cumilla 24 TV
+#EXTINF:-1,MY TV
+http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,Rang TV
+http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
+#EXTINF:-1,Cumilla 24 TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="IPTV Entertainment",Alif TV
+#EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCBh5d6/Tele-Film-TV.jpg" group-title="Bangladeshi Movies",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
