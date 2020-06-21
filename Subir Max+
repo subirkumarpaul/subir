@@ -225,29 +225,25 @@ http://103.214.202.218:8081/live/independent/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Independent TV
 http://103.141.66.36/bpk-tv/10005/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png",Somoy News
+#EXTINF:-1,Somoy News
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png",Somoy News
+#EXTINF:-1,Somoy News
 https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png",Somoy News
+#EXTINF:-1,Somoy News
 http://103.141.66.36/bpk-tv/10030/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",Jamuna TV
+#EXTINF:-1,Jamuna TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",Jamuna TV
+#EXTINF:-1,Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",Jamuna TV
+#EXTINF:-1,Jamuna TV
 http://103.141.66.36/bpk-tv/10037/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU",Channel 24
+#EXTINF:-1,Channel 24
 http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU",Channel 24
+#EXTINF:-1,Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU",Channel 24
+#EXTINF:-1,Channel 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tbn24.com/images/logo.png",TBN 24
+#EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 
 
