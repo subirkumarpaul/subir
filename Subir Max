@@ -867,6 +867,9 @@ http://starshare.cc:41000/live/tuhin9/tuhin9/229.m3u8
 #EXTINF:-1 tvg-logo="",Jio Football HD
 http://starshare.cc:41000/live/tuhin9/tuhin9/174.m3u8
 
+#EXTINF:-1,Ten Cricket HD [TEST]
+http://107.152.234.10:8080/indian/TENCRICKET/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",Ptv Sports
@@ -917,6 +920,8 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU",Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow cricket HD
+http://107.152.234.10:8080/indian/willowcricket/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow Cricket
 http://starshare.cc:41000/live/tuhin9/tuhin9/215.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow cricket
