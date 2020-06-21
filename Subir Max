@@ -547,7 +547,8 @@ http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
 http://103.135.208.14/live/ibox/bd/115.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors*
-http://107.152.234.10:8080/indian/hindi-COLORS/tracks-v1a1/mono.m3u8
+http://107.152.234.10:8080/indian/hindi-COLORSUK/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU",And TV HD
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
