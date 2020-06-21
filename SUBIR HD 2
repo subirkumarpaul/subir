@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesi National TV",BTV National
 http://103.205.133.14/hls/btv.m3u8
@@ -125,8 +124,6 @@ http://103.135.208.14/live/ibox/bd/87.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1,Nagorik TV
-http://103.118.79.114:1935/live/Shari/MTV-P/107.m3u8
-#EXTINF:-1,Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.141.66.36/bpk-tv/10451/default/index.m3u8
@@ -147,8 +144,6 @@ http://103.144.200.7:8080/hls/atnbangla/index.m3u8
 #EXTINF:-1,ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1,ATN Bangla
-http://103.118.79.114:1935/live/Shari/MTV-P/106.m3u8
-#EXTINF:-1,ATN Bangla
 http://103.141.66.36/bpk-tv/10009/default/index.m3u8
 #EXTINF:-1,ATN Bangla
 http://103.135.208.14/live/ibox/bd/11.m3u8
@@ -163,8 +158,6 @@ http://103.141.66.36/bpk-tv/10027/default/index.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1,Bangla Vision
-http://103.118.79.114:1935/live/Shari/MTV-P/112.m3u8
-#EXTINF:-1,Bangla Vision
 http://103.135.208.14/live/ibox/bd/25.m3u8
 #EXTINF:-1,Channel I HD
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
@@ -176,8 +169,6 @@ http://103.135.208.14/live/ibox/bd/17.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,Channel I HD
 http://103.141.66.36/bpk-tv/10026/default/index.m3u8
-#EXTINF:-1,Channel I HD
-http://103.118.79.114:1935/live/Shari/MTV-P/108.m3u8
 #EXTINF:-1,MY TV
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
 #EXTINF:-1,MY TV
@@ -256,8 +247,6 @@ http://43.230.123.21:80/live/ekattor1.m3u8
 http://103.135.208.14/live/ibox/bd/88.m3u8
 #EXTINF:-1,Ekattor TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,Ekattor TV
-http://103.118.79.114:1935/live/Shari/MTV-P/105.m3u8
 #EXTINF:-1,News 24
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 #EXTINF:-1,News 24
@@ -279,15 +268,11 @@ https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Independent TV
 http://103.141.66.36/bpk-tv/10005/default/index.m3u8
 #EXTINF:-1,Independent TV
-http://103.118.79.114:1935/live/Shari/MTV-P/115.m3u8
-#EXTINF:-1,Independent TV
 http://103.135.208.14/live/ibox/bd/86.m3u8
 #EXTINF:-1,Somoy News
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://103.205.133.42:1935/live/somoy_tv_720/index.m3u8
-#EXTINF:-1,Somoy News
-http://103.118.79.114:1935/live/Shari/MTV-P/117.m3u8
 #EXTINF:-1,Somoy News
 https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1,Somoy News
@@ -304,8 +289,6 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.141.66.36/bpk-tv/10037/default/index.m3u8
-#EXTINF:-1,Jamuna TV
-http://103.118.79.114:1935/live/Shari/MTV-P/116.m3u8
 #EXTINF:-1,Channel 24
 http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
 #EXTINF:-1,Channel 24
@@ -314,8 +297,6 @@ http://103.135.208.14/live/ibox/bd/21.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1,Channel 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
-#EXTINF:-1,Channel 24
-http://103.118.79.114:1935/live/Shari/MTV-P/119.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1,Movie Bangla
