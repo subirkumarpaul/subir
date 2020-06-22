@@ -1250,7 +1250,7 @@ https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World (India)
 http://103.135.208.14/live/ibox/bd/66.m3u8
 
-#EXTINF:-1 tvg-logo="",MN Premiere HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSXyf9xbO7jdJhYc3_OtbFu0Rq-WxqbOOVckdbYgzIB5WJVWsO&usqp=CAU",MN Premiere HD
 http://starshare.cc:41000/live/tuhin9/tuhin9/4800.m3u8
 #EXTINF:-1 tvg-logo="",MN Action HD
 http://starshare.cc:41000/live/tuhin9/tuhin9/784.m3u8
