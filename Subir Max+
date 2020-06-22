@@ -509,30 +509,28 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
-#EXTINF:-1,Zee Cinema USA
+#EXTINF:-1,Zee Cinema (USA)
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema MEAN
+#EXTINF:-1,Zee Cinema (MEAN)
 http://z5amshls.akamaized.net/zeecinemame/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema UK
+#EXTINF:-1,Zee Cinema (UK)
 http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Colors Cineplex HD India
+#EXTINF:-1,Colors Cineplex HD (India)
 http://starshare.cc:41000/live/tuhin9/tuhin9/867.m3u8
-#EXTINF:-1,Colors Cineplex HD India
+#EXTINF:-1,Colors Cineplex HD (India)
 http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXHD/index.m3u8
-#EXTINF:-1,Colors Cineplex UK
+#EXTINF:-1,Colors Cineplex (UK)
 http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXUK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dhiraj003/logos/master/utvaction.png", UTV Action
+#EXTINF:-1,UTV Action
 http://202.163.117.6:9981/stream/channelid/135894982
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png", UTV Movies
+#EXTINF:-1,UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png", UTV Movies
-http://starshare.cc:41000/tuhin9/tuhin9/972
+#EXTINF:-1,UTV Movies
+http://starshare.cc:41000/live/tuhin9/tuhin9/972.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
+#EXTINF:-1,Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
+#EXTINF:-1,Zee Action
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png",Zee Action
 http://103.205.133.19/hls/zeeaction.m3u8
@@ -541,7 +539,7 @@ http://103.205.133.19/hls/zeeaction.m3u8
 http://103.141.66.36/bpk-tv/10104/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU",Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU",Zee Bollywood
+#EXTINF:-1,Zee Action
 http://103.135.208.14/live/ibox/bd/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU",Zee Anmol Cinama
