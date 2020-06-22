@@ -401,7 +401,6 @@ http://103.135.208.14/live/ibox/bd/45.m3u8
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 #EXTINF:-1,Sony SAB
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
-
 #EXTINF:-1,Zee TV HD
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1,Zee TV HD
@@ -414,43 +413,37 @@ http://103.205.133.19/hls/zeetv.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,Zee TV 
 http://103.141.66.36/bpk-tv/10062/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png",Zee TV HD (Canada)
+#EXTINF:-1,Zee TV HD (Canada)
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png",Zee TV HD (USA)
+#EXTINF:-1,Zee TV HD (USA)
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV (Asia)
+#EXTINF:-1,Zee TV (Asia)
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV (UK)
+#EXTINF:-1,Zee TV (UK)
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpbBsc2MGhsbRXPW5K6TmSuHvb0Bge1uRYt_3OF0Me8HeySDB8&usqp=CAU",Zee Smile
+#EXTINF:-1,Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
+#EXTINF:-1,Colors HD
 http://103.135.208.14/live/ibox/bd/42.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
+#EXTINF:-1,Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
+#EXTINF:-1,Colors 
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
-http://103.111.120.46/hls/Colors.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
+#EXTINF:-1,Colors 
 http://103.135.208.14/live/ibox/bd/115.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors*
+#EXTINF:-1,Colors 
 http://107.152.234.10:8080/indian/hindi-COLORSUK/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU",And TV HD
+#EXTINF:-1,And TV HD
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU",And TV HD
+#EXTINF:-1,And TV HD
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU",And TV HD
+#EXTINF:-1,And TV HD
 http://103.135.208.14/live/ibox/bd/47.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
+#EXTINF:-1,And TV 
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
+#EXTINF:-1,And TV 
 http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",And TV
+#EXTINF:-1,And TV
 http://45.120.188.76:8080/0.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",Star Bharat HD
