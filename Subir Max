@@ -926,7 +926,7 @@ http://107.152.234.10:8080/indian/willowcricket/index.m3u8
 http://starshare.cc:41000/live/tuhin9/tuhin9/215.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
-#EXTINF:-1 tvg-logo="",Willow Xtra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3LEmrSLewvTeK841JdsuGsV7l-hV5xRl-zqXv_8Hj-mKJQCbt&usqp=CAU",Willow Xtra
 http://starshare.cc:41000/live/tuhin9/tuhin9/5040.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU",Bein Sports 1
@@ -1213,8 +1213,8 @@ https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png", Colors Infinity
 http://103.135.208.14/live/ibox/bd/111.m3u8
 
-#EXTINF:-1 tvg-logo=",Colors Super
-http://starshare.cc:41000/tuhin9/tuhin9/163
+#EXTINF:-1 tvg-logo="",Colors Super
+http://starshare.cc:41000/live/tuhin9/tuhin9/163.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU",COMEDY CENTRAL HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
@@ -1250,9 +1250,9 @@ https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU",Star World (India)
 http://103.135.208.14/live/ibox/bd/66.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSXyf9xbO7jdJhYc3_OtbFu0Rq-WxqbOOVckdbYgzIB5WJVWsO&usqp=CAU",MN Premiere HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSXyf9xbO7jdJhYc3_OtbFu0Rq-WxqbOOVckdbYgzIB5WJVWsO&usqp=CAU",MM Premiere HD
 http://starshare.cc:41000/live/tuhin9/tuhin9/4800.m3u8
-#EXTINF:-1 tvg-logo="",MN Action HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2SrW9ldXXwJDTDeIs4P-sWLw7tSqlvvW7-NL3Ue_-_EZSA5_3&usqp=CAU",MM Action HD
 http://starshare.cc:41000/live/tuhin9/tuhin9/784.m3u8
 #EXTINF:-1 tvg-logo="",Netflix Action 1
 http://starshare.cc:41000/live/tuhin9/tuhin9/5253.m3u8
@@ -1602,7 +1602,7 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Religion Channel",Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_makkah/chunks.m3u8
