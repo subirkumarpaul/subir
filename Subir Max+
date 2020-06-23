@@ -102,7 +102,7 @@ http://103.141.66.36/bpk-tv/10032/default/index.m3u8
 #EXTINF:-1,Bangla TV
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,Desh TV
-http://103.205.133.42:1935/live/desh_tv_720/index.m3u8
+http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF:-1,Desh TV
 https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
@@ -693,46 +693,41 @@ http://43.230.123.21:8080/live/ptvsports.m3u8
 http://103.135.208.14/live/ibox/bd/84.m3u8
 #EXTINF:-1,PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU",Geo Super
+#EXTINF:-1,Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU",Geo Super
+#EXTINF:-1,Geo Super
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_geosuper/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
+#EXTINF:-1,Ten Sports PK
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
+#EXTINF:-1,Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU",Ten Sports PK
+#EXTINF:-1,Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="",Ads sport cricket
+#EXTINF:-1,Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/PPTV_HD36_%282019%29.png",PPTV HD36
+#EXTINF:-1,PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",Fox Sports 3
+#EXTINF:-1,Fox Sports 3
 http://103.135.208.14/live/ibox/bd/9.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU",AD Sports 1
+#EXTINF:-1,AD Sports 1
 http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU",AD Sports 2
+#EXTINF:-1,AD Sports 1
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",AD Sports 3
+#EXTINF:-1,AD Sports 3
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",AD Sports 3
+#EXTINF:-1,AD Sports 3
 http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtw3HkTzzZLJeRCw5GrYzeXGcM0CHeJu8hW_cBn-JXs_2Abz5A&usqp=CAU",AD Sports 4
+#EXTINF:-1,AD Sports 4
 http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtw3HkTzzZLJeRCw5GrYzeXGcM0CHeJu8hW_cBn-JXs_2Abz5A&usqp=CAU",AD Sports 4
+#EXTINF:-1,AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU",Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU",Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU",Sky Sports Football
+#EXTINF:-1,Sky Sports Football
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU",Sky Sports Mix
+#EXTINF:-1,Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png",Willow cricket HD
