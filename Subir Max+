@@ -600,8 +600,6 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/77.m3u8
 #EXTINF:-1,Star Sports 1
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1,Star Sports 1
 http://103.135.208.14/live/ibox/bd/53.m3u8
 #EXTINF:-1,Star Sports 1
 http://otv.ftpbd.net/streams/104/index.m3u8
@@ -793,22 +791,24 @@ http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 http://43.231.22.238:8081/hdcrictv/ctg_discovery/chunks.m3u8
 #EXTINF:-1,Discovery
 http://43.230.123.21:8080/live/discovery.m3u8
+#EXTINF:-1,Discovery
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png",Discovery Science Hindi 
+#EXTINF:-1,Discovery Science Hindi 
 https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBMckYo02SqcERkHOOFLIk9BS2bwhA-If6yJmFzH3rhCt0PeBC&usqp=CAU",Discovery ID
+#EXTINF:-1,Discovery ID
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU",Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png?raw=true",Animal Planet (Hindi)
+#EXTINF:-1,Animal Planet (Hindi)
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",Animal Planet
+#EXTINF:-1,Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",Animal Planet
+#EXTINF:-1,Animal Planet
 http://43.230.123.21:8080/live/animale-planet.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",Animal Planet
+#EXTINF:-1,Animal Planet
 http://103.135.208.14/live/ibox/bd/93.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU",Sony BBC Earth HD
