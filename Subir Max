@@ -932,7 +932,7 @@ http://43.230.123.21:8080/live/willow-cric.m3u8
 http://starshare.cc:41000/live/tuhin9/tuhin9/5040.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU",Bein Sports 1
-http://43.230.123.21:8080/bein-sports-1.m3u8
+http://43.230.123.21:8080/live/bein-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU",Bein Sports 1
 https://cdnbal1.useetv.com/joss/15/bein1/chunklist_w1584959090_b684100_sleng_176183.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU",Bean Sports 2
