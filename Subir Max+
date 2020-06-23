@@ -679,22 +679,19 @@ http://43.230.123.21:8080/live/sonysix.m3u8
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
-#EXTINF:-1 tvg-logo="",Jio Cricket HD 1
+#EXTINF:-1,Jio Cricket HD 1
 http://starshare.cc:41000/live/tuhin9/tuhin9/229.m3u8
-#EXTINF:-1 tvg-logo="",Jio Football HD
+#EXTINF:-1,Jio Football HD
 http://starshare.cc:41000/live/tuhin9/tuhin9/174.m3u8
-
 #EXTINF:-1,Ten Cricket HD [TEST]
 http://107.152.234.10:8080/indian/TENCRICKET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",PTV Sports
+#EXTINF:-1,PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",Ptv Sports
+#EXTINF:-1,PTV Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",Ptv Sports
+#EXTINF:-1,PTV Sports
 http://103.135.208.14/live/ibox/bd/84.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",Ptv Sports
+#EXTINF:-1,PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU",Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
