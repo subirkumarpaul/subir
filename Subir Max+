@@ -573,6 +573,8 @@ http://103.141.66.36/bpk-tv/10191/default/index.m3u8
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1,Wow Cinema
 https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
+#EXTINF:-1,Joo Music
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,SHEMAROO CLASSIC
@@ -1019,13 +1021,11 @@ http://10.16.100.207:8082/sports/eTwentyfour.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ12NxjnWJ7NAdO9J7860Nx7sjm7eevkbwm6vNf1LFWsX9f1itd&usqp=CAU",UTV Bindass 
 http://45.120.188.65:8080/0.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU",Joo Music
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Wow Music
+#EXTINF:-1,Wow Music
 http://10.16.100.207:8082/sports/wow_music-720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg",8X Music
+#EXTINF:-1,8X Music
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png",VH1 
