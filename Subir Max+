@@ -11,8 +11,6 @@ http://103.141.66.36/bpk-tv/10031/default/index.m3u8
 http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF:-1,BTV Chottogram
 http://103.141.66.36/bpk-tv/10335/default/index.m3u8
-#EXTINF:-1,BTV Chottogram
-http://starshare.cc:41000/live/tuhin9/tuhin9/406.m3u8
 #EXTINF:-1,Sangsad TV
 https://edge01.iptv.digijadoo.net:443/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1,Sangsad TV
@@ -446,8 +444,6 @@ http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,And TV
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,Star Bharat HD
-http://starshare.cc:41000/live/tuhin12/tuhin12/199.m3u8
-#EXTINF:-1,Star Bharat HD
 http://107.152.234.10:8080/indian/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Bharat
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
@@ -481,8 +477,6 @@ http://103.135.208.14/live/ibox/bd/99.m3u8
 http://107.152.234.10:8080/indian/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1,Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
-#EXTINF:-1,Star Gold Select
-http://starshare.cc:41000/live/tuhin9/tuhin9/201.m3u8
 #EXTINF:-1,Sony Max HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1,Sony Max HD
@@ -515,8 +509,6 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/zeecinemame/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema (UK)
 http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
-#EXTINF:-1,Colors Cineplex HD (India)
-http://starshare.cc:41000/live/tuhin9/tuhin9/867.m3u8
 #EXTINF:-1,Colors Cineplex HD (India)
 http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXHD/index.m3u8
 #EXTINF:-1,Colors Cineplex (UK)
@@ -625,8 +617,6 @@ http://103.135.208.14/live/ibox/bd/54.m3u8
 http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:-1,Star Sports 3
 http://103.135.208.14/live/ibox/bd/8.m3u8
-#EXTINF:-1,Star Sports 3
-http://starshare.cc:41000/live/tuhin9/tuhin9/1080.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
 http://103.135.208.14/live/ibox/bd/82.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
@@ -677,10 +667,6 @@ http://43.230.123.21:8080/live/sonysix.m3u8
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1,Jio Cricket HD 1
-http://starshare.cc:41000/live/tuhin9/tuhin9/229.m3u8
-#EXTINF:-1,Jio Football HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/174.m3u8
 #EXTINF:-1,Ten Cricket HD [TEST]
 http://107.152.234.10:8080/indian/TENCRICKET/index.m3u8
 #EXTINF:-1,PTV Sports
@@ -729,8 +715,6 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 #EXTINF:-1,Willow cricket HD
 http://107.152.234.10:8080/indian/willowcricket/index.m3u8
-#EXTINF:-1,Willow Cricket
-http://starshare.cc:41000/live/tuhin9/tuhin9/215.m3u8
 #EXTINF:-1,Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
 #EXTINF:-1,Willow Xtra
@@ -743,36 +727,6 @@ http://43.230.123.21:8080/live/bein-sports-2.m3u8
 http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1,Bein Sports FR 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
-#EXTINF:-1,Super Sports 1 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/768.m3u8
-#EXTINF:-1,Super Sports 2 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/769.m3u8
-#EXTINF:-1,Super Sports 3 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/770.m3u8
-#EXTINF:-1,Super Sports 4 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/771.m3u8
-#EXTINF:-1,Super Sports 5 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/772.m3u8
-#EXTINF:-1,Super Sports 6 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/773.m3u8
-#EXTINF:-1,Super Sports 7 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/774.m3u8
-#EXTINF:-1,Super Sports 8 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/775.m3u8
-#EXTINF:-1,Super Sports 9 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/776.m3u8
-#EXTINF:-1,Super Sports 10 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/777.m3u8
-#EXTINF:-1,Super Sports 11 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/778.m3u8
-#EXTINF:-1,Super Sports 12 HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/779.m3u8
-#EXTINF:-1,Super Sports Blitz
-http://starshare.cc:41000/live/tuhin9/tuhin9/780.m3u8
-#EXTINF:-1,Super Sports Maximo
-http://starshare.cc:41000/live/tuhin9/tuhin9/781.m3u8
-#EXTINF:-1,Super Sports Tellytrack
-http://starshare.cc:41000/live/tuhin9/tuhin9/782.m3u8
 #EXTINF:-1,Skynet Sports 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1,Skynet Sports 2
