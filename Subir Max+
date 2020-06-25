@@ -1197,7 +1197,7 @@ http://103.141.66.36/bpk-tv/10201/default/index.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_makkah/chunks.m3u8
 #EXTINF:-1,Quran TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
-#EXTINF:-,Sunna TV
+#EXTINF:-1,Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
 #EXTINF:-1,Sunna TV
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_madina/chunks.m3u8
