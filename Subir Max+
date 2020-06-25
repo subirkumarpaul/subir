@@ -484,7 +484,7 @@ http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1,Sony Max HD
 http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:-1,Sony Max HD
-http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
 #EXTINF:-1,Sony Max 
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1,Sony Max
@@ -496,7 +496,7 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1,Sony WAH
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony WAH
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa/master.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 #EXTINF:-1,Zee Cinema
