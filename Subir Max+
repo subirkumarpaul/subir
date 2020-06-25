@@ -1093,89 +1093,67 @@ https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
 #EXTINF:-1,BBC World
 http://103.135.208.14/live/ibox/bd/68.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU",CNN International
+#EXTINF:-1,CNN International
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU",CNN International
+#EXTINF:-1,CNN International
 http://103.135.208.14/live/ibox/bd/106.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:-1,Al Jazeera
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:-1,Al Jazeera
 http://103.135.208.14/live/ibox/bd/95.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:-1,Al Jazeera
 http://103.141.66.36/bpk-tv/10051/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
+#EXTINF:-1,Arirang World
 http://103.141.66.36/bpk-tv/10128/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU",Arirang World
+#EXTINF:-1,Arirang World
 https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
+#EXTINF:-1,DW
 http://103.141.66.36/bpk-tv/10057/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
+#EXTINF:-1,DW
 http://103.135.208.14/live/ibox/bd/105.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW TV Asia
+#EXTINF:-1,DW TV Asia
 http://103.141.66.36/bpk-tv/10059/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW TV Asia
+#EXTINF:-1,DW TV Asia
 https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnGntoTDveL4C5SrJuUwrW94qkWvuH_EBd0WtGKbbDJ9v3oG75&usqp=CAU",NHK World
+#EXTINF:-1,NHK World
 https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnGntoTDveL4C5SrJuUwrW94qkWvuH_EBd0WtGKbbDJ9v3oG75&usqp=CAU",NHK World
+#EXTINF:-1,NHK World
 http://103.135.208.14/live/ibox/bd/75.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWTba30aa-9u_xPCpZXCT_tcXPzBRlyVyuV6ZHEghO1kSHVpcb&usqp=CAU",TV5 Monde Asia
+#EXTINF:-1,TV5 Monde Asia
 http://103.141.66.36/bpk-tv/10056/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/601px-CNBC_logo.svg.png",CNBC
+#EXTINF:-1,CNBC
 https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU",Euro News
+#EXTINF:-1,Euro News
 https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU",Euro News
+#EXTINF:-1,Euro News
 http://103.135.208.14/live/ibox/bd/104.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU",Euro News
+#EXTINF:-1,Euro News
 http://103.141.66.36/bpk-tv/10211/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU",Rai Italia
+#EXTINF:-1,Rai Italia
 http://103.141.66.36/bpk-tv/10209/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU",Rai Italia
+#EXTINF:-1,Rai Italia
 https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",CNA News
+#EXTINF:-1,CNA News
 https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM9sTx-a3wvLcT0-bo3pTXKX6Ji4vrrbWuZY7q_3Oay7PBQs8B&usqp=CAU",RT
+#EXTINF:-1,RT
 http://103.141.66.36/bpk-tv/10058/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU",YTN World
+#EXTINF:-1,YTN World
 http://103.141.66.36/bpk-tv/10135/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU",YTN World
+#EXTINF:-1,YTN World
 https://edge01.iptv.digijadoo.net/live/ytn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU",YTN World
+#EXTINF:-1,YTN World
 http://103.135.208.14/live/ibox/bd/74.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FR 24
+#EXTINF:-1,FR 24
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS98nglCKBLmxuFQgW3nyuokmLM4b-7p8y_TMIHWOkXlQFKrKSk&usqp=CAU",Care World
+#EXTINF:-1,Care World
 http://103.141.66.36/bpk-tv/10176/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network (India)
+#EXTINF:-1,Cartoon Network (India)
 http://103.135.208.14/live/ibox/bd/2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network HD+
+#EXTINF:-1,Cartoon Network HD+
 http://103.214.202.218:8081/live/btvworld/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network HD
+#EXTINF:-1,Cartoon Network HD
 https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network (India)
+#EXTINF:-1,Cartoon Network (India)
 http://202.163.117.6:9981/stream/channelid/630600262.srt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png",Disney Channel
