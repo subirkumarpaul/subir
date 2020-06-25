@@ -1081,7 +1081,7 @@ http://103.141.66.36/bpk-tv/10091/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 #EXTINF:-1,ARY News
 http://103.141.66.36/bpk-tv/10254/default/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png",Ary Asia
+#EXTINF:-1,Ary Asia
 https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:-1,Expresas
 http://103.141.66.36/bpk-tv/10235/default/index.m3u8
@@ -1155,213 +1155,187 @@ http://103.214.202.218:8081/live/btvworld/chunks.m3u8
 https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
 #EXTINF:-1,Cartoon Network (India)
 http://202.163.117.6:9981/stream/channelid/630600262.srt
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png",Disney Channel
+#EXTINF:-1,Disney Channel
 http://103.141.66.36/bpk-tv/10476/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU",Disney Junior
+#EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtFP_IMNjRdhYJaZC6P-0GnpbgKDqD-HwTacmGeN4q5HhuIpUY&usqp=CAU", Hungama
+#EXTINF:-1,Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU",Pogo
+#EXTINF:-1,Pogo
 http://45.120.188.207:80/0.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR079zVzBf_KlTPTsJMpyWGKqHb7NzeT86494aZSBP4Bx6pUsI_&usqp=CAU",Boomerang
+#EXTINF:-1,Boomerang
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWeaypDCBeQSWUMgaQay7hor4Hnyhr87mFibTC2aebxKSC7LDY&usqp=CAU",WOW Kids
-https://drive.google.com/uc?id=1z59vHQOSa5th5XbgAHHxVxLFurX_Bl-_
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
+#EXTINF:-1,NICK
 http://103.135.208.14/live/ibox/bd/57.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK
+#EXTINF:-1,NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK HD
+#EXTINF:-1,NICK HD
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
+#EXTINF:-1,Sonic Bangla
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
+#EXTINF:-1,Sonic Bangla
 http://103.135.208.14/live/ibox/bd/58.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU",Nick Jr
+#EXTINF:-1,Nick Jr
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU",Nick Jr
+#EXTINF:-1,Nick Jr
 http://103.135.208.14/live/ibox/bd/85.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay (Bangla)
+#EXTINF:-1,Sony Yay (Bangla)
 http://103.135.208.14/live/ibox/bd/98.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay (Hindi)
+#EXTINF:-1,Sony Yay (Hindi)
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids (English)
+#EXTINF:-1,Discovery Kids (English)
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids (Hinde)
+#EXTINF:-1,Discovery Kids (Hinde)
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBEEBIES
+#EXTINF:-1,CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJrxx2YxM1UzdzzzJ9Sxi9QIfGaU_-KKqF2gVyiDUyi-mS8SVl&usqp=CAU", Shemaroo Kids
+#EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
+#EXTINF:-1,Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
+#EXTINF:-1,Quran TV
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_makkah/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
+#EXTINF:-1,Quran TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
+#EXTINF:-,Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
+#EXTINF:-1,Sunna TV
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_madina/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
+#EXTINF:-1,Sunna TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/live-orgin/madina.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcxW3zZEEnU0PIQ2IemeLrKzq8tTGsIQ_rA9JzfzM72Z-whhjw&usqp=CAU",ARY QTV
+#EXTINF:-1,ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
+#EXTINF:-1,Peace TV Bangla
 http://103.135.208.14/live/ibox/bd/34.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
+#EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV English
+#EXTINF:-1,Peace TV English
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV Urdu
+#EXTINF:-1,Peace TV Urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 #EXTINF:-1,Paros TV
 http://103.141.66.36/bpk-tv/10511/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png",Aastha TV
+#EXTINF:-1,Aastha TV
 http://103.141.66.36/bpk-tv/10130/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/Hare_Krishna_TV_new_roku.jpg",Hare Krshna
+#EXTINF:-1,Hare Krshna
 http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
-#EXTINF:-1 tvg-logo="http://www.sadhna.com/images/sadhnanew.gif",Sadhna
+#EXTINF:-1,Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU",Madha TV
+#EXTINF:-1,Madha TV
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
-
-
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 1 HD
+#EXTINF:-1, MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 1 SD
+#EXTINF:-1, MBC 1 HD*
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM_xmA1eY8Q-M1S53JkQLfrXZMA3RutLvtAr3rAJes4YKiu-ch&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM_xmA1eY8Q-M1S53JkQLfrXZMA3RutLvtAr3rAJes4YKiu-ch&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 2 SD
+#EXTINF:-1, MBC 2 HD
+ttps://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1, MBC 2 HD*
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 3 HD
+#EXTINF:-1, MBC 3 HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 3 SD
+#EXTINF:-1, MBC 3 HD*
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeKWaFFrNBn_t_yaNAhbjwMyVf2kWRU255iFgBThYwmyc18tI6&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 4 HD
+#EXTINF:-1, MBC 4 HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeKWaFFrNBn_t_yaNAhbjwMyVf2kWRU255iFgBThYwmyc18tI6&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 4 SD
+#EXTINF:-1, MBC 4 HD*
 https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK3uKL_mAVf2rU6FyyyYoCdPUDT1Dr1pzBOJBMJKi8SniiotzR&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 5 HD
+#EXTINF:-1, MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK3uKL_mAVf2rU6FyyyYoCdPUDT1Dr1pzBOJBMJKi8SniiotzR&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 5 SD
+#EXTINF:-1, MBC 5 HD*
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Action HD
+#EXTINF:-1, MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Action SD
+#EXTINF:-1, MBC Action HD*
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC Drama +" tvg-name="MBC Drama HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUqehNiAhT_2J_eRAm3C_wVEA8vQpJrFnVL4umoLbwZZhMSaiJ&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Drama HD
+#EXTINF:-1, MBC Drama HD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUqehNiAhT_2J_eRAm3C_wVEA8vQpJrFnVL4umoLbwZZhMSaiJ&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Drama SD
+#EXTINF:-1, MBC Drama HD*
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzrBU8R-45edD6PGyPEFRphH1bFM-Kvjan05zOA0qDX2vVCv38&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Bollywood HD
+#EXTINF:-1, MBC Bollywood HD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzrBU8R-45edD6PGyPEFRphH1bFM-Kvjan05zOA0qDX2vVCv38&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Bollywood SD
+#EXTINF:-1, MBC Bollywood HD*
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvuKoRfBD50KguLmn-vwlVciLCmixbmrU-jla9R1svjrxQhjT-&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Max HD
+#EXTINF:-1, MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC Max SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvuKoRfBD50KguLmn-vwlVciLCmixbmrU-jla9R1svjrxQhjT-&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Max SD
+#EXTINF:-1, MBC Max HD*
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Iraq HD
+#EXTINF:-1, MBC Iraq HD
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Iraq SD
+#EXTINF:-1, MBC Iraq HD*
 https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC MASR" tvg-name="MBC Masr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Masr HD
+#EXTINF:-1, MBC Masr HD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Masr SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Masr SD
+#EXTINF:-1, MBC Masr HD*
 https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
-#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 HD" tvg-logo="https://i.pinimg.com/originals/01/3c/21/013c218c3ce9b3cfc883bdcdb121e5e6.png" tvg-shift="0" group-title="MBC", MBC Masr 2 HD
+#EXTINF:-1, MBC Masr 2 HD
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 SD" tvg-logo="https://i.pinimg.com/originals/01/3c/21/013c218c3ce9b3cfc883bdcdb121e5e6.png" tvg-shift="0" group-title="MBC", MBC Masr 2 SD
+#EXTINF:-1, MBC Masr 2 HD*
 https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="MBC", Wanasah HD
+#EXTINF:-1, Wanasah HD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wanasah SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="MBC", Wanasah SD
+#EXTINF:-1, Wanasah HD*
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBCFM Riyadh" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" tvg-shift="0" group-title="MBC", MBCFM Riyadh
+#EXTINF:-1, MBCFM Riyadh
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Other Channel",Sameroo
+#EXTINF:-1,Sameroo
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Moon
+#EXTINF:-1,Moon
 http://103.141.66.36/bpk-tv/10164/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Dubai Sports
+#EXTINF:-1,Dubai Sports
 http://103.141.66.36/bpk-tv/10316/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Kairali Movies
+#EXTINF:-1,Kairali Movies
 http://103.141.66.36/bpk-tv/10286/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Filmachi
+#EXTINF:-1,Filmachi
 http://103.141.66.36/bpk-tv/10290/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Metro
+#EXTINF:-1,Metro
 http://103.141.66.36/bpk-tv/10291/default/index.m3u8
-#EXTINF:-1 tvg-logo=",Russia
+#EXTINF:-1,Russia
 http://103.141.66.36/bpk-tv/10264/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Dubai TV
+#EXTINF:-1,Dubai TV
 http://103.141.66.36/bpk-tv/10039/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Libya
+#EXTINF:-1,Libya
 http://103.141.66.36/bpk-tv/10077/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Kuwait TV
+#EXTINF:-1,Kuwait TV
 http://103.141.66.36/bpk-tv/10202/default/index.m3u8
-#EXTINF:-1 tvg-logo=", India 24
+#EXTINF:-1,India 24
 http://103.141.66.36/bpk-tv/10507/default/index.m3u8
-#EXTINF:-1 tvg-logo=", No 1 News
+#EXTINF:-1,No 1 News
 http://103.141.66.36/bpk-tv/10501/default/index.m3u8
-#EXTINF:-1 tvg-logo=", News 7
+#EXTINF:-1,News 7
 http://103.141.66.36/bpk-tv/10502/default/index.m3u8
-#EXTINF:-1 tvg-logo=", TV 9
+#EXTINF:-1,TV 9
 http://103.141.66.36/bpk-tv/10503/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdXH-uTh4dUXkJ8aerppUFHWtl1LgRDJWyMmT9YlDkfktMPFiO&usqp=CAU",Saudi TV
+#EXTINF:-1,Saudi TV
 http://103.141.66.36/bpk-tv/10212/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png",Abu dhabi TV
+#EXTINF:-1,Abu dhabi TV
 http://103.141.66.36/bpk-tv/10214/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Sarjah TV
+#EXTINF:-1, Sarjah TV
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Republic TV
+#EXTINF:-1, Republic TV
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ-TZn0pjz1i63WxlQogAmL4U0S3AlS8kZVaNUh9WWAi_t_VmO&usqp=CAU",Al Jazarrea
+#EXTINF:-1,Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/index.m3u8
-#EXTINF:-1 tvg-logo=",1
+#EXTINF:-1,DD Natonal
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
-#EXTINF:-1 tvg-logo=", MK TV
+#EXTINF:-1,MK TV
 http://103.141.66.36/bpk-tv/10107/default/index.m3u8
-#EXTINF:-1 tvg-logo=", MK SIX
+#EXTINF:-1,MK SIX
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Fakt Marathi
+#EXTINF:-1,Fakt Marathi
 http://103.141.66.36/bpk-tv/10040/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Onkar TV
+#EXTINF:-1,Onkar TV
 http://103.141.66.36/bpk-tv/10187/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Issak TV
+#EXTINF:-1,Issak TV
 http://103.141.66.36/bpk-tv/10188/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Aruvi TV
+#EXTINF:-1,Aruvi TV
 http://103.141.66.36/bpk-tv/10261/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Kalanagar TV
+#EXTINF:-1,Kalanagar TV
 http://103.141.66.36/bpk-tv/10281/default/index.m3u8
-#EXTINF:-1 tvg-logo=", Polymar
+#EXTINF:-1,Polymar
 http://103.141.66.36/bpk-tv/10303/default/index.m3u8
 #EXTINF:-1 tvg-logo=", Damal
 http://103.141.66.36/bpk-tv/10504/default/index.m3u8
