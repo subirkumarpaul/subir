@@ -693,6 +693,8 @@ http://212.47.252.54/hls/stream.m3u8
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1,Fox Sports 3
 http://103.135.208.14/live/ibox/bd/9.m3u8
+#EXTINF:-1,Dubai Sports
+http://103.141.66.36/bpk-tv/10316/default/index.m3u8
 #EXTINF:-1,AD Sports 1
 http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
 #EXTINF:-1,AD Sports 1
@@ -1285,8 +1287,6 @@ https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
 #EXTINF:-1,Moon
 http://103.141.66.36/bpk-tv/10164/default/index.m3u8
-#EXTINF:-1,Dubai Sports
-http://103.141.66.36/bpk-tv/10316/default/index.m3u8
 #EXTINF:-1,Kairali Movies
 http://103.141.66.36/bpk-tv/10286/default/index.m3u8
 #EXTINF:-1,Filmachi
@@ -1319,8 +1319,6 @@ http://103.141.66.36/bpk-tv/10177/default/index.m3u8
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 #EXTINF:-1,Al Jazarrea
 http://103.141.66.36/bpk-tv/10215/default/index.m3u8
-#EXTINF:-1,DD Natonal
-http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 #EXTINF:-1,MK TV
 http://103.141.66.36/bpk-tv/10107/default/index.m3u8
 #EXTINF:-1,MK SIX
