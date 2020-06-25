@@ -1189,7 +1189,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1, Shemaroo Kids
+#EXTINF:-1,Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1,Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
