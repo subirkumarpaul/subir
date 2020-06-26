@@ -41,3 +41,23 @@ http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
+
+
+
+#EXTINF:-1,
+http://207.180.210.102:80/movietwohls/live.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
