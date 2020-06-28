@@ -472,7 +472,7 @@ https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde",Star Plus HD
-http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
+http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU",Star Plus HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU",Star Plus HD
@@ -734,10 +734,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="",Hinde Movies
-http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="",Hinde Movies
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/77.m3u8
