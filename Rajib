@@ -731,6 +731,12 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg",PRIME HD 
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 
+#EXTINF:-1 tvg-logo="",Hinde Movies
+http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Hinde Movies
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://103.135.208.14/live/ibox/bd/77.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1
