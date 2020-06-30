@@ -1091,10 +1091,6 @@ http://43.230.123.21:8080/live/hbo.m3u8
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
 http://otv.ftpbd.net:80/streams/111/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO(roarzone.info) 1
-http://tvserver3.roarzone.info:8081/42/index.m3u8?token=c2ab7fd362b1cb74fb3ee1d9a6d55e5879052ee9-871e05a99c183f43414cf5bb7a8c7a06-1593444010-1593433210&remote=103.91.128.170
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO(roarzone.info) 2
-http://tvserver2.roarzone.info:8081/42/index.m3u8?token=b62b02336cfb1fc4b456619b24610b3d04cd0a5f-e03678bfaad68b7bd35fbc0b72d18401-1593443860-1593433060&remote=103.91.128.170
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
