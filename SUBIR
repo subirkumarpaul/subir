@@ -1348,8 +1348,7 @@ http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
-http://starshare.cc:41000/live/tuhin9/tuhin9/218.m3u8
-
+http://107.152.234.10:8080/indian/hindi-StargoldselectHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN
 http://103.118.79.114:1935/live/Shari/MTV-P/151.m3u8
