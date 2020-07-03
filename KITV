@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png",BTV National
 http://103.118.79.114:1935/live/Shari/MTV-P/122.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 http://103.118.79.114:1935/live/Shari/MTV-P/104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
