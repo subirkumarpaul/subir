@@ -1,5 +1,8 @@
 
-#EXTM3U
+#EXTM3U x-tvg-url="http://bit.ly/alluepg"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/subirkumarpaul/SUBIR-1/master/EPG"
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi National TV",BTV National
 http://103.205.133.14/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png",BTV National
