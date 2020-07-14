@@ -1,52 +1,52 @@
 #EXTM3U
 #EXTINF:-1,Gazi TV
-http://tv-cdn.ihub.live:8083/GaziTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Maasranga TV
-http://tv-cdn.ihub.live:8083/j-Maasranga/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel 9
-http://tv-cdn.ihub.live:8083/Channel9/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekushey TV
-http://tv-cdn.ihub.live:8083/j-EkusheyTv/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-EkusheyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN Bangla
-http://tv-cdn.ihub.live:8083/ATNBangla/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asian TV
-http://tv-cdn.ihub.live:8083/AsianTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/AsianTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Boishakhi TV
-http://tv-cdn.ihub.live:8083/BoishakhiTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Banglavision
-http://tv-cdn.ihub.live:8083/BanglaVision/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel I
-http://tv-cdn.ihub.live:8083/ChannelI/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nagorik TV
-http://tv-cdn.ihub.live:8083/NagorikTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mohona TV
-http://tv-cdn.ihub.live:8083/MohonaTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MY TV
-http://tv-cdn.ihub.live:8083/MyTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV
-http://tv-cdn.ihub.live:8083/NTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV
-http://tv-cdn.ihub.live:8083/j-RTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SATV
-http://tv-cdn.ihub.live:8083/SATV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN News
-http://tv-cdn.ihub.live:8083/ATNNews/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,News 24
-http://tv-cdn.ihub.live:8083/News24/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC News
-http://tv-cdn.ihub.live:8083/DBCNews/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/DBCNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel 24
-http://tv-cdn.ihub.live:8083/Channel24/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekattor TV
-http://tv-cdn.ihub.live:8083/EkattorTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy TV
-http://tv-cdn.ihub.live:8083/SomoyTv/index.m3u8
+http://tv-cdn.ihub.live:8080/SomoyTv/index.m3u8
 #EXTINF:-1,Independent TV
-http://tv-cdn.ihub.live:8083/IndependentTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.43.151.34:8083/JamunaTV/index.m3u8
 #EXTINF:-1,Gaan Bangla
-http://tv-cdn.ihub.live:8083/GaanBangla/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla HD
 http://tv-cdn.ihub.live:8083/j-ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Jalsha HD
