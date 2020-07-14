@@ -48,30 +48,30 @@ http://103.43.151.34:8083/JamunaTV/index.m3u8
 #EXTINF:-1,Gaan Bangla
 http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla HD
-http://tv-cdn.ihub.live:8083/j-ZeeBanglaHD/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Jalsha HD
-http://tv-cdn.ihub.live:8083/j-StarJalshaHD/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Jalsha Movies
-http://tv-cdn.ihub.live:8083/j-JalshaMovies/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dhoom Music
-http://tv-cdn.ihub.live:8083/Dhoom/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/Dhoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
-http://tv-cdn.ihub.live:8083/SonyTV/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors
-http://tv-cdn.ihub.live:8083/Colors/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/Colors/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus HD
-http://tv-cdn.ihub.live:8083/j-StarPlusHD/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zoom
-http://tv-cdn.ihub.live:8083/Zoom/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Movies Now
-http://tv-cdn.ihub.live:8083/MoviesNow/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/MoviesNow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies
-http://tv-cdn.ihub.live:8083/j-StarMovies/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 1
-http://tv-cdn.ihub.live:8083/SonyTen1/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2
-http://tv-cdn.ihub.live:8083/SonyTen2/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 3
-http://tv-cdn.ihub.live:8083/SonyTen3/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Six
-http://tv-cdn.ihub.live:8083/SonySix/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
