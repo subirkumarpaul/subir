@@ -22,10 +22,10 @@ http://45.249.187.238:8081/hls/new20.m3u8
 http://45.249.187.238:8081/hls/new5.m3u8
 #EXTINF:-1 tvg-logo="",Bangla Vision
 http://45.249.187.238:8081/hls/new6.m3u8
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",News 24
+http://45.249.187.238:8081/hls/live4.m3u8
+#EXTINF:-1 tvg-logo="",Independent TV
+http://45.249.187.238:8081/hls/hdmi4.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
