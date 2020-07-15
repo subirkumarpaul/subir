@@ -36,26 +36,26 @@ http://45.249.187.238:8081/hls/new23.m3u8
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 tvg-logo="",Zee Bangla
 http://45.249.187.238:8081/hls/new8.m3u8
-#EXTINF:-1 tvg-logo="",Zee TV
-http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="",Songit Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
+#EXTINF:-1 tvg-logo="",Zee TV
+http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="",And TV
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1 tvg-logo="",Sony Sab
 http://45.249.187.238:8081/hls/tsl-4.m3u8
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+#EXTINF:-1 tvg-logo="",And Pictures
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+#EXTINF:-1 tvg-logo="",UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1 tvg-logo="",Star Sports 2
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="",Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:-1 tvg-logo="",PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
