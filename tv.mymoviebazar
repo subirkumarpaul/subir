@@ -70,31 +70,24 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-logo="",Lotus Maucu
 http://45.249.187.238:8081/hls/new22.m3u8
+#EXTINF:-1 tvg-logo="",Cartoon Network
+http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF:-1 tvg-logo="",Disney Channel
+http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="",POGO
+http://45.249.187.238:8081/hls/hdmi1.m3u8
+#EXTINF:-1 tvg-logo="",Discovery Channel
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 tvg-logo="",Mastii Music
+http://45.249.187.238:8081/hls/new12.m3u8
+#EXTINF:-1 tvg-logo="",Medina TV Bangla
+http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="",Islamic Channel 1
+http://45.249.187.238:8081/hls/new15.m3u8
+#EXTINF:-1 tvg-logo="",Islamic Channel 2
+http://45.249.187.238:8081/hls/new11.m3u8
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
 
 
 
