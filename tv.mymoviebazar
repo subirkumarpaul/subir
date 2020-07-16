@@ -58,8 +58,8 @@ http://45.249.187.238:8081/hls/new1.m3u8
 http://45.249.187.238:8081/hls/hdmi3.m3u8
 #EXTINF:-1 tvg-logo="",CNN News
 http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",BBC World News
+http://45.249.187.238:8081/hls/new19.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
