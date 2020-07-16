@@ -60,16 +60,16 @@ http://45.249.187.238:8081/hls/hdmi3.m3u8
 http://45.249.187.238:8081/hls/new19.m3u8
 #EXTINF:-1 tvg-logo="",BBC World News
 http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",All Jazeera
+http://45.249.187.238:8081/hls/new17.m3u8
+#EXTINF:-1 tvg-logo="",HBO
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1 tvg-logo="",Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 tvg-logo="",And Flix
+http://45.249.187.238:8081/hls/new21.m3u8
+#EXTINF:-1 tvg-logo="",Lotus Maucu
+http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
