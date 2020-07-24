@@ -813,7 +813,7 @@ http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU",Colors Cineplex UK
-http://178.159.5.10:16
+https://stream.amrbd.com/kn13a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dhiraj003/logos/master/utvaction.png", UTV Action
 http://202.163.117.6:9981/stream/channelid/135894982
