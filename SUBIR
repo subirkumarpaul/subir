@@ -952,7 +952,7 @@ http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU",Star Sports 2
-http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
+https://stream.amrbd.com/kn2a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU",Star Sports 2 HD
 http://103.135.208.14/live/ibox/bd/78.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU",Star Sports 2
@@ -1224,7 +1224,7 @@ http://43.230.123.21:8080/live/animale-planet.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",ANIMAL PLANET
 http://103.135.208.14/live/ibox/bd/93.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg",ANIMAL PLANET
-http://103.205.133.42:1935/live/animal_planet_720/index.m3u8
+https://stream.amrbd.com/kn6a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ-is0LmJhEwxKQWImKppZvnQfhm3ujmpfl8fc910dtoKYiwwb&usqp=CAU",ANIMAL PLANET HD
 http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8
 
