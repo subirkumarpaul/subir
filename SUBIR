@@ -853,6 +853,8 @@ http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",And Picture HD
 http://103.135.208.14/live/ibox/bd/94.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",And Picture HD
+https://stream.amrbd.com/AndPicturesHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",And Picture HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU",And Xplor HD
 http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
