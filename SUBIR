@@ -1359,9 +1359,9 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc9D1BT8j9oFXiQQQQ8SemZMOTM38-l0UPH3oAjVbyX8ySoK5Z&usqp=CAU" group-title="English Movies",Star Movies HD (India)
-http://175.41.46.16:8081/hls/2.m3u8
+https://stream.amrbd.com/kn7a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc9D1BT8j9oFXiQQQQ8SemZMOTM38-l0UPH3oAjVbyX8ySoK5Z&usqp=CAU",Star Movies HD (India)
-http://tv-cdn.ihub.live:8083/j-StarMovies/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/j-StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc9D1BT8j9oFXiQQQQ8SemZMOTM38-l0UPH3oAjVbyX8ySoK5Z&usqp=CAU",Star Movies (India)
 http://mag.123tv.to:8080/Daananavisis/ixXIWrgFBZ/13681
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies HD [UAE]
