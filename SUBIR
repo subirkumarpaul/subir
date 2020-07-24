@@ -1255,7 +1255,7 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_natgeo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/81.m3u8
+https://stream.amrbd.com:443/NAT-GEO-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
