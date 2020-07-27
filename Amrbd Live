@@ -1,7 +1,7 @@
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-logo="",Ten1HD
+#EXTINF:-1 tvg-logo="" group-title=",Ten1HD
 https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ten2HD
 https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
@@ -27,7 +27,7 @@ https://stream.amrbd.com/Adsports2/tracks-v1a1/mono.m3u8
 https://stream.amrbd.com/Adsports3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",Adsports 4
 https://stream.amrbd.com/Adsports4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=",colorsbangla
+#EXTINF:-1 tvg-logo=" group-title=",colorsbangla
 https://stream.amrbd.com/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",ZeeBanglacinema
 https://stream.amrbd.com/ZeeBanglacinema/index.m3u8
@@ -51,33 +51,32 @@ https://stream.amrbd.com/Ruposhi-Bangla/index.m3u8
 https://stream.amrbd.com/Dhoom-Music/index.m3u8
 #EXTINF:-1, tvg-logo=""Akash-Aaath
 https://stream.amrbd.com/Akash-Aaath/index.m3u8
-#EXTINF:-1, tvg-logo=""DBC-NEWS
+#EXTINF:-1, tvg-logo="" group-title="DBC-NEWS
 https://stream.amrbd.com/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo=""Ekattor-tv
 https://stream.amrbd.com/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo=""Atn-News
 https://stream.amrbd.com/Atn-News/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
+#EXTINF:-1, tvg-logo=""Independent-Tv
+https://stream.amrbd.com/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Jamuna-TV
+https://stream.amrbd.com/Jamuna-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Somoy-TV
+https://stream.amrbd.com/Somoy-TV/index.m3u8
+#EXTINF:-1, tvg-logo=""News24bd
+https://stream.amrbd.com/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Channel24
+https://stream.amrbd.com/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""ATN-Bangla
+https://stream.amrbd.com/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Channel-i
+https://stream.amrbd.com/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Ekushey-TV
+https://stream.amrbd.com/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Ntv
+https://stream.amrbd.com/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""RTV
+https://stream.amrbd.com/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo=""
 
 #EXTINF:-1, tvg-logo=""
