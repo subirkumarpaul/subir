@@ -1,7 +1,7 @@
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-logo="" group-title=",Ten1HD
+#EXTINF:-1 tvg-logo="" group-title="",Ten1HD
 https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ten2HD
 https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
@@ -27,7 +27,7 @@ https://stream.amrbd.com/Adsports2/tracks-v1a1/mono.m3u8
 https://stream.amrbd.com/Adsports3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",Adsports 4
 https://stream.amrbd.com/Adsports4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" group-title=",colorsbangla
+#EXTINF:-1 tvg-logo=" group-title="",colorsbangla
 https://stream.amrbd.com/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",ZeeBanglacinema
 https://stream.amrbd.com/ZeeBanglacinema/index.m3u8
@@ -51,7 +51,7 @@ https://stream.amrbd.com/Ruposhi-Bangla/index.m3u8
 https://stream.amrbd.com/Dhoom-Music/index.m3u8
 #EXTINF:-1 tvg-logo="",Akash-Aaath
 https://stream.amrbd.com/Akash-Aaath/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=",DBC-NEWS
+#EXTINF:-1 tvg-logo="" group-title="",DBC-NEWS
 https://stream.amrbd.com/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ekattor-tv
 https://stream.amrbd.com/Ekattor-tv/tracks-v1a1/mono.m3u8
