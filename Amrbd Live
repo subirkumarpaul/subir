@@ -1,0 +1,39 @@
+
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1,Ten1HD
+https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ten2HD
+https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ten3HD
+https://stream.amrbd.com/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN
+https://stream.amrbd.com/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SonySix
+https://stream.amrbd.com/SonySix/index.m3u8
+#EXTINF:-1,Star Sports 1
+https://stream.amrbd.com/kn1a/index.m3u8
+#EXTINF:-1,Star Sports 2
+https://stream.amrbd.com/kn2a/index.m3u8
+#EXTINF:-1,Star Sports Select 1
+https://stream.amrbd.com/kn3a/index.m3u8
+#EXTINF:-1,Star Sports Select 2
+https://stream.amrbd.com/kn4a/index.m3u8
+#EXTINF:-1,Adsports 1
+https://stream.amrbd.com/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Adsports 2
+https://stream.amrbd.com/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Adsports 3
+https://stream.amrbd.com/Adsports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Adsports 4
+https://stream.amrbd.com/Adsports4/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
