@@ -231,22 +231,22 @@ https://stream.amrbd.com/Aljazeera/index.m3u8
 https://stream.amrbd.com/Cnn_news/index.m3u8
 #EXTINF:-1 tvg-logo="",Voa_news
 https://stream.amrbd.com/Voa_news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",India_News
+https://stream.amrbd.com/India_News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Times_now
+https://stream.amrbd.com/Times_now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Dw
+https://stream.amrbd.com/Dw/index.m3u8
+#EXTINF:-1 tvg-logo="",Sony_yay
+https://stream.amrbd.com/Sony_yaa/index.m3u8
+#EXTINF:-1 tvg-logo="",Disney_Junior
+https://stream.amrbd.com/Disney_Junior/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",nike
+https://stream.amrbd.com/nike/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",CartoonNetwork
+https://stream.amrbd.com/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="",Sonic
+https://stream.amrbd.com/Sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
