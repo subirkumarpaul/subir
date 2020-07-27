@@ -77,36 +77,36 @@ https://stream.amrbd.com/Ekushey-TV/tracks-v1a1/mono.m3u8
 https://stream.amrbd.com/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo=""RTV
 https://stream.amrbd.com/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
-#EXTINF:-1, tvg-logo=""
-
+#EXTINF:-1, tvg-logo=""SATV
+https://stream.amrbd.com/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""MASRANGA
+https://stream.amrbd.com/MASRANGA/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Bangla-TV
+https://stream.amrbd.com/Bangla-TV/index.m3u8
+#EXTINF:-1, tvg-logo=""BanglaVision
+https://stream.amrbd.com/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Boishakhi
+https://stream.amrbd.com/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Deepto-TV
+https://stream.amrbd.com/Deepto-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Duronto_TV
+https://stream.amrbd.com/Duronto_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Desh_Tv
+https://stream.amrbd.com/Desh_Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""GaanBangla
+https://stream.amrbd.com/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""MohonaTV
+https://stream.amrbd.com/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""MyTV
+https://stream.amrbd.com/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""Nagorik-TV
+https://stream.amrbd.com/Nagorik-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""anandotv
+https://stream.amrbd.com/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""BijoyTv
+https://stream.amrbd.com/BijoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=""MovieBangla
+https://stream.amrbd.com/MovieBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo=""
 
 #EXTINF:-1, tvg-logo=""
