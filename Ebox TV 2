@@ -18,6 +18,8 @@ http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1,MY TV
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+#EXTINF:-1,SATV
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1,Mohona TV
 http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
@@ -32,6 +34,8 @@ http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
 http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+#EXTINF:-1,Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1,Jamuna TV 
 http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
 #EXTINF:-1,Independent TV
