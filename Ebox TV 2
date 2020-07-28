@@ -66,6 +66,8 @@ http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 #EXTINF:-1,Sony Ten 3 HD
 http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+#EXTINF:-1,Sony Six
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1,ESPN
 http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 #EXTINF:-1,AD Sports 1
@@ -82,6 +84,8 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
 #EXTINF:-1,Colors
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
+#EXTINF:-1,Sony Sab 
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1,And TV HD
 http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF:-1,Star Bharat
@@ -96,6 +100,8 @@ http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
 #EXTINF:-1,And Xplore
 http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
+#EXTINF:-1,Bflix
+http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
 #EXTINF:-1,Nat Geo Channel HD
 http://103.49.168.172:8081/ebox/in_natgeo_hd/playlist.m3u8
 #EXTINF:-1,Animal Planet HD
