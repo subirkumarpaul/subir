@@ -2,18 +2,32 @@
 #EXTM3U
 #EXTINF:-1,ATN Bangla
 http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-1,Channel I
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
 #EXTINF:-1,Gazi TV
 http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1,Channel 9 HD
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
 #EXTINF:-1,Deepto TV
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1,NTV
 http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1,RTV
 http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+#EXTINF:-1,Bangla Vision
+http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1,MY TV
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
 #EXTINF:-1,Mohona TV
 http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+#EXTINF:-1,Boishakhi TV
+http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+#EXTINF:-1,Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+#EXTINF:-1,Channel 24
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+#EXTINF:-1,Bangla TV
+http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
@@ -30,6 +44,8 @@ http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1,News 24
 http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+#EXTINF:-1,DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
 #EXTINF:-1,Duronto TV
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
