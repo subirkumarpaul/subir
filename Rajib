@@ -1374,5 +1374,78 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 
 
+#### FEED SPORTS #####
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",MOLA SPORT
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
+https://cdnbal1.useetv.com/joss/15/champion1/chunklist_w753224302_b1344100_sleng.m3u8?enc=c8Nx_Svda3_s7IwU6gsdVg&id=NWM0ZmMwZGFjNTI4NDI5YWExMGQ4YjU4Yjk4ZDkxMjg=&exp=1596100757
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
+https://cdnbal1.useetv.com/joss/15/champion2/chunklist_w794762692_b1344100_sleng.m3u8?enc=ZJvEuN2dnD6L3Yvo6cgCQA&id=NWM0ZmMwZGFjNTI4NDI5YWExMGQ4YjU4Yjk4ZDkxMjg=&exp=1596100783
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2 ASIA
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
+https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w989088055_b1344100_sleng.m3u8?enc=gvVrjA1TbiXd5cv_LFYr7A&id=NWM0ZmMwZGFjNTI4NDI5YWExMGQ4YjU4Yjk4ZDkxMjg=&exp=1596100688
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
+https://cdnbal1.useetv.com/joss/15/useesports2/chunklist_w798520430_b1344100_sleng.m3u8?enc=bFKpHC3d7l-a4uEuI4SyNQ&id=NWM0ZmMwZGFjNTI4NDI5YWExMGQ4YjU4Yjk4ZDkxMjg=&exp=1596100733
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="FEED SPORTS",Premier Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="FEED SPORTS",Premier Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="FEED SPORTS",SKYNET SPORT HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="FEED SPORTS",SKYNET SPORT 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="FEED SPORTS",SKYNET SPORT 2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="FEED SPORTS",SKYNET SPORT 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="FEED SPORTS",SKYNET SPORT 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="FEED SPORTS",SKYNET SPORT 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpV5Rvv/20200226-230938.png" group-title="FEED SPORTS",Eurosport 1
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
 
 
