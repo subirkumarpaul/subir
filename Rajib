@@ -1449,3 +1449,111 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
 
 
+########SPORT LUAR##########
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 1 HD
+http://51.195.31.127:8080/Aline/1234/86
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 2 HD
+http://51.195.31.127:8080/Aline/1234/84
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 3 HD
+http://51.195.31.127:8080/Aline/1234/82
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69717
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69744
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/69726
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69758
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 HD
+http://mixsrv.me:80/RArYb/c3gsj/69745
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 SD
+http://mixsrv.me:80/RArYb/c3gsj/69727
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV FHD
+http://mixsrv.me:80/RArYb/c3gsj/69716
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV HD
+http://mixsrv.me:80/RArYb/c3gsj/69743
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV SD
+http://mixsrv.me:80/RArYb/c3gsj/69790
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports FHD
+http://mixsrv.me:80/RArYb/c3gsj/70044
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports HD
+http://mixsrv.me:80/RArYb/c3gsj/70045
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports SD
+http://mixsrv.me:80/RArYb/c3gsj/69789
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate FHD
+http://mixsrv.me:80/RArYb/c3gsj/69788
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate HD
+http://mixsrv.me:80/RArYb/c3gsj/69749
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate SD
+http://mixsrv.me:80/RArYb/c3gsj/69725
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/70046
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/70047
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/70048
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/AkO" group-title="Canais | Esportes", ESPN Brasil HD
+http://mixsrv.me:80/RArYb/c3gsj/239
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/AkO" group-title="Canais | Esportes", ESPN Brasil SD
+http://mixsrv.me:80/RArYb/c3gsj/70050
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra FHD
+http://mixsrv.me:80/RArYb/c3gsj/74606
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra HD
+http://mixsrv.me:80/RArYb/c3gsj/70052
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra SD
+http://mixsrv.me:80/RArYb/c3gsj/70053
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN FHD
+http://mixsrv.me:80/RArYb/c3gsj/70054
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN HD
+http://mixsrv.me:80/RArYb/c3gsj/70055
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN SD
+http://mixsrv.me:80/RArYb/c3gsj/70056
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69715
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69748
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/266
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports FHD
+http://mixsrv.me:80/RArYb/c3gsj/69714
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports HD
+http://mixsrv.me:80/RArYb/c3gsj/69746
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports SD
+http://mixsrv.me:80/RArYb/c3gsj/70069
+
