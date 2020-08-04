@@ -108,7 +108,7 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1,And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,Star Gold
-http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
+http://103.214.202.218:8081/live/stargold/chunks.m3u8
 #EXTINF:-1,Sat Max
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1,Zee Cinema
