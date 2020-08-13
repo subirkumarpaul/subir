@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:-1,Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1,Discovery Kids (English)
 https://streamitv.multitvsolution.in/idvo/discoverykidseng.m3u8
+#EXTINF:-1,Discovery Kids (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Discovery Channel (English)
 https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Discovery Channel (Hindi)
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-
-
 #EXTINF:-1,Discovery Channel
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1,Discovery Jeet
+
+#EXTINF:-1,Discovery ID (English)
+https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
+#EXTINF:-1,Discovery ID
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+
+
+#EXTINF:-1,Discovery Science (English)
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+#EXTINF:-1,Discovery Science (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1,Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
+
+#EXTINF:-1,Discovery Turbo (English)
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
