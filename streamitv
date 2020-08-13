@@ -76,3 +76,51 @@ http://streamidvo.multitvsolution.in/9XO-b/playlist.m3u8
 
 
 
+
+#EXTM3U
+#EXTINF:-1,Akaash Aath (Opt-02)
+http://streamidvo.multitvsolution.in/AkashBangla-a/playlist.m3u8
+#EXTINF:-1,RPlus Gold
+http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
+#EXTINF:-1,Orange Bangla
+http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1,DD Bangla
+http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
+#EXTINF:-1,RPlus News
+http://streamidvo.multitvsolution.in/RPlus-e/playlist.m3u8
+#EXTINF:-1,Bangla Time
+http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
+#EXTINF:-1,News Time Bangla
+http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
+#EXTINF:-1,Khushboo TV
+http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
+#EXTINF:-1,DD Assam
+http://streamidvo.multitvsolution.in/DDNorthEast-c/playlist.m3u8
+#EXTINF:-1,DD Odia
+http://streamidvo.multitvsolution.in/DDOdia-a/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
+#EXTINF:-1,Housefull Movies
+http://streamidvo.multitvsolution.in/Housefullmovies-f/playlist.m3u8
+#EXTINF:-1,Maha Movie
+http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
+#EXTINF:-1,MK Six
+http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
+#EXTINF:-1,DD Kisan
+http://streamidvo.multitvsolution.in/DDKisan-c/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1,Discovery Jeet
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1,TLC HD World
+http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+#EXTINF:-1,9xO
+http://streamidvo.multitvsolution.in/9XO-b/playlist.m3u8
+#EXTINF:-1,MK Tunes
+http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
+
+
