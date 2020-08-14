@@ -1429,4 +1429,13 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
 
-
+#EXTINF:-1 group-title="Adult Channel",INT: BIG DICK
+http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
+#EXTINF:-1 group-title="Adult Channel",INT: BRUNETTE
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="Adult Channel",INT: GAY
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="Adult Channel",INT: TEEN
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="Adult Channel",INT: PORN STAR 
+http://live.redtraffic.xyz/pornstar.m3u8
