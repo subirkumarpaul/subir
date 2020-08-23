@@ -47,6 +47,7 @@ http://103.205.133.42:1935/live/lotus_720/index.m3u8
 http://103.205.133.42:1935/live/live/ntv_720/index.m3u8
 #EXTINF:-1,Sony TV 
 http://103.205.133.42:1935/live/sony_entertainment_720/index.m3u8
+http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 #EXTINF:-1,Sony SAB
 http://103.205.133.42:1935/live/sony_sab_720/index.m3u8
 #EXTINF:-1,Zee TV HD
