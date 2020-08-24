@@ -700,7 +700,7 @@ http://103.205.133.19/hls/ten3.m3u8
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
-http://175.41.46.16:8081/hls/4.m3u8
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
