@@ -1051,9 +1051,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 https://watchindia.net:8443/live/40695/67755/789.ts
 
 
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD (Bangla)
-https://watchindia.net:8443/live/40695/67755/790.ts
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
+http://103.49.168.172:8081/ebox/in_natgeo_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://otv.ftpbd.net:80/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
