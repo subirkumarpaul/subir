@@ -639,7 +639,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
-http://175.41.46.16:8081/hls/1.m3u8
+http://pioneer.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
 http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
