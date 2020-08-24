@@ -707,7 +707,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 http://103.205.133.19/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ7CLSeiY67l3Krx0jRCIcFHzm09iJva6lRA&usqp=CAU" group-title="Sports",ESPN
-l
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ7CLSeiY67l3Krx0jRCIcFHzm09iJva6lRA&usqp=CAU" group-title="Sports",Espn HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ7CLSeiY67l3Krx0jRCIcFHzm09iJva6lRA&usqp=CAU" group-title="Sports",ESPN*
