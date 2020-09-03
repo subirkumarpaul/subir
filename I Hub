@@ -1,0 +1,292 @@
+#EXTM3U
+
+
+							Bangla
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",GTV
+http://tv-cdn.ihub.live:8080/GaziTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/maasranga.jpg" group-title="Bangla",Massranga TV
+http://tv-cdn.ihub.live:8080/Maasranga/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/channel-9.jpg" group-title="Bangla",Channel 9
+http://tv-cdn.ihub.live:8080/j-Channel9/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/boishakhi-tv.jpg" group-title="Bangla",Boishakhi TV
+http://tv-cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/atn-bangla.jpg" group-title="Bangla",ATN Bangla
+http://tv-cdn.ihub.live:8080/ATNBangla/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/atn-news.jpg" group-title="Bangla",ATN News
+http://tv-cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/rtv.jpg" group-title="Bangla",RTV
+http://tv-cdn.ihub.live:8080/RTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/jamuna-tv.jpg" group-title="Bangla",Jamuna TV
+http://tv-cdn.ihub.live:8080/j-JamunaTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/dbc-news.jpg" group-title="Bangla",DBC News
+http://tv-cdn.ihub.live:8080/DBCNews/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/bangla-vision.jpg" group-title="Bangla",BanglaVision
+http://tv-cdn.ihub.live:8080/BanglaVision/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/asian-tv.jpg" group-title="Bangla",Asian TV
+http://tv-cdn.ihub.live:8080/j-AsianTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/btv-world.jpg" group-title="Bangla",BTV World
+http://tv-cdn.ihub.live:8080/BTVWorld/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/channel-24.jpg" group-title="Bangla",Channel 24
+http://tv-cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/deepto-tv.jpg" group-title="Bangla",Deepto TV
+http://tv-cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/ekattor-tv.jpg" group-title="Bangla",Ekattor TV
+http://tv-cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/independent-tv.jpg" group-title="Bangla",Independent TV
+http://tv-cdn.ihub.live:8080/IndependentTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sa-tv.jpg" group-title="Bangla",SA TV
+http://tv-cdn.ihub.live:8080/SATV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/somoy-news.jpg" group-title="Bangla",Somoy News
+http://tv-cdn.ihub.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/nagorik-tv.jpg" group-title="Bangla",Nagorik TV
+http://tv-cdn.ihub.live:8080/j-NagorikTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/mohona-tv.jpg" group-title="Bangla",Mohona TV
+http://tv-cdn.ihub.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/my-tv.jpg" group-title="Bangla",My TV
+http://tv-cdn.ihub.live:8080/MyTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/bijoy-tv.jpg" group-title="Bangla",Bijoy TV
+http://tv-cdn.ihub.live:8080/j-BijoyTV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/bangla-tv.jpg" group-title="Bangla",Bangla TV
+http://tv-cdn.ihub.live:8080/j-BanglaTV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/channel-i.jpg" group-title="Bangla",Channel i
+http://tv-cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
+
+
+
+
+						Movies
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/fox-action-movies.jpg" group-title="Movies",Fox Movie Action
+http://tv-cdn.ihub.live:8080/j-FOXANimation/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/mvc-max.jpg" group-title="Movies",MVC MAX
+http://tv-cdn.ihub.live:8080/j-MBCMAXHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/jalsha-movies.jpg" group-title="Movies",Star Jalsha Movies
+http://tv-cdn.ihub.live:8080/j-JalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/movies-now.jpg" group-title="Movies",Star Movies
+http://tv-cdn.ihub.live:8080/MoviesNow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-gold.jpg" group-title="Movies",Star Gold
+http://tv-cdn.ihub.live:8080/j-StarGoldHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/bflix-movies.jpg" group-title="Movies",Bflix Movies
+http://tv-cdn.ihub.live:8080/Bflix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/b4u-movies.jpg" group-title="Movies",B4U Movies
+http://tv-cdn.ihub.live:8080/j-B4UMovies/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/mbc-action.jpg" group-title="Movies",MBC Action
+http://tv-cdn.ihub.live:8080/j-MBCActionHD/tracks-v1a1/mono.m3u8
+
+
+
+
+						Entertainment
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-world.jpg" group-title="Entertainment",Star World
+http://tv-cdn.ihub.live:8080/j-StarWorld/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/colorshd.jpg" group-title="Entertainment",Colors HD
+http://tv-cdn.ihub.live:8080/j-ColorsHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-bharat.jpg" group-title="Entertainment",Star Bharat
+http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-plus.jpg" group-title="Entertainment",Star Plus
+http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/zee-tv.jpg" group-title="Entertainment",Zee TV
+http://tv-cdn.ihub.live:8080/j-ZeeTV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-jalsha.jpg" group-title="Entertainment",Star Jalsha
+http://tv-cdn.ihub.live:8080/j-StarJalshaHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/colors-bangla.jpg" group-title="Entertainment",Colors Bangla
+http://tv-cdn.ihub.live:8080/j-ColorsBangla/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aat.jpg" group-title="Entertainment",Sony Aath
+http://tv-cdn.ihub.live:8080/j-SonyAat/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/tlc-hd.jpg" group-title="Entertainment",TLC
+http://tv-cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
+
+
+
+
+						Music
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/gaan-bangla.jpg" group-title="Music",Gaan Bangla
+http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/zoom.jpg" group-title="Music",Zoom
+http://tv-cdn.ihub.live:8080/Zoom/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/dhoom-music.jpg" group-title="Music",Dhoom Music
+http://tv-cdn.ihub.live:8080/Dhoom/tracks-v1a1/mono.m3u8
+
+
+						Documentary & Science
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/national-geographics.jpg" group-title="Documentary & Science",National Geography
+http://tv-cdn.ihub.live:8080/j-NetGeo/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/national-geographics-people.jpg" group-title="Documentary & Science",National Geography People
+http://tv-cdn.ihub.live:8080/j-NetGeoPpl/tracks-v1a1/mono.m3u8
+
+
+
+
+						Sports
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sky-sports-cricket.jpg" group-title="Sports",Sky Sports Cricket
+http://tv-cdn.ihub.live:8080/StarSportsCricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/ptv-sports.jpg" group-title="Sports",PTV Sports
+http://tv-cdn.ihub.live:8080/PTVSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-ten-1.jpg" group-title="Sports",Sony TEN 1
+http://tv-cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-ten-2.jpg" group-title="Sports",Sony TEN 2
+http://tv-cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/redbulltvhd.jpg" group-title="Sports",RED BULL TV
+http://tv-cdn.ihub.live:8080/RedBullTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/alkassonehd.jpg" group-title="Sports",ALKASS ONE HD
+http://tv-cdn.ihub.live:8080/ALKASSONEHD/tracks-v1a1/mono.m3u8
+
+
+
+
+						News
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/timesnow.jpg" group-title="News",Times Now
+http://tv-cdn.ihub.live:8080/TimesNow/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/dw.jpg" group-title="News",DW
+http://tv-cdn.ihub.live:8080/DW/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/aljazeera.jpg" group-title="News",Aljazeera
+http://tv-cdn.ihub.live:8080/Aljazeera/tracks-v1a1/mono.m3u8
+
+
+
+						Kids
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/duronto-tv.jpg" group-title="Kids",Duronto TV
+http://tv-cdn.ihub.live:8080/duronto_tv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/nick.jpg" group-title="Kids",Nick Bangla
+http://tv-cdn.ihub.live:8080/j-Nick/tracks-v1a1/mono.m3u8
+
+
+
+						
