@@ -1,108 +1,110 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png",BTV National
+http://103.118.77.30:1935/live/Shari/MTV-P/122.m3u8
 http://103.118.79.114:1935/live/Shari/MTV-P/122.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
-http://103.118.79.114:1935/live/Shari/MTV-P/104.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9 HD BD
-http://103.118.79.114:1935/live/Shari/MTV-P/111.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/111.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg",Durunto TV
-http://103.118.79.114:1935/live/Shari/MTV-P/169.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/169.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg",Ekushey TV
-http://103.118.79.114:1935/live/Shari/MTV-P/118.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/118.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png",Nagorik TV
-http://103.118.79.114:1935/live/Shari/MTV-P/107.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/107.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU",Channel 24
-http://103.118.79.114:1935/live/Shari/MTV-P/119.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/119.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU",Star Jalsha HD
-http://103.118.79.114:1935/live/Shari/MTV-P/125.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/125.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU",Zee Bangla HD
-http://103.118.79.114:1935/live/Shari/MTV-P/124.m3u8
+http://103.118.77.301935/live/Shari/MTV-P/124.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU",Sony Aath
-http://103.118.79.114:1935/live/Shari/MTV-P/123.m3u8
+http://103.118.77.304:1935/live/Shari/MTV-P/123.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU",Akaash Aath
-http://103.118.79.114:1935/live/Shari/MTV-P/130.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/130.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU",Sangeet Bnagla
-http://103.118.79.114:1935/live/Shari/MTV-P/176.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/176.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx0FDgqe-Q4KaRjcDklS6XNLczn87VaUJNdTmezhpzAvYi75tl&usqp=CAU",Zee 24 Ghonta
-http://103.118.79.114:1935/live/Shari/MTV-P/192.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/192.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU",Star Plus HD
-http://103.118.79.114:1935/live/Shari/MTV-P/134.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/134.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony TV
-http://103.118.79.114:1935/live/Shari/MTV-P/133.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/133.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV
-http://103.118.79.114:1935/live/Shari/MTV-P/135.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/135.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
-http://103.118.79.114:1935/live/Shari/MTV-P/139.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/139.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg",Star Gold
-http://103.118.79.114:1935/live/Shari/MTV-P/141.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/141.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-http://103.118.79.114:1935/live/Shari/MTV-P/136.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/136.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWhjxBGFDwK2eU4oCLc4liWsevRMOVVprL3IQGqDMetKdMSnTZ&usqp=CAU",Bflix
 http://103.118.79.114:1935/live/Shari/MTV-P/144.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU",Star Sports 1 HD
-http://103.118.79.114:1935/live/Shari/MTV-P/161.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/161.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU",Star Sports 1 HD (Backup)
-http://103.118.79.114:1935/live/Shari/MTV-P/183.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/183.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU",Star Sports Select 1 HD
-http://103.118.79.114:1935/live/Shari/MTV-P/194.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU",Star Sports Select 2 HD
-http://103.118.79.114:1935/live/Shari/MTV-P/163.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/163.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU",Sony Ten 1 HD
-http://103.118.79.114:1935/live/Shari/MTV-P/156.m3u8
+http://103.118.77.301935/live/Shari/MTV-P/156.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-768x615.png",Sony Ten 2 HD
-http://103.118.79.114:1935/live/Shari/MTV-P/159.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/159.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png",Sony Six HD
-http://103.118.79.114:1935/live/Shari/MTV-P/158.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/158.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU",D Sports
-http://103.118.79.114:1935/live/Shari/MTV-P/162.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/162.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0x8JJ8X.png",Euro Sports
-http://103.118.79.114:1935/live/Shari/MTV-P/157.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/157.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoSQvCwoGSourbyYhKUUGwenEQ7IjYfzCYolUEgbiyQj_INajv&usqp=CAU",Discovery HD (Bangla)
-http://103.118.79.114:1935/live/Shari/MTV-P/167.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/167.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUGsZs5Rhes7lnw5iJXIPrIjEMfs8GryE3xMzQAH8ghcOz3n0U&usqp=CAU",BBC Earth
-http://103.118.79.114:1935/live/Shari/MTV-P/168.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/168.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png",Nat Geo Wild
-http://103.118.79.114:1935/live/Shari/MTV-P/166.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/166.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU",BBC Lifestyle
-http://103.118.79.114:1935/live/Shari/MTV-P/155.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/155.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
-http://103.118.79.114:1935/live/Shari/MTV-P/193.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/193.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU",Hum Masala
-http://103.118.79.114:1935/live/Shari/MTV-P/142.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/142.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN
-http://103.118.79.114:1935/live/Shari/MTV-P/151.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/151.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix (India)
-http://103.118.79.114:1935/live/Shari/MTV-P/148.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/148.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU",HBO
-http://103.118.79.114:1935/live/Shari/MTV-P/153.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/153.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQx-DAfo-4ESpeyZLWCGJ-Ac8K1KWmwuiDA3byKy_MqDfsBi4AA&usqp=CAU", MN+ HD
-http://103.118.79.114:1935/live/Shari/MTV-P/147.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/147.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU",MTV
-http://103.118.79.114:1935/live/Shari/MTV-P/181.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/181.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU",B4U Music
-http://103.118.79.114:1935/live/Shari/MTV-P/185.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/185.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU",Music India
-http://103.118.79.114:1935/live/Shari/MTV-P/190.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/190.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34MegPO6eQKUo8dmPagbF52Gu3q1eHSQqT0fX8D0SV9K_K4Ys&usqp=CAU",Zee ETC
-http://103.118.79.114:1935/live/Shari/MTV-P/179.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/179.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxKUNkstXEe3YW0DgYravcWAXPKmWQLZFOTM2KfXSZjGMBDNc&usqp=CAU",Masti Music
-http://103.118.79.114:1935/live/Shari/MTV-P/184.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/184.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRG72T8hrxN_NlmxpksybD-r-uXXD5p4BbaX9jGfr-Q0Ys_irrL&usqp=CAU",E24 
-http://103.118.79.114:1935/live/Shari/MTV-P/189.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/189.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU",9XO
-http://103.118.79.114:1935/live/Shari/MTV-P/180.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/180.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gl5lSVW.png",Hum Sitaray
-http://103.118.79.114:1935/live/Shari/MTV-P/143.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/143.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU",BBC World
-http://103.118.79.114:1935/live/Shari/MTV-P/164.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/164.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network HD+
-http://103.118.79.114:1935/live/Shari/MTV-P/170.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png",Disney XD
-http://103.118.79.114:1935/live/Shari/MTV-P/171.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/171.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png",NICK
-http://103.118.79.114:1935/live/Shari/MTV-P/174.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg",Sony Yay (Hindi)
-http://103.118.79.114:1935/live/Shari/MTV-P/172.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/172.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBEEBIES
-http://103.118.79.114:1935/live/Shari/MTV-P/173.m3u8
+http://103.118.77.30:1935/live/Shari/MTV-P/173.m3u8
+
