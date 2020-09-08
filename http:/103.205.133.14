@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,colors
-http://103.205.133.14/hls/colors.m3u84
+http://103.205.133.14/hls/colors.m3u8
 #EXTINF:-1,rtv
 http://103.205.133.14/hls/rtv.m3u8
 #EXTINF:-1,discovery
