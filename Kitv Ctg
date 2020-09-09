@@ -1,0 +1,28 @@
+#EXTM3U
+ext,KI_BTV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+ext,KI_ATN BANGLA [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+ext,KI_CHANNEL I HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+ext,KI_EKUSHEY TV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+ext,KI_NTV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+ext,KI_RTV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
+ext,KI_BANGLA VISION [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
+ext,KI_MY TV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+ext,KI_MAASRANGA TV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+ext,KI_CHANNEL 9 HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+ext,KI_GAZI TV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+ext,KI_SA TV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+ext,KI_DEEPTO TV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+ext,KI_NAGORIK TV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+ext,KI_INDEPENDENT TV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
+ext,KI_SOMOY TV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+ext,KI_CHANNEL 24 [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+ext,KI_EKATTOR TV HD [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+ext,KI_JAMUNA TV [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+ext,KI_GAAN BANGLA [BD],http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
+ext,KI_Durunto TV,http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
+ext,KI_Star Jalsha HD,http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+ext,KI_Zee Bangla HD,http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+ext,KI_Sony Aath,http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+ext,KI_Akash Bangla,http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
+ext,KI_DD Bangla,http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
+ext,KI_Kolkata TV,http://iptv.kitv
