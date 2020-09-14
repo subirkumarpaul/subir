@@ -1,0 +1,40 @@
+#EXTINF:0 tvg-logo="https://bit.ly/2Q0QFs1" group-title="Mx Player",Sony Sab HD(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2PUI7Dc" group-title="Mx Player",Sony Set HD(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2XXMOk7" group-title="Mx Player",Sony Max HD(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2XXNNkj" group-title="Mx Player",Sony Max 2(VPN)
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2DL1psn" group-title="Mx Player",Sony Marathi HD(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2PVNsdu" group-title="Mx Player",Sony Pal(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3gXQutG" group-title="Mx Player",Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2Cxvf2Q" group-title="Mx Player",Sony Aath(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2DL32X1" group-title="Mx Player",Sony Wah HD(VPN)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/312YPa1" group-title="Mx Player",Sangeet Bangla(VPN)
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2Y9KTc8" group-title="Mx Player",9xM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3h6yVaT" group-title="Mx Player",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/343lGUG" group-title="Mx Player",9x Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3aycxVe" group-title="Mx Player",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3l3hIS6" group-title="Mx Player",9X Tashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2EfPNNy" group-title="Mx Player",BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/31Zf7jp" group-title="Mx Player",WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3g5QrdK" group-title="Mx Player",Dabangg TV
+https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3g0xwB7" group-title="Mx Player",Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3aBPXuT" group-title="Mx Player",Tollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
