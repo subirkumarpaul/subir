@@ -92,13 +92,13 @@ http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
+http://103.214.202.218:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1,Dhoom Music
 https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/uH-609KxgfgW916hIrEEag/1585422298/dhoom.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Star Plus
-http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
+http://103.214.202.218:80811/live/starplus/chunks.m3u8
 #EXTINF:-1,Sony TV
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1,Sony TV
