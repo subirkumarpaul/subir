@@ -1,0 +1,24 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="BANGLA MIXED",CHANNEL I HD [BD]
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",CHANNEL 9 HD [BD]
+http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",CHANNEL 9 HD [BD]
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA MIXED",SOMOY TV [BD]
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA MIXED",CHANNEL 24 [BD]
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA MIXED",EKATTOR TV HD [BD]
+http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA MIXED",JAMUNA TV [BD]
+http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA MIXED",NEWS 24 HD [BD]
+http://103.102.136.106:8080/cmcltv/news24-th.m3u8
+
+
+
+
+
+
