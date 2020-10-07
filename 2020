@@ -1,0 +1,299 @@
+#EXTINF:-1 ,Ntv
+"src_url":"https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8"
+
+#EXTINF:-1 ,Gtv
+"src_url":"http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
+
+#EXTINF:-1 ,G TV
+"src_url":"http://103.197.251.171:8080/hls/gtveuro.m3u8"
+
+#EXTINF:-1 ,Massranga TV
+"src_url":"http://103.197.251.171:8080/hls/Massrangaeuro.m3u8"
+
+#EXTINF:-1 ,Star Jalsha
+"src_url":"http://tvuk3.technohaat.com:6636/StarJalsha/video.m3u8?token=2-QvSjSlX2"
+
+#EXTINF:-1 ,Zee Bangla
+"src_url":"http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2"
+
+#EXTINF:-1 ,Jamuna TV
+"src_url":"http://10.16.100.203:8082/bangla/jamuna_720.m3u8"
+
+#EXTINF:-1 ,Jamuna TV
+"src_url":"http://10.16.100.203:8082/bangla/jamuna_720.m3u8"
+
+#EXTINF:-1 ,Gazi TV
+"src_url":"http://103.102.136.106:8080/cmcltv/gtv_th.m3u8"
+
+#EXTINF:-1 ,Maasranga TV
+"src_url":"http://103.102.136.106:8080/cmcltv/masranga_th.m3u8"
+
+#EXTINF:-1 ,Channel i
+"src_url":"http://103.102.136.106:8080/cmcltv/channeli_th.m3u8"
+
+#EXTINF:-1 ,Gaanbangla TV
+"src_url":"http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8"
+
+#EXTINF:-1 ,Duronto TV
+"src_url":"http://103.102.136.106:8080/cmcltv/duronto_th.m3u8"
+
+#EXTINF:-1 ,Somoy TV
+"src_url":"http://103.102.136.106:8080/cmcltv/somoy_th.m3u8"
+
+#EXTINF:-1 ,Channel 24
+"src_url":"http://103.102.136.106:8080/cmcltv/channel24_th.m3u8"
+
+#EXTINF:-1 ,Ekattor TV
+"src_url":"http://103.102.136.106:8080/cmcltv/ekator.m3u8"
+
+#EXTINF:-1 ,Jamuna TV
+"src_url":"http://103.102.136.106:8080/cmcltv/jamuna.m3u8"
+
+#EXTINF:-1 ,DBC News
+"src_url":"http://103.102.136.106:8080/cmcltv/dbcnews.m3u8"
+
+#EXTINF:-1 ,Channel 9
+"src_url":"http://103.102.136.106:8080/cmcltv/channel9.m3u8"
+
+#EXTINF:-1 ,Independent TV
+"src_url":"http://103.102.136.106:8080/cmcltv/independent.m3u8"
+
+#EXTINF:-1 ,News 24
+"src_url":"http://103.102.136.106:8080/cmcltv/news24.m3u8"
+
+#EXTINF:-1 ,al-jazeera
+"src_url":"http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8"
+
+#EXTINF:-1 ,Live Sports-01
+"src_url":"http://103.102.136.106:8080/cmcltv/livesports.m3u8"
+
+#EXTINF:-1 ,Live Sports-02
+"src_url":"http://103.102.136.106:8080/cmcltv/livesports-2.m3u8"
+
+#EXTINF:-1 ,Zee Bangla
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8"
+
+#EXTINF:-1 ,Star Jalsha
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8"
+
+#EXTINF:-1 ,Colors Bangla
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8"
+
+#EXTINF:-1 ,Sony Entertainment HD
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8"
+
+#EXTINF:-1 ,Colors
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8"
+
+#EXTINF:-1 ,BBC NEWS
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8"
+
+#EXTINF:-1 ,LIVE SPORTS-03
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8"
+
+#EXTINF:-1 ,LIVE SPORTS-04
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8"
+
+#EXTINF:-1 ,Star Sports-01
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8"
+
+#EXTINF:-1 ,Star Sports 1
+"src_url":"http://10.10.10.10:8080/hls/cm_sports02.m3u8"
+
+#EXTINF:-1 ,Gazi TV
+"src_url":"http://10.10.10.10:8080/hls/gtv_cm_ip.m3u8"
+
+#EXTINF:-1 ,Gazi TV (Backup)
+"src_url":"http://10.10.10.10:8080/hls/cm_gtvuk.m3u8"
+
+#EXTINF:-1 ,Star Sports 1 HD
+"src_url":"http://103.70.140.27:8080/hls/StarSports1FHD.m3u8"
+
+#EXTINF:-1 ,Gazi TV
+"src_url":"http://103.70.140.27:8080/hls/gtv_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony AAT
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8"
+
+#EXTINF:-1 ,Sony Max
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8"
+
+#EXTINF:-1 ,Sony TEN-01
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8"
+
+#EXTINF:-1 ,Sony TEN-2
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8"
+
+#EXTINF:-1 ,CNN News
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8"
+
+#EXTINF:-1 ,Zee Cinema
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8"
+
+#EXTINF:-1 ,& Picture
+"src_url":"http://103.102.136.106:8080/cmcltv/tcm_&pictures.m3u8"
+
+#EXTINF:-1 ,Al Jazeera
+"src_url":"http://10.10.10.10:8080/hls/al_jazeera_cm_ip.m3u8"
+
+#EXTINF:-1 ,Channel Nine
+"src_url":"http://10.10.10.10:8080/hls/channel9_cm_ip.m3u8"
+
+#EXTINF:-1 ,Channel i
+"src_url":"http://10.10.10.10:8080/hls/channeli_cm_ip.m3u8"
+
+#EXTINF:-1 ,DBC News
+"src_url":"http://10.10.10.10:8080/hls/dbcnews_cm_ip.m3u8"
+
+#EXTINF:-1 ,Duronto
+"src_url":"http://10.10.10.10:8080/hls/duronto_cm_ip.m3u8"
+
+#EXTINF:-1 ,Ekattor.tv
+"src_url":"http://10.10.10.10:8080/hls/ekator_cm_ip.m3u8"
+
+#EXTINF:-1 ,Jamuna Tv
+"src_url":"http://10.10.10.10:8080/hls/jamuna_cm_ip.m3u8"
+
+#EXTINF:-1 ,News 24
+"src_url":"http://10.10.10.10:8080/hls/news24_cm_ip.m3u8"
+
+#EXTINF:-1 ,Al Jazeera
+"src_url":"http://103.70.140.27:8080/hls/al_jazeera_cm_ip.m3u8"
+
+#EXTINF:-1 ,Channel Nine
+"src_url":"http://103.70.140.27:8080/hls/channel9_cm_ip.m3u8"
+
+#EXTINF:-1 ,Channel i
+"src_url":"http://103.70.140.27:8080/hls/channeli_cm_ip.m3u8"
+
+#EXTINF:-1 ,Star Sports 1
+"src_url":"http://103.70.140.27:8080/hls/cm_sports02.m3u8"
+
+#EXTINF:-1 ,Star Sports 1 (Backup)
+"src_url":"http://103.70.140.27:8080/hls/tcm_arSports1_cm_ip.m3u8"
+
+#EXTINF:-1 ,DBC News
+"src_url":"http://103.70.140.27:8080/hls/dbcnews_cm_ip.m3u8"
+
+#EXTINF:-1 ,Ekattor.tv
+"src_url":"http://103.70.140.27:8080/hls/ekator_cm_ip.m3u8"
+
+#EXTINF:-1 ,Gazi TV (Backup)
+"src_url":"http://103.70.140.27:8080/hls/gtv_cm_ip.m3u8"
+
+#EXTINF:-1 ,Independent
+"src_url":"http://103.70.140.27:8080/hls/independent_cm_ip.m3u8"
+
+#EXTINF:-1 ,Jamuna Tv
+"src_url":"http://103.70.140.27:8080/hls/jamuna_cm_ip.m3u8"
+
+#EXTINF:-1 ,News 24
+"src_url":"http://103.70.140.27:8080/hls/news24_cm_ip.m3u8"
+
+#EXTINF:-1 ,BBC World News
+"src_url":"http://103.70.140.27:8080/hls/tcm_bbc_cm_ip.m3u8"
+
+#EXTINF:-1 ,Colors Bangla
+"src_url":"http://103.70.140.27:8080/hls/tcm_colorsbangla_cm_ip.m3u8"
+
+#EXTINF:-1 ,Colors
+"src_url":"http://103.70.140.27:8080/hls/tcm_colors_cm_ip.m3u8"
+
+#EXTINF:-1 ,PTV Sports
+"src_url":"http://103.70.140.27:8080/hls/tcm_live4_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony 8
+"src_url":"http://103.70.140.27:8080/hls/tcm_sonyaat_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony
+"src_url":"http://103.70.140.27:8080/hls/tcm_sonyhd_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony Max
+"src_url":"http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8"
+
+#EXTINF:-1 ,Star Jalsha HD
+"src_url":"http://103.70.140.27:8080/hls/tcm_starjalsha_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony Ten 1
+"src_url":"http://103.70.140.27:8080/hls/tcm_ten1_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony Ten 2
+"src_url":"http://103.70.140.27:8080/hls/tcm_ten2_cm_ip.m3u8"
+
+#EXTINF:-1 ,Zee Bangla
+"src_url":"http://103.70.140.27:8080/hls/tcm_zeebangla_cm_ip.m3u8"
+
+#EXTINF:-1 ,Zee Cinema
+"src_url":"http://103.70.140.27:8080/hls/tcm_zeecinema_cm_ip.m3u8"
+
+#EXTINF:-1 ,Al Jazeera
+"src_url":"http://106.0.54.6:8080/hls/al_jazeera_cm_ip.m3u8"
+
+#EXTINF:-1 ,Channel 9
+"src_url":"http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8"
+
+#EXTINF:-1 ,Channel i
+"src_url":"http://106.0.54.6:8080/hls/channeli_cm_ip.m3u8"
+
+#EXTINF:-1 ,Star Sports 1
+"src_url":"http://106.0.54.6:8080/hls/cm_sports02.m3u8"
+
+#EXTINF:-1 ,Star Sports 1 (Backup)
+"src_url":"http://106.0.54.6:8080/hls/tcm_arSports1_cm_ip.m3u8"
+
+#EXTINF:-1 ,DBC News
+"src_url":"http://106.0.54.6:8080/hls/dbcnews_cm_ip.m3u8"
+
+#EXTINF:-1 ,Ekattor.tv
+"src_url":"http://106.0.54.6:8080/hls/ekator_cm_ip.m3u8"
+
+#EXTINF:-1 ,Gazi TV
+"src_url":"http://106.0.54.6:8080/hls/gtv_cm_ip.m3u8"
+
+#EXTINF:-1 ,Independent
+"src_url":"http://106.0.54.6:8080/hls/independent_cm_ip.m3u8"
+
+#EXTINF:-1 ,Jamuna Tv
+"src_url":"http://106.0.54.6:8080/hls/jamuna_cm_ip.m3u8"
+
+#EXTINF:-1 ,News 24
+"src_url":"http://106.0.54.6:8080/hls/news24_cm_ip.m3u8"
+
+#EXTINF:-1 ,Star Sports 1 HD
+"src_url":"http://106.0.54.6:8080/hls/StarSports1FHD.m3u8"
+
+#EXTINF:-1 ,BBC World News
+"src_url":"http://106.0.54.6:8080/hls/tcm_bbc_cm_ip.m3u8"
+
+#EXTINF:-1 ,Colors Bangla
+"src_url":"http://106.0.54.6:8080/hls/tcm_colorsbangla_cm_ip.m3u8"
+
+#EXTINF:-1 ,Colors
+"src_url":"http://106.0.54.6:8080/hls/tcm_colors_cm_ip.m3u8"
+
+#EXTINF:-1 ,PTV Sports
+"src_url":"http://106.0.54.6:8080/hls/tcm_live4_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony 8
+"src_url":"http://106.0.54.6:8080/hls/tcm_sonyaat_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony
+"src_url":"http://106.0.54.6:8080/hls/tcm_sonyhd_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony Max
+"src_url":"http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8"
+
+#EXTINF:-1 ,Star Jalsha HD
+"src_url":"http://106.0.54.6:8080/hls/tcm_starjalsha_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony Ten 1
+"src_url":"http://106.0.54.6:8080/hls/tcm_ten1_cm_ip.m3u8"
+
+#EXTINF:-1 ,Sony Ten 2
+"src_url":"http://106.0.54.6:8080/hls/tcm_ten2_cm_ip.m3u8"
+
+#EXTINF:-1 ,Zee Bangla
+"src_url":"http://106.0.54.6:8080/hls/tcm_zeebangla_cm_ip.m3u8"
+
+#EXTINF:-1 ,Zee Cinema
+"src_url":"http://106.0.54.6:8080/hls/tcm_zeecinema_cm_ip.m3u8"
