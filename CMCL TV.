@@ -36,10 +36,14 @@ http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="INDIAN MIXED",SONY Max
 http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN MIXED",Zee Cinema
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="NEWS",Al Jazeera
 http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="NEWS",CNN News
+http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Sports",Live Sports
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Sports",Live Sports 2
