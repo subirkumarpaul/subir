@@ -6,7 +6,7 @@ http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
 http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",Gazi TV HD [BD]
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",Maasraga TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA MIXED",Maasraga TV HD [BD]
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA MIXED",SOMOY TV [BD]
 http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
@@ -22,7 +22,7 @@ http://103.102.136.106:8080/cmcltv/news24-th.m3u8
 http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="BANGLA MIXED",DURONTO TV [BD]
 http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="BANGLA MIXED",Gaan Bangla [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="BANGLA MIXED",Gaan Bangla [BD]
 http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA MIXED",Zee Bangla SD [IN] (2)
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
@@ -36,6 +36,8 @@ http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="NEWS",Al Jazeera
+http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Live Sports
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
