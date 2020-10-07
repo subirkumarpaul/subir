@@ -1,0 +1,198 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,Channel 9
+http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
+
+#EXTINF:-1 ,Channel i
+http://106.0.54.6:8080/hls/channeli_cm_ip.m3u8
+
+
+#EXTINF:-1 ,Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+
+#EXTINF:-1 ,Gazi TV
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+
+#EXTINF:-1 ,Maasranga TV
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
+
+#EXTINF:-1 ,Channel i
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
+
+#EXTINF:-1 ,Gaanbangla TV
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
+
+#EXTINF:-1 ,Duronto TV
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+
+#EXTINF:-1 ,Somoy TV
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+
+#EXTINF:-1 ,Channel 24
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+
+#EXTINF:-1 ,Ekattor TV
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
+
+#EXTINF:-1 ,Jamuna TV
+http://103.102.136.106:8080/cmcltv/jamuna.m3u8
+
+#EXTINF:-1 ,DBC News
+http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
+
+#EXTINF:-1 ,Channel 9
+http://103.102.136.106:8080/cmcltv/channel9.m3u8
+
+#EXTINF:-1 ,Independent TV
+http://103.102.136.106:8080/cmcltv/independent.m3u8
+
+#EXTINF:-1 ,News 24
+http://103.102.136.106:8080/cmcltv/news24.m3u8
+
+#EXTINF:-1 ,al-jazeera
+http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
+
+#EXTINF:-1 ,Live Sports-01
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+
+#EXTINF:-1 ,Live Sports-02
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+
+#EXTINF:-1 ,Star Jalsha
+http://tvuk3.technohaat.com:6636/StarJalsha/video.m3u8?token=2-QvSjSlX2
+
+#EXTINF:-1 ,Zee Bangla
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+
+#EXTINF:-1 ,Al Jazeera
+http://103.70.140.27:8080/hls/al_jazeera_cm_ip.m3u8
+
+#EXTINF:-1 ,Channel Nine
+http://103.70.140.27:8080/hls/channel9_cm_ip.m3u8
+
+#EXTINF:-1 ,Channel i
+http://103.70.140.27:8080/hls/channeli_cm_ip.m3u8
+
+#EXTINF:-1 ,Star Sports 1
+http://103.70.140.27:8080/hls/cm_sports02.m3u8
+
+#EXTINF:-1 ,Star Sports 1 (Backup)
+http://103.70.140.27:8080/hls/tcm_arSports1_cm_ip.m3u8
+
+#EXTINF:-1 ,DBC News
+http://103.70.140.27:8080/hls/dbcnews_cm_ip.m3u8
+
+#EXTINF:-1 ,Ekattor.tv
+http://103.70.140.27:8080/hls/ekator_cm_ip.m3u8
+
+#EXTINF:-1 ,Independent
+http://103.70.140.27:8080/hls/independent_cm_ip.m3u8
+
+#EXTINF:-1 ,Jamuna Tv
+http://103.70.140.27:8080/hls/jamuna_cm_ip.m3u8
+
+#EXTINF:-1 ,News 24
+http://103.70.140.27:8080/hls/news24_cm_ip.m3u8
+
+#EXTINF:-1 ,BBC World News
+http://103.70.140.27:8080/hls/tcm_bbc_cm_ip.m3u8
+
+#EXTINF:-1 ,Colors Bangla
+http://103.70.140.27:8080/hls/tcm_colorsbangla_cm_ip.m3u8
+
+#EXTINF:-1 ,Colors
+http://103.70.140.27:8080/hls/tcm_colors_cm_ip.m3u8
+
+#EXTINF:-1 ,PTV Sports
+http://103.70.140.27:8080/hls/tcm_live4_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony 8
+http://103.70.140.27:8080/hls/tcm_sonyaat_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony
+http://103.70.140.27:8080/hls/tcm_sonyhd_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony Max
+http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
+
+#EXTINF:-1 ,Star Jalsha HD
+http://103.70.140.27:8080/hls/tcm_starjalsha_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony Ten 1
+http://103.70.140.27:8080/hls/tcm_ten1_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony Ten 2
+http://103.70.140.27:8080/hls/tcm_ten2_cm_ip.m3u8
+
+#EXTINF:-1 ,Zee Bangla
+http://103.70.140.27:8080/hls/tcm_zeebangla_cm_ip.m3u8
+
+#EXTINF:-1 ,Zee Cinema
+http://103.70.140.27:8080/hls/tcm_zeecinema_cm_ip.m3u8
+
+#EXTINF:-1 ,Al Jazeera
+http://106.0.54.6:8080/hls/al_jazeera_cm_ip.m3u8
+
+#EXTINF:-1 ,Star Sports 1
+http://106.0.54.6:8080/hls/cm_sports02.m3u8
+
+#EXTINF:-1 ,Star Sports 1 (Backup)
+http://106.0.54.6:8080/hls/tcm_arSports1_cm_ip.m3u8
+
+#EXTINF:-1 ,DBC News
+http://106.0.54.6:8080/hls/dbcnews_cm_ip.m3u8
+
+#EXTINF:-1 ,Ekattor.tv
+http://106.0.54.6:8080/hls/ekator_cm_ip.m3u8
+
+#EXTINF:-1 ,Gazi TV
+http://106.0.54.6:8080/hls/gtv_cm_ip.m3u8
+
+#EXTINF:-1 ,Independent
+http://106.0.54.6:8080/hls/independent_cm_ip.m3u8
+
+#EXTINF:-1 ,Jamuna Tv
+http://106.0.54.6:8080/hls/jamuna_cm_ip.m3u8
+
+#EXTINF:-1 ,News 24
+http://106.0.54.6:8080/hls/news24_cm_ip.m3u8
+
+#EXTINF:-1 ,Star Sports 1 HD
+http://106.0.54.6:8080/hls/StarSports1FHD.m3u8
+
+#EXTINF:-1 ,BBC World News
+http://106.0.54.6:8080/hls/tcm_bbc_cm_ip.m3u8
+
+#EXTINF:-1 ,Colors Bangla
+http://106.0.54.6:8080/hls/tcm_colorsbangla_cm_ip.m3u8
+
+#EXTINF:-1 ,Colors
+http://106.0.54.6:8080/hls/tcm_colors_cm_ip.m3u8
+
+#EXTINF:-1 ,PTV Sports
+http://106.0.54.6:8080/hls/tcm_live4_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony 8
+http://106.0.54.6:8080/hls/tcm_sonyaat_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony
+http://106.0.54.6:8080/hls/tcm_sonyhd_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony Max
+http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
+
+#EXTINF:-1 ,Star Jalsha HD
+http://106.0.54.6:8080/hls/tcm_starjalsha_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony Ten 1
+http://106.0.54.6:8080/hls/tcm_ten1_cm_ip.m3u8
+
+#EXTINF:-1 ,Sony Ten 2
+http://106.0.54.6:8080/hls/tcm_ten2_cm_ip.m3u8
+
+#EXTINF:-1 ,Zee Bangla
+http://106.0.54.6:8080/hls/tcm_zeebangla_cm_ip.m3u8
+
+#EXTINF:-1 ,Zee Cinema
+http://106.0.54.6:8080/hls/tcm_zeecinema_cm_ip.m3u8
