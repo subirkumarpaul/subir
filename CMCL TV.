@@ -4,8 +4,10 @@
 http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",CHANNEL 9 HD [BD]
 http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",Gazi TV HD [BD]
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA MIXED",Maasraga TV HD [BD]
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA MIXED",SOMOY TV [BD]
 http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA MIXED",CHANNEL 24 [BD]
@@ -20,6 +22,8 @@ http://103.102.136.106:8080/cmcltv/news24-th.m3u8
 http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="BANGLA MIXED",DURONTO TV [BD]
 http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="BANGLA MIXED",Gaan Bangla [BD]
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA MIXED",Zee Bangla SD [IN] (2)
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA MIXED",Colors Bangla SD
