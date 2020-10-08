@@ -2071,7 +2071,7 @@ http://175.41.46.15/15.m3u8
 #EXTINF:-1 group-title="175.41.46.15",16
 http://175.41.46.15/16.m3u8
 #EXTINF:-1,ss1
-http://digilptv.ddns.net:25461/live/rahman41/0302/661.m3u8
+
 
 #EXTINF:-1,Gazi TV
 http://103.132.180.245:8080/2/2020/10/03/02/06/06-06000.ts
