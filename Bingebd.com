@@ -52,6 +52,62 @@ https://ott.bingebd.com:443/live/ngrp:ekattor_tv_all/chunklist_b6442363.m3u8
 https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/chunklist_b6709377.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangladesi News",Independent TV
 https://ott.bingebd.com:443/live/ngrp:independent_tv_all/chunklist_b7342759.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesi News",DBC News
+https://ott.bingebd.com:443/live/ngrp:dbc_news_all/chunklist_b2543940.m3u8
+#EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangladesi News",Independent TV
+https://ott.bingebd.com:443/live/ngrp:independent_tv_all/chunklist_b7342759.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangladesi News",Somoy News
+https://ott.bingebd.com:443/live/ngrp:somoy_news_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangladesi News",Jamuna TV
+https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="Bangladesi News",Channel 24
+https://ott.bingebd.com:443/live/ngrp:channel_24_all/chunklist_b1228000.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
