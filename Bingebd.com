@@ -74,7 +74,7 @@ https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/chunklist_b6106524.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_aath_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
 https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/chunklist_b8240824.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla
 https://ott.bingebd.com:443/live/ngrp:colors_bangla_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Indian Bangla Entertainment ",Akaash Aath
 https://ott.bingebd.com:443/live/ngrp:dillagi_all/chunklist_b1228000.m3u8
