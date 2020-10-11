@@ -206,7 +206,7 @@ https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist_b2128000.m3u8
 https://ott.bingebd.com:443/live/ngrp:nick_jr_all/chunklist_b2514441.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla
 https://ott.bingebd.com:443/live/ngrp:sonic_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="Kids Channel",Sony Yay (Hindi)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="Kids Channel",Sony Yay (Bangla)
 https://ott.bingebd.com:443/live/ngrp:sony_yay_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids Channel",Discovery Kids (Hindi)
 https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
