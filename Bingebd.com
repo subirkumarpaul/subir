@@ -163,6 +163,8 @@ https://ott.bingebd.com:443/live/ngrp:hbo_all/chunklist_b2670202.m3u8
 https://ott.bingebd.com:443/live/ngrp:movies_now_all/chunklist_b2804244.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="English Movies Channel",Lotus Macau
 https://ott.bingebd.com/live/ngrp:macau_lotus_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="English Movies Channel",COMEDY CENTRAL
+https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Hinde Music",Zoom
 https://ott.bingebd.com:443/live/ngrp:zoom_all/chunklist_b2852500.m3u8
