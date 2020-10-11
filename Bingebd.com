@@ -189,7 +189,8 @@ https://ott.bingebd.com:443/live/ngrp:sony_yay_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids Channel",Discovery Kids (Hindi)
 https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
+https://ott.bingebd.com/live/ngrp:bbc_world_all/chunklist.m3u8
 
 
 
