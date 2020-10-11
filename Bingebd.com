@@ -140,6 +140,8 @@ https://ott.bingebd.com:443/live/ngrp:sony_bbc_earth_all/chunklist_b1228000.m3u8
 https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
 https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Information Channel",Nat Geo People
+https://ott.bingebd.com/live/ngrp:nat_geo_people_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Information Channel",TLC HD (English)
 https://ott.bingebd.com:443/live/ngrp:tlc_hd_all/chunklist_b7013554.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Information Channel",TLC (Hindi)
