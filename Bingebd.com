@@ -221,9 +221,23 @@ https://ott.bingebd.com/live/ngrp:cnn_all/chunklist.m3u8
 https://ott.bingebd.com/live/ngrp:dw_all/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="Pakistani Channel",PTV World
+https://ott.bingebd.com/live/ngrp:ptv_world_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU" group-title="Pakistani Channel",PTV Home
+https://ott.bingebd.com/live/ngrp:ptv_home_all/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani Channel",PTV Global
+https://ott.bingebd.com/live/ngrp:ptv_global_all/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="Pakistani Channel",PTV News
+https://ott.bingebd.com/live/ngrp:ptv_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU" group-title="Pakistani Channel",ARY Zindagi
+https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU" group-title="Pakistani Channel",ARY Digital
+https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBL2OUFeccg6m4LP6tyddk93ZdjqnBB5xUQ&usqp=CAU" group-title="Hinde News",APN
+https://ott.bingebd.com/live/ngrp:apn_news_all/chunklist.m3u8
 
 
 
