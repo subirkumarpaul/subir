@@ -199,6 +199,8 @@ https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
 https://ott.bingebd.com/live/ngrp:bbc_world_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="English News",Al Jazeera
 https://ott.bingebd.com/live/ngrp:al_jazeera_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="English News",CNN International
+https://ott.bingebd.com/live/ngrp:cnn_all/chunklist.m3u8
 
 
 
