@@ -247,6 +247,8 @@ https://ott.bingebd.com/live/ngrp:ptv_news_all/chunklist.m3u8
 https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU" group-title="Pakistani Channel",ARY Digital
 https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani Channel",Hum Sitery
+https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist_b3666069.m3u8
 
 
 
