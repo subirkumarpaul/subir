@@ -266,8 +266,6 @@ https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani Channel",Hum Sitery
 https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist_b3666069.m3u8
 
-
-
 #EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBL2OUFeccg6m4LP6tyddk93ZdjqnBB5xUQ&usqp=CAU" group-title="Hinde News",APN
 https://ott.bingebd.com/live/ngrp:apn_news_all/chunklist.m3u8
 
