@@ -134,12 +134,14 @@ https://ott.bingebd.com:443/live/ngrp:manoranjan_movies_all/chunklist_b1228000.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="Hinde Movies",Enter 10
 https://ott.bingebd.com/live/ngrp:enter_ten_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU" group-title="Hinde News",ABP News
-https://ott.bingebd.com/live/ngrp:abp_news_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU" group-title="Hinde News",DD News
-https://ott.bingebd.com/live/ngrp:dd_news_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRe1sBTbB2bFUDe4sZ2aV5rVZocvQ9sOqHxDPcVRx71mYTpNp8H&usqp=CAU" group-title="Hinde News",Zee News
 https://ott.bingebd.com/live/ngrp:zee_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwbxK3mKUlu4HA_6u51xe6JiZsPQzBfO7YsboRuRljnIY-o8pq&usqp=CAU" group-title="Hinde News",ABP News
+https://ott.bingebd.com/live/ngrp:abp_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBL2OUFeccg6m4LP6tyddk93ZdjqnBB5xUQ&usqp=CAU" group-title="Hinde News",APN
+https://ott.bingebd.com/live/ngrp:apn_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU" group-title="Hinde News",DD News
+https://ott.bingebd.com/live/ngrp:dd_news_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
 https://ott.bingebd.com:443/live/ngrp:sony_ten_1_all/chunklist_b8523798.m3u8
@@ -266,8 +268,6 @@ https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani Channel",Hum Sitery
 https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist_b3666069.m3u8
 
-#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBL2OUFeccg6m4LP6tyddk93ZdjqnBB5xUQ&usqp=CAU" group-title="Hinde News",APN
-https://ott.bingebd.com/live/ngrp:apn_news_all/chunklist.m3u8
 
 
 
