@@ -267,6 +267,8 @@ https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
 https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWHHLjY9PCgFEXvCfW7DKwJfOLmKa3PxgJrw&usqp=CAU" group-title="Pakistani Channel",ARY Muzik
 https://ott.bingebd.com:443/live/ngrp:ary_muzik_all/chunklist_b2128000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWHHLjY9PCgFEXvCfW7DKwJfOLmKa3PxgJrw&usqp=CAU" group-title="Pakistani Channel",ARY Muzik
+https://ott.bingebd.com:443/live/ngrp:ary_muzik_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani Channel",Hum Sitery
 https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist.m3u8
 
