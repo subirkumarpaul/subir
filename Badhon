@@ -1851,7 +1851,71 @@ http://175.41.46.15/15.m3u8
 #EXTINF:-1 group-title="175.41.46.15",16
 http://175.41.46.15/16.m3u8
 
-
+#EXTM3U
+#EXTINF:0, DBC NEWS
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:0, BOISHAKHI
+http://10.16.100.205/hls/boishakhi_720.m3u8
+#EXTINF:0, BIJOY TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:0, BANGLA TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:0, DIGI BANGLA
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:0, GTV
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:0, INDEPENDENT 
+http://10.16.100.203:8082/bangla/news_independent.m3u8
+#EXTINF:0, JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:0, ATN BANGLA
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:0, BANGLAVISION
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:0, BIJOY TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:0, CHANNEL 24
+http://10.16.100.205/hls/ch24.m3u8
+#EXTINF:0, CHANNEL I
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#EXTINF:0, CHANNEL 9
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
+#EXTINF:0, EKATTOR
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
+#EXTINF:0, EKUSHEY TV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:0, MOHONA TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:0, NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:0, NEWS 24
+http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:0, RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:0, SOMOY TV
+http://10.16.100.205/hls/somoy_tv.m3u8
+#EXTINF:0, MY TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:0, Duronto
+http://10.16.100.201/hindi/duronto_720_cm.m3u8
+#EXTINF:0, Peace Tv
+http://10.16.100.207:8082/sports/peacetv.m3u8
+#EXTINF:0, Aljazira
+http://10.16.100.204/hls/alja-zeera.m3u8
+#EXTINF:0, Gaan Bangla
+http://10.16.100.205/hls/gaanbangla_ctg.m3u8
+#EXTINF:0, Dhoom music
+http://10.16.100.201/hindi/dhoom_music.m3u8
+#EXTINF:0, Star Sports2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:0, Star Sports
+http://10.16.100.201/hindi/bdsp2in.m3u8
+#EXTINF:0, Sony Ten2
+http://10.16.100.207:8082/sports/cm_sonyten2.m3u8
+#EXTINF:0, Sony Ten 3
+http://10.16.100.201/hindi/cm_sonyten3.m3u8
+#EXTINF:0, Zee Cinema
+http://10.16.100.204/hls/zee_cinema_720.m3u8
 
 
 
