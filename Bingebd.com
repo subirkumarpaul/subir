@@ -26,25 +26,25 @@ https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangladesi Entertainment",Bijoy TV
 https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladesi Entertainment",Deepto TV HD
-https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Bangladesi Entertainment",Asian TV
-https://ott.bingebd.com:443/live/ngrp:asian_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:asian_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangladesi Entertainment",Ananda TV
-https://ott.bingebd.com:443/live/ngrp:probashibangla_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:probashibangla_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesi Entertainment",Boishakhi TV
-https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesi Entertainment",Bangla TV
-https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladesi Entertainment",Desh TV
-https://ott.bingebd.com:443/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:ott_desh_tv_mobile/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladesi Entertainment",SATV
-https://ott.bingebd.com:443/live/ngrp:sa_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:sa_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladesi Entertainment",Nagorik TV
-https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangladesi Entertainment",Mohona TV
-https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesi Entertainment",MY TV
-https://ott.bingebd.com:443/live/ngrp:my_tv_all/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:my_tv_all/subir.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangladesi News",ATN News
 https://ott.bingebd.com:443/live/ngrp:atn_news_all/chunklist.m3u8
