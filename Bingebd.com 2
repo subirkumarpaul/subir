@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangladesi National TV",BTV World
-https://ott.bingebd.com:443/live/ngrp:btv_world_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-btv_world623-ba7df-heb-f36be-f63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesi National TV",Sangsad TV
 https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
