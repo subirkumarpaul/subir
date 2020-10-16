@@ -14,7 +14,7 @@ https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-rtv623-ba7df-heb-f36be-f63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
-https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-gazi_tv623-ba7df-heb-f36be-f63-rha/playlist.m3u8
+https://https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-gazi_tv623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-maasranga623-ba7df-heb-f36be-f63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
@@ -73,21 +73,20 @@ https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
 https://ott.bingebd.com:443/live/ngrp:sony_aath_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
-https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-colors_bangla_hd623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla
-https://ott.bingebd.com:443/live/ngrp:colors_bangla_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-colors_bangla623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Indian Bangla Entertainment ",Akaash Aath
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-dillagi623-ba7df-heb-f36be-f63-rha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla Entertainment ",Ruposhi Bangla
-https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-ruposhi_bangla623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
-https://ott.bingebd.com:443/live/ngrp:jalsha_movies_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-jalsha_movies623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian Bangla Music",Sangeet Bangla
 https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="Indian Bangla Music",Dhoom Music
-https://ott.bingebd.com:443/live/ngrp:dhoom_music_all/chunklist.m3u8
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-dhoom_music623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla News",ABP Ananda
@@ -98,13 +97,13 @@ https://ott.bingebd.com:443/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hinde Entertainment",Star Plus
 https://ott.bingebd.com:443/live/ngrp:star_plus_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-https://ott.bingebd.com:443/live/ngrp:sony_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-sony623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hinde Entertainment",Sony SAB HD
 https://ott.bingebd.com:443/live/ngrp:sab_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV
 https://ott.bingebd.com/live/ngrp:zee_tv_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors HD
-https://ott.bingebd.com:443/live/ngrp:colors_hd_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-colors_hd623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors (Asia)
 https://ott.bingebd.com:443/live/ngrp:colors_asia_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Hinde Entertainment",Star Bharat (Asia)
@@ -113,13 +112,13 @@ https://ott.bingebd.com:443/live/ngrp:star_bharat_all/chunklist.m3u8
 https://ott.bingebd.com:443/live/ngrp:rishtey_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold HD
-https://ott.bingebd.com:443/live/ngrp:star_gold_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-star_gold623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold UK
-https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-star_gold_intl623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
 https://ott.bingebd.com:443/live/ngrp:movies_ok_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hinde Movies",Sony Max HD
-https://ott.bingebd.com:443/live/ngrp:sony_max_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-sony_max623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture
@@ -152,7 +151,7 @@ https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/chunklist.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery HD (English)
-https://ott.bingebd.com:443/live/ngrp:discovery_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-discovery623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Information Channel",Discovery Science (Hindi)
 https://ott.bingebd.com:443/live/ngrp:discovery_science_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Information Channel",Discovery Turbo (Hindi)
@@ -160,7 +159,7 @@ https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet (Hinde)
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-animal_planet623-ba7df-heb-f36be-f63-rha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Information Channel",Sony BBC Earth HD
-https://ott.bingebd.com:443/live/ngrp:sony_bbc_earth_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-sony_bbc_earth623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD
 https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
@@ -216,11 +215,12 @@ https://ott.bingebd.com:443/live/ngrp:vh1_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network (Hindi)
 https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids Channel",Pogo
-https://ott.bingebd.com:443/live/ngrp:pogo_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-pogo623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids Channel",NICK HD
 https://ott.bingebd.com:443/live/ngrp:nick_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (Bangla)
 https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-nickelodeon623-sjdfh-uiou-f36erxty-fort63-rha/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="Kids Channel",Nick Jr
 https://ott.bingebd.com:443/live/ngrp:nick_jr_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic (Bangla)
