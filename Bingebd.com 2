@@ -28,9 +28,9 @@ https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladesi Entertainment",Deepto TV HD
 https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Bangladesi Entertainment",Asian TV
-https://ott.bingebd.com:443/live/ngrp:asian_tv_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-asian_tv623-ba7df-heb-f36be-f63-rha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangladesi Entertainment",Ananda TV
-https://ott.bingebd.com:443/live/ngrp:probashibangla_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-probashibangla623-ba7df-heb-f36be-f63-rha/chunklist_b4683371.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesi Entertainment",Boishakhi TV
 https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesi Entertainment",Bangla TV
@@ -343,7 +343,6 @@ https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist.m3u8
 
 
 
-.
 
 
 
