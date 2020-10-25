@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:5
+#EXT-X-KEY:METHOD=AES-128,URI="wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCA3OjQ0OjQ5IEFNJmhhc2hfdmFsdWU9VHFuV1RtOU1nUHI3ODRmOTNlMzBBdz09JnZhbGlkbWludXRlcz0y"
+#EXTINF:4.004000,
+http://0nelive.hjkm.info:11991/ceres/hbohd/chunks.m3u8
+#EXTINF:4.004011,
+http://0nelive.hjkm.info:11991/ceres/hbohd/chunks.m3u8
+#EXTINF:4.004000,
+http://0nelive.hjkm.info:11991/ceres/hbohd/chunks.m3u8
+#EXTINF:4.004000,
+http://0nelive.hjkm.info:11991/ceres/hbohd/chunks.m3u8
