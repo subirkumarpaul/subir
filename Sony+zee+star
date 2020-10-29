@@ -1,12 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Star Gold UK
 http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
+http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus UK
-http://216.144.250.174/Star_Plus_HD/track-v1a1/index.m3u8
+http://208.115.215.42/Star_Plus_HD/track-v1a1/mono.m3u8
+http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Vijay UK
 http://216.144.250.174/Star_Vijay_hD/track-v1a1/index.m3u8
 #EXTINF:-1,SONY MAX2
-http://216.144.250.174/Sony_Max_02_Hd/index.m3u8
+http://208.115.215.42/Sony_Max_02_Hd/index.m3u8
+http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max HD
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max2
@@ -26,7 +29,8 @@ http://216.144.250.174/Zee_Classic_hD/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony Mix
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1,Sony Max HD
-http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+http://208.115.215.42/Sony_MaX_HD/playlist.m3u8
+http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max 2
