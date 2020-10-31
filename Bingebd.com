@@ -96,6 +96,8 @@ https://ott.bingebd.com:443/live/ngrp:dhoom_music_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla News",ABP Ananda
 https://ott.bingebd.com/live/ngrp:abp_ananda_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx0FDgqe-Q4KaRjcDklS6XNLczn87VaUJNdTmezhpzAvYi75tl&usqp=CAU" group-title="Indian Bangla News",Zee 24 Ghanta
+https://ott.bingebd.com/live/ngrp:zee_24_ghanta_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
 https://ott.bingebd.com:443/live/ngrp:star_plus_hd_all/chunklist.m3u8
