@@ -85,6 +85,9 @@ https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
 https://ott.bingebd.com:443/live/ngrp:jalsha_movies_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla Cinema
+https://ott.bingebd.com/live/ngrp:zee_bangla_cinema_all/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian Bangla Music",Sangeet Bangla
 https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/chunklist.m3u8
