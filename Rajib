@@ -2232,7 +2232,33 @@ http://digilptv.ddns.net:25461/live/rahman41/0302/661.m3u8
 http://103.132.180.245:8080/2/2020/10/03/02/06/06-06000.ts	
 
 #EXTINF:-1,ty	
-http://103.135.208.14:8082/79/index.m3u8	
+http://103.135.208.14:8082/79/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+#EXTINF:-1 group-title="Adult Channel",INT: BIG DICK
+http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
+#EXTINF:-1 group-title="Adult Channel",INT: BRUNETTE
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="Adult Channel",INT: GAY
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="Adult Channel",INT: TEEN
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="Adult Channel",INT: PORN STAR 
+http://live.redtraffic.xyz/pornstar.m3u8
+
 
 
 
