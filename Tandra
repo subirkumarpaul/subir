@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Sony Aath
+http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
+#EXTINF:-1,Sony Aath
+http://103.205.133.50/hls/sony8.m3u8
+#EXTINF:-1,Sony Aath
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1,Sony HD
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1,Sony
+http://103.205.133.50/hls/chs.m3u8
