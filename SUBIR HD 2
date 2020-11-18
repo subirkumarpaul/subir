@@ -1,34 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesi National TV",BTV National
-http://103.205.133.14/hls/btv.m3u8
 #EXTINF:-1,BTV National
-http://103.141.66.36/bpk-tv/10330/default/index.m3u8
+http://103.205.133.50/hls/btv.m3u8
 #EXTINF:-1,BTV World
-http://103.214.202.218:8081/live/btvworld/chunks.m3u8
+http://103.205.133.50/hls/btvworld.m3u8
 #EXTINF:-1,BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1,BTV World
-http://103.141.66.36/bpk-tv/10031/default/index.m3u8
-#EXTINF:-1,BTV World
-http://103.135.208.14/live/ibox/bd/22.m3u8
+http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
 #EXTINF:-1,BTV Chottogram
-http://103.141.66.36/bpk-tv/10335/default/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1,Sangsad TV
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1,Sangsad TV
-https://edge01.iptv.digijadoo.net:443/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1,Sangsad TV
-http://103.141.66.36/bpk-tv/10036/default/index.m3u8
-#EXTINF:-1 group-title="Bangladesi Entertainment",Gazi TV
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1,Gazi TV
-http://103.135.208.14/live/ibox/bd/5.m3u8
+http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8
 #EXTINF:-1,Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1,Gazi TV
-http://103.213.238.70:8080/live/gazi_tv/chunks.m3u8
+http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 #EXTINF:-1,Gazi TV
-http://103.141.66.36/bpk-tv/10328/default/index.m3u8
+http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1,Maasranga TV
