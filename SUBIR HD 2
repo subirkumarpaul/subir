@@ -372,8 +372,6 @@ http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/
 #EXTINF:-1,And Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,And Picture 
-http://103.205.133.50/hls/andpicture.m3u8
-#EXTINF:-1,And Picture 
 http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Cinema TV
 https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
