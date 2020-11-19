@@ -343,16 +343,16 @@ https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 #EXTINF:-1,Sony WAH
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zee Cinema
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+http://z5amshls.akamaized.net:80/zcinema/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zee Cinema
-http://43.230.123.21:8080/live/zee-cinema.m3u8
-#EXTINF:-1,Zee Cinema
-http://103.205.133.19/hls/zeecinema.m3u8
-#EXTINF:-1,Zee Cinema
-http://103.205.133.42:1935/live/zee_cinema_720/index.m3u8
-#EXTINF:-1,Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://103.205.133.50/hls/zeecinema.m3u8
+#EXTINF:-1,Zee Cinema USA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema UK
+http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 #EXTINF:-1,Zee Cinema HD
