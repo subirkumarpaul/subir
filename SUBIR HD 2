@@ -9,6 +9,28 @@ http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1,Sangsad TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+#EXTINF:-1,ATN Bangla
+http://103.205.133.50/hls/atnbangla.m3u8
+#EXTINF:-1,ATN Bangla
+http://master.beeiptv.com:8081/MB/atnbangla/playlist.m3u8
+#EXTINF:-1,Channel I HD
+http://master.beeiptv.com:8081/MB/channeli/playlist.m3u8
+#EXTINF:-1,Channel I HD
+http://103.205.133.50/hls/ichannel.m3u8
+#EXTINF:-1,Ekushey TV
+https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,Ekushey TV
+http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF:-1,Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,NTV
+http://master.beeiptv.com:8081/MB/ntv/playlist.m3u8
+#EXTINF:-1,NTV
+http://103.205.133.50/hls/ntv.m3u8
+#EXTINF:-1,RTV
+http://master.beeiptv.com:8081/MB/rtv/playlist.m3u8
+#EXTINF:-1,RTV
+http://103.205.133.50/hls/rtv.m3u8
 #EXTINF:-1,Gazi TV
 http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8
 #EXTINF:-1,Gazi TV
@@ -23,16 +45,14 @@ http://master.beeiptv.com:8081/MB/maasranga/playlist.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8
+#EXTINF:-1,Bangla Vision
+http://103.205.133.50/hls/banglavision.m3u8
+#EXTINF:-1,Bangla Vision
+http://master.beeiptv.com:8081/MB/banglavision/playlist.m3u8
 #EXTINF:-1,Duronto TV
 http://master.beeiptv.com:8081/MB/duronto/playlist.m3u8
 #EXTINF:-1,Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1,Ekushey TV
-https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,Ekushey TV
-http://103.205.133.50/hls/ekushey.m3u8
-#EXTINF:-1,Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
@@ -45,14 +65,8 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://master.beeiptv.com:8081/MB/asian/playlist.m3u8
 #EXTINF:-1,Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1,NTV
-http://master.beeiptv.com:8081/MB/ntv/playlist.m3u8
-#EXTINF:-1,NTV
-http://103.205.133.50/hls/ntv.m3u8
-#EXTINF:-1,RTV
-http://master.beeiptv.com:8081/MB/rtv/playlist.m3u8
-#EXTINF:-1,RTV
-http://103.205.133.50/hls/rtv.m3u8
+#EXTINF:-1,Channel S (UK)
+https://bdsl.jagobd.com/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
 http://master.beeiptv.com:8081/MB/boishakhi/playlist.m3u8
 #EXTINF:-1,Boishakhi TV
@@ -68,60 +82,18 @@ http://103.205.133.50/hls/satv.m3u8
 #EXTINF:-1,SATV
 http://master.beeiptv.com:8081BBll/satv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
-http://103.214.202.218:8081/live/nagorik/chunks.m3u8
+http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1,Nagorik TV
-http://103.141.66.36/bpk-tv/10451/default/index.m3u8
-#EXTINF:-1,Nagorik TV
-http://103.135.208.14/live/ibox/bd/100.m3u8
+http://103.205.133.50/hls/nagorik.m3u8
 #EXTINF:-1,Mohona TV
-http://103.214.202.218:8081/live/mohona/chunks.m3u8
+http://103.205.133.50/hls/mohonatv.m3u8
 #EXTINF:-1,Mohona TV
-http://103.141.66.36/bpk-tv/10011/default/index.m3u8
-#EXTINF:-1,Mohona TV
-http://103.135.208.14/live/ibox/bd/89.m3u8
-#EXTINF:-1,ATN Bangla
-http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
-#EXTINF:-1,ATN Bangla
-http://43.230.123.21:8080/live/atnbd1.m3u8
-#EXTINF:-1,ATN Bangla
-http://103.144.200.7:8080/hls/atnbangla/index.m3u8
-#EXTINF:-1,ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,ATN Bangla
-http://103.141.66.36/bpk-tv/10009/default/index.m3u8
-#EXTINF:-1,ATN Bangla
-http://103.135.208.14/live/ibox/bd/11.m3u8
-#EXTINF:-1,Bangla Vision
-http://103.214.202.218:8081/live/banglavision/chunks.m3u8
-#EXTINF:-1,Bangla Vision
-http://43.230.123.21:8080/live/banae3.m3u8
-#EXTINF:-1,Bangla Vision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1,Bangla Vision
-http://103.141.66.36/bpk-tv/10027/default/index.m3u8
-#EXTINF:-1,Bangla Vision
-http://103.205.133.19/hls/banglavision.m3u8
-#EXTINF:-1,Bangla Vision
-http://103.135.208.14/live/ibox/bd/25.m3u8
-#EXTINF:-1,Channel I HD
-http://103.214.202.218:8081/live/channeli/chunks.m3u8
-#EXTINF:-1,Channel I HD
-http://43.230.123.21:8080/live/chi.m3u8
-#EXTINF:-1,Channel I HD
-http://103.135.208.14/live/ibox/bd/17.m3u8
-#EXTINF:-1,Channel I HD
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1,Channel I HD
-http://103.141.66.36/bpk-tv/10026/default/index.m3u8
+http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8
 #EXTINF:-1,MY TV
-http://103.214.202.218:8081/live/mytv/chunks.m3u8
+http://103.205.133.50/hls/mytv.m3u8
 #EXTINF:-1,MY TV
-http://103.141.66.36/bpk-tv/10333/default/index.m3u8
-#EXTINF:-1,MY TV
-http://103.135.208.14/live/ibox/bd/28.m3u8
-#EXTINF:-1 group-title="IPTV Entertainment",Rang TV
+http://master.beeiptv.com:8081/MB/mytv/playlist.m3u8
+#EXTINF:-1,Rang TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 #EXTINF:-1,Jhankar TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
@@ -173,156 +145,80 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
 #EXTINF:-1,itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesi News",ATN News
-http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1,ATN News
-http://43.230.123.21:8080/live/ex-atnae.m3u8
+http://103.205.133.50/hls/atnnews.m3u8
 #EXTINF:-1,ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,ATN News
-http://103.144.200.7:8080/hls/atnnews/index.m3u8
-#EXTINF:-1,ATN News
-http://103.141.66.36/bpk-tv/10010/default/index.m3u8
-#EXTINF:-1,ATN News
-http://103.135.208.14/live/ibox/bd/102.m3u8
+http://master.beeiptv.com:8081/MB/atnnews/playlist.m3u8
 #EXTINF:-1,Ekattor TV
-http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1,Ekattor TV
-http://43.230.123.21:80/live/ekattor1.m3u8
-#EXTINF:-1,Ekattor TV
-http://103.135.208.14/live/ibox/bd/88.m3u8
-#EXTINF:-1,Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+http://103.205.133.50/hls/ekatoortv.m3u8
 #EXTINF:-1,News 24
-http://103.214.202.218:8081/live/news24-24/chunks.m3u8
+http://103.205.133.50/hls/news24.m3u8
 #EXTINF:-1,News 24
-http://103.135.208.14/live/ibox/bd/18.m3u8
+http://master.beeiptv.com:8081/MB/news24/playlist.m3u8
 #EXTINF:-1,DBC News
-http://103.214.202.218:8081/live/dbc/chunks.m3u8
+http://103.205.133.50/hls/dbcnews.m3u8
 #EXTINF:-1,DBC News
-http://43.230.123.21:8080/live/dbc.m3u8
-#EXTINF:-1,DBC News
-http://103.135.208.14/live/ibox/bd/27.m3u8
-#EXTINF:-1,DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1,DBC News
-http://103.141.66.36/bpk-tv/10256/default/index.m3u8
+http://master.beeiptv.com:8081/MB/dbcnews/playlist.m3u8
 #EXTINF:-1,Independent TV
-http://103.214.202.218:8081/live/independent/chunks.m3u8
-#EXTINF:-1,Independent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
-http://103.141.66.36/bpk-tv/10005/default/index.m3u8
-#EXTINF:-1,Independent TV
-http://103.135.208.14/live/ibox/bd/86.m3u8
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Somoy News
-http://103.214.202.218:8081/live/somoy/chunks.m3u8
-#EXTINF:-1,Somoy News
-http://103.205.133.42:1935/live/somoy_tv_720/index.m3u8
-#EXTINF:-1,Somoy News
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1,Somoy News
-http://103.141.66.36/bpk-tv/10030/default/index.m3u8
-#EXTINF:-1,Somoy News
-http://103.135.208.14/live/ibox/bd/15.m3u8
+http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8
 #EXTINF:-1,Jamuna TV
-http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+http://103.205.133.50/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna TV
-http://103.135.208.14/live/ibox/bd/16.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1,Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-http://103.144.200.7:8080/hls/jamunatv/index.m3u8
-#EXTINF:-1,Jamuna TV
-http://103.141.66.36/bpk-tv/10037/default/index.m3u8
+http://master.beeiptv.com:8081/MB/jamunatv/playlist.m3u8
 #EXTINF:-1,Channel 24
-http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
+http://master.beeiptv.com:8081/MB/channel24/playlist.m3u8
 #EXTINF:-1,Channel 24
-http://103.135.208.14/live/ibox/bd/21.m3u8
-#EXTINF:-1,Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1,Channel 24
-http://103.141.66.36/bpk-tv/10008/default/index.m3u8
+http://103.205.133.50/hls/channel24.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
+#EXTINF:-1,TBN 24
+http://fingerme.dg21bd.com:80/TBN24/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Movie Bangla
-http://103.214.202.218:8081/live/moviebangla/chunks.m3u8
-#EXTINF:-1,Movie Bangla
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+https://temponsky.jagobd.com/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,My Cinema
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1,MB TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mbtv.stream/chunks.m3u8
 #EXTINF:-1,Khusbo Bangla
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8
-#EXTINF:-1 group-title"Relagion Channel",ATN Islamic TV
-http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesi Music",ATN Music
-http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
+#EXTINF:-1,ATN Islamic TV
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1,ATN Music
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
-http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+http://103.205.133.50/hls/gaanbangla.m3u8
 #EXTINF:-1,Gaan Bangla
-http://103.118.79.114:1935/live/Shari/MTV-P/121.m3u8
-#EXTINF:-1,Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1,Gaan Bangla
-http://103.135.208.14/live/ibox/bd/10.m3u8
+http://master.beeiptv.com:8081/MB/gaanbangla/playlist.m3u8
 #EXTINF:-1,RTV Music
-http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
-http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
-#EXTINF:-1,Star Jslsha HD
-http://103.135.208.14/live/ibox/bd/3.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Star Jalsha HD
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha 
-http://103.111.120.46/hls/Star_Jalsha.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+#EXTINF:-1,Star Jslsha
+http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha
-http://103.205.133.14/hls/starjalsa.m3u8
+http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1,Zee Bangla HD
-http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1,Zee Bangla
-http://103.135.208.14/live/ibox/bd/37.m3u8
+http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
 #EXTINF:-1,Zee Bangla
-http://103.205.133.19/hls/zeebangla.m3u8
-#EXTINF:-1,Zee Bangla HD
-http://103.205.133.42:1935/live/zee_bangla_hd_720/index.m3u8
-#EXTINF:-1,Zee Bangla HD
-http://103.118.79.114:1935/live/Shari/MTV-P/124.m3u8
-#EXTINF:-1,Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,Zee Bangla
-http://103.141.66.36/bpk-tv/10185/default/index.m3u8
-#EXTINF:-1,Zee Bangla
-http://ccn.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
+http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1,Sony Aath
-http://103.205.133.42:1935/live/sony_aath_720/index.m3u8
+http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 #EXTINF:-1,Sony Aath
-http://103.118.79.114:1935/live/Shari/MTV-P/123.m3u8
-#EXTINF:-1,Sony Aath
-http://103.141.66.36/bpk-tv/10302/default/index.m3u8
-#EXTINF:-1,Sony Aath
-http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1,Sony Aath
-http://103.135.208.14/live/ibox/bd/36.m3u8
-#EXTINF:-1,Sony Aath
-http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
+http://103.205.133.50/hls/sony8.m3u8
 #EXTINF:-1,Colors Bangla HD
-http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8
 #EXTINF:-1,Colors Bangla
-http://163.172.29.246:8081/globeworld2020/colorsbangla/playlist.m3u8
-#EXTINF:-1,Colors Bangla
-http://103.135.208.14/live/ibox/bd/35.m3u8
-#EXTINF:-1,Colors Bangla
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1,Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+http://103.205.133.50/hls/etvbangla.m3u8
 #EXTINF:-1,Akaash Aath
-http://103.205.133.42:1935/live/akash_aath_720/index.m3u8
-#EXTINF:-1,Akaash Aath
-http://103.141.66.36/bpk-tv/10112/default/index.m3u8
-#EXTINF:-1,Akaash Aath
-http://103.118.79.114:1935/live/Shari/MTV-P/130.m3u8
+https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://103.141.66.36/bpk-tv/10111/default/index.m3u8
 #EXTINF:-1,Ruposhi Bangla
