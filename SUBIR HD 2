@@ -634,17 +634,17 @@ https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1,Zoom
 http://103.135.208.14/live/ibox/bd/14.m3u8
 #EXTINF:-1,Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zing
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1,Zing
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 #EXTINF:-1,Zing
-http://103.205.133.19/hls/zing.m3u8
+http://103.205.133.50/hls/zing.m3u8
 #EXTINF:-1,Zing
 http://103.118.79.114:1935/live/Shari/MTV-P/322.m3u8
 #EXTINF:-1,B4U Music
-https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 #EXTINF:-1,B4U Music
@@ -652,23 +652,23 @@ http://103.118.79.114:1935/live/Shari/MTV-P/185.m3u8
 #EXTINF:-1,B4U Music
 http://103.135.208.14/live/ibox/bd/108.m3u8
 #EXTINF:-1,Music India
-http://103.205.133.42:1935/live/music_india_720/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1,Music India
-http://103.141.66.36/bpk-tv/10315/default/index.m3u8
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1,Music India
 http://103.118.79.114:1935/live/Shari/MTV-P/190.m3u8
 #EXTINF:-1,Music India
 http://103.135.208.14/live/ibox/bd/103.m3u8
 #EXTINF:-1,9xM
-http://103.205.133.42:1935/live/9xm_720/index.m3u8
+https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,9xM
-http://103.141.66.36/bpk-tv/10266/default/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9xM
 http://103.205.133.19/hls/9xm.m3u8
 #EXTINF:-1,9xM
 http://103.135.208.14/live/ibox/bd/90.m3u8
 #EXTINF:-1,9X Jalwa
-http://103.141.66.36/bpk-tv/10283/default/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,9X Jalwa
 http://103.205.133.42:1935/live/9xm_jalwa_720/index.m3u8
 #EXTINF:-1,Sony Mix
@@ -694,7 +694,7 @@ http://103.144.200.7:8080/hls/mtvbts/index.m3u8
 #EXTINF:-1,MTV Beates
 http://103.141.66.36/bpk-tv/10178/default/index.m3u8
 #EXTINF:-1,E24 
-http://103.205.133.19/hls/e24.m3u8
+https://load.airtelxstream.in/e24/smil:common.smil/manifest.m3u8
 #EXTINF:-1,E24
 http://103.118.79.114:1935/live/Shari/MTV-P/189.m3u8
 #EXTINF:-1,UTV Bindass 
