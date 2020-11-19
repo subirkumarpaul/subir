@@ -230,143 +230,77 @@ https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1,Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1,DD Bangla
-http://103.205.133.42:1935/live/dd_bangla_720/index.m3u8
-#EXTINF:-1,DD Bangla
-http://103.141.66.36/bpk-tv/10336/default/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla Movies",Jalsha Movies
-http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
+https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Jalsha Movies
-http://103.135.208.14/live/ibox/bd/39.m3u8
-#EXTINF:-1,Jalsha Movies
-http://ccn.anytv.live:8080/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,Jalsha Movies HD
-http://175.41.46.16:8081/hls/4.m3u8
+http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://43.230.123.21:8080/live/zee-cinema-bangla.m3u8
+http://master.beeiptv.com:8081/MB/zeebanglacinema/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://103.205.133.42:1935/live/zee_bangla_cinema_720/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-http://103.141.66.36/bpk-tv/10263/default/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1,Tele Film
-http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
-#EXTINF:-1,Tollywood TV
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla Music",Sangeet Bangla
-http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
+http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1,Khusbo Bangla 
+https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1,Sangeet Bangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1,Sangeet Bangla
-http://103.135.208.14/live/ibox/bd/13.m3u8
-#EXTINF:-1,Sangeet Bangla
-http://103.141.66.36/bpk-tv/10129/default/index.m3u8
-#EXTINF:-1,Sangeet Bangla
-http://103.118.79.114:1935/live/Shari/MTV-P/176.m3u8
+http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
-http://103.213.238.70:8080/live/dhoom_music/chunks.m3u8
+http://103.205.133.50/hls/dhoommusic.m3u8
 #EXTINF:-1,Dhoom Music
-http://103.141.66.36/bpk-tv/10113/default/index.m3u8
-#EXTINF:-1,Dhoom Music
-http://103.205.133.19/hls/dhoommusic.m3u8
-#EXTINF:-1,Fatafati Music
-https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
-#EXTINF:-1,Bangla Takies
-http://103.141.66.36/bpk-tv/10081/default/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla News",News 18 Bangla
+https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Zee 24 Ghonta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee 24 Ghonta
-http://103.118.79.114:1935/live/Shari/MTV-P/192.m3u8
 #EXTINF:-1,Bangla Time
-http://103.205.133.19/hls/banglatime.m3u8
-#EXTINF:-1,APB Ananda
+http://103.205.133.50/hls/banglatime.m3u8
+#EXTINF:-1,Bangla Time
+https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
+#EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1,Kolkata TV
-https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
-#EXTINF:-1,Kolkata TV
-http://103.118.79.114:1935/live/Shari/MTV-P/320.m3u8
-#EXTINF:-1,R Plus News
-http://103.141.66.36/bpk-tv/10078/default/index.m3u8
-#EXTINF:-1,R Plus News
-https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-#EXTINF:-1 group-title="Hinde Channel",Star Plus HD
-http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
-#EXTINF:-1,Star Plus
-http://103.135.208.14/live/ibox/bd/41.m3u8
-#EXTINF:-1,Star Plus
-https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1,ABP Ananda
+https://load.airtelxstream.in/abpananda/smil:common.smil/playlist.m3u8?DVR
+#EXTINF:-,Kolkata TV
+https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,News Time Bangla
+https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
+#EXTINF:-1,Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net:443/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:-1,Star Plus HD
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+https://dx3.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD
+http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 #EXTINF:-1,Star Plus
-http://103.118.79.114:1935/live/Shari/MTV-P/134.m3u8
-#EXTINF:-1,Star Plus
-http://ccn.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony TV
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-#EXTINF:-1,Sony TV
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
-#EXTINF:-1,Sony TV
-http://103.135.208.14/live/ibox/bd/43.m3u8
-#EXTINF:-1,Sony TV
-http://103.205.133.42:1935/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1,Sony TV
-http://103.118.79.114:1935/live/Shari/MTV-P/133.m3u8
-#EXTINF:-1,Sony TV
-http://103.111.120.46/hls/Zee_Bangla.m3u8
-#EXTINF:-1,Sony TV
-http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
+http://103.205.133.50/hls/chsp.m3u8
 #EXTINF:-1,Sony TV HD
-http://103.141.66.36/bpk-tv/10401/default/index.m3u8
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1,Sony TV
+http://103.205.133.50/hls/chs.m3u8
+#EXTINF:-1,Sony SAB HD
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1,Sony SAB
-http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1,Sony SAB
-http://103.135.208.14/live/ibox/bd/45.m3u8
-#EXTINF:-1,Sony SAB
-http://103.205.133.42:1935/live/sony_sab_720/index.m3u8
-#EXTINF:-1,Sony SAB
-http://103.141.66.36/bpk-tv/10234/default/index.m3u8
-#EXTINF:-1,Sony SAB
-http://103.205.133.19/hls/sonysab.m3u8
+http://103.205.133.50/hls/sonysab.m3u8
 #EXTINF:-1,Sony Pal
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15/master_664.m3u8
-#EXTINF:-1,Zee TV
-http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
-#EXTINF:-1,Zee TV
-http://43.230.123.21:8080/live/zee-tv.m3u8
-#EXTINF:-1,Zee TV
-http://103.205.133.19/hls/zeetv.m3u8
-#EXTINF:-1,Zee TV
-http://103.118.79.114:1935/live/Shari/MTV-P/135.m3u8
-#EXTINF:-1,Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 #EXTINF:-1,Zee TV HD
-http://103.205.133.42:1935/live/zee_tv_hd_720/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 #EXTINF:-1,Zee TV
-http://103.141.66.36/bpk-tv/10062/default/index.m3u8
-#EXTINF:-1,Zee TV HD
-http://103.141.66.36/bpk-tv/10403/default/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 #EXTINF:-1,Zee TV
-http://103.135.208.14/live/ibox/bd/51.m3u8
-#EXTINF:-1,Zee TV HD (Canada)
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee TV (Asia)
+http://103.205.133.50/hls/zeetv.m3u8
+#EXTINF:-1,Zee TV
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee TV (UK)
-http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee TV HD (USA)
+#EXTINF:-1,Zee TV HD Canada
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Colors (Asia)
-https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:-1,Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+#EXTINF:-1,Colors HD
+http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1,Colors
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Colors
