@@ -38,7 +38,7 @@ http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1,Gazi TV
 http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 #EXTINF:-1,Gazi TV
-http://103.132.180.245:8080/2/index.m3u8
+http://103.132.180.245:8080/1/index.m3u8
 #EXTINF:-1,Maasranga TV
 http://master.beeiptv.com:8081/MB/maasranga/playlist.m3u8
 #EXTINF:-1,Maasranga TV
@@ -59,6 +59,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.50/hls/deeptotv.m3u8
 #EXTINF:-1,Deepto TV HD
 http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8
+#EXTINF:-1,Deepto TV HD
+http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1,Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,Asian TV
@@ -302,75 +304,45 @@ http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 #EXTINF:-1,Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1,Colors
-http://103.111.120.46/hls/Colors.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1,Colors
-http://103.118.79.114:1935/live/Shari/MTV-P/139.m3u8
-#EXTINF:-1,Colors
-http://103.135.208.14/live/ibox/bd/42.m3u8
+http://103.205.133.50/hls/chc.m3u8
 #EXTINF:-1,And TV
-http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1,And TV
-http://103.205.133.42:1935/live/live/ntv_720/index.m3u8
-#EXTINF:-1,And TV
-http://103.141.66.36/bpk-tv/10028/default/index.m3u8
-#EXTINF:-1,And TV HD
-http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-#EXTINF:-1,And TV
-http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1,And TV
-http://103.135.208.14/live/ibox/bd/47.m3u8
-#EXTINF:-1,And TV
-http://45.120.188.76:8080/0.ts
+http://103.205.133.50/hls/andtv.m3u8
 #EXTINF:-1,Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1,Star Bharat
-http://103.205.133.19/hls/starbharat.m3u8
-#EXTINF:-1,Star Bharat
-http://103.135.208.14/live/ibox/bd/50.m3u8
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:-1,Colors Rishtey
-https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 #EXTINF:-1,Big Magic
-http://103.141.66.36/bpk-tv/10280/default/index.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigmagic/index.m3u8
+#EXTINF:-1,Big Ganga
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigganga/index.m3u8
 #EXTINF:-1,DD National
-http://103.141.66.36/bpk-tv/10265/default/index.m3u8
-#EXTINF:-1 group-title="Hinde Movies",Star Gold HD
-http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
+https://load.airtelxstream.in/dd1/smil:common.smil/manifest.m3u8 op
+#EXTINF:-1,Star Gold HD
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 http://103.135.208.14/live/ibox/bd/40.m3u8
 #EXTINF:-1,Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1,Star Gold
-http://103.118.79.114:1935/live/Shari/MTV-P/141.m3u8
-#EXTINF:-1,Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1,Star Gold 2
-http://103.135.208.14/live/ibox/bd/99.m3u8
+#EXTINF:-1,Star Gold HD
+http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold Select
-http://43.230.123.21:8080/live/star-gold-select.m3u8
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1,Sony Max HD
-http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1,Sony Max
-http://103.135.208.14/live/ibox/bd/44.m3u8
-#EXTINF:-1,Sony Max
-http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Max HD
-http://103.135.208.14/live/ibox/bd/107.m3u8
-#EXTINF:-1,Sony Max HD
-http://103.141.66.36/bpk-tv/10151/default/index.m3u8
-#EXTINF:-1,Sony Max
-http://103.118.79.114:1935/live/Shari/MTV-P/140.m3u8
-#EXTINF:-1,Sony Max
-http://103.205.133.19/hls/sonymax.m3u8
-#EXTINF:-1,SONY SET MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_664.m3u8
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Max 2
-http://43.230.123.21:8080/live/sony-max-2.m3u8
+https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Max 2
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 #EXTINF:-1,Sony WAH
-http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,Zee Cinema
