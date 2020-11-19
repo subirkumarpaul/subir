@@ -220,19 +220,15 @@ http://103.205.133.50/hls/etvbangla.m3u8
 #EXTINF:-1,Akaash Aath
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Ruposhi Bangla
-http://103.141.66.36/bpk-tv/10111/default/index.m3u8
+http://103.205.133.50/hls/ruposhibangla.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1,R Plus Gold
-http://103.141.66.36/bpk-tv/10181/default/index.m3u8
-#EXTINF:-1,R Plus Gold
-http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
+https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1,Orange Bangla
-http://streamidvo.multitvsolution.in/live/OrangeTV-b/p4.m3u8
-#EXTINF:-1,Uttar Bangla
-http://209.58.164.245/uttarbanglahls/live.m3u8
-#EXTINF:-1,Tara Bangla
-https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+#EXTINF:-1,Enter 10 Bangla
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1,DD Bangla
 http://103.205.133.42:1935/live/dd_bangla_720/index.m3u8
 #EXTINF:-1,DD Bangla
