@@ -378,13 +378,7 @@ http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Cinema TV
 https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF:-1,B4U Movies
-http://103.141.66.36/bpk-tv/10331/default/index.m3u8
-#EXTINF:-1,B4U Movies
 http://103.205.133.50/hls/b4umovies.m3u8
-#EXTINF:-1,B4U Kadak
-http://103.141.66.36/bpk-tv/10312/default/index.m3u8
-#EXTINF:-1,B4U Kadak
-http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Enter 10
 https://load.airtelxstream.in/enterr10/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Bflix
@@ -407,8 +401,6 @@ https://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1,Shemaroo Hindi TV
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BOLLYWOOD CLASSIC
