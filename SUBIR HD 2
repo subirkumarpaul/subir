@@ -24,11 +24,9 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8
 #EXTINF:-1,Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://master.beeiptv.com:8081/MB/duronto/playlist.m3u8
 #EXTINF:-1,Duronto TV
-http://103.141.66.36/bpk-tv/10226/default/index.m3u8
-#EXTINF:-1,Duronto TV
-http://103.135.208.14/live/ibox/bd/64.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1,Ekushey TV
 https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Ekushey TV
@@ -65,16 +63,10 @@ http://103.205.133.50/hls/banglatv.m3u8
 http://master.beeiptv.com:8081/MB/banglatv/playlist.m3u8
 #EXTINF:-1,Desh TV
 http://master.beeiptv.com:8081/MB/desh/playlist.m3u8
-#EXTINF:-1,Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1,Desh TV
-http://103.141.66.36/bpk-tv/10038/default/index.m3u8
 #EXTINF:-1,SATV
-http://103.214.202.218:8081/live/satv-22/chunks.m3u8
+http://103.205.133.50/hls/satv.m3u8
 #EXTINF:-1,SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1,SATV
-http://103.135.208.14/live/ibox/bd/87.m3u8
+http://master.beeiptv.com:8081BBll/satv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1,Nagorik TV
