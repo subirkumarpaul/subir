@@ -661,126 +661,26 @@ http://103.205.133.50/hls/zeesalaam.m3u8
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist.m3u8
 #EXTINF:-1,BBC World
 http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
-#EXTINF:-1,BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1,BBC World
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,BBC World
-http://103.118.79.114:1935/live/Shari/MTV-P/164.m3u8
-#EXTINF:-1,BBC World
-http://43.231.22.238:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
-#EXTINF:-1,BBC World
-http://103.135.208.14/live/ibox/bd/68.m3u8
-#EXTINF:-1,CNN International
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1,CNN International
-http://103.135.208.14/live/ibox/bd/106.m3u8
 #EXTINF:-1,Al Jazeera
-https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+https://load.airtelxstream.in/aljazeera/smil:common.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera
-http://103.205.133.42:1935/live/aljazeera_720/index.m3u8
-#EXTINF:-1,Al Jazeera
-http://103.141.66.36/bpk-tv/10051/default/index.m3u8
-#EXTINF:-1,Al Jazeera
-http://103.135.208.14/live/ibox/bd/95.m3u8
-#EXTINF:-1,Arirang World
-http://103.205.133.42:1935/live/arirang_720/index.m3u8
-#EXTINF:-1,Arirang World
-http://103.141.66.36/bpk-tv/10128/default/index.m3u8
-#EXTINF:-1,CGTN
-http://103.205.133.42:1935/live/cgtn_720/index.m3u8
-#EXTINF:-1,DW
-http://103.141.66.36/bpk-tv/10057/default/index.m3u8
-#EXTINF:-1,DW
-http://103.205.133.42:1935/live/dw_720/index.m3u8
-#EXTINF:-1,DW
-http://103.135.208.14/live/ibox/bd/105.m3u8
-#EXTINF:-1,DW TV Asia
-http://103.205.133.42:1935/live/dw_tv_asia_720/index.m3u8
-#EXTINF:-1,DW TV Asia
-http://103.141.66.36/bpk-tv/10059/default/index.m3u8
-#EXTINF:-1,DW TV Asia
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1,NHK World
-http://103.205.133.42:1935/live/nhk_world_720/index.m3u8
-#EXTINF:-1,NHK World
-https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-#EXTINF:-1,NHK World
-http://103.135.208.14/live/ibox/bd/75.m3u8
-#EXTINF:-1,TV5 Monde Asia
-http://103.205.133.42:1935/live/tv5_monde_720/index.m3u8
-#EXTINF:-1,TV5 Monde Asia
-http://103.141.66.36/bpk-tv/10056/default/index.m3u8
-#EXTINF:-1,CNBC
-https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-#EXTINF:-1,Euro News
-https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-#EXTINF:-1,Euro News
-http://103.205.133.42:1935/live/euro_news_720/index.m3u8
-#EXTINF:-1,Euro News
-http://103.141.66.36/bpk-tv/10211/default/index.m3u8
-#EXTINF:-1,Euro News
-http://103.135.208.14/live/ibox/bd/104.m3u8
-#EXTINF:-1,Rai Italia
-http://103.205.133.42:1935/live/rai_italia_720/index.m3u8
-#EXTINF:-1,Rai Italia
-http://103.141.66.36/bpk-tv/10209/default/index.m3u8
-#EXTINF:-1,Rai Italia
-https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
-#EXTINF:-1,CNA News
-https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:-1,Australia Plus
-http://103.205.133.42:1935/live/australia_plus_720/index.m3u8
-#EXTINF:-1,Wion TV
-http://103.205.133.42:1935/live/wion_tv_720/index.m3u8
-#EXTINF:-1,RT
-http://103.141.66.36/bpk-tv/10058/default/index.m3u8
-#EXTINF:-1,YTN World
-http://103.141.66.36/bpk-tv/10135/default/index.m3u8
-#EXTINF:-1,YTN World
-http://103.135.208.14/live/ibox/bd/74.m3u8
-#EXTINF:-1,FR 24
-http://103.141.66.36/bpk-tv/10232/default/index.m3u8
-#EXTINF:-1,Times Now
-http://103.135.208.14/live/ibox/bd/52.m3u8
-#EXTINF:-1,Care World
-http://103.141.66.36/bpk-tv/10176/default/index.m3u8
-#EXTINF:-1 group-title="China Channel",CCTV 4
-http://103.205.133.42:1935/live/cctv_4_720/index.m3u8
-#EXTINF:-1 group-title="Kids Channel",Cartoon Network HD+
-http://103.118.79.114:1935/live/Shari/MTV-P/170.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,DW TV
+https://dwstream4-lh.akamaihd.net:443/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,Cartoon Network
+http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1,Cartoon Network (India)
-http://202.163.117.6:9981/stream/channelid/630600262.srt
-#EXTINF:-1,Cartoon Network HD (India)
-https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
-#EXTINF:-1,Cartoon Network (Pakistan)
-http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
+#EXTINF:-1,Cartoon Network HD
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Cartoon Network 
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1,Disny XD
-http://103.118.79.114:1935/live/Shari/MTV-P/171.m3u8
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,POGO
-http://45.120.188.207:80/0.ts
-#EXTINF:-1,Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196.srt
-#EXTINF:-1,Baby TV
-http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
-#EXTINF:-1,Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1,NICK
-http://103.135.208.14/live/ibox/bd/57.m3u8
-#EXTINF:-1,NICK
-http://103.118.79.114:1935/live/Shari/MTV-P/174.m3u8
-#EXTINF:-1,NICK
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1,NICK HD+
-https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1,Sonic
-https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
-#EXTINF:-1,Sonic
-http://103.135.208.14/live/ibox/bd/58.m3u8
+http://dx3.gcdn.co/kids-POGO/index.m3u8
 #EXTINF:-1,Nick Jr
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 #EXTINF:-1,Nick Jr
 http://103.135.208.14/live/ibox/bd/85.m3u8
 #EXTINF:-1,SPACETOON
