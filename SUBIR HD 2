@@ -499,40 +499,42 @@ http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 #EXTINF:-1,Fox Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://103.135.208.14/live/ibox/bd/9.m3u8
 #EXTINF:-1,BT Sports 1
-https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 2
-https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 3
-https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
-#EXTINF:-1,Willow cricket
-http://43.230.123.21:8080/live/willow-cric.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 #EXTINF:-1,PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1,Bein Sports USA
+http://dx3.gcdn.co/BEINSPORTSES/index.m3u8
 #EXTINF:-1,Bein Sports 1
-http://43.230.123.21:8080/bein-sports-1.m3u8
-#EXTINF:-1,Bean Sports 2
-http://43.230.123.21:8080/live/bein-sports-2.m3u8
-#EXTINF:-1,Bein Sports 11
-http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:-1,Bein Sports FR 1
-http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
-#EXTINF:-1,Dubai Sports
-http://103.141.66.36/bpk-tv/10316/default/index.m3u8
+http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
+#EXTINF:-1,Bein Sports 2
+http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
+#EXTINF:-1,Bein Sports 4
+http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
+#EXTINF:-1,Bein Sports 5
+http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
+#EXTINF:-1,Bein Sports Xtra (720p)
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1,FC Bayern TV Live
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+#EXTINF:-1,Real Madrid TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Titas Sports
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 group-title="Information Channel",Discovery (Hindi)
-http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
-#EXTINF:-1,Discovery (Hindi)
-http://103.135.208.14/live/ibox/bd/59.m3u8
-#EXTINF:-1,Discovery
-http://43.230.123.21:8080/live/discovery.m3u8
-#EXTINF:-1,Discovery
-http://103.205.133.42:1935/live/discovery_720/index.m3u8
-#EXTINF:-1,Discovery HD
-http://103.205.133.42:1935/live/discovery_hd_720/index.m3u8
+#EXTINF:-1,Discovery HD (Bangla)
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
+#EXTINF:-1,Discovery (Bangla)
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+#EXTINF:-1,Discovery (Bangla)
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1,Discovery (English)
+https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
+#EXTINF:-1,Discovery (Hinde)
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1,Discovery HD (Bangla)
 http://103.118.79.114:1935/live/Shari/MTV-P/167.m3u8
 #EXTINF:-1,Discovery
