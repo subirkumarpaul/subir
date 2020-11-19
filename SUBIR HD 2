@@ -375,10 +375,12 @@ http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 http://103.205.133.50/hls/andpicture.m3u8
 #EXTINF:-1,And Picture 
 http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Cinema TV
+https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF:-1,B4U Movies
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
 #EXTINF:-1,B4U Movies
-http://103.205.133.19/hls/b4umovies.m3u8
+http://103.205.133.50/hls/b4umovies.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 #EXTINF:-1,B4U Kadak
