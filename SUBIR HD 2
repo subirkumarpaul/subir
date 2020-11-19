@@ -386,29 +386,23 @@ http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Enter 10
-http://103.141.66.36/bpk-tv/10137/default/index.m3u8
+https://load.airtelxstream.in/enterr10/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Bflix
-http://103.205.133.42:1935/live/bflix_720/index.m3u8
-#EXTINF:-1,Bflix
-http://103.118.79.114:1935/live/Shari/MTV-P/144.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Manoranjan TV
-https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
-#EXTINF:-1,Manoranjan TV
-http://103.118.79.114:1935/live/Shari/MTV-P/321.m3u8
-#EXTINF:-1,Manoranjan TV
-http://103.135.208.14/live/ibox/bd/12.m3u8
-#EXTINF:-1,Monoranjan Grand
-http://103.141.66.36/bpk-tv/10103/default/index.m3u8
-#EXTINF:-1,Monoranjan Movies
-http://103.141.66.36/bpk-tv/10127/default/index.m3u8
-#EXTINF:-1,ABZY Movies
-http://103.141.66.36/bpk-tv/10076/default/index.m3u8
-#EXTINF:-1,ABZY Dhakad
-http://103.141.66.36/bpk-tv/10191/default/index.m3u8
+https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+#EXTINF:-1,Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:-1,Housefull Movies
+https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
 #EXTINF:-1,Wow Cinema
-http://103.205.133.19/hls/wowcinema.m3u8
+http://103.205.133.50/hls/wowcinema.m3u8
+#EXTINF:-1,Moha Movies
+https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+#EXTINF:-1,Mini Plax
+https://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
 #EXTINF:-1,SHEMAROO CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,Bollywood Premier
@@ -419,7 +413,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="Sports",Star Sports 1
+#EXTINF:-1,Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.118.79.114:1935/live/Shari/MTV-P/161.m3u8
