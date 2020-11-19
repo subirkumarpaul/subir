@@ -145,7 +145,7 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 #EXTINF:-1,Pan Vision TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF:-1,itv
+#EXTINF:-1,Itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ATN News
 http://103.205.133.50/hls/atnnews.m3u8
@@ -297,6 +297,8 @@ http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Anmol
+http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1,Colors HD
@@ -323,12 +325,6 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigganga
 https://load.airtelxstream.in/dd1/smil:common.smil/manifest.m3u8 op
 #EXTINF:-1,Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold
-http://103.135.208.14/live/ibox/bd/40.m3u8
-#EXTINF:-1,Star Gold
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,Star Gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1,Star Gold HD
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold Select
@@ -353,54 +349,32 @@ http://103.205.133.50/hls/zeecinema.m3u8
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema UK
 http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema
-http://103.141.66.36/bpk-tv/10180/default/index.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://103.141.66.36/bpk-tv/10430/default/index.m3u8
-#EXTINF:-1,Zee Cinema
-http://103.118.79.114:1935/live/Shari/MTV-P/137.m3u8
-#EXTINF:-1,Zee Cinema USA
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema MEAN
-http://z5amshls.akamaized.net/zeecinemame/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Zest
+https://z5amshls.akamaized.net/zzesthd/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Colors Cineplex UK
-http://178.159.5.10:16
+http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UTV Action
-http://202.163.117.6:9981/stream/channelid/135894982,srt
+http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1,UTV Movies
-http://202.163.117.6:9981/stream/channelid/1095695221.srt
-#EXTINF:-1,UTV Movies
-http://103.135.208.14/live/ibox/bd/7.m3u8
+http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1,Zee Action
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1,Zee Action
-http://103.205.133.42:1935/live/zee_action_720/index.m3u8
-#EXTINF:-1,Zee Action
-http://103.141.66.36/bpk-tv/10337/default/index.m3u8
-#EXTINF:-1,Zee Action
-http://103.205.133.19/hls/zeeaction.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1,Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
-http://103.141.66.36/bpk-tv/10104/default/index.m3u8
-#EXTINF:-1,Zee Bollywood
-https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1,Zee Bollywood
-http://103.135.208.14/live/ibox/bd/48.m3u8
-#EXTINF:-1,And Picture
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema
+https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
+#EXTINF:-1,Zee Bioscop
+http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,And Picture HD
-http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF:-1,And Picture HD
-http://103.141.66.36/bpk-tv/10190/default/index.m3u8
-#EXTINF:-1,And Picture
-http://103.135.208.14/live/ibox/bd/94.m3u8
-#EXTINF:-1,And Xplor HD
-http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
-#EXTINF:-1,Zee Anmol
-http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,And Picture 
+http://103.205.133.50/hls/andpicture.m3u8
+#EXTINF:-1,And Picture 
+http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
 #EXTINF:-1,B4U Movies
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
 #EXTINF:-1,B4U Movies
