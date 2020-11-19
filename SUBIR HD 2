@@ -614,7 +614,7 @@ http://103.205.133.50/hls/zeesalaam.m3u8
 #EXTINF:-1,Hum TV
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist.m3u8
 #EXTINF:-1,BBC World
-http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,Al Jazeera
 https://load.airtelxstream.in/aljazeera/smil:common.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera
