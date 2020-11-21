@@ -8,19 +8,23 @@ http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Vijay UK
 http://216.144.250.174/Star_Vijay_hD/track-v1a1/index.m3u8
 #EXTINF:-1,SONY MAX2
-http://208.115.215.42/Sony_Max_02_Hd/index.m3u8
+http://208.115.215.42/Sony_Max_02_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max HD
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
+http://208.115.215.42/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max2
 http://216.144.250.174/Sony_Max_02_Hd/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
+http://208.115.215.42/Sony_TV_HD/track-v1a1/mono.m3u8
 http://216.144.250.174/SonY_Tv_Hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB
+http://208.115.215.42/Sony_Sab_HD/track-v1a1/mono.m3u8
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE TV
 http://216.144.250.174/Zee_tV_HD/track-v1a1/mono.m3u8
 #EXTINF:-1,ZEE ANMAL
+http://208.115.215.42/Zee_AnmOl_HD/track-v1a1/mono.m3u8
 http://216.144.250.174/Zee_Anm0l_Hd/track-v1a1/mono.m3u8
 #EXTINF:-1,ZEE ACTION HD
 http://216.144.250.174/Zee_ActIon_Hd/track-v1a1/mono.m3u8
