@@ -344,6 +344,8 @@ http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1,Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1,Sony Max
+https://ccntv.anytv.live/sonymax/index.m3u8
+#EXTINF:-1,Sony Max
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Max 2
 https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
