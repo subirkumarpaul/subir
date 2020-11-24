@@ -221,12 +221,16 @@ https://ccntv.anytv.live/starjalsha/index.m3u8
 http://master.beeiptv.com:8081/colorsiptv/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha
 http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:-1,Star Jalsha
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1,Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1,Zee Bangla
 http://master.beeiptv.com:8081/colorsiptv/zeebangla/playlist.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
+#EXTINF:-1,Zee Bangla
+http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?@asfaiptv
 #EXTINF:-1,Sony Aath
 http://master.beeiptv.com:8081/colorsiptv/sonyaath/playlist.m3u8
 #EXTINF:-1,Sony Aath
@@ -239,6 +243,8 @@ http://master.beeiptv.com:8081/colorsiptv/colorsbangla/playlist.m3u8
 http://103.205.133.21/hls/etvbangla.m3u8
 #EXTINF:-1,Colors Bangla
 https://ccntv.anytv.live/colorsbangla/index.m3u8
+#EXTINF:-1,Colors Bangla
+http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1,Akaash Aath
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Ruposhi Bangla
@@ -255,6 +261,8 @@ https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 http://master.beeiptv.com:8081/colorsiptv/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
 https://ccntv.anytv.live/jalshamovise/index.m3u8
+#EXTINF:-1,Jalsha Movies
+http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
