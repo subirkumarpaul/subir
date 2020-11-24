@@ -443,6 +443,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1,Star Sports 1
+https://ccntv.anytv.live/starsp1/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
@@ -451,6 +453,8 @@ http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
+#EXTINF:-1,Star Sports 2
+https://ccntv.anytv.live/starsp2/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD
 http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 1 HD
