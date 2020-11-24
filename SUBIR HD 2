@@ -208,7 +208,9 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,Music Choice
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/chunks.m3u8
 #EXTINF:-1,Star Jalsha HD
-http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+#EXTINF:-1,Star Jalsha HD
+https://ccntv.anytv.live/starjalsha/index.m3u8
 #EXTINF:-1,Star Jslsha
 http://master.beeiptv.com:8081/colorsiptv/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha
