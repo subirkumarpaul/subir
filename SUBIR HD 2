@@ -4,7 +4,7 @@ http://103.205.133.21/hls/btv.m3u8
 #EXTINF:-1,BTV World
 http://103.205.133.21/hls/btvworld.m3u8
 #EXTINF:-1,BTV World
-http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/btv/playlist.m3u8
 #EXTINF:-1,BTV Chottogram
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1,Sangsad TV
@@ -12,9 +12,9 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,ATN Bangla
 http://103.205.133.21/hls/atnbangla.m3u8
 #EXTINF:-1,ATN Bangla
-http://master.beeiptv.com:8081/MB/atnbangla/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/atnbangla/playlist.m3u8
 #EXTINF:-1,Channel I HD
-http://master.beeiptv.com:8081/MB/channeli/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/channeli/playlist.m3u8
 #EXTINF:-1,Channel I HD
 http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:-1,Ekushey TV
@@ -24,17 +24,17 @@ http://103.205.133.21/hls/ekushey.m3u8
 #EXTINF:-1,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,NTV
-http://master.beeiptv.com:8081/MB/ntv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/ntv/playlist.m3u8
 #EXTINF:-1,NTV
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:-1,NTV EK
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,RTV
-http://master.beeiptv.com:8081/MB/rtv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/rtv/playlist.m3u8
 #EXTINF:-1,RTV
 http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:-1,Gazi TV
-http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/gtv/playlist.m3u8
 #EXTINF:-1,Gazi TV
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1,Gazi TV
@@ -42,17 +42,17 @@ http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 #EXTINF:-1,Gazi TV
 http://103.132.180.245:8080/1/index.m3u8
 #EXTINF:-1,Maasranga TV
-http://master.beeiptv.com:8081/MB/maasranga/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/maasranga/playlist.m3u8
 #EXTINF:-1,Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1,Channel 9 HD BD
-http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/channel9/playlist.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.205.133.21/hls/banglavision.m3u8
 #EXTINF:-1,Bangla Vision
-http://master.beeiptv.com:8081/MB/banglavision/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/banglavision/playlist.m3u8
 #EXTINF:-1,Duronto TV
-http://master.beeiptv.com:8081/MB/duronto/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/duronto/playlist.m3u8
 #EXTINF:-1,Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1,Bijoy TV
@@ -60,43 +60,43 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Deepto TV HD
 http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:-1,Deepto TV HD
-http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/deeptotv/playlist.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1,Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,Asian TV
-http://master.beeiptv.com:8081/MB/asian/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/asian/playlist.m3u8
 #EXTINF:-1,Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 https://bdsl.jagobd.com/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
-http://master.beeiptv.com:8081/MB/boishakhi/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/boishakhi/playlist.m3u8
 #EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1,Bangla TV
 http://103.205.133.21/hls/banglatv.m3u8
 #EXTINF:-1,Bangla TV
-http://master.beeiptv.com:8081/MB/banglatv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/banglatv/playlist.m3u8
 #EXTINF:-1,Desh TV
-http://master.beeiptv.com:8081/MB/desh/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/desh/playlist.m3u8
 #EXTINF:-1,SATV
 http://103.205.133.21/hls/satv.m3u8
 #EXTINF:-1,SATV
-http://master.beeiptv.com:8081BBll/satv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/satv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
-http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/nagoriktv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:-1,Mohona TV
 http://103.205.133.21/hls/mohonatv.m3u8
 #EXTINF:-1,Mohona TV
-http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/mohona/playlist.m3u8
 #EXTINF:-1,MY TV
 http://103.205.133.21/hls/mytv.m3u8
 #EXTINF:-1,MY TV
-http://master.beeiptv.com:8081/MB/mytv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/mytv/playlist.m3u8
 #EXTINF:-1,Channel S BD
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
 #EXTINF:-1,Channel S UK
