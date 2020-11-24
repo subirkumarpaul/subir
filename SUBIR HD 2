@@ -449,6 +449,8 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 https://ccntv.anytv.live/starsp1/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 http://10.100.100.134/live/skyfeed1001/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi
+http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
 #EXTINF:-1,Star Sports 2 HD
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 #EXTINF:-1,Star Sports 2
@@ -497,6 +499,8 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 https://streams.simpaisa.com:8443/pitvlive3/ptvsports.smil/chunklist.m3u8
 #EXTINF:-1,Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Geo Super HD
+http://dx3.gcdn.co/GEOSUPER/index.m3u8
 #EXTINF:-1,Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1,Fight Sports
