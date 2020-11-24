@@ -353,6 +353,8 @@ https://load.airtelxstream.in/dd1/smil:common.smil/manifest.m3u8 op
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold HD
+https://ccntv.anytv.live/stargold/index.m3u8
 #EXTINF:-1,Star Gold Select
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1,Sony Max HD
