@@ -231,6 +231,8 @@ https://ccntv.anytv.live/sonyaath/index.m3u8
 http://master.beeiptv.com:8081/colorsiptv/colorsbangla/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.21/hls/etvbangla.m3u8
+#EXTINF:-1,Colors Bangla
+https://ccntv.anytv.live/colorsbangla/index.m3u8
 #EXTINF:-1,Akaash Aath
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Ruposhi Bangla
@@ -659,6 +661,8 @@ http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,POGO
 http://dx3.gcdn.co/kids-POGO/index.m3u8
+#EXTINF:-1,Nick
+https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:-1,Nick Jr
 http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 #EXTINF:-1,Discovery Kids (Hindi)
