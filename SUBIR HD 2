@@ -237,6 +237,8 @@ http://master.beeiptv.com:8081/colorsiptv/sonyaath/playlist.m3u8
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1,Sony Aath
 https://ccntv.anytv.live/sonyaath/index.m3u8
+#EXTINF:-1,Sony Aath
+http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1,Colors Bangla HD
 http://master.beeiptv.com:8081/colorsiptv/colorsbangla/playlist.m3u8
 #EXTINF:-1,Colors Bangla
