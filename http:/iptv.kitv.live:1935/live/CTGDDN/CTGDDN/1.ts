@@ -58,6 +58,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
 #EXTINF:-1 group-title="KITV",Star Plus 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
+#EXTINF:-1 group-title="KITV",Zee TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.m3u8
 #EXTINF:-1 group-title="KITV",Zee Cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
 #EXTINF:-1 group-title="KITV",Colors 
