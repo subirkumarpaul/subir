@@ -96,6 +96,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
 #EXTINF:-1 group-title="KITV",Sports Channel
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.m3u8
+#EXTINF:-1 group-title="KITV",TV Channel
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
 #EXTINF:-1 group-title="KITV",SONY TEN 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
 #EXTINF:-1 group-title="KITV",Star Sports Select HD 1
