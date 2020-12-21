@@ -88,8 +88,10 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1 group-title="KITV",HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
-#EXTINF:-1 group-title="KITV",T Sports Hd
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=c16db3d2a9b27c9707011d3d3ceb39b4ec33e27f-d74061711c2b59a46ead44be68613d31-1608221829-1608211029
+#EXTINF:-1 group-title="KITV",TLC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.m3u8
+#EXTINF:-1 group-title="KITV",BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
 #EXTINF:-1 group-title="KITV",Sony TEN 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
 #EXTINF:-1 group-title="KITV",Sports Channel
