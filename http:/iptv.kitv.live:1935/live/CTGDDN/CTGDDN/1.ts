@@ -106,11 +106,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF:-1 group-title="KITV",Star Sports 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
-
-
-
-#EXTINF:-1 group-title="KITV",DSport
+#EXTINF:-1 group-title="KITV",D Sport
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
+#EXTINF:-1 group-title="KITV",BBC World 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.m3u8
 #EXTINF:-1 group-title="KITV",Al Jazeera
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.m3u8
 #EXTINF:-1 group-title="KITV",Discovery HD Bangla
