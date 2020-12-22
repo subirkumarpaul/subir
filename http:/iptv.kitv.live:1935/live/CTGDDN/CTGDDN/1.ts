@@ -110,13 +110,49 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
 #EXTINF:-1 group-title="KITV",BBC World 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.m3u8
+#EXTINF:-1 group-title="KITV",DD Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.m3u8
 #EXTINF:-1 group-title="KITV",Al Jazeera
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.m3u8
+#EXTINF:-1 group-title="KITV",Kolkata TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.m3u8
+#EXTINF:-1 group-title="KITV",Nat Geo Wild
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.m3u8
 #EXTINF:-1 group-title="KITV",Discovery HD Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
-#EXTINF:-1 group-title="KITV",Discovery Sd Bangla
-http://otv.ftpbd.net/streams/121/index.m3u8
-#EXTINF:-1 group-title="KITV",History
+#EXTINF:-1 group-title="KITV",BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8
+#EXTINF:-1 group-title="KITV",Duronto TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+#EXTINF:-1 group-title="KITV",No Channel
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.m3u8
+#EXTINF:-1 group-title="KITV",Sony Yay
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+#EXTINF:-1 group-title="KITV",Cbeebies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.m3u8
+#EXTINF:-1 group-title="KITV",Nick
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8
+#EXTINF:-1 group-title="KITV",Gaan Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.m3u8
+#EXTINF:-1 group-title="KITV",Songet Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8
+#EXTINF:-1 group-title="KITV",MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.m3u8
+#EXTINF:-1 group-title="KITV",9X Jalwa
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.m3u8
+#EXTINF:-1 group-title="KITV",Masti
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.m3u8
+#EXTINF:-1 group-title="KITV",B4U Music
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.m3u8
+#EXTINF:-1 group-title="KITV",Zing
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8
+#EXTINF:-1 group-title="KITV",E24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.m3u8
+#EXTINF:-1 group-title="KITV",Music India
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.m3u8
+#EXTINF:-1 group-title="KITV",
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/96.m3u8
+#EXTINF:-1 group-title="KITV",History TV 18
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8
 #EXTINF:-1 group-title="KITV",BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
