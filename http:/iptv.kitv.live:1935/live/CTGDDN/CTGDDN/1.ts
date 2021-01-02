@@ -124,8 +124,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8
 #EXTINF:-1 group-title="KITV",Duronto TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
-#EXTINF:-1 group-title="KITV",No Channel
+#EXTINF:-1 group-title="KITV",Cartoon Nerwork HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.m3u8
+#EXTINF:-1 group-title="KITV",No Channel
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8
 #EXTINF:-1 group-title="KITV",Sony Yay
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:-1 group-title="KITV",Cbeebies
