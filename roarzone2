@@ -191,6 +191,10 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/98.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8
 #EXTINF:-1,And Pictures
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
+#EXTINF:-1,Channel 101
+http://tvserver3.roarzone.info:25461/live/free/roarzone/101.m3u8
+#EXTINF:-1,T-Sports
+http://tvserver3.roarzone.info:25461/live/free/roarzone/102.m3u8
 
 #EXTM3U
 #EXTINF:-1Sony Six HD
