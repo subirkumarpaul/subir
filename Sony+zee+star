@@ -17,6 +17,7 @@ http://208.115.215.42/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max2
 http://216.144.250.174/Sony_Max_02_Hd/track-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV
+http://208.115.215.42/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Sony_TV_HD/track-v1a1/mono.m3u8
 http://216.144.250.174/SonY_Tv_Hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB
