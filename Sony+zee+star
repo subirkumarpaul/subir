@@ -40,3 +40,5 @@ http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1,Star Utsav Gold HD
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
