@@ -112,6 +112,13 @@ https://itvorigin.multitvsolution.com:443/idvo/investigationdiscovery_540p/index
 https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet HD(Hinde)
 https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Information Channel",TLC HD (English)
+https://itvorigin.multitvsolution.com:443/idvo/tlchd_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Information Channel",TLC HD (Hindi)
+https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Information Channel",TLC (Hindi)
+https://itvorigin.multitvsolution.com:443/idvo/tlceng_540p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",T SPORTS [BD]
 http://10.16.100.207:8082/sports/sportst.m3u8
