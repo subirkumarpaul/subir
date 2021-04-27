@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangladesi National TV",BTV World
-https://ott.bingebd.com:443/live/ngrp:btv_world_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:btv_world_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesi National TV",Sangsad TV
-https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:sangsad_tv_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
 https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/subir.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladesi Entertainment",Channel I HD
@@ -100,11 +100,12 @@ https://ott.bingebd.com/live/ngrp:abp_ananda_all/chunklist.m3u8
 https://ott.bingebd.com/live/ngrp:zee_24_ghanta_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
-https://ott.bingebd.com:443/live/ngrp:star_plus_hd_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hinde Entertainment",Star Plus
 https://ott.bingebd.com:443/live/ngrp:star_plus_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-https://ott.bingebd.com:443/live/ngrp:sony_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:sony_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hinde Entertainment",Sony SAB HD
 https://ott.bingebd.com:443/live/ngrp:sab_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV
@@ -119,13 +120,13 @@ https://ott.bingebd.com:443/live/ngrp:star_bharat_all/chunklist.m3u8
 https://ott.bingebd.com:443/live/ngrp:rishtey_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold HD
-https://ott.bingebd.com:443/live/ngrp:star_gold_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold UK
 https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
-https://ott.bingebd.com:443/live/ngrp:movies_ok_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hinde Movies",Sony Max HD
-https://ott.bingebd.com:443/live/ngrp:sony_max_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:sony_max_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hinde Movies",Zee Cinema
@@ -162,13 +163,13 @@ https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/chunklist.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery HD
-https://ott.bingebd.com:443/live/ngrp:discovery_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:discovery_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Information Channel",Discovery Science
 https://ott.bingebd.com:443/live/ngrp:discovery_science_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Information Channel",Discovery Turbo
 https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet
-https://ott.bingebd.com:443/live/ngrp:animal_planet_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:animal_planet_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Information Channel",Sony BBC Earth HD
 https://ott.bingebd.com:443/live/ngrp:sony_bbc_earth_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
@@ -196,7 +197,7 @@ https://ott.bingebd.com/live/ngrp:fyi_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD
 https://ott.bingebd.com:443/live/ngrp:sony_pix_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
-https://ott.bingebd.com:443/live/ngrp:hbo_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:hbo_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="English Movies Channel",Movies Now HD
 https://ott.bingebd.com:443/live/ngrp:movies_now_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="English Movies Channel",Lotus Macau
@@ -225,7 +226,7 @@ https://ott.bingebd.com:443/live/ngrp:mtv_beats_all/chunklist.m3u8
 https://ott.bingebd.com:443/live/ngrp:vh1_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network
-https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:cartoon_network_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids Channel",Pogo
 https://ott.bingebd.com:443/live/ngrp:pogo_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids Channel",NICK HD
