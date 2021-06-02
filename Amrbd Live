@@ -190,67 +190,67 @@ http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SonyPix
 http://stream.amrbd.com:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo="",AxnHD
-https://stream.amrbd.com/AxnHD/index.m3u8
+http://stream.amrbd.com:8082/AxnHD/index.m3u8
 #EXTINF:-1 tvg-logo="",Star Movies HD
-https://stream.amrbd.com/kn7a/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Sony_Sab
-https://stream.amrbd.com/Sony_Sab/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Animal_Planent
-https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discoveryscience
-https://stream.amrbd.com/Discoveryscience/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discovery_Hd
-https://stream.amrbd.com/Discovery_Hd/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Discovery_Hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",TLC_World
-https://stream.amrbd.com/TLC_World/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Bbc-earth-hd
-https://stream.amrbd.com/Bbc-earth-hd/index.m3u8
+http://stream.amrbd.com:8082/Bbc-earth-hd/index.m3u8
 #EXTINF:-1 tvg-logo="",NAT-GEO-HD
-https://stream.amrbd.com/NAT-GEO-HD/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/NAT-GEO-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nat_Geo_wild
-https://stream.amrbd.com/Nat_Geo_wild/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Nat_Geo_wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nat-GEO-P
-https://stream.amrbd.com/Nat-GEO-P/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Nat-GEO-P/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",History TV 18
-https://stream.amrbd.com/kn9a/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/kn9a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Cgtn
-https://stream.amrbd.com/Cgtn/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Cgtn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Jeet-Prime
-https://stream.amrbd.com/Jeet-Prime/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Jeet-Prime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Fox
-https://stream.amrbd.com/kn7a/index.m3u8
+http://stream.amrbd.com:8082m/kn7a/index.m3u8
 #EXTINF:-1 tvg-logo="",Fox_life
-https://stream.amrbd.com/Fox_life/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Fox_life/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Star_World_Ind
-https://stream.amrbd.com/Star_World_Ind/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Star_World_Ind/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Colors_infinity
-https://stream.amrbd.com/Colors_infinity/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Colors_infinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",BBC_World
-https://stream.amrbd.com/BBC_World/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Aljazeera
-https://stream.amrbd.com/Aljazeera/index.m3u8
+http://stream.amrbd.com:8082/Aljazeera/index.m3u8
 #EXTINF:-1 tvg-logo="",Cnn_news
-https://stream.amrbd.com/Cnn_news/index.m3u8
+http://stream.amrbd.com:8082/Cnn_news/index.m3u8
 #EXTINF:-1 tvg-logo="",Voa_news
-https://stream.amrbd.com/Voa_news/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Voa_news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",India_News
-https://stream.amrbd.com/India_News/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/India_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Times_now
-https://stream.amrbd.com/Times_now/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Times_now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Dw
-https://stream.amrbd.com/Dw/index.m3u8
+http://stream.amrbd.com:8082/Dw/index.m3u8
 #EXTINF:-1 tvg-logo="",Sony_yay
-https://stream.amrbd.com/Sony_yaa/index.m3u8
+http://stream.amrbd.com:8082/Sony_yaa/index.m3u8
 #EXTINF:-1 tvg-logo="",Disney_Junior
-https://stream.amrbd.com/Disney_Junior/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Disney_Junior/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",nike
-https://stream.amrbd.com/nike/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",CartoonNetwork
-https://stream.amrbd.com/CartoonNetwork/index.m3u8
+http://stream.amrbd.com:8082/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="",Sonic
-https://stream.amrbd.com/Sonic/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discovery_kids
-https://stream.amrbd.com/Discovery_kids/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Discovery_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
