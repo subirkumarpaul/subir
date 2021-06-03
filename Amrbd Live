@@ -137,7 +137,7 @@ http://stream.amrbd.com:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",AndTVHD
 http://stream.amrbd.com:8082/AndTVHD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="",colorsindia
-http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="",Hum-tv
 http://stream.amrbd.com:8082/Hum-tv/index.m3u8
 #EXTINF:-1 tvg-logo="",MTV-India
