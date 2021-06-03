@@ -1,6 +1,7 @@
 
 #EXTM3U x-tvg-url=""
-
+#EXTINF:-1 tvg-logo="" group-title="",T Sports
+http://stream.amrbd.com:8082/kn10a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ten1HD
 http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ten2HD
