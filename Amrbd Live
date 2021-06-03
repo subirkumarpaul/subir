@@ -159,7 +159,7 @@ http://stream.amrbd.com:8082/StarBharat/index.m3u8
 #EXTINF:-1 tvg-logo="",StarGold
 http://stream.amrbd.com:8082/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="",ZeeAction
-http://stream.amrbd.com:8082/ZeeAction/index.m3u8
+http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",ZeeStudiohd
 http://stream.amrbd.com:8082/ZeeStudiohd/index.m3u8
 #EXTINF:-1 tvg-logo="",ZeeCinemaHD
