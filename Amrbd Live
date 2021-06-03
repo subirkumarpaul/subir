@@ -177,7 +177,7 @@ http://stream.amrbd.com:8082/B4umuisc/index.m3u8
 #EXTINF:-1 tvg-logo="",9xm
 http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",9x-Jalwa
-http://stream.amrbd.com:8082/9x-Jalwa/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Masti-Music
 http://stream.amrbd.com:8082/Masti-Music/index.m3u8
 #EXTINF:-1 tvg-logo="",Masti-Music
