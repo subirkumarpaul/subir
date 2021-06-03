@@ -164,6 +164,8 @@ http://stream.amrbd.com:8082/ZeeAction/index.m3u8
 http://stream.amrbd.com:8082/ZeeStudiohd/index.m3u8
 #EXTINF:-1 tvg-logo="",ZeeCinemaHD
 http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Xplore
+http://stream.amrbd.com:8082/Xplore/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Zee_Tv
 http://stream.amrbd.com:8082/Zee_Tv/index.m3u8
 #EXTINF:-1 tvg-logo="",Entert-ten
