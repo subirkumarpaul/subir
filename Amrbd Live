@@ -181,7 +181,7 @@ http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Masti-Music
 http://stream.amrbd.com:8082/Masti-Music/index.m3u8
 #EXTINF:-1 tvg-logo="",Masti-Music
-http://stream.amrbd.com:8082/Masti-Music/index.m3u8
+http://stream.amrbd.com:8082/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",sony_mix
 http://stream.amrbd.com:8082/sony_mix/index.m3u8sony_mix
 #EXTINF:-1 tvg-logo="",ZeeEtc
@@ -197,7 +197,7 @@ http://stream.amrbd.com:8082/AxnHD/index.m3u8
 #EXTINF:-1 tvg-logo="",Star Movies HD
 http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Sony_Sab
-http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
 #EXTINF:-1 tvg-logo="",Animal_Planent
 http://stream.amrbd.com:8082/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discoveryscience
@@ -241,7 +241,7 @@ http://stream.amrbd.com:8082/India_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Times_now
 http://stream.amrbd.com:8082/Times_now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Dw
-http://stream.amrbd.com:8082/Dw/index.m3u8
+http://stream.amrbd.com:8082/Dw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Sony_yay
 http://stream.amrbd.com:8082/Sony_yaa/index.m3u8
 #EXTINF:-1 tvg-logo="",Disney_Junior
