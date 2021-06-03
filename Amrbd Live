@@ -202,14 +202,14 @@ http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discoveryscience
 http://stream.amrbd.com:8082/Discoveryscience/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="",Discovery_Hd
-http://stream.amrbd.com:8082/Discovery_Hd/tracks-v1a1/mono.m3u
+#EXTINF:-1 tvg-logo="",Discovery-Tv
+http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",TLC_World
 http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Bbc-earth-hd
-http://stream.amrbd.com:8082/Bbc-earth-hd/index.m3u8
+http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",NAT-GEO-HD
-http://stream.amrbd.com:8082/NAT-GEO-HD/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nat_Geo_wild
 http://stream.amrbd.com:8082/Nat_Geo_wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nat-GEO-P
@@ -217,7 +217,7 @@ http://stream.amrbd.com:8082/Nat-GEO-P/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",History TV 18
 http://stream.amrbd.com:8082/kn9a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Cgtn
-http://stream.amrbd.com:8082/Cgtn/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Cgtn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Jeet-Prime
 http://stream.amrbd.com:8082/Jeet-Prime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Fox
@@ -231,7 +231,7 @@ http://stream.amrbd.com:8082/Colors_infinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",BBC_World
 http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Aljazeera
-http://stream.amrbd.com:8082/Aljazeera/index.m3u8
+http://stream.amrbd.com:8082/Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Cnn_news
 http://stream.amrbd.com:8082/Cnn_news/index.m3u8
 #EXTINF:-1 tvg-logo="",Voa_news
