@@ -1,60 +1,88 @@
 #EXTM3U
 #EXTINF:-1,Channel I
+https://streamer-1.toffeelive.com/mobile_hls/channel_i/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/channel_i_720/index.m3u8
 #EXTINF:-1,Somoy News
+https://streamer-1.toffeelive.com/mobile_hls/somoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/somoy_tv_720/index.m3u8
 #EXTINF:-1,Channel 24
+https://streamer-1.toffeelive.com/mobile_hls/channel_24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/channel_24_720/index.m3u8
 #EXTINF:-1,DBC News
+https://streamer-1.toffeelive.com/mobile_hls/dbc_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/dbc_news_720/index.m3u8
 #EXTINF:-1,Desh TV
+https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/desh_tv_720/index.m3u8
 #EXTINF:-1,Ananda TV
+https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/ananda_tv_720/index.m3u8
 #EXTINF:-1,Ekattor TV
+https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Akaash Aath
+https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/akash_aath_720/index.m3u8
 #EXTINF:-1,Sony Aath
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Zee Bangla
+https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/zee_bangla_hd_720/index.m3u8
 #EXTINF:-1,DD Bangla
+https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/dd_bangla_720/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
+https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1,Sony Yay
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 
+https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 
+https://streamer-1.toffeelive.com/mobile_hls/ten12/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_ten2_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 
+https://streamer-1.toffeelive.com/mobile_hls/ten_3/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony SIX 
+https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_six_720/index.m3u8
 #EXTINF:-1,Sony SIX HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_six_hd_720/index.m3u8
 #EXTINF:-1,Sony ESPN
+https://streamer-1.toffeelive.com/mobile_hls/sony_espn/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_espn_720/index.m3u8
 #EXTINF:-1,Lotus Macau
+https://streamer-1.toffeelive.com/mobile_hls/lotus/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/lotus_720/index.m3u8
 #EXTINF:-1,& TV
+https://streamer-1.toffeelive.com/mobile_hls/ntv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/live/ntv_720/index.m3u8
 #EXTINF:-1,Sony TV 
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_entertainment_720/index.m3u8
 http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 #EXTINF:-1,Sony SAB
+https://streamer-1.toffeelive.com/mobile_hls/sony_sub/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_sab_720/index.m3u8
 #EXTINF:-1,Zee TV HD
+https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1,SONY MAX HD
+https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/set_max_hd_720/index.m3u8
 #EXTINF:-1,SONY MAX
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_max_720/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.42:1935/live/zee_cinema_720/index.m3u8
