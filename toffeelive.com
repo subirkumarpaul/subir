@@ -172,23 +172,33 @@ http://103.205.133.42:1935/live/ntv_720/index.m3u8
 https://streamer-1.toffeelive.com/mobile_hls/hum_masala_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/hum_masala_720/index.m3u8
 #EXTINF:-1,Australia Plus
+https://streamer-1.toffeelive.com/mobile_hls/australia_plus_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/australia_plus_720/index.m3u8
 #EXTINF:-1,Zee Action 
+https://streamer-1.toffeelive.com/mobile_hls/zee_action_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/zee_action_720/index.m3u8
 #EXTINF:-1,Z Etc 
+https://streamer-1.toffeelive.com/mobile_hls/z_etc_bollywood_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1,Sony YaY
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Sony Pix
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_pix_720/index.m3u8
 #EXTINF:-1,Bflix
+https://streamer-1.toffeelive.com/mobile_hls/bflix_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/bflix_720/index.m3u8
 #EXTINF:-1,Sony Mix
+https://streamer-1.toffeelive.com/mobile_hls/sony_mix_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/sony_mix_720/index.m3u8
 #EXTINF:-1,9X0
+https://streamer-1.toffeelive.com/mobile_hls/9xo_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/9xo_720/index.m3u8
 #EXTINF:-1,Music India
+https://streamer-1.toffeelive.com/mobile_hls/music_india_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/music_india_720/index.m3u8
 #EXTINF:-1,Quran Tv
+https://streamer-1.toffeelive.com/mobile_hls/quran_tv_720/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 http://103.205.133.42:1935/live/quran_tv_720/index.m3u8
 
