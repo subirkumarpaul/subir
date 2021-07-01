@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Discovery Kids (English)
 https://streamitv.multitvsolution.in/idvo/discoverykidseng.m3u8
-https://itvorigin.multitvsolution.com:443/idvo/discoverykidseng_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1,Discovery Kids (Hindi)
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
