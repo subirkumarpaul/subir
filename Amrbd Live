@@ -12,7 +12,7 @@ http://103.136.200.246:8082/Ten3/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SonySix
 http://103.136.200.246:8082/SonySix/index.m3u8
-#EXTINF:-1 tvg-logo="",Star Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201.png",Star Sports 1
 http://103.136.200.246:8082/kn1a/index.m3u8
 #EXTINF:-1 tvg-logo=",Star Sports 2
 http://103.136.200.246:8082/kn2a/index.m3u8
