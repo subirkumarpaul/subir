@@ -2,12 +2,12 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-logo="" group-title="",T Sports
 http://103.136.200.246:8082/kn10a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Ten1HD
-http://103.136.200.246:8082/Ten1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="",Ten2HD
-http://103.136.200.246:8082/Ten2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="",Ten3HD
-http://103.136.200.246:8082/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ten1
+http://103.136.200.246:8082/Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Ten2
+http://103.136.200.246:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Ten3
+http://103.136.200.246:8082/Ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",ESPN
 http://103.136.200.246:8082/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SonySix
