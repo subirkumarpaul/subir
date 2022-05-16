@@ -1,259 +1,259 @@
 
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-logo="" group-title="",T Sports
-http://stream.amrbd.com:8082/kn10a/index.m3u8
+http://103.136.200.246:8082/kn10a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ten1HD
-http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ten2HD
-http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Ten2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ten3HD
-http://stream.amrbd.com:8082/Ten3HD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Ten3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",ESPN
-http://stream.amrbd.com:8082/ESPN/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SonySix
-http://stream.amrbd.com:8082/SonySix/index.m3u8
+http://103.136.200.246:8082/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo="",Star Sports 1
-http://stream.amrbd.com:8082/kn1a/index.m3u8
+http://103.136.200.246:8082/kn1a/index.m3u8
 #EXTINF:-1 tvg-logo=",Star Sports 2
-http://stream.amrbd.com:8082/kn2a/index.m3u8
+http://103.136.200.246:8082/kn2a/index.m3u8
 #EXTINF:-1 tvg-logo=",Star Sports Select 1
-http://stream.amrbd.com:8082/kn3a/index.m3u8
+http://103.136.200.246:8082/kn3a/index.m3u8
 #EXTINF:-1 tvg-logo=",Star Sports Select 2
-http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/kn5a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",Adsports 1
-http://stream.amrbd.com:8082/Adsports1/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",Adsports 2
-http://stream.amrbd.com:8082/Adsports2/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Adsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",Adsports 3
-http://stream.amrbd.com:8082/Adsports3/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Adsports3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",Adsports 4
-http://stream.amrbd.com:8082/Adsports4/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Adsports4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" group-title="",colorsbangla
-http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",ZeeBanglacinema
-http://stream.amrbd.com:8082/ZeeBanglacinema/index.m3u8
+http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
 #EXTINF:-1 tvg-logo=",Sonyaath
-http://stream.amrbd.com:8082/Sonyaath/index.m3u8
+http://103.136.200.246:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo=",Star-Jalsha
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",ZeeBanglaHD
-http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
+http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo=",Jalshamovies
-http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo=",khushboo
-http://stream.amrbd.com:8082/khushboo/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/khushboo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",abp
-http://stream.amrbd.com:8082/abp/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/abp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=",SangeetBangla
-http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=",Ruposhi-Bangl
-http://stream.amrbd.com:8082/Ruposhi-Bangla/index.m3u8
+http://103.136.200.246:8082/SangeetBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=",Ruposhi-Bangla
+http://103.136.200.246:8082/Ruposhi-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="",Dhoom-Music
-http://stream.amrbd.com:8082/Dhoom-Music/index.m3u8
+http://103.136.200.246:8082/Dhoom-Music/index.m3u8
 #EXTINF:-1 tvg-logo="",Akash-Aaath
-http://stream.amrbd.com:8082/Akash-Aaath/index.m3u8
+http://103.136.200.246:8082/Akash-Aaath/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DBC-NEWS
-http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ekattor-tv
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Atn-News
-http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Independent-Tv
-http://stream.amrbd.com:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Independent-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Jamuna-TV
-http://stream.amrbd.com:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Somoy-TV
-http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
+http://103.136.200.246:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="",News24bd
-http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Channel24
-http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",ATN-Bangla
-http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Channel-i
-http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ekushey-TV
-http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Ntv
-http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",RTV
-http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SATV
-http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",MASRANGA
-http://stream.amrbd.com:8082/MASRANGA/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/MASRANGA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Gazi TV
-http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Bangla-TV
-http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
+http://103.136.200.246:8082/Bangla-TV/index.m3u8
 #EXTINF:-1 tvg-logo="",BanglaVision
-http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Boishakhi
-http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Deepto-TV
-http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Deepto-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Duronto_TV
-http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Duronto_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Desh_Tv
-http://stream.amrbd.com:8082/Desh_Tv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Desh_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",GaanBangla
-http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",MohonaTV
-http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",MyTV
-http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nagorik-TV
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",anandotv
-http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/anandotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",BijoyTv
-http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/BijoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",MovieBangla
-http://stream.amrbd.com:8082/MovieBangla/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/MovieBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Btv
-http://stream.amrbd.com:8082/Btv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Shangshad_TV
-http://stream.amrbd.com:8082/Shangshad_TV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Shangshad_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Btv_World
-http://stream.amrbd.com:8082/Btv_World/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Btv_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Macau_Lotus
-http://stream.amrbd.com:8082/Macau_Lotus/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Macau_Lotus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Fyi_Hd
-http://stream.amrbd.com:8082/Fyi_Hd/tracks-v1/mono.m3u8
+http://103.136.200.246:8082/Fyi_Hd/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Mnplus-hd
-http://stream.amrbd.com:8082/Mnplus-hd/tracks-v1/mono.m3u8
+http://103.136.200.246:8082/Mnplus-hd/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Romedy_now
-http://stream.amrbd.com:8082/Romedy_now/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Romedy_now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Movies_Now_2
-http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",MNX
-http://stream.amrbd.com:8082/MNX/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/MNX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",And-Flix
-http://stream.amrbd.com:8082/And-Flix/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/And-Flix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",AndPicturesHD
-http://stream.amrbd.com:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",ZeePriveHD
-http://stream.amrbd.com:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",AndTVHD
-http://stream.amrbd.com:8082/AndTVHD/tracks-v1/mono.m3u8
+http://103.136.200.246:8082/AndTVHD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="",colorsindia
-http://stream.amrbd.com:8082/colorsindia/index.m3u8
+http://103.136.200.246:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="",Hum-tv
-http://stream.amrbd.com:8082/Hum-tv/index.m3u8
+http://103.136.200.246:8082/Hum-tv/index.m3u8
 #EXTINF:-1 tvg-logo="",MTV-India
-http://stream.amrbd.com:8082/MTV-India/index.m3u8
+http://103.136.200.246:8082/MTV-India/index.m3u8
 #EXTINF:-1 tvg-logo="",vh1_music
-http://stream.amrbd.com:8082/vh1_music/index.m3u8
+http://103.136.200.246:8082/vh1_music/index.m3u8
 #EXTINF:-1 tvg-logo="",B4U Movies
-http://stream.amrbd.com:8082/Rishteycineplex/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Rishteycineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Setmax
-http://stream.amrbd.com:8082/Setmax/index.m3u8
+http://103.136.200.246:8082/Setmax/index.m3u8
 #EXTINF:-1 tvg-logo="",Setmax HD
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SonyTVHD
-http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Star_Plus
-http://stream.amrbd.com:8082/Star_Plus/index.m3u8
+http://103.136.200.246:8082/Star_Plus/index.m3u8
 #EXTINF:-1 tvg-logo="",StarBharat
-http://stream.amrbd.com:8082/StarBharat/index.m3u8
+http://103.136.200.246:8082/StarBharat/index.m3u8
 #EXTINF:-1 tvg-logo="",StarGold
-http://stream.amrbd.com:8082/StarGold/index.m3u8
+http://103.136.200.246:8082/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="",ZeeAction
-http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ZeeAction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",ZeeStudiohd
-http://stream.amrbd.com:8082/ZeeStudiohd/index.m3u8
+http://103.136.200.246:8082/ZeeStudiohd/index.m3u8
 #EXTINF:-1 tvg-logo="",ZeeCinemaHD
-http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Xplore
-http://stream.amrbd.com:8082/Xplore/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Xplore/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Zee_Tv
-http://stream.amrbd.com:8082/ZeeTV/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Entert-ten
-http://stream.amrbd.com:8082/Entert-ten/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Entert-ten/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Zoom
-http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",B4umuisc
-http://stream.amrbd.com:8082/B4umuisc/index.m3u8
+http://103.136.200.246:8082/B4umuisc/index.m3u8
 #EXTINF:-1 tvg-logo="",9xm
-http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",9x-Jalwa
-http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Masti-Music
-http://stream.amrbd.com:8082/Masti-Music/index.m3u8
+http://103.136.200.246:8082/Masti-Music/index.m3u8
 #EXTINF:-1 tvg-logo="",Masti-Music
-http://stream.amrbd.com:8082/Masti-Music/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",sony_mix
-http://stream.amrbd.com:8082/sony_mix/index.m3u8sony_mix
+http://103.136.200.246:8082/sony_mix/index.m3u8sony_mix
 #EXTINF:-1 tvg-logo="",ZeeEtc
-http://stream.amrbd.com:8082/ZeeEtc/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/ZeeEtc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Zee_Classic
-http://stream.amrbd.com:8082/Zee_Classic/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Zee_Classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",bflix
-http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/bflix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",SonyPix
-http://stream.amrbd.com:8082/SonyPix/index.m3u8
+http://103.136.200.246:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo="",AxnHD
-http://stream.amrbd.com:8082/AxnHD/index.m3u8
+http://103.136.200.246:8082/AxnHD/index.m3u8
 #EXTINF:-1 tvg-logo="",Star Movies HD
-http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/kn7a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Sony_Sab
-http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
 #EXTINF:-1 tvg-logo="",Animal_Planent
-http://stream.amrbd.com:8082/Animal_Planent/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discoveryscience
-http://stream.amrbd.com:8082/Discoveryscience/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discovery-Tv
-http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",TLC_World
-http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Bbc-earth-hd
-http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",NAT-GEO-HD
-http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nat_Geo_wild
-http://stream.amrbd.com:8082/Nat_Geo_wild/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Nat_Geo_wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nat-GEO-P
-http://stream.amrbd.com:8082/Nat-GEO-P/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Nat-GEO-P/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",History TV 18
-http://stream.amrbd.com:8082/kn9a/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/kn9a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Cgtn
-http://stream.amrbd.com:8082/Cgtn-News/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Cgtn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Jeet-Prime
-http://stream.amrbd.com:8082/Jeet-Prime/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Jeet-Prime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Fox
-http://stream.amrbd.com:8082/kn7a/index.m3u8
+http://103.136.200.246:8082/kn7a/index.m3u8
 #EXTINF:-1 tvg-logo="",Fox_life
-http://stream.amrbd.com:8082/Fox_life/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Fox_life/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Star_World_Ind
-http://stream.amrbd.com:8082/Star_World_Ind/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Star_World_Ind/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Colors_infinity
-http://stream.amrbd.com:8082/Colors_infinity/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Colors_infinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",BBC_World
-http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/BBC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Aljazeera
-http://stream.amrbd.com:8082/Aljazeera/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Cnn_news
-http://stream.amrbd.com:8082/Cnn_news/index.m3u8
+http://103.136.200.246:8082/Cnn_news/index.m3u8
 #EXTINF:-1 tvg-logo="",Voa_news
-http://stream.amrbd.com:8082/Voa_news/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Voa_news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",India_News
-http://stream.amrbd.com:8082/India_News/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/India_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Times_now
-http://stream.amrbd.com:8082/Times_now/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Times_now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Dw
-http://stream.amrbd.com:8082/Dw/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Dw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Sony_yay
-http://stream.amrbd.com:8082/Sony_yaa/index.m3u8
+http://103.136.200.246:8082/Sony_yaa/index.m3u8
 #EXTINF:-1 tvg-logo="",Disney_Junior
-http://stream.amrbd.com:8082/Disney_Junior/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Disney_Junior/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",nike
-http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",CartoonNetwork
-http://stream.amrbd.com:8082/CartoonNetwork/index.m3u8
+http://103.136.200.246:8082/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="",Sonic
-http://stream.amrbd.com:8082/Sonic/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Sonic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Discovery_kids
-http://stream.amrbd.com:8082/Discovery_kids/tracks-v1a1/mono.m3u8
+http://103.136.200.246:80822/Discovery_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
