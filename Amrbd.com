@@ -127,8 +127,8 @@ http://stream.amrbd.com:8082/Colors-Cineplex/index.m3u8
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,And Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1,B4U Kadak
-http://103.144.200.7:8080/hls/b4uka/index.m3u8
+#EXTINF:-1,Bflix
+http://stream.amrbd.com:8082/bflix/preview.mp4
 #EXTINF:-1,Star Sports 1
 http://stream.amrbd.com:8082/Star-Sports-1/index.m3u8
 #EXTINF:-1,Star Sports 1
@@ -166,11 +166,11 @@ http://stream.amrbd.com:8082/Adsports3/index.m3u8
 #EXTINF:-1,Willo Cricket
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
 #EXTINF:-1,Discovery
-http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
+http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 #EXTINF:-1,Animal Planet
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+http://stream.amrbd.com:8082/Animal_Planet/index.m3u8
 #EXTINF:-1,National Geographic
-http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1,Nat Geo People
@@ -178,7 +178,9 @@ http://103.214.202.218:8081/live/natgeop/playlist.m3u8
 #EXTINF:-1,History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1,BBC Earth
-http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
+http://stream.amrbd.com:8082/Bbc-Earth/index.m3u8
+#EXTINF:-1,TLC
+http://stream.amrbd.com:8082/TLC_World/index.m3u8
 #EXTINF:-1,Sony Pix
 http://stream.amrbd.com:8082/SonyPix/index.m3u8
 #EXTINF:-1,Star Movies
@@ -221,3 +223,20 @@ http://stream.amrbd.com:8082/Masti-Music/embed.html
 http://103.144.200.7:8080/hls/mtvbts/index.m3u8
 #EXTINF:-1,Bindass
 http://stream.amrbd.com:8082/Bindass/index.m3u8
+#EXTINF:-1,CGTN News
+http://stream.amrbd.com:8082/Cgtn-News/embed.html
+#EXTINF:-1,BBC World
+http://stream.amrbd.com:8082/BBC_World/index.m3u8
+#EXTINF:-1,Al Jazeera
+http://stream.amrbd.com:8082/Aljazeera/index.m3u8
+#EXTINF:-1,VOA News
+http://stream.amrbd.com:8082/Voa_news/index.m3u8
+#EXTINF:-1,DW
+http://stream.amrbd.com:8082/Dw/embed.html
+#EXTINF:-1,Nike
+http://stream.amrbd.com:8082/nike/embed.html
+#EXTINF:-1,Cartoon Network
+http://stream.amrbd.com:8082/Cartoon-Network/index.m3u8
+
+
+
