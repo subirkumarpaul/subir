@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Shangshad TV
+http://stream.amrbd.com:8082/Shangshad_TV/embed.html
 #EXTINF:-1,Live Sports
 http://stream.amrbd.com:8082/Local-Sports/embed.html
 #EXTINF:-1,T Sports
@@ -12,7 +14,7 @@ http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
-http://103.214.202.218:8081/live/deepto/playlist.m3u8
+http://stream.amrbd.com:8082/Deepto-Tv/index.m3u8
 #EXTINF:-1,Asian TV
 http://stream.amrbd.com:8082/AsianTV/embed.html
 #EXTINF:-1,NTV
@@ -34,9 +36,9 @@ http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1,SATV
 http://stream.amrbd.com:8082/SATV/index.m3u8
 #EXTINF:-1,Nagorik TV
-http://103.214.202.218:8081/live/nagorik/chunks.m3u8
+http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1,Mohona TV
-http://103.214.202.218:8081/live/mohona/chunks.m3u8
+http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 #EXTINF:-1,News 24
 http://stream.amrbd.com:8082/News24bd/index.m3u8
 #EXTINF:-1,DBC News
@@ -51,6 +53,8 @@ http://stream.amrbd.com:8082/Jamuna-TV/index.m3u8
 http://stream.amrbd.com:8082/Channel24/index.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
+#EXTINF:-1,Anando TV
+http://stream.amrbd.com:8082/anandotv/index.m3u8
 #EXTINF:-1,ATN Bangla
 http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1,ATN Bangla
@@ -70,7 +74,7 @@ http://103.214.202.218:8081/live/moviebangla/chunks.m3u8
 #EXTINF:-1,Ekushey TV
 http://stream.amrbd.com:8082/Ekushey-TV/index.m3u8
 #EXTINF:-1,Bijoy TV
-http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 #EXTINF:-1,My Cinema
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1,ATN Islamic TV
@@ -78,7 +82,7 @@ http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 #EXTINF:-1,ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
-http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+http://stream.amrbd.com:8082/GaanBangla/index.m3u8
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Star Jalsha
@@ -101,20 +105,24 @@ https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/uH-609KxgfgW916hIrEEag/158542
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Star Plus
 http://103.214.202.218:80811/live/starplus/chunks.m3u8
-#EXTINF:-1,Sony TV
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-#EXTINF:-1,Sony TV
-http://ddn.amrbd.com:8081/live/sony-40/chunks.m3u8
+#EXTINF:-1,Sony TV HD
+http://stream.amrbd.com:8082/SonyTVHD/index.m3u8
+#EXTINF:-1,Sony Sab
+http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
+#EXTINF:-1,Colors
+http://stream.amrbd.com:8082/colorsindia/index.m3u8
 #EXTINF:-1,Zee TV
-http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
+http://stream.amrbd.com:8082/Zee-Hd/index.m3u8
 #EXTINF:-1,And TV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,Star Gold
-http://103.214.202.218:8081/live/stargold/chunks.m3u8
+http://stream.amrbd.com:8082/StarGold/preview.mp4
 #EXTINF:-1,Sat Max
-http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+http://stream.amrbd.com:8082/Sony-Max/index.m3u8
 #EXTINF:-1,Zee Cinema
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+http://stream.amrbd.com:8082/ZeeCinemaHD/index.m3u8
+#EXTINF:-1,Colors Cineplex
+http://stream.amrbd.com:8082/Colors-Cineplex/index.m3u8
 #EXTINF:-1,Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1,And Picture
@@ -171,6 +179,8 @@ http://103.214.202.218:8081/live/natgeop/playlist.m3u8
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1,BBC Earth
 http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
+#EXTINF:-1,Sony Pix
+http://stream.amrbd.com:8082/SonyPix/index.m3u8
 #EXTINF:-1,Star Movies
 http://ddn.amrbd.com:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,And Prive
@@ -181,14 +191,14 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1,HBO
 http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://103.214.202.218:8081/live/hbohd/playlist.m3u8
+#EXTINF:-1,MN Plus
+http://stream.amrbd.com:8082/MN-Plus/index.m3u8
 #EXTINF:-1,MBC Movies
 http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
-#EXTINF:-1,MNX
-http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1,Movies Now
-http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+#EXTINF:-1,MNX HD
+http://stream.amrbd.com:8082/MNX-HD/index.m3u8
+#EXTINF:-1,Movies Now 
+http://stream.amrbd.com:8082/Movies_Now_2/index.m3u8
 #EXTINF:-1,Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1,Star Movies
@@ -196,18 +206,18 @@ http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
 #EXTINF:-1,MTV In
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
+http://stream.amrbd.com:8082/Mtv/index.m3u8
 #EXTINF:-1,Zoom
-http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
+http://stream.amrbd.com:8082/Zoom/index.m3u8
 #EXTINF:-1,Zing
 http://103.144.200.7:8080/hls/zing/index.m3u8
-#EXTINF:-1,Sony Mix
-http://103.144.200.7:8080/hls/sonymix/index.m3u8
+#EXTINF:-1,9XM
+http://stream.amrbd.com:8082/9XM/index.m3u8
+#EXTINF:-1,9X Jalwa
+http://stream.amrbd.com:8082/9X-Jalwa/index.m3u8
 #EXTINF:-1,Masti Music
-http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
-#EXTINF:-1,Masti Music
-http://103.144.200.7:8080/hls/masti2/index.m3u8
+http://stream.amrbd.com:8082/Masti-Music/embed.html
 #EXTINF:-1,MTV Beates
 http://103.144.200.7:8080/hls/mtvbts/index.m3u8
-#EXTINF:-1,9XO
-http://103.214.202.218:8081/live/9x0-36/playlist.m3u8
+#EXTINF:-1,Bindass
+http://stream.amrbd.com:8082/Bindass/index.m3u8
