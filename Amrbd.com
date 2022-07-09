@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,BTV
-http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
-#EXTINF:-1,BTV World
-http://103.214.202.218:8081/live/btvworld/chunks.m3u8
+#EXTINF:-1,Live Sports
+http://stream.amrbd.com:8082/Local-Sports/embed.html
+#EXTINF:-1,T Sports
+http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:-1,Gazi TV
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1,Channel 9 HD BD
@@ -19,8 +19,8 @@ http://103.214.202.218:8081/live/ntv/chunks.m3u8
 https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/5mFA_A_cCVGwMidFd5qsGQ/1585422470/ntv.m3u8
 #EXTINF:-1,RTV
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
-#EXTINF:-1,RTV
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/NiDOpK8qYWOtXOpNMG6axw/1585420637/rtv_low/index.m3u8
+#EXTINF:-1,Duronto TV
+http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 #EXTINF:-1,ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
@@ -38,7 +38,7 @@ http://103.214.202.218:8081/live/mohona/chunks.m3u8
 #EXTINF:-1,News 24
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 #EXTINF:-1,DBC News
-http://103.214.202.218:8081/live/dbc/chunks.m3u8
+http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
 #EXTINF:-1,Somoy TV
@@ -80,17 +80,17 @@ http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Star Jalsha
-http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
+http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1,Zee Bangla
-http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1,Colors Bangla
-http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
-#EXTINF:-1,Colors Bangla
-http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
+http://stream.amrbd.com:8082/colorsbangla/index.m3u8
+#EXTINF:-1,Sony Aath
+http://stream.amrbd.com:8082/Sonyaath/index.m3u8
 #EXTINF:-1,Jalsha Movies
-http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
+http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+http://stream.amrbd.com:8082/ZeeBanglacinema/index.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.214.202.218:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1,Dhoom Music
@@ -120,39 +120,39 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
 #EXTINF:-1,Star Sports 1
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+http://stream.amrbd.com:8082/Star-Sports-1/index.m3u8
 #EXTINF:-1,Star Sports 1
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 2
-http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+http://stream.amrbd.com:8082/Star-Sports-2/index.m3u8
 #EXTINF:-1,Star Sports 2
 http://ddn.amrbd.com:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 1
-http://103.214.202.218:8081/live/select1/chunks.m3u8
+http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://ddn.amrbd.com:8081/live/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2
-http://103.214.202.218:8081/live/select2/chunks.m3u8
+http://stream.amrbd.com:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://ddn.amrbd.com:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Sony Ten 1
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+http://stream.amrbd.com:8082/Ten1/index.m3u8
 #EXTINF:-1,Sony Ten 2
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+http://stream.amrbd.com:8082/Ten2/index.m3u8
 #EXTINF:-1,Sony Ten 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1,Sony Espn
-http://103.214.202.218:8081/live/espnhd/chunks.m3u8
-#EXTINF:-1,PTV Sports
-http://185.165.243.61:9000/hls/102_ptv_sports/index.m3u8
-#EXTINF:-1,Ptv Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1,Geo Super
-https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+http://stream.amrbd.com:8082/Ten3/index.m3u8
+#EXTINF:-1,Sony Six
+http://stream.amrbd.com:8082/SonySix/index.m3u8
 #EXTINF:-1,Ten Sports PK
-http://163.172.85.133:8080/TenS/sports/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://103.214.202.218:8081/live/bein1/chunks.m3u8
+http://stream.amrbd.com:8082/Ten-Sports/index.m3u8
+#EXTINF:-1,Ptv Sports
+http://stream.amrbd.com:8082/PTV-Sports/index.m3u8
+#EXTINF:-1,AD Sports 1
+http://stream.amrbd.com:8082/Adsports1/index.m3u8
+#EXTINF:-1,AD Sports 2
+http://stream.amrbd.com:8082/Adsports2/index.m3u8
+#EXTINF:-1,AD Sports 3
+http://stream.amrbd.com:8082/Adsports3/index.m3u8
 #EXTINF:-1,Willo Cricket
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
 #EXTINF:-1,Discovery
