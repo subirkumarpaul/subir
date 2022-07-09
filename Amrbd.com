@@ -14,21 +14,21 @@ http://103.214.202.218:8081/live/deepto/playlist.m3u8
 #EXTINF:-1,Asian TV
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
 #EXTINF:-1,NTV
-http://103.214.202.218:8081/live/ntv/chunks.m3u8
+http://stream.amrbd.com:8082/Ntv/index.m3u8
 #EXTINF:-1,NTV
 https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/5mFA_A_cCVGwMidFd5qsGQ/1585422470/ntv.m3u8
 #EXTINF:-1,RTV
-http://103.214.202.218:8081/live/rtv/chunks.m3u8
+http://stream.amrbd.com:8082/RTV/index.m3u8
 #EXTINF:-1,Duronto TV
 http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 #EXTINF:-1,ATN News
-http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
+http://stream.amrbd.com:8082/Atn-News/index.m3u8
 #EXTINF:-1,Boishakhi TV
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 #EXTINF:-1,Bangla TV
 http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
 #EXTINF:-1,Ekattor TV
-http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1,SATV
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 #EXTINF:-1,Nagorik TV
@@ -36,21 +36,21 @@ http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1,Mohona TV
 http://103.214.202.218:8081/live/mohona/chunks.m3u8
 #EXTINF:-1,News 24
-http://103.214.202.218:8081/live/news24-24/chunks.m3u8
+http://stream.amrbd.com:8082/News24bd/index.m3u8
 #EXTINF:-1,DBC News
 http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
 #EXTINF:-1,Somoy TV
-http://103.214.202.218:8081/live/somoy/chunks.m3u8
+http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
 #EXTINF:-1,Jamuna TV
-http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+http://stream.amrbd.com:8082/Jamuna-TV/index.m3u8
 #EXTINF:-1,Channel 24
-http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
+http://stream.amrbd.com:8082/Channel24/index.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1,ATN Bangla
-http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
+http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1,ATN Bangla
 http://103.144.200.7:8080/hls/atnbangla/index.m3u8
 #EXTINF:-1,Bangla Vision
@@ -58,7 +58,7 @@ http://103.214.202.218:8081/live/banglavision/chunks.m3u8
 #EXTINF:-1,Bangla Vision
 https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/u0aWWKcOvtkuWlZ9Xn_m-Q/1585422618/bangla_vision_low/index.m3u8
 #EXTINF:-1,Channel I
-http://103.214.202.218:8081/live/channeli/chunks.m3u8
+http://stream.amrbd.com:8082/Channel-i/index.m3u8
 #EXTINF:-1,Channel I
 https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/FOIw4yYZCehbQnYrD5ohgw/1585422396/channel_i.m3u8
 #EXTINF:-1,MY TV
@@ -66,7 +66,7 @@ http://103.214.202.218:8081/live/mytv/chunks.m3u8
 #EXTINF:-1,Movie Bangla
 http://103.214.202.218:8081/live/moviebangla/chunks.m3u8
 #EXTINF:-1,Ekushey TV
-http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+http://stream.amrbd.com:8082/Ekushey-TV/index.m3u8
 #EXTINF:-1,Bijoy TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 #EXTINF:-1,My Cinema
