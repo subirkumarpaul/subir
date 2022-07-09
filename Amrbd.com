@@ -5,6 +5,8 @@ http://stream.amrbd.com:8082/Local-Sports/embed.html
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:-1,Gazi TV
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1,Gazi TV
+http://stream.amrbd.com:8082/GAZI/index.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1,Channel 9 HD BD
@@ -12,7 +14,7 @@ http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
 #EXTINF:-1,Asian TV
-http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
+http://stream.amrbd.com:8082/AsianTV/embed.html
 #EXTINF:-1,NTV
 http://stream.amrbd.com:8082/Ntv/index.m3u8
 #EXTINF:-1,NTV
@@ -24,13 +26,13 @@ http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 #EXTINF:-1,ATN News
 http://stream.amrbd.com:8082/Atn-News/index.m3u8
 #EXTINF:-1,Boishakhi TV
-http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
+http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 #EXTINF:-1,Bangla TV
-http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
+http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
 #EXTINF:-1,Ekattor TV
 http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1,SATV
-http://103.214.202.218:8081/live/satv-22/chunks.m3u8
+http://stream.amrbd.com:8082/SATV/index.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1,Mohona TV
@@ -54,7 +56,7 @@ http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1,ATN Bangla
 http://103.144.200.7:8080/hls/atnbangla/index.m3u8
 #EXTINF:-1,Bangla Vision
-http://103.214.202.218:8081/live/banglavision/chunks.m3u8
+http://stream.amrbd.com:8082/BanglaVision/index.m3u8
 #EXTINF:-1,Bangla Vision
 https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/u0aWWKcOvtkuWlZ9Xn_m-Q/1585422618/bangla_vision_low/index.m3u8
 #EXTINF:-1,Channel I
