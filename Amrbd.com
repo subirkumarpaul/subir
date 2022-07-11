@@ -9,52 +9,52 @@ http://stream.amrbd.com:8082/T-Sports/index.m3u8
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1,Gazi TV
 http://stream.amrbd.com:8082/GAZI/index.m3u8
-#EXTINF:-1,Deepto TV HD
-http://stream.amrbd.com:8082/Deepto-Tv/index.m3u8
-#EXTINF:-1,Asian TV
-http://stream.amrbd.com:8082/AsianTV/embed.html
+#EXTINF:-1,ATN Bangla
+http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
+#EXTINF:-1,Channel I
+http://stream.amrbd.com:8082/Channel-i/index.m3u8
+#EXTINF:-1,Ekushey TV
+http://stream.amrbd.com:8082/Ekushey-TV/index.m3u8
 #EXTINF:-1,NTV
 http://stream.amrbd.com:8082/Ntv/index.m3u8
 #EXTINF:-1,RTV
 http://stream.amrbd.com:8082/RTV/index.m3u8
 #EXTINF:-1,Duronto TV
 http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
-#EXTINF:-1,ATN News
-http://stream.amrbd.com:8082/Atn-News/index.m3u8
 #EXTINF:-1,Boishakhi TV
 http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 #EXTINF:-1,Bangla TV
 http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
-#EXTINF:-1,Ekattor TV
-http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1,SATV
 http://stream.amrbd.com:8082/SATV/index.m3u8
 #EXTINF:-1,Nagorik TV
 http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1,Mohona TV
 http://stream.amrbd.com:8082/MohonaTV/index.m3u8
+#EXTINF:-1,Deepto TV HD
+http://stream.amrbd.com:8082/Deepto-Tv/index.m3u8
+#EXTINF:-1,Asian TV
+http://stream.amrbd.com:8082/AsianTV/embed.html
+#EXTINF:-1,Anando TV
+http://stream.amrbd.com:8082/anandotv/index.m3u8
+#EXTINF:-1,Bangla Vision
+http://stream.amrbd.com:8082/BanglaVision/index.m3u8
+#EXTINF:-1,Bijoy TV
+http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 #EXTINF:-1,News 24
 http://stream.amrbd.com:8082/News24bd/index.m3u8
 #EXTINF:-1,DBC News
 http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy TV
 http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
+#EXTINF:-1,Ekattor TV
+http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
+#EXTINF:-1,ATN News
+http://stream.amrbd.com:8082/Atn-News/index.m3u8
 #EXTINF:-1,Jamuna TV
 http://stream.amrbd.com:8082/Jamuna-TV/index.m3u8
 #EXTINF:-1,Channel 24
 http://stream.amrbd.com:8082/Channel24/index.m3u8
-#EXTINF:-1,Anando TV
-http://stream.amrbd.com:8082/anandotv/index.m3u8
-#EXTINF:-1,ATN Bangla
-http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
-#EXTINF:-1,Bangla Vision
-http://stream.amrbd.com:8082/BanglaVision/index.m3u8
-#EXTINF:-1,Channel I
-http://stream.amrbd.com:8082/Channel-i/index.m3u8
-#EXTINF:-1,Ekushey TV
-http://stream.amrbd.com:8082/Ekushey-TV/index.m3u8
-#EXTINF:-1,Bijoy TV
-http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 #EXTINF:-1,Gaan Bangla
 http://stream.amrbd.com:8082/GaanBangla/index.m3u8
 #EXTINF:-1,Star Jalsha
