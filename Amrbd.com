@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Shangshad TV
-http://stream.amrbd.com:8082/Shangshad_TV/embed.html
+http://stream.amrbd.com:8082/Shangshad_TV/index.m3u8
 #EXTINF:-1,Live Sports
-http://stream.amrbd.com:8082/Local-Sports/embed.html
+http://stream.amrbd.com:8082/Local-Sports/index.m3u8
 #EXTINF:-1,T Sports
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:-1,Gazi TV
@@ -34,7 +34,7 @@ http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 #EXTINF:-1,Deepto TV HD
 http://stream.amrbd.com:8082/Deepto-Tv/index.m3u8
 #EXTINF:-1,Asian TV
-http://stream.amrbd.com:8082/AsianTV/embed.html
+http://stream.amrbd.com:8082/AsianTV/index.m3u8
 #EXTINF:-1,Anando TV
 http://stream.amrbd.com:8082/anandotv/index.m3u8
 #EXTINF:-1,Bangla Vision
@@ -140,11 +140,11 @@ http://stream.amrbd.com:8082/9XM/index.m3u8
 #EXTINF:-1,9X Jalwa
 http://stream.amrbd.com:8082/9X-Jalwa/index.m3u8
 #EXTINF:-1,Masti Music
-http://stream.amrbd.com:8082/Masti-Music/embed.html
+http://stream.amrbd.com:8082/Masti-Music/index.m3u8
 #EXTINF:-1,Bindass
 http://stream.amrbd.com:8082/Bindass/index.m3u8
 #EXTINF:-1,CGTN News
-http://stream.amrbd.com:8082/Cgtn-News/embed.html
+http://stream.amrbd.com:8082/Cgtn-News/index.m3u8
 #EXTINF:-1,BBC World
 http://stream.amrbd.com:8082/BBC_World/index.m3u8
 #EXTINF:-1,Al Jazeera
@@ -152,9 +152,9 @@ http://stream.amrbd.com:8082/Aljazeera/index.m3u8
 #EXTINF:-1,VOA News
 http://stream.amrbd.com:8082/Voa_news/index.m3u8
 #EXTINF:-1,DW
-http://stream.amrbd.com:8082/Dw/embed.html
+http://stream.amrbd.com:8082/Dw/index.m3u8
 #EXTINF:-1,Nike
-http://stream.amrbd.com:8082/nike/embed.html
+http://stream.amrbd.com:8082/nike/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://stream.amrbd.com:8082/Cartoon-Network/index.m3u8
 
