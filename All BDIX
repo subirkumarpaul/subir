@@ -2785,3 +2785,45 @@ https://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0OYQYvR.png" group-title="Others",Animax
 https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
+
+
+#EXTINF:-1 password="12345",501
+https://webudit.salamus1.lol/lb/premium501/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,502
+https://webudit.salamus1.lol/lb/premium502/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,503
+https://webudit.salamus1.lol/lb/premium503/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,504
+https://webudit.salamus1.lol/lb/premium504/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,505
+https://webudit.salamus1.lol/lb/premium505/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,506
+https://webudit.salamus1.lol/lb/premium506/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,507
+https://webudit.salamus1.lol/lb/premium507/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,508
+https://webudit.salamus1.lol/lb/premium508/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,509
+https://webudit.salamus1.lol/lb/premium509/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,510
+https://webudit.salamus1.lol/lb/premium510/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,511
+https://webudit.salamus1.lol/lb/premium511/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,512
+https://webudit.salamus1.lol/lb/premium512/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,513
+https://webudit.salamus1.lol/lb/premium513/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,514
+https://webudit.salamus1.lol/lb/premium514/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,515
+https://webudit.salamus1.lol/lb/premium515/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,516
+https://webudit.salamus1.lol/lb/premium516/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,517
+https://webudit.salamus1.lol/lb/premium517/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,518
+https://webudit.salamus1.lol/lb/premium518/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,519
+https://webudit.salamus1.lol/lb/premium519/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1,520
+https://webudit.salamus1.lol/lb/premium520/index.m3u8?|referer=https://olacast.live/&e.m3u8
